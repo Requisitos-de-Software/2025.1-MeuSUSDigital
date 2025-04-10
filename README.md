@@ -1,5 +1,10 @@
-# 2025.1-MeuSUSDigital
-## 👥 Equipe
+# Meu SUS Digital
+
+<p align="center"><img src="Meu SUS Digital.png" width = 40%></p>
+
+---
+
+## 👥 Membros da Equipe
 
 | [![Arthur Evangelista de Oliveira](https://avatars.githubusercontent.com/u/150614543?v=4)](https://github.com/arthurevg) | [![Artur de Camargos Rodrigues](https://avatars.githubusercontent.com/u/110571317?v=4)](https://github.com/ArturDCR) | [![Davi Camilo Menezes](https://avatars.githubusercontent.com/u/144080784?v=4)](https://github.com/Davicamilo23) | [![Euller Júlio da Silva](https://avatars.githubusercontent.com/u/125329742?v=4)](https://github.com/Potatoyz908) |
 |-------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
