@@ -13,3 +13,9 @@
 | [![Gabriel Henrique Castelo Costa](https://avatars.githubusercontent.com/u/81991244?v=4)](https://github.com/GabrielCastelo-31) | [![Pedro Everton de Paula](https://avatars.githubusercontent.com/u/117595816?v=4)](https://github.com/pedroeverton217) | [![Tiago Antunes Balieiro](https://avatars.githubusercontent.com/u/143669941?v=4)](https://github.com/TiagoBalieiro) | 
 |-------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
 | Gabriel Henrique Castelo Costa | Pedro Everton de Paula | Tiago Antunes Balieiro |
+
+## Histórico de Versão
+
+| Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
+| ------ | ------------- | ---------------------------------- | ------------- | ------------- |
+| `1.0`  |  11/04/2025 |  Criação do GitPages do grupo | Pedro  | Todos |
