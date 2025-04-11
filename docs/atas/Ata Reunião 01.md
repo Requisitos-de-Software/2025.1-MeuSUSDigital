@@ -72,7 +72,7 @@
 
 ## 🎥 Link da gravação
 
-- 
+- https://youtu.be/0Rz0EjJyDK8
 
 ---
 

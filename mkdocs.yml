@@ -3,8 +3,22 @@ repo_url: https://github.com/Requisitos-de-Software/2025.1-MeuSUSDigital
 
 nav:
   - Home: index.md
+
+  - Planejamento: 
+    - Aplicativo Escolhido: planejamento/aplicativo.md
+    - Rich-Picture: planejamento/richpicture.md
+    - Cronograma: planejamento/cronograma.md
+    #- Cronograma Realizado: planejamento/cronograma_realizado.md
+    #- Metodologia: planejamento/metodologia.md
+    - Ferramentas: planejamento/ferramentas.md
+
+  - Apresentações: 
+    - Apresentação 1: apresentações/apresentação-01.md
+
   - Atas:
     - Reunião 1: atas/Ata Reunião 01.md
+
+
 
 theme:
   name: material
