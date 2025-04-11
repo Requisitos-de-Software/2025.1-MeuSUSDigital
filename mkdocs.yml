@@ -1,0 +1,34 @@
+site_name: Meu SUS
+repo_url: https://github.com/Requisitos-de-Software/2025.1-MeuSUSDigital
+
+nav:
+  - Home: index.md
+  - Atas:
+    - Reunião 1: atas/Ata Reunião 01.md
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-2
+        name: Switch to system preference
+
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
+    - navigation.top
+    
