@@ -1,6 +1,6 @@
 # Meu SUS Digital
 
-<p align="center"><img src="img/Meu SUS Digital.png" width = 40%></p>
+<p align="center"><img src="docs/img/Meu SUS Digital.png" width = 40%></p>
 
 ---
 

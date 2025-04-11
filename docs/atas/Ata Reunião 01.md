@@ -92,3 +92,9 @@
 | 1  | Decidir o dia e horário para as reuniões semanais do grupo a partir do Heatmap. | Todos | 10/04 |
 | 2  | Tirar dúvidas gerais com o professor. | Todos | 10/04 |
 | 3  | Implementar Git Pages | Pedro Everton | 13/04 |
+
+## Histórico de Versão
+
+| Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
+| ------ | ------------- | ---------------------------------- | ------------- | ------------- |
+| `1.0`  |  09/04/2025 |  Criação do Documento | Davi  | Pedro |
