@@ -2,7 +2,7 @@
 
 <div align="center">
   <p><strong>Figura 1:</strong> Logo do Meu SUS Digital</p>
-  <p align="center"><img src="docs/img/Meu SUS Digital.png" width = 20%></p>
+  <p align="center"><img src="docs/img/MeuSUSDigital.png" width = 20%></p>
   <p>Fonte: <a href="https://www.gov.br/pt-br/apps/conecte-sus" target="_blank"><i>gov.br - Meu SUS Digital</i></a></p>
 </div>
 
