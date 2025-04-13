@@ -2,7 +2,7 @@
 
 <div align="center">
   <p><strong>Figura 1:</strong> Logo do Meu SUS Digital</p>
-  <p align="center"><img src="docs/img/MeuSUSDigital.png" width = 20%></p>
+  <p align="center"><img src="img/MeuSUSDigital.png" width = 20%></p>
   <p>Fonte: <a href="https://www.gov.br/pt-br/apps/conecte-sus" target="_blank"><i>gov.br - Meu SUS Digital</i></a></p>
 </div>
 
@@ -49,3 +49,4 @@ A documentação do projeto pode ser acessada [aqui](https://requisitos-de-softw
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  |  11/04/2025 |  Criação do GitPages do grupo | [Pedro](https://github.com/pedroeverton217)  | Todos |
+| `1.1`  |  13/04/2025 |  Atualização da Home no GitPages | [Davi](https://github.com/Davicamilo23)  | [Pedro](https://github.com/pedroeverton217) |
