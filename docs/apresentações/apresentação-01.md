@@ -4,7 +4,15 @@
 
 <p style="text-align: center"><a href="https://youtu.be/A0fR90xcNMw" target="blanket">Clique aqui</a></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/A0fR90xcNMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center">
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/A0fR90xcNMw"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+</p>
 
 ---
 # Checklist de Avaliação - Entrega 1
