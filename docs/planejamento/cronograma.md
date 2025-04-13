@@ -1,6 +1,15 @@
 # Cronograma previsto
----
+
+***
+
+## Descrição
+
+O cronograma visa à organização de todas as tarefas que deverão ser realizadas no decorrer da disciplina de Requisitos de Software. Portanto, as atividades foram classificadas quanto às suas respectivas etapas nas quais devem ser realizadas.
+
+## Entrega 1 - Planejamento do Projeto
+
 ### Planejado
+
 Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Planejamento do Projeto</p></font>
@@ -18,7 +27,10 @@ Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira 
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
+## Entrega 2 - Elicitação de Requisitos
+
 ### Planejado
+
 Na Tabela 2, tem-se o cronograma planejado para todas as atividades da segunda entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Planejamento da Entrega 2</p></font>
@@ -36,7 +48,10 @@ Na Tabela 2, tem-se o cronograma planejado para todas as atividades da segunda e
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
+## Entrega 3 - Modelagem de Requisitos
+
 ### Planejado
+
 Na Tabela 3, tem-se o cronograma planejado para todas as atividades da terceira entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Planejamento da Entrega 3</p></font>
@@ -52,7 +67,10 @@ Na Tabela 3, tem-se o cronograma planejado para todas as atividades da terceira 
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
+## Entrega 4 - Modelagem de Requisitos - Ágil
+
 ### Planejado
+
 Na Tabela 4, tem-se o cronograma planejado para todas as atividades da quarta entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Planejamento da Entrega 4</p></font>
@@ -67,7 +85,10 @@ Na Tabela 4, tem-se o cronograma planejado para todas as atividades da quarta en
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
+## Entrega 5 - Análise de Requisitos: Verificação e Validação
+
 ### Planejado
+
 Na Tabela 5, tem-se o cronograma planejado para todas as atividades da quinta entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Planejamento da Entrega 5</p></font>
@@ -81,7 +102,10 @@ Na Tabela 5, tem-se o cronograma planejado para todas as atividades da quinta en
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
+## Entrega Final - Pós-Rastreabilidade - Gerência II
+
 ### Planejado
+
 Na Tabela 6, tem-se o cronograma planejado para todas as atividades da entrega final.
 
 <font size="3"><p style="text-align: center"><b>Tabela 6</b> - Planejamento da Entrega Final</p></font>
@@ -94,7 +118,8 @@ Na Tabela 6, tem-se o cronograma planejado para todas as atividades da entrega f
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
----
+***
+
 ## Histórico de Versão
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
