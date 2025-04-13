@@ -9,7 +9,7 @@ O *Rich Picture* é uma ferramenta visual usada para compreender e representar c
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
 <font size="3"><p style="text-align: center">Figura 2: Legenda do *Rich Picture* versão 1.</p></font>
-![](../assets/richpicture/rich-picture-legenda.jpeg)
+![](../assets/richpicture/LegendaRichPicture.jpeg)
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 ---
 
