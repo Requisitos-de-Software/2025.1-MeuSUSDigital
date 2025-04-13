@@ -10,7 +10,7 @@ Para auxiliar na execução e organização do projeto, foram utilizadas diferen
 
 |                                                                                                                           |         Ferramenta         |                              Finalidade                              |
 | :-----------------------------------------------------------------------------------------------------------------------: | :------------------------: | :------------------------------------------------------------------: |
-| <img src="/assets/ferramentas/github.png" style="height:100px;width:100px"> | GitHub | Organização, versionamento e documentação de artefatos. |
+| <img src="../assets/ferramentas/github.png" style="height:100px;width:100px"> | GitHub | Organização, versionamento e documentação de artefatos. |
 | <img src="../assets/ferramentas/vscode.png" style="height:85px;width:85px"> | Visual Studio Code | Edição e visualização de arquivos de código e textos. |
 | <img src="../assets/ferramentas/figma.png" style="height:94px;width:63px"> | Figma | Criação de protótipos e artefatos gráficos do projeto. |
 | <img src="../assets/ferramentas/teams.png" style="height:87px;width:100px"> | Microsoft Teams | Reuniões e apresentações gravadas. |
