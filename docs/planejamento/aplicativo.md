@@ -24,7 +24,7 @@ Durante a etapa inicial do projeto, cada integrante da equipe sugeriu um aplicat
 
 ## Aplicativo Escolhido: **Meu SUS Digital**
 
-<p align="center"><img src="/img/Meu SUS Digital.png" width = 40%></p>
+![Tela inicial do Meu SUS Digital](../img/MeuSUSDigital.png)
 <p align="center"><strong>Figura 1:</strong> Logo oficial do aplicativo Meu SUS Digital</p>
 
 ## Motivações de escolha
