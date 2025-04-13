@@ -51,4 +51,6 @@ Para auxiliar na execução e organização do projeto, foram utilizadas diferen
 |--------|------------|------------------------------------|---------------|-------------|
 | `1.0`  | 12/04/2025 | Criação do documento               | [Pedro](https://github.com/pedroeverton217) e [Davi](https://github.com/Davicamilo23)  | Todos       |
 |  `1.1`  | 13/04/2023 |   Adição de novas ferramentas e reajuste da Tabela 1.   | [Euller Júlio](https://github.com/potatoyz908) e [Tiago Antunes](https://github.com/TiagoBalieiro) | [Arthur](https://github.com/arthurevg)       |
+|  `1.1.1`  | 13/04/2023 |   Ajustes nos textos e formatação das Referências Bibliográficas.   | [Euller Júlio](https://github.com/potatoyz908) e [Tiago Antunes](https://github.com/TiagoBalieiro) | [Arthur](https://github.com/arthurevg)       |
+
 
