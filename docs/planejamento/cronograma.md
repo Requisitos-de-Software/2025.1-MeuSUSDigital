@@ -24,4 +24,4 @@ Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira 
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  |  xx/xx/2025 |  Criação do Documento | quem fez  | quem revisou |
+| `1.0`  |  13/04/2025 |  Criação do planjemanto incial do semestre | Gabriel, Tiago  | Euller, Pedro|
