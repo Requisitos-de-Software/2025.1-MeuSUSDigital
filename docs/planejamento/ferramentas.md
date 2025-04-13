@@ -41,12 +41,12 @@ Para auxiliar na execução e organização do projeto, foram utilizadas diferen
 >
 > <a id="FRM9" href="#anchor_9">8.</a> Google Docs. Disponível em: [https://www.google.com/intl/pt-BR/docs/about/](). Acesso em: 21 de abr. de 2023.  
 >
-> <a id="FRM10" href="#anchor_10">9.</a> Google Drive. Disponível em: [https://workspace.google.com/intl/pt-BR/products/drive/](). Acesso em: 21 de abr. de 2023.  
->
 > <a id="FRM11" href="#anchor_11">10.</a> Draw.io. Disponível em: [https://app.diagrams.net](). Acesso em: 30 de abr. de 2023.  
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                          | Autor(es)     | Revisor(es) |
 |--------|------------|------------------------------------|---------------|-------------|
-| `1.0`  | 12/04/2025 | Criação do documento               | Pedro e Davi  | Todos       |
+| `1.0`  | 12/04/2025 | Criação do documento               | [Pedro](https://github.com/pedroeverton217) e [Davi](https://github.com/Davicamilo23)  | Todos       |
+|  `1.1`  | 13/04/2023 |   Adição de novas ferramentas e reajuste da Tabela 1.   | [Euller Júlio](https://github.com/potatoyz908) e [Tiago Antunes](https://github.com/TiagoBalieiro) | [Arthur](https://github.com/arthurevg)       |
+
