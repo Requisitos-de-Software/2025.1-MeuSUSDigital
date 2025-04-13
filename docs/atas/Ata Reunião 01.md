@@ -78,8 +78,8 @@
 
 ## 📆 Próxima Reunião
 
-- **Data:**  
-- **Hora:**  
+- **Data:** 12/04/2025 
+- **Hora:** 14h 
 
 ---
 
@@ -91,7 +91,7 @@
 |----|-------------|-------------|-------|
 | 1  | Decidir o dia e horário para as reuniões semanais do grupo a partir do Heatmap. | Todos | 10/04 |
 | 2  | Tirar dúvidas gerais com o professor. | Todos | 10/04 |
-| 3  | Implementar Git Pages | Pedro Everton | 13/04 |
+| 3  | Implementar Git Pages. | Pedro | 13/04 |
 
 ## Histórico de Versão
 
