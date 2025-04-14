@@ -2,6 +2,7 @@
 
 
 ## 🔗Link da reunião
+[Assista ao vídeo no YouTube](https://youtu.be/LsBFFCPHO0U)
 ---
 
 ## 👥 Informações do Grupo
@@ -40,11 +41,23 @@
 | **13.** Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc)? | Sim |
 | **14.** A gravação da reunião do grupo?                                                                         | Sim |
 | **15.** Vídeo de apresentação na categoria “não listado” no YouTube?                                            | Sim |
-| **16.** No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama?            | Sim |
-| **17.** Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo? | Sim |
+| **16.** No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama?            | Incompleto |
+| **17.** Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo? | Não |
+
+---
+
+## Comentários
+
+- **Sobre o Rich Picture:**
+  - A legenda explicando os símbolos utilizados no diagrama está incompleta. A imagem só mostra os atores e o processo
+  - Não conseguimos identificar a base de dados no Rich Picture.
+
+---
 
 ## Histórico de Versão
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  |  14/04/2025 |  Criação do Documento | [Arthur](https://github.com/arthurevg) | [Pedro Everton](https://github.com/pedroeverton217) |
+| `1.1`  | 14/04/2025    | Verificação e marcação do checklist. Ajustes nos comentários| [Arthur](https://github.com/arthurevg), [Euller](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel](https://github.com/GabrielCastelo-31) e [Artur](https://github.com/ArturDCR)  | Todos |
+
