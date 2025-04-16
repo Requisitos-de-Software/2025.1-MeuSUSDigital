@@ -144,4 +144,4 @@ Na Tabela 7, tem-se o cronograma planejado para todas as atividades da entrega f
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  |  13/04/2025 |  Criação do planejamento inicial do semestre | [Gabriel](https://github.com/GabrielCastelo-31) e [Tiago](https://github.com/TiagoBalieiro) | [Euller](https://github.com/Potatoyz908), [Pedro](https://github.com/pedroeverton217) e [Davi](https://github.com/Davicamilo23) |
-| `1.1`  |  16/04/2025 |  Adição do planejamento executado da entrega 01 e nomes em ordem alfabética | [Gabriel](https://github.com/GabrielCastelo-31) | [Nome de fulano](https://github.com/Potatoyz908)|
+| `1.1`  |  16/04/2025 |  Adição do planejamento executado da entrega 01 e nomes em ordem alfabética | [Gabriel](https://github.com/GabrielCastelo-31) | [Arthur](https://github.com/arthurevg)|
