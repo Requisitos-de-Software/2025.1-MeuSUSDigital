@@ -1,14 +1,16 @@
 # Verificação do grupo + 1
 
-
+## Introdução
+Abaixo se encontra a verificação da entrega do grupo+1, que é o grupo do Detran DF, composto por 7 integrantes. A verificação foi realizada no dia 14/04/2025 e foi feita com base no checklist de avaliação da entrega 1, que pode ser encotrado na Tabela 2.
 ## 🔗Link da reunião
 [Assista ao vídeo no YouTube](https://youtu.be/LsBFFCPHO0U)
 ---
 
 ## 👥 Informações do Grupo
 
-- **Detran DF**  
-- **Integrantes:**  
+- **Detran DF**
+- **Integrantes:**
+<font size="3"><p style="text-align: center">Tabela 1: Integrantes versão 1.</p></font>
 <table>
   <tr>
     <td align="center"><a href="https://github.com/eric-kingu"><img style="border-radius: 60%;" src="https://github.com/eric-kingu.png" width="200px;" alt=""/><br /><sub><b>Eric Akio Lages Nishimura</b></sub></a><br />
@@ -23,6 +25,8 @@
 
 ---
 # Checklist de Avaliação - Entrega 1
+
+<font size="3"><p style="text-align: center">Tabela 2: *Checklist* de Avaliação versão 1.</p></font>
 
 | Questão                                                                                                          | Resposta (Sim / Não / Incompleto) |
 |------------------------------------------------------------------------------------------------------------------|-----------------------------------|
@@ -60,4 +64,5 @@
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  |  14/04/2025 |  Criação do Documento | [Arthur](https://github.com/arthurevg) | [Pedro Everton](https://github.com/pedroeverton217) |
 | `1.1`  | 14/04/2025    | Verificação e marcação do checklist. Ajustes nos comentários| [Arthur](https://github.com/arthurevg), [Euller](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel](https://github.com/GabrielCastelo-31) e [Artur](https://github.com/ArturDCR)  | Todos |
+| `1.2`  |  16/04/2025 | Adicionada introdução e legenda na Tabela 1 e Tabela 2| [Gabriel](https://github.com/GabrielCastelo-31) | [Fulano](https://github.com/pedroeverton217) |
 
