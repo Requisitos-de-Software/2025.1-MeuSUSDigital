@@ -1,8 +1,8 @@
 # Verificação do grupo + 1
 
 ## Introdução
-Abaixo se encontra a verificação da entrega do grupo+1, que é o grupo do Detran DF, composto por 7 integrantes. A verificação foi realizada no dia 14/04/2025 e foi feita com base no checklist de avaliação da entrega 1, que pode ser encotrado na Tabela 2.
-## 🔗Link da reunião
+Abaixo se encontra a verificação da entrega do grupo+1, que é o grupo do Detran DF, composto por 7 integrantes. A verificação foi realizada no dia 14/04/2025 e foi feita com base no checklist de avaliação da entrega 1, que pode ser encontrado na Tabela 2.
+## 🔗 Link da reunião
 [Assista ao vídeo no YouTube](https://youtu.be/LsBFFCPHO0U)
 ---
 
@@ -53,7 +53,7 @@ Abaixo se encontra a verificação da entrega do grupo+1, que é o grupo do Detr
 ## Comentários
 
 - **Sobre o Rich Picture:**
-  - A legenda explicando os símbolos utilizados no diagrama está incompleta. A imagem só mostra os atores e o processo
+  - A legenda explicando os símbolos utilizados no diagrama está incompleta. A imagem só mostra os atores e o processo.
   - Não conseguimos identificar a base de dados no Rich Picture.
 
 ---
@@ -64,5 +64,4 @@ Abaixo se encontra a verificação da entrega do grupo+1, que é o grupo do Detr
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  |  14/04/2025 |  Criação do Documento | [Arthur](https://github.com/arthurevg) | [Pedro Everton](https://github.com/pedroeverton217) |
 | `1.1`  | 14/04/2025    | Verificação e marcação do checklist. Ajustes nos comentários| [Arthur](https://github.com/arthurevg), [Euller](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel](https://github.com/GabrielCastelo-31) e [Artur](https://github.com/ArturDCR)  | Todos |
-| `1.2`  |  16/04/2025 | Adicionada introdução e legenda na Tabela 1 e Tabela 2| [Gabriel](https://github.com/GabrielCastelo-31) | [Fulano](https://github.com/pedroeverton217) |
-
+| `1.2`  |  16/04/2025 | Adicionada introdução e legenda na Tabela 1 e Tabela 2| [Gabriel](https://github.com/GabrielCastelo-31) | [Euller](https://github.com/Potatoyz908) |
