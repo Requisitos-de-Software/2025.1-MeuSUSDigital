@@ -14,13 +14,15 @@ nav:
     - Heatmap: planejamento/heatmap.md
 
   - Apresentações:
-    - Apresentação 1: apresentações/apresentação-01.md
+    - Entrega 01:
+      - Apresentação: apresentações/apresentação-01.md
+      - Verificação de Grupo+1: verificacoes/Verificacao1.md
 
   - Atas:
-    - Reunião 1: atas/Ata Reunião 01.md
+    - Reunião 01: atas/Ata Reunião 01.md
 
-  - Verificações:
-    - Verificação do grupo+1: verificacoes/Verificacao1.md
+  # - Verificações:
+  #   - Verificação do grupo+1: verificacoes/Verificacao1.md
 
 
 theme:
