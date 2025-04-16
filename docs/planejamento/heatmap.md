@@ -8,3 +8,9 @@ Para definir os horários das reunioes semanais, foi utilizado um *heatmap* que 
 
 <font size="3"><p style="text-align: center">Figura 1: *Heatmap* versão 1.</p></font>
 ![Heatmap](../assets/heatmap/heatmap.png) <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+
+## Histórico de Versão
+
+| Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
+| ------ | ------------- | ---------------------------------- | ------------- | ------------- |
+| `1.0`  |  16/04/2025 |  Criação da página e adição do heatmap | Gabriel Castelo  | quem revisou |
