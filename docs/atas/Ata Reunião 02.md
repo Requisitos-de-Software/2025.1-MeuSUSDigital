@@ -66,7 +66,7 @@
 
 ## 🎥 Link da gravação
 
-- 
+- <a href="https://youtu.be/cGlwCo7WAlo&t=1" target="_blank">Gravação da reunião</a>
 
 ---
 
@@ -91,3 +91,4 @@
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  |  17/04/2025 |  Criação do Documento | Davi  | Tiago |
+| `1.1`  |  23/04/2025 |  Adição do link da gravação ao documento | Davi | Pedro |
