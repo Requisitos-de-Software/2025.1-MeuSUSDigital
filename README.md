@@ -1,32 +1,32 @@
-# Meu SUS Digital
+# Cinemark App
 
 <div align="center">
-  <p><strong>Figura 1:</strong> Logo do Meu SUS Digital</p>
-  <p align="center"><img src="docs/img/MeuSUSDigital.png" width = 20%></p>
-  <p>Fonte: <a href="https://www.gov.br/pt-br/apps/conecte-sus" target="_blank"><i>gov.br - Meu SUS Digital</i></a></p>
+  <p><strong>Figura 1:</strong> Logo do Cinemark</p>
+  <p align="center"><img src="docs/img/logo_cinemark.png" width = 40%></p>
+  <p>Fonte: <a href="https://www.cinemark.com.br" target="_blank"><i>cinemark.com.br</i></a></p>
 </div>
 
 ---
 
 ## 📄 Sobre o Projeto
 
-Este repositório pertence ao **Grupo 10** da disciplina de **Requisitos de Software**, ministrada pelo professor Dr. André Barros de Sales no semestre 2025.1, da Faculdade de Ciências e Tecnologia em Engenharia da Universidade de Brasília (FCTE/UnB). O projeto tem como foco a análise do aplicativo **Meu SUS Digital**.
+Este repositório pertence ao **Grupo 10** da disciplina de **Requisitos de Software**, ministrada pelo professor Dr. André Barros de Sales no semestre 2025.1, da Faculdade de Ciências e Tecnologia em Engenharia da Universidade de Brasília (FCTE/UnB). O projeto tem como foco a análise do aplicativo **Cinemark**.
 
-Os principais objetivos são realizar a gerência (pré-rastreabilidade e pós-rastreabilidade), elicitação, modelagem e análise dos requisitos do aplicativo, buscando propor melhorias que ampliem sua usabilidade, acessibilidade e eficácia.
+Os principais objetivos são realizar a gerência (pré-rastreabilidade e pós-rastreabilidade), elicitação, modelagem e análise dos requisitos do aplicativo, buscando propor melhorias que ampliem sua usabilidade, acessibilidade e eficiência na experiência de compra e gestão de ingressos.
 
 Todo o desenvolvimento do projeto será devidamente documentado neste repositório, onde estarão disponíveis todos os artefatos produzidos pelo grupo ao longo da disciplina. Isso inclui atas de reuniões, documentos de elicitação, modelagem de requisitos e demais entregas relacionadas às etapas fundamentais do processo de engenharia de requisitos.
 
 ---
 
-## 📱 Sobre o Aplicativo
+## 🎬 Sobre o Aplicativo
 
-O aplicativo **Meu SUS Digital** tem como objetivo facilitar o acesso da população brasileira aos serviços de saúde oferecidos pelo Sistema Único de Saúde (SUS), promovendo a centralização de informações como histórico clínico, agendamento de consultas, exames, vacinação e muito mais. Atuando como uma ferramenta de Saúde Digital, o aplicativo fortalece os princípios do SUS — universalidade, integralidade e equidade — ao colocar o cidadão no centro do cuidado, permitindo que ele gerencie de forma mais autônoma sua saúde, a de sua família e da sua comunidade.
+O aplicativo **Cinemark** oferece aos usuários uma experiência completa para acompanhar os lançamentos do cinema, consultar horários de sessões, comprar ingressos e administrar fidelidade e cupons. Com um design intuitivo e recursos voltados para a praticidade, o app visa proporcionar uma jornada fluida para os amantes do cinema, garantindo maior controle, conforto e agilidade no consumo de entretenimento.
 
 ---
 
 ## 🗃️ Documentação
 
-A documentação do projeto pode ser acessada [aqui](https://requisitos-de-software.github.io/2025.1-MeuSUSDigital/). <br>
+A documentação do projeto pode ser acessada [aqui](https://requisitos-de-software.github.io/2025.1-Cinemark/). <br>
 
 ---
 
@@ -40,7 +40,7 @@ A documentação do projeto pode ser acessada [aqui](https://requisitos-de-softw
 
 ## 📚 Referências Bibliográficas
 
-> - Meu SUS Digital. Disponível em: <https://meususdigital.saude.gov.br/publico/perfil/sobre-sus>. Acesso em: 13 abr. 2025.
+> - Cinemark Brasil. Disponível em: <https://www.cinemark.com.br>. Acesso em: 24 abr. 2025.
 
 ---
 
@@ -50,3 +50,5 @@ A documentação do projeto pode ser acessada [aqui](https://requisitos-de-softw
 |:-:     | :-:      | :-:      | :-: |:-:|
 |1.0     | Criação do README do projeto | [Davi](https://github.com/Davicamilo23) | 09/04/2025 | [Pedro](https://github.com/pedroeverton217) |
 |1.1     | Adição do sobre o projeto e o aplicativo, da documentação e atualização da apresentação da equipe | [Davi](https://github.com/Davicamilo23) | 13/04/2025 | [Euller](https://github.com/Potatoyz908) |
+|2.0     | Mudança completa do projeto: troca do aplicativo analisado de "Meu SUS Digital" para "Cinemark" | [Arthur](https://github.com/arthurevg) | 24/04/2025 | [Revisor] |
+
