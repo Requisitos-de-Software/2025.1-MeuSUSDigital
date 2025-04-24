@@ -1,6 +1,6 @@
 # 📝 Modelo de Ata de Reunião
 
-> Documento modelo para registro de reuniões no projeto **MeuSUSDigital**.
+> Documento modelo para registro de reuniões no projeto **Cinemark**.
 
 ---
 
@@ -16,13 +16,13 @@
 
 | Nome | Presente? |
 |------|-----------|
-|[Arthur Evangelista de Oliveira](https://github.com/arthurevg)| ☐ Sim / ☐ Não |
-|[Artur de Camargos Rodrigues](https://github.com/ArturDCR)| ☐ Sim / ☐ Não |
-|[Davi Camilo Menezes](https://github.com/Davicamilo23)| ☐ Sim / ☐ Não |
-|[Euller Júlio da Silva](https://github.com/Potatoyz908)| ☐ Sim / ☐ Não |
-|[Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31)| ☐ Sim / ☐ Não |
-|[Pedro Everton de Paula](https://github.com/pedroeverton217)| ☐ Sim / ☐ Não |
-|[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)| ☐ Sim / ☐ Não |
+|[Arthur Evangelista de Oliveira](https://github.com/arthurevg)| ☑ Sim / ☐ Não |
+|[Artur de Camargos Rodrigues](https://github.com/ArturDCR)| ☑ Sim / ☐ Não |
+|[Davi Camilo Menezes](https://github.com/Davicamilo23)| ☑ Sim / ☐ Não |
+|[Euller Júlio da Silva](https://github.com/Potatoyz908)| ☑ Sim / ☐ Não |
+|[Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31)| ☑ Sim / ☐ Não |
+|[Pedro Everton de Paula](https://github.com/pedroeverton217)| ☑ Sim / ☐ Não |
+|[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)| ☑ Sim / ☐ Não |
 
 ---
 
@@ -70,7 +70,7 @@
 
 ## 🎥 Link da gravação
 
-- 
+- <a href="&t=1" target="_blank">Gravação da reunião</a>
 
 ---
 
