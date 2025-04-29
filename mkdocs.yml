@@ -1,23 +1,29 @@
 site_name: Meu SUS
-repo_url: https://github.com/Requisitos-de-Software/2025.1-MeuSUSDigital
+repo_url: https://github.com/Requisitos-de-Software/2025.1-Cinemark
 
 nav:
   - Home: index.md
 
-  - Planejamento: 
+  - Planejamento:
     - Aplicativo Escolhido: planejamento/aplicativo.md
     - Rich-Picture: planejamento/richpicture.md
     - Cronograma: planejamento/cronograma.md
     #- Cronograma Realizado: planejamento/cronograma_realizado.md
     #- Metodologia: planejamento/metodologia.md
     - Ferramentas: planejamento/ferramentas.md
+    - Heatmap: planejamento/heatmap.md
 
-  - Apresentações: 
-    - Apresentação 1: apresentações/apresentação-01.md
+  - Apresentações:
+    - Entrega 01:
+      - Apresentação: apresentações/apresentação-01.md
+      - Verificação de Grupo+1: verificacoes/Verificacao1.md
 
   - Atas:
-    - Reunião 1: atas/Ata Reunião 01.md
-
+    - Reunião 01: atas/Ata Reunião 01.md
+    - Reunião 02: atas/Ata Reunião 02.md
+    - Reunião 03: atas/Ata Reunião 03.md
+  # - Verificações:
+  #   - Verificação do grupo+1: verificacoes/Verificacao1.md
 
 
 theme:
@@ -29,7 +35,7 @@ theme:
         name: Switch to light mode
 
     - media: "(prefers-color-scheme: light)"
-      scheme: default 
+      scheme: default
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -45,4 +51,3 @@ theme:
     - navigation.tabs.sticky
     - navigation.path
     - navigation.top
-    
