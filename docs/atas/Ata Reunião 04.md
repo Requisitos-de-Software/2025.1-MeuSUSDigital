@@ -61,7 +61,7 @@
 
 ## 🎥 Link da gravação
 
-- <a href="&t=1" target="https://youtu.be/OHllSImnMqc">Gravação da reunião</a>
+- <a href="https://youtu.be/OHllSImnMqc" target="_blank">Gravação da reunião</a>
 
 ---
 
