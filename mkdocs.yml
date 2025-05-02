@@ -13,6 +13,9 @@ nav:
     - Ferramentas: planejamento/ferramentas.md
     - Heatmap: planejamento/heatmap.md
 
+  - Elicitação:
+    - Storytelling: elicitacao/storytelling.md
+
   - Apresentações:
     - Entrega 01:
       - Lista de Verificação 01: apresentações/lista-verificação-01.md
@@ -23,6 +26,7 @@ nav:
     - Reunião 01: atas/Ata Reunião 01.md
     - Reunião 02: atas/Ata Reunião 02.md
     - Reunião 03: atas/Ata Reunião 03.md
+    - Reunião 04: atas/Ata Reunião 04.md
   # - Verificações:
   #   - Verificação do grupo+1: verificacoes/Verificacao1.md
 
