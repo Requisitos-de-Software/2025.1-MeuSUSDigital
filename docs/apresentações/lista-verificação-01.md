@@ -17,3 +17,10 @@
 | **15.** Vídeo de apresentação na categoria “não listado” no YouTube?                                            | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Lista de Verificação da Etapa 1](../assets/Lista%20de%20Verificação%201%20-%20Plano_de_Ensino.pdf) |
 | **16.** No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama?            | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Lista de Verificação da Etapa 1](../assets/Lista%20de%20Verificação%201%20-%20Plano_de_Ensino.pdf) |
 | **17.** Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo? | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Lista de Verificação da Etapa 1](../assets/Lista%20de%20Verificação%201%20-%20Plano_de_Ensino.pdf) |
+
+
+## Histórico de Versão
+
+| Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
+| ------ | ------------- | ---------------------------------- | ------------- | ------------- |
+| `1.0`  |  02/05/2025 |  Criação do Documento | [Pedro](https://github.com/pedroeverton217) | [Davi](https://github.com/Davicamilo23) |
