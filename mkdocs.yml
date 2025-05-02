@@ -1,4 +1,4 @@
-site_name: Cinemark
+site_name: Cinemark App
 repo_url: https://github.com/Requisitos-de-Software/2025.1-Cinemark
 
 nav:
@@ -27,12 +27,14 @@ nav:
     - Reunião 02: atas/Ata Reunião 02.md
     - Reunião 03: atas/Ata Reunião 03.md
     - Reunião 04: atas/Ata Reunião 04.md
+    - Reunião 05: atas/Ata Reunião 05.md
   # - Verificações:
   #   - Verificação do grupo+1: verificacoes/Verificacao1.md
 
 
 theme:
   name: material
+  logo: img/logo_cinemark.png
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
