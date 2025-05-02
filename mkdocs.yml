@@ -1,4 +1,4 @@
-site_name: Meu SUS
+site_name: Cinemark
 repo_url: https://github.com/Requisitos-de-Software/2025.1-Cinemark
 
 nav:
@@ -15,6 +15,7 @@ nav:
 
   - Apresentações:
     - Entrega 01:
+      - Lista de Verificação 01: apresentações/lista-verificação-01.md
       - Apresentação: apresentações/apresentação-01.md
       - Verificação de Grupo+1: verificacoes/Verificacao1.md
 

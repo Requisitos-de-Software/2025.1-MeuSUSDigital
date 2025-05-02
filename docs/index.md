@@ -2,7 +2,7 @@
 
 <div align="center">
   <p><strong>Figura 1:</strong> Logo do Cinemark</p>
-  <p align="center"><img src="docs/img/logo_cinemark.png" width = 40%></p>
+  <p align="center"><img src="img/logo_cinemark.png" width = 80%></p>
   <p>Fonte: <a href="https://www.cinemark.com.br" target="_blank"><i>cinemark.com.br</i></a></p>
 </div>
 
@@ -41,6 +41,4 @@ O aplicativo **Cinemark** oferece aos usuários uma experiência completa para a
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  |  11/04/2025 |  Criação do GitPages do grupo | [Pedro](https://github.com/pedroeverton217)  | Todos |
-| `1.1`  |  13/04/2025 |  Atualização da Home no GitPages | [Davi](https://github.com/Davicamilo23)  | [Pedro](https://github.com/pedroeverton217) |
-|`2.0`   | 24/04/2025 | Mudança completa do projeto: troca do aplicativo analisado de "Meu SUS Digital" para "Cinemark" | [Arthur](https://github.com/arthurevg) | [Pedro](https://github.com/pedroeverton217) |
+|`1.0`   | 24/04/2025 | Mudança completa do projeto: troca do aplicativo analisado de "Meu SUS Digital" para "Cinemark" | [Arthur](https://github.com/arthurevg) | [Pedro](https://github.com/pedroeverton217) |
