@@ -1,4 +1,4 @@
-# Cinemark App
+# Cinemark
 
 <div align="center">
   <p><strong>Figura 1:</strong> Logo do Cinemark</p>
@@ -50,5 +50,4 @@ A documentação do projeto pode ser acessada [aqui](https://requisitos-de-softw
 |:-:     | :-:      | :-:      | :-: |:-:|
 |1.0     | Criação do README do projeto | [Davi](https://github.com/Davicamilo23) | 09/04/2025 | [Pedro](https://github.com/pedroeverton217) |
 |1.1     | Adição do sobre o projeto e o aplicativo, da documentação e atualização da apresentação da equipe | [Davi](https://github.com/Davicamilo23) | 13/04/2025 | [Euller](https://github.com/Potatoyz908) |
-|2.0     | Mudança completa do projeto: troca do aplicativo analisado de "Meu SUS Digital" para "Cinemark" | [Arthur](https://github.com/arthurevg) | 24/04/2025 | [Revisor] |
-
+|2.0     | Mudança completa do projeto: troca do aplicativo analisado de "Meu SUS Digital" para "Cinemark" | [Arthur](https://github.com/arthurevg) | 24/04/2025 | [Davi](https://github.com/Davicamilo23) |
