@@ -4,11 +4,11 @@
 
 ## 📌 Identificação da Reunião
 
-- **Data: 01/05/2025**
-- **Hora de Início: 10:50**
-- **Hora de Término:11:05**
-- **Local: Teams**
-- **Redator: Gabriel Castelo**
+- **Data:**  01/05/2025
+- **Hora de Início:**  10h50
+- **Hora de Término:**  11h05
+- **Local:**  Teams (online)
+- **Redator:**  Gabriel
 
 ### 👥 Participantes
 
@@ -25,8 +25,7 @@
 
 | Nº | Descrição |
 |----|-----------|
-| 1  | Realizar entrevista de storytelling com usuário do Cinemark         |
-
+| 1  | Realizar entrevista de storytelling com usuário do Cinemark. |
 
 ---
 
@@ -36,7 +35,7 @@
 
 | Nº | Pendência | Responsável | Prazo |
 |----|-----------|-------------|-------|
-| 1  | Não se aplica a reunião em questão. |             |       |
+| 1  | - | - | - |
 
 ---
 
@@ -46,8 +45,7 @@
 
 | Nº | Descrição | Tipo |
 |----|-----------|--------|
-| 1  | Gravação da reunião           |        |
-| 2  |Realização de entrevista de storytelling com usuário       |        |
+| 1  | Realização de entrevista de storytelling com usuário, juntamente com gravação da reunião. | Decisão |
 
 ### Descrição dos tipos:
 
@@ -61,14 +59,14 @@
 
 ## 🎥 Link da gravação
 
-- <a href="https://youtu.be/OHllSImnMqc" target="_blank">Gravação da reunião</a>
+- <a href="https://youtu.be/OHllSImnMqc&t=1" target="_blank">Gravação da reunião</a>
 
 ---
 
 ## 📆 Próxima Reunião
 
-- **Data: 02/05/2025**
-- **Hora: 10:00**
+- **Data:**  02/05/2025
+- **Hora:**  10h
 
 ---
 
@@ -78,11 +76,12 @@
 
 | Nº | Compromisso | Responsável | Prazo |
 |----|-------------|-------------|-------|
-| 1  |Definir histórias de usuário com base no storytelling             |Gabriel e Tiago          | 02/05/2025     |
+| 1  | Definir histórias de usuário com base no storytelling | Gabriel e Tiago | 02/05/2025 |
 
 
 ## Histórico de Versão
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  |  01/05/2025 |  Criação do Documento | Gabriel Castelo  | Tiago |
+| `1.0`  |  01/05/2025 |  Criação do Documento | Gabriel | Tiago |
+| `1.1`  |  03/05/2025 |  Padronização da Ata | Davi | Arthur |
