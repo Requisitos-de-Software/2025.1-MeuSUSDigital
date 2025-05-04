@@ -44,4 +44,4 @@ Os requisitos identificados com o storytelling seguem a seguir:
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 01/05/2025 | Criação do documento inicial | Tiago Antunes | Gabriel Castelo |
+| `1.0`  | 01/05/2025 | Criação do documento inicial | [Tiago Antunes](https://github.com/TiagoBalieiro) | [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31) |
