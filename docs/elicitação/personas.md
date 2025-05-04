@@ -198,4 +198,4 @@ Características adicionais:
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  |  02/05/2025 |  Criação do Documento | [Pedro](https://github.com/pedroeverton217) | [Davi](https://github.com/Davicamilo23) |
+| `1.0`  |  02/05/2025 |  Criação do Documento | [Pedro Everton](https://github.com/pedroeverton217) | [Davi Camilo](https://github.com/Davicamilo23) |
