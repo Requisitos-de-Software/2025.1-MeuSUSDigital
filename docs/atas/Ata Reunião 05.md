@@ -50,7 +50,11 @@
 
 > Registros das decisões e definições abordadas na reunião, seguindo a numeração da pauta.
 
+| Nº | Descrição | Tipo |
+|----|-----------|--------|
+| 1  | As técnicas de priorização escolhidas foram: **MoSCoW**, **Kano Model**, **100$** e **Three Level Scale**. | Decisão |
 | 2  | Foi discutido que todas as entregas pendentes devem ser concluídas até domingo (04/05/2025). | Decisão |
+| 3  | Cada integrante revisará suas tarefas e atualizará o GitPages com as informações necessárias. | Decisão |
 
 ### Descrição dos tipos:
 
