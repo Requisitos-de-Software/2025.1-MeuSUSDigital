@@ -60,3 +60,4 @@ Este documento possui a lista de verificação elaborada para avaliar os artefat
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  |  02/05/2025 |  Criação do Documento | [Pedro](https://github.com/pedroeverton217) | [Davi](https://github.com/Davicamilo23) |
 | `1.1`  |  04/05/2025 | Adição da introdução, fontes e referências e correção da lista de verificação | [Davi](https://github.com/Davicamilo23) | [Pedro](https://github.com/pedroeverton217) |
+| `1.1.1` | 04/05/2025 | Ajuste no caminho das imagens (prints) | [Davi](https://github.com/Davicamilo23) | [Pedro](https://github.com/pedroeverton217) |
