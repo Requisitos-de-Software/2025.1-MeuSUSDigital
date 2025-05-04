@@ -31,7 +31,7 @@ Durante a etapa inicial do projeto, cada integrante da equipe sugeriu um aplicat
 
 ## Aplicativo Escolhido: **Cinemark**
 
-<p align="center"><img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/blob/main/docs/img/logo_cinemark.png" style="width: 40%"></p>
+<p align="center"><img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/raw/main/docs/img/logo_cinemark.png" style="width: 40%"></p>
 <p align="center"><strong>Figura 1:</strong> Logo oficial do aplicativo Cinemark</p>
 
 ---
