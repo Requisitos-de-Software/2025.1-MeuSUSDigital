@@ -8,7 +8,7 @@
 - **Hora de Início:**  10h50
 - **Hora de Término:**  11h05
 - **Local:**  Teams (online)
-- **Redator:**  Gabriel
+- **Redator:**  [Gabriel Castelo](https://github.com/GabrielCastelo-31)
 
 ### 👥 Participantes
 
@@ -76,12 +76,12 @@
 
 | Nº | Compromisso | Responsável | Prazo |
 |----|-------------|-------------|-------|
-| 1  | Definir histórias de usuário com base no storytelling | Gabriel e Tiago | 02/05/2025 |
+| 1  | Definir histórias de usuário com base no storytelling | [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Tiago Antunes](https://github.com/tiagobalieiro) | 02/05/2025 |
 
 
 ## Histórico de Versão
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  |  01/05/2025 |  Criação do Documento | Gabriel | Tiago |
-| `1.1`  |  03/05/2025 |  Padronização da Ata | Davi | Arthur |
+| `1.0`  |  01/05/2025 |  Criação do Documento | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes](https://github.com/tiagobalieiro) |
+| `1.1`  |  03/05/2025 |  Padronização da Ata | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |

@@ -17,4 +17,4 @@ Para definir os horários das reunioes semanais, foi utilizado um *heatmap* que 
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  |  16/04/2025 |  Criação da página e adição do heatmap | [Gabriel](https://github.com/GabrielCastelo-31)  | [Artur](https://github.com/ArturDCR) |
+| `1.0`  |  16/04/2025 |  Criação da página e adição do heatmap | [Gabriel Castelo](https://github.com/GabrielCastelo-31)  | [Artur de Camargos](https://github.com/ArturDCR) |

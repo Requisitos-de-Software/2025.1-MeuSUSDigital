@@ -8,7 +8,7 @@
 - **Hora de Início:**  20h52
 - **Hora de Término:**  21h58
 - **Local:**  Teams (online)
-- **Redator:**  Davi
+- **Redator:**  [Davi Camilo](https://github.com/Davicamilo23)
 
 ### 👥 Participantes
 
@@ -91,10 +91,10 @@
 |----|-------------|-------------|-------|
 | 1  | Decidir o dia e horário para as reuniões semanais do grupo a partir do Heatmap. | Todos | 10/04 |
 | 2  | Tirar dúvidas gerais com o professor. | Todos | 10/04 |
-| 3  | Implementar Git Pages. | Pedro | 13/04 |
+| 3  | Implementar Git Pages. | [Pedro Everton](https://github.com/pedroeverton217) | 13/04 |
 
 ## Histórico de Versão
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  |  09/04/2025 |  Criação do Documento | Davi  | Pedro |
+| `1.0`  |  09/04/2025 |  Criação do Documento | [Davi Camilo](https://github.com/Davicamilo23) | [Pedro Everton](https://github.com/pedroeverton217) |

@@ -23,4 +23,4 @@ O *Rich Picture* é uma ferramenta visual usada para compreender e representar c
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  |  13/04/2025 |  Criação do Documento | [Pedro](https://github.com/pedroeverton217)  | [Gabriel](https://github.com/GabrielCastelo-31) e [Davi](https://github.com/Davicamilo23) |
+| `1.0`  |  13/04/2025 |  Criação do Documento | [Pedro Everton](https://github.com/pedroeverton217)  | [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Davi Camilo](https://github.com/Davicamilo23) |
