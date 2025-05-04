@@ -1,11 +1,16 @@
 ## Introdução
+
 A partir das técnicas de elicitação aplicadas (storytelling, questionário, introspecção e análise de interface de usuário), foram levantados e documentados os requisitos do sistema. A Tabela 1 apresenta os requisitos elicitados, categorizando-os em requisitos funcionais (RF) e não funcionais (RNF), bem como seu status atual de implementação e a rastreabilidade com as fontes que os originaram.
+
+---
 
 ## Metodologia
 
 A elicitação dos requisitos foi realizada utilizando quatro técnicas: **storytelling**, **questionário**, **introspecção** e **análise de interface de usuário**. Cada técnica foi aplicada para identificar funcionalidades e características do sistema, resultando na documentação apresentada na Tabela 1.
 
 Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisitos Não Funcionais (RNF)**, com rastreabilidade às fontes que os originaram. A Tabela 1 também apresenta o status de implementação de cada requisito na data atual(04/05/2025), permitindo o acompanhamento do progresso do projeto.
+
+---
 
 ##  Legenda da tabela 1
 
@@ -17,8 +22,7 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 - ST: Requisito elicitado pela técnica de [Storytelling](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/storytelling/)
 - XX: Requisito elicitado pela técnica de [Questionário](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/questionario/)
 
-## Requisitos
-### Tabela 1 – Requisitos Elicitados(Versão 1)
+## Tabela 1 – Requisitos Elicitados (Versão 1)
 
 | ID   | Descrição                                                                                                             | Rastreabilidade      | Categoria | Implementado |
 | ---- | --------------------------------------------------------------------------------------------------------------------- | -------------------- | --------- | ------------ |
@@ -81,11 +85,11 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 | RQ57 | Validar dados pessoais no perfil antes de salvar                                                                      | AI36                 | RNF       | Sim          |
 
 **Observações:**
+
 - **RQ20:** O login com google e redes sociais ainda não foi implementado.
 
 
-<font size="3"><p style="text-align: center">Autor(a): [Arthur Evangelista de Oliveira](https://github.com/arthurevg)</p></font>
-
+<font size="3"><p style="text-align: center">Autor(a): [Arthur Evangelista de Oliveira](https://github.com/arthurevg), 2025.</p></font>
 
 ---
 
@@ -93,5 +97,5 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  |  04/05/2025 |  Criação do Documento com Introdução, metodologia, e tabela com os requisitos elicitados |[Arthur](https://github.com/arthurevg) | Todos
-
+| `1.0`  |  04/05/2025 |  Criação do Documento com Introdução, metodologia, e tabela com os requisitos elicitados |[Arthur](https://github.com/arthurevg) | Todos |
+| `1.1`  |  04/05/2025 | Ajuste na formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
