@@ -22,11 +22,11 @@ Para auxiliar na execução e organização do projeto, foram utilizadas diferen
 | <img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/raw/main/docs/assets/ferramentas/gdocs.png" style="height:96px;width:96px"> | Microsoft Docs | Criação de textos colaborativos.<a id="anchor_8" href="#FRM8"><sup>8</sup></a> |
 | <img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/raw/main/docs/assets/ferramentas/onedrive2.png" style="height:100px;width:100px"> | Microsoft OneDrive | Armazenamento e compartilhamento de arquivos.<a id="anchor_9" href="#FRM9"><sup>9</sup></a> |
 | <img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/raw/main/docs/assets/ferramentas/drawio.png" style="height:100px;width:100px"> | Draw.io | Elaboração de diagramas e do Rich Picture.<a id="anchor_10" href="#FRM10"><sup>10</sup></a> |
-| <img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/raw/main/docs/assets/ferramentas/mkdocs.png" style="height:80px;width:200px"> | MkDocs | Criação das páginas de documentação do projeto.<a id="anchor_11" href="#FRM11"><sup>11</sup></a> |
-| <img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/raw/main/docs/assets/ferramentas/googleforms.png" style="height:100px;width:100px"> | Google Forms | Elicitação de requisitos (técnica questionário).<a id="anchor_12" href="#FRM12"><sup>12</sup></a> |
+| <img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/raw/main/docs/assets/ferramentas/mkdocs.png" style="height:80px;width:180px"> | MkDocs | Criação das páginas de documentação do projeto.<a id="anchor_11" href="#FRM11"><sup>11</sup></a> |
+| <img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/raw/main/docs/assets/ferramentas/googleforms.png" style="height:96px;width:72px"> | Google Forms | Elicitação de requisitos (técnica questionário).<a id="anchor_12" href="#FRM12"><sup>12</sup></a> |
 | <img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/raw/main/docs/assets/ferramentas/chatgpt.png" style="height:100px;width:100px"> | ChatGPT | Auxílio em dúvidas gerais, revisão de textos e markdown.<a id="anchor_13" href="#FRM13"><sup>13</sup></a> |
 | <img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/raw/main/docs/assets/ferramentas/telegram.png" style="height:100px;width:100px"> | Telegram | Comunicação com a monitora atribuída ao grupo.<a id="anchor_14" href="#FRM14"><sup>14</sup></a> |
-| <img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/raw/main/docs/assets/ferramentas/thispersonnotexist.png" style="height:100px;width:100px"> | This Person Does Not Exist | Criação de personas.<a id="anchor_15" href="#FRM15"><sup>15</sup></a> |
+| <img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/raw/main/docs/assets/ferramentas/thispersonnotexist.png" style="height:110px;width:120px"> | This Person Does Not Exist | Criação de personas.<a id="anchor_15" href="#FRM15"><sup>15</sup></a> |
 
 
 <font size="3"><p align="center">Fonte: Autores.</p></font>
@@ -77,3 +77,4 @@ Para auxiliar na execução e organização do projeto, foram utilizadas diferen
 | `1.2`   | 03/05/2025 | Adição de novas ferramentas | [Davi](https://github.com/Davicamilo23) | [Euller](https://github.com/potatoyz908) |
 | `1.2.1` | 03/05/2025 | Ajuste do formato do número da referência (semelhante a uma nota de rodapé) | [Davi](https://github.com/Davicamilo23) | [Euller](https://github.com/potatoyz908) |
 | `1.3`   | 04/05/2025 | Adição de nova ferramenta | [Davi](https://github.com/Davicamilo23) | [Pedro](https://github.com/pedroeverton217) |
+| `1.4`   | 04/05/2025 | Ajuste do tamanho de alguns logos | [Davi](https://github.com/Davicamilo23) | [Arthur](https://github.com/arthurevg) |
