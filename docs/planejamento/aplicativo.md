@@ -4,6 +4,8 @@
 
 Durante a etapa inicial do projeto, cada integrante da equipe sugeriu um aplicativo potencial para ser analisado. Em seguida, realizamos uma revisão coletiva com base em critérios previamente definidos para selecionar um único aplicativo a ser adotado no projeto. Após a impossibilidade de utilizar o Meu SUS Digital, cada integrante trabalhou a fim de encontrar um novo aplicativo para ser trabalhado, seguindo as especificações do projeto. Para a escolha do aplicativo da Cinemark, foram utilizados alguns critérios, citados abaixo.
 
+---
+
 ### Critérios utilizados na seleção do aplicativo:
 
 - Não termos acesso à documentação.
@@ -13,6 +15,8 @@ Durante a etapa inicial do projeto, cada integrante da equipe sugeriu um aplicat
 - Grande quantidade de usuários.
 - Informações usadas no aplicativo de cunho relevante.
 - Aplicativo se encaixa nas diretrizes do projeto.
+
+---
 
 ## Aplicativos considerados
 
@@ -30,9 +34,13 @@ Durante a etapa inicial do projeto, cada integrante da equipe sugeriu um aplicat
 <p align="center"><img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/blob/main/docs/img/logo_cinemark.png" style="width: 40%"></p>
 <p align="center"><strong>Figura 1:</strong> Logo oficial do aplicativo Cinemark</p>
 
+---
+
 ## Motivações de escolha
 
 Com base nos critérios estabelecidos, o grupo optou pelo aplicativo Cinemark devido ao encaixe nas diretrizes do projeto, e por ter uma vasta base de usuários. Além disso, o aplicativo possui funções variadas e interessantes que podem ser melhoradas para melhor utilização do usuário.
+
+---
 
 ## Termos de Uso
 
@@ -40,6 +48,7 @@ Para garantir que o projeto fosse realizado de forma ética e dentro dos limites
 
 O arquivo com os Termos de Uso completos na data atual (13/04/2025) pode ser acessado [neste link](../entrega1/TermosDeUso_MeuSUSDigital.pdf).
 
+---
 
 ## Histórico de Versão
 

@@ -4,6 +4,8 @@
 
 Para auxiliar na execução e organização do projeto, foram utilizadas diferentes ferramentas que contribuíram com a comunicação, desenvolvimento e produção de artefatos. A Tabela 1 apresenta as ferramentas escolhidas ao longo da disciplina.
 
+---
+
 ## Ferramentas Utilizadas
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Ferramentas Utilizadas no Projeto</p></font>
@@ -28,6 +30,8 @@ Para auxiliar na execução e organização do projeto, foram utilizadas diferen
 
 
 <font size="3"><p align="center">Fonte: Autores.</p></font>
+
+---
 
 ## Referências Bibliográficas
 
@@ -60,6 +64,8 @@ Para auxiliar na execução e organização do projeto, foram utilizadas diferen
 > <a id="FRM14" href="#anchor_14">14.</a> Telegram. Disponível em: [https://telegram.org/](). Acesso em: 3 de maio de 2025.  
 >
 > <a id="FRM15" href="#anchor_15">15.</a> This Person Does Not Exist. Disponível em: [https://thispersondoesnotexist.com/](). Acesso em: 4 de maio de 2025.
+
+---
 
 ## Histórico de Versão
 

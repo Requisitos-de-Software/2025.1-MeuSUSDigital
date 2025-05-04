@@ -4,6 +4,8 @@
 
 O cronograma visa à organização de todas as tarefas que deverão ser realizadas no decorrer da disciplina de Requisitos de Software. Portanto, as atividades foram classificadas quanto às suas respectivas etapas nas quais devem ser realizadas.
 
+---
+
 ## Entrega 1 - Planejamento do Projeto
 
 ### Planejado
@@ -44,6 +46,8 @@ Na Tabela 2, tem-se o cronograma executado para todas as atividades da primeira 
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
+---
+
 ## Entrega 2 - Elicitação de Requisitos
 
 ### Planejado
@@ -65,6 +69,8 @@ Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda e
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
+---
+
 ## Entrega 3 - Modelagem de Requisitos
 
 ### Planejado
@@ -84,6 +90,8 @@ Na Tabela 4, tem-se o cronograma planejado para todas as atividades da terceira 
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
+---
+
 ## Entrega 4 - Modelagem de Requisitos - Ágil
 
 ### Planejado
@@ -102,6 +110,8 @@ Na Tabela 5, tem-se o cronograma planejado para todas as atividades da quarta en
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
+---
+
 ## Entrega 5 - Análise de Requisitos: Verificação e Validação
 
 ### Planejado
@@ -119,6 +129,8 @@ Na Tabela 6, tem-se o cronograma planejado para todas as atividades da quinta en
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
+---
+
 ## Entrega Final - Pós-Rastreabilidade - Gerência II
 
 ### Planejado
@@ -135,7 +147,7 @@ Na Tabela 7, tem-se o cronograma planejado para todas as atividades da entrega f
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
-***
+---
 
 ## Histórico de Versão
 

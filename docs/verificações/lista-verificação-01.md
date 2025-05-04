@@ -18,6 +18,7 @@
 | **16.** No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama?            | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Lista de Verificação da Etapa 1](../assets/Lista%20de%20Verificação%201%20-%20Plano_de_Ensino.pdf) |
 | **17.** Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo? | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Lista de Verificação da Etapa 1](../assets/Lista%20de%20Verificação%201%20-%20Plano_de_Ensino.pdf) |
 
+---
 
 ## Histórico de Versão
 
