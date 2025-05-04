@@ -22,12 +22,13 @@ nav:
       - Introspecção: elicitação/introspecção.md
       - Questionário: elicitação/questionario.md
       - Storytelling: elicitação/storytelling.md
+  
     - Técnicas de Priorização:
       - 100$: priorização/100$.md
       - Kano Model: priorização/kanomodel.md
       - MoSCoW: priorização/moscow.md
       - Three Level Scale: priorização/threelevelscale.md
-
+    - Requisitos Elicitados: elicitação/requisitosElicitados.md
   - Apresentação:
     - Entrega 01: apresentações/apresentação-01.md
 
