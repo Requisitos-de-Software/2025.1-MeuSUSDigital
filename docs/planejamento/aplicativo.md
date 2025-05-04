@@ -48,6 +48,8 @@ Para garantir que o projeto fosse realizado de forma ética e dentro dos limites
 
 O arquivo com os Termos de Uso completos na data atual (04/05/2025) pode ser instalado ao clicar [neste link](../entrega1/Copia_termosCinemark.pdf).
 
+<p align="center"><img src="../assets/termos_de_uso/termos_de_uso.png" style="width: 40%"></p>
+
 ---
 <br>
 
@@ -74,3 +76,4 @@ O arquivo com os Termos de Uso completos na data atual (04/05/2025) pode ser ins
 | `1.0`  |  13/04/2025 |  Criação do Documento | [Arthur Evangelista](https://github.com/arthurevg) | [Davi Camilo](https://github.com/Davicamilo23) e [Pedro everton](https://github.com/pedroeverton217) |
 | `2.0`  |  03/05/2025 | Mudança completa do projeto: troca do aplicativo analisado de "Meu SUS Digital" para "Cinemark" | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) |
 |`2.1`|04/05/2025|Adição da cópia dos termos de uso do aplicativo Cinemark e Referência Bibliográfica|[Arthur Evangelista](https://github.com/arthurevg)| [Tiago Antunes](https://github.com/TiagoBalieiro)|
+|`2.2`|04/05/2025|Inclusão dos termos de uso|[Artur de Camargos](https://github.com/ArturDCR)| [Davi Camilo](https://github.com/Davicamilo23)|
