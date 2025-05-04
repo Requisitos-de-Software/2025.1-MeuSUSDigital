@@ -14,12 +14,12 @@ nav:
     - Heatmap: planejamento/heatmap.md
 
   - Elicitação:
-    - Técnicas:
-      - Storytelling: elicitacao/storytelling.md
-      - Introspecção: elicitacao/introspeccao.md
-      - Análise de Interface de Usuário: elicitacao/analiseUI.md
     - Perfil de Usuário: elicitacao/perfilusuario.md
     - Personas: elicitacao/personas.md
+    - Técnicas:
+      - Análise de Interface de Usuário: elicitacao/analiseUI.md
+      - Introspecção: elicitacao/introspeccao.md
+      - Storytelling: elicitacao/storytelling.md
 
   - Apresentações:
     - Entrega 01:
