@@ -49,16 +49,16 @@ Para garantir que o projeto fosse realizado de forma ética e dentro dos limites
 
 O arquivo com os Termos de Uso completos na data atual (04/05/2025) pode ser instalado ao clicar [neste link](../entrega1/Copia_termosCinemark.pdf).
 
-<p align="center"><img src="/assets/termos_de_uso/um.png" style="width: 40%"></p>
-<p align="center"><img src="/assets/termos_de_uso/dois.png" style="width: 40%"></p>
-<p align="center"><img src="/assets/termos_de_uso/tres.png" style="width: 40%"></p>
-<p align="center"><img src="/assets/termos_de_uso/quatro.png" style="width: 40%"></p>
-<p align="center"><img src="/assets/termos_de_uso/cinco.png" style="width: 40%"></p>
-<p align="center"><img src="/assets/termos_de_uso/seis.png" style="width: 40%"></p>
-<p align="center"><img src="/assets/termos_de_uso/sete.png" style="width: 40%"></p>
-<p align="center"><img src="/assets/termos_de_uso/oito.png" style="width: 40%"></p>
-<p align="center"><img src="/assets/termos_de_uso/nove.png" style="width: 40%"></p>
-<p align="center"><img src="/assets/termos_de_uso/dez.png" style="width: 40%"></p>
+<p align="center"><img src="https://requisitos-de-software.github.io/2025.1-Cinemark/assets/termos_de_uso/um.png" style="width: 40%"></p>
+<p align="center"><img src="https://requisitos-de-software.github.io/2025.1-Cinemark/assets/termos_de_uso/dois.png" style="width: 40%"></p>
+<p align="center"><img src="https://requisitos-de-software.github.io/2025.1-Cinemark/assets/termos_de_uso/tres.png" style="width: 40%"></p>
+<p align="center"><img src="https://requisitos-de-software.github.io/2025.1-Cinemark/assets/termos_de_uso/quatro.png" style="width: 40%"></p>
+<p align="center"><img src="https://requisitos-de-software.github.io/2025.1-Cinemark/assets/termos_de_uso/cinco.png" style="width: 40%"></p>
+<p align="center"><img src="https://requisitos-de-software.github.io/2025.1-Cinemark/assets/termos_de_uso/seis.png" style="width: 40%"></p>
+<p align="center"><img src="https://requisitos-de-software.github.io/2025.1-Cinemark/assets/termos_de_uso/sete.png" style="width: 40%"></p>
+<p align="center"><img src="https://requisitos-de-software.github.io/2025.1-Cinemark/assets/termos_de_uso/oito.png" style="width: 40%"></p>
+<p align="center"><img src="https://requisitos-de-software.github.io/2025.1-Cinemark/assets/termos_de_uso/nove.png" style="width: 40%"></p>
+<p align="center"><img src="https://requisitos-de-software.github.io/2025.1-Cinemark/assets/termos_de_uso/dez.png" style="width: 40%"></p>
 <p align="center" style="font-size: 16px;">Fonte: <a href="https://github.com/ArturDCR" target="_blank">Artur de Camargos</a>, 2025.</p>
 
 ---
