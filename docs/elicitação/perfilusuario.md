@@ -8,7 +8,7 @@ O **Perfil de Usuário** é uma representação detalhada das características e
 
 ## Metodologia
 
-Para adquirir as informações necessárias para a elaboração do Perfil de Usuário, os criadores desse artefato, [Davi Camilo](https://github.com/Davicamilo23) e [Pedro Everton](https://github.com/pedroeverton217), contaram com o auxílio de um questionário criado pelos membros [Tiago Antunes](https://github.com/TiagoBalieiro) e [Artur de Camargos](https://github.com/ArturDCR), o qual obteve informações importantes dos usuários, sendo possível assim traçar o perfil de usuário.
+Para adquirir as informações necessárias para a elaboração do Perfil de Usuário, os criadores desse artefato, [Davi Camilo](https://github.com/Davicamilo23) e [Pedro Everton](https://github.com/pedroeverton217), contaram com o auxílio de um questionário criado pelos membros [Tiago Antunes](https://github.com/TiagoBalieiro) e [Artur de Camargos](https://github.com/ArturDCR), utilizando as respostas de usuários reais para, dessa forma, traçar o perfil de usuário.
 
 ---
 
@@ -27,7 +27,7 @@ A partir dos resultados analisados, os quais estão na página do questionário 
 | Frequência de uso de aplicativos de cinema | Raramente |
 | Atitudes | Neutras |
 | Tarefas primárias | Verificar sessões de filmes, comprar ingressos, ver filmes em cartaz |
-| Tarefas secundárias | Encontrar cinemas da rede cinemark, verificar promoções |
+| Tarefas secundárias | Encontrar cinemas da rede Cinemark, verificar promoções |
 | Motivação para o uso | Comprar ingressos com maior facilidade, obter cupons de desconto exclusivo |
 
 <font size="3"><p align="center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
@@ -45,4 +45,4 @@ A partir dos resultados analisados, os quais estão na página do questionário 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  |   02/05/2025  |  Criação do Documento | [Pedro Everton](https://github.com/pedroeverton217) e [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) |
-| `1.1`  |   04/05/2025  | Adição da metodologia e do resultado do questionário | [Davi Camilo](https://github.com/Davicamilo23) | 
+| `1.1`  |   04/05/2025  | Adição da metodologia e do resultado do questionário | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
