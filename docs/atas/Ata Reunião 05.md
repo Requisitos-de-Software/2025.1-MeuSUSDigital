@@ -86,7 +86,7 @@
 
 | Nº | Compromisso | Responsável | Prazo |
 |----|-------------|-------------|-------|
-| 1  | Implementar as técnicas de priorização no GitPages (MoSCoW, Kano Mode, 100$ e Three Level Scale). | Todos | 04/05/2025 |
+| 1  | Implementar as técnicas de priorização no GitPages (MoSCoW, Kano Model, 100$ e Three Level Scale). | Todos | 04/05/2025 |
 | 2  | Revisar e atualizar os artefatos pendentes da entrega 1. | Artur, Davi e Pedro | 04/05/2025 |
 | 3  | Finalizar o Rich Picture do Cinemark e adicionar ao GitPages. | Gabriel | 04/05/2025 |
 | 4  | Adicionar as técnicas de elicitação ao GitPages. | Todos | 04/05/2025 |
