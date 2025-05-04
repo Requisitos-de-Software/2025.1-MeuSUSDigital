@@ -74,8 +74,8 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 ## 💬 Comentários
 
 - **Sobre o Rich Picture:**
-  - A legenda explicando os símbolos utilizados no diagrama está incompleta. A imagem só mostra os atores e o processo.
-  - Não conseguimos identificar a base de dados no Rich Picture.
+    - A legenda explicando os símbolos utilizados no diagrama está incompleta. A imagem só mostra os atores e o processo.
+    - Não conseguimos identificar a base de dados no Rich Picture.
 
 ---
 
