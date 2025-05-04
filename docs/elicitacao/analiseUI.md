@@ -113,6 +113,7 @@ Os requisitos elicitados a partir da análise de interfaces de usuário foram or
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                          | Autor              |
-| ------ | ---------- | -------------------------------------------------- | ------------------ |
-| 1.0    | 03/04/2025 | Criação da página 'Análise de UI', contendo introdução, metodologia, análise e os requisitos elicitados        | [Arthur](https://github.com/arthurevg) e [Euller](https://github.com/Potatoyz908) |
+| Versão | Data       | Descrição                                                                                      | Autor(es)                                         | Revisor(es) |
+| ------ | ---------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------ |
+| 1.0    | 03/04/2025 | Criação da página 'Análise de UI', contendo introdução, metodologia, análise e os requisitos elicitados | [Arthur](https://github.com/arthurevg) e [Euller](https://github.com/Potatoyz908) | [Davi](https://github.com/Davicamilo23) e [Tiago](https://github.com/TiagoBalieiro)|
+
