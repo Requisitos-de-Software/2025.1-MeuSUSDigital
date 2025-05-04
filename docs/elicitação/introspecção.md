@@ -148,4 +148,4 @@ Os requisitos elicitados a partir da introspecção foram divididos em duas cate
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 02/04/2025 | Criação da página 'introspecção', contendo introdução, metodologia, relato introspectivo e os requisitos elicitados | [Arthur Evangelista](https://github.com/arthurevg) e [Euller Júlio](https://github.com/Potatoyz908) | [Davi Camilo](https://github.com/Davicamilo23) e [Tiago Antunes](https://github.com/TiagoBalieiro) |
-| `1.1`  | 04/05/2025 | Ajuste na formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.1`  | 04/05/2025 | Ajuste na formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg)  |
