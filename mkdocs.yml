@@ -16,6 +16,7 @@ nav:
   - Elicitação:
     - Storytelling: elicitacao/storytelling.md
     - Introspecção: elicitacao/introspeccao.md
+    - Análise de Interface de Usuário: elicitacao/analiseUI.md
 
   - Apresentações:
     - Entrega 01:
