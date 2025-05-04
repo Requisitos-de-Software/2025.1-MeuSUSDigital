@@ -1,4 +1,4 @@
-# Cinemark App
+# Cinemark
 
 <div align="center">
   <p><strong>Figura 1:</strong> Logo do Cinemark</p>
@@ -22,6 +22,7 @@ Todo o desenvolvimento do projeto será devidamente documentado neste repositór
 
 O aplicativo **Cinemark** oferece aos usuários uma experiência completa para acompanhar os lançamentos do cinema, consultar horários de sessões, comprar ingressos e administrar fidelidade e cupons. Com um design intuitivo e recursos voltados para a praticidade, o app visa proporcionar uma jornada fluida para os amantes do cinema, garantindo maior controle, conforto e agilidade no consumo de entretenimento.
 
+---
 
 ## 👥 Membros da Equipe
 
@@ -41,4 +42,6 @@ O aplicativo **Cinemark** oferece aos usuários uma experiência completa para a
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-|`1.0`   | 24/04/2025 | Mudança completa do projeto: troca do aplicativo analisado de "Meu SUS Digital" para "Cinemark" | [Arthur](https://github.com/arthurevg) | [Pedro](https://github.com/pedroeverton217) |
+| `1.0`  |  11/04/2025 |  Criação do GitPages do grupo | [Pedro](https://github.com/pedroeverton217)  | Todos |
+| `1.1`  |  13/04/2025 |  Atualização da Home no GitPages | [Davi](https://github.com/Davicamilo23)  | [Pedro](https://github.com/pedroeverton217) |
+|`2.0`   | 24/04/2025 | Mudança completa do projeto: troca do aplicativo analisado de "Meu SUS Digital" para "Cinemark" | [Arthur](https://github.com/arthurevg) e [Pedro](https://github.com/pedroeverton217) | [Davi](https://github.com/Davicamilo23) |

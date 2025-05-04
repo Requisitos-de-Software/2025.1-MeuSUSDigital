@@ -1,4 +1,4 @@
-site_name: Cinemark App
+site_name: Cinemark
 repo_url: https://github.com/Requisitos-de-Software/2025.1-Cinemark
 
 nav:
@@ -6,32 +6,42 @@ nav:
 
   - Planejamento:
     - Aplicativo Escolhido: planejamento/aplicativo.md
-    - Rich-Picture: planejamento/richpicture.md
     - Cronograma: planejamento/cronograma.md
-    #- Cronograma Realizado: planejamento/cronograma_realizado.md
-    #- Metodologia: planejamento/metodologia.md
     - Ferramentas: planejamento/ferramentas.md
     - Heatmap: planejamento/heatmap.md
+    - Metodologia: planejamento/metodologia.md
+
+  - Pré-rastreabilidade:
+    - Rich Picture: planejamento/richpicture.md
 
   - Elicitação:
-    - Perfil de Usuário: elicitacao/perfilusuario.md
-    - Personas: elicitacao/personas.md
+    - Perfil de Usuário: elicitação/perfilusuario.md
+    - Personas: elicitação/personas.md
     - Técnicas de Elicitação:
-      - Análise de Interface de Usuário: elicitacao/analiseUI.md
-      - Introspecção: elicitacao/introspeccao.md
-      - Questionário: elicitacao/questionario.md
-      - Storytelling: elicitacao/storytelling.md
+      - Análise de Interface de Usuário: elicitação/analiseUI.md
+      - Introspecção: elicitação/introspecção.md
+      - Questionário: elicitação/questionario.md
+      - Storytelling: elicitação/storytelling.md
     - Técnicas de Priorização:
       - 100$: priorização/100$.md
       - Kano Model: priorização/kanomodel.md
       - MoSCoW: priorização/moscow.md
       - Three Level Scale: priorização/threelevelscale.md
 
-  - Apresentações:
-    - Entrega 01:
-      - Lista de Verificação 01: apresentações/lista-verificação-01.md
-      - Apresentação: apresentações/apresentação-01.md
-      - Verificação de Grupo+1: verificacoes/Verificacao1.md
+  - Apresentação:
+    - Entrega 01: apresentações/apresentação-01.md
+
+  - Verificação:
+    - Grupo:
+      - Entrega 01: verificações/lista-verificação-01.md
+    - Grupo+1:
+      - Entrega 01: verificações/lista-verificação-01.md
+
+  - Inspeção:
+    - Grupo:
+      - Entrega 01: inspeções/inspeção-01.md
+    - Grupo+1:
+      - Entrega 01: inspeções/inspeção-grupo+1-01.md
 
   - Atas:
     - Reunião 01: atas/Ata Reunião 01.md
@@ -39,9 +49,6 @@ nav:
     - Reunião 03: atas/Ata Reunião 03.md
     - Reunião 04: atas/Ata Reunião 04.md
     - Reunião 05: atas/Ata Reunião 05.md
-  # - Verificações:
-  #   - Verificação do grupo+1: verificacoes/Verificacao1.md
-
 
 theme:
   name: material

@@ -17,6 +17,8 @@ O *Rich Picture* é uma ferramenta visual usada para compreender e representar c
 
 > - [1] MONK, Andrew; HOWARD, Steve. The Rich Picture: A Tool for Reasoning About Work Context. Methods and tools, 1998.
 
+---
+
 ## Histórico de Versão
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |

@@ -1,14 +1,14 @@
-# 📝 Modelo de Ata de Reunião
+# 📝 Ata de reunião [Requisitos de Software] - Grupo 10
 
 ---
 
 ## 📌 Identificação da Reunião
 
-- **Data:** 02/05/2025  
-- **Hora de Início:** 11:04 
-- **Hora de Término:** 12:19  
-- **Local:** Teams(online)  
-- **Redator:** Arthur 
+- **Data:** 02/05/2025
+- **Hora de Início:** 11h04
+- **Hora de Término:** 12h19
+- **Local:** Teams (online)
+- **Redator:** Arthur
 
 ### 👥 Participantes
 
@@ -42,7 +42,7 @@
 
 | Nº | Pendência | Responsável | Prazo |
 |----|-----------|-------------|-------|
-| 1  | Alterar no GitHub (README) e no GitPages (Home e Planejamento) as informações para as do aplicativo do Cinemark. | Artur e Davi | 27/04/2025 |
+| 1  | Compromissos da Reunião 3. | Todos | 04/05/2025 |
 
 ---
 
@@ -50,12 +50,7 @@
 
 > Registros das decisões e definições abordadas na reunião, seguindo a numeração da pauta.
 
-| Nº | Descrição | Tipo |
-|----|-----------|--------|
-| 1  | As técnicas de priorização escolhidas foram: **MoSCoW**, **Kano Model**, **100$** e **Three Level Scale**. | Decisão |
 | 2  | Foi discutido que todas as entregas pendentes devem ser concluídas até domingo (04/05/2025). | Decisão |
-| 3  | Cada integrante revisará suas tarefas e atualizará o GitPages com as informações necessárias. | Decisão |
-
 
 ### Descrição dos tipos:
 
@@ -69,7 +64,7 @@
 
 ## 🎥 Link da gravação
 
-- <a href="https://youtu.be/6i2GaG3npPE" target="_blank">Gravação da reunião</a>
+- <a href="https://youtu.be/6i2GaG3npPE&t=1" target="_blank">Gravação da reunião</a>
 
 ---
 
@@ -91,9 +86,9 @@
 | 3  | Finalizar o Rich Picture do Cinemark e adicionar ao GitPages. | Gabriel | 04/05/2025 |
 | 4  | Adicionar as técnicas de elicitação ao GitPages. | Todos | 04/05/2025 |
 
-
 ## Histórico de Versão
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  |  02/05/2025 |  Criação do Documento | Arthur  | Euler |
+| `1.0`  |  02/05/2025 |  Criação do Documento | Arthur  | Euller |
+| `1.1`  |  03/05/2025 |  Padronização da Ata | Davi | Arthur |
