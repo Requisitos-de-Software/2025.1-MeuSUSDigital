@@ -46,13 +46,31 @@ Com base nos critérios estabelecidos, o grupo optou pelo aplicativo Cinemark de
 
 Para garantir que o projeto fosse realizado de forma ética e dentro dos limites legais, o grupo decidiu revisar os [Termos de Uso](https://www.cinemark.com.br/termos-de-uso) do Cinemark. O objetivo foi verificar se existiam restrições ou permissões explícitas relacionadas à análise e manipulação do aplicativo. Após a leitura dos termos, ficou claro que não havia cláusulas específicas autorizando a análise detalhada do sistema ou permitindo a engenharia reversa. Embora não houvesse uma proibição direta quanto à análise, também não havia consentimento explícito para tal prática. Além disso, os termos indicam que o uso do aplicativo deve ser restrito a fins pessoais, o que reforçou a necessidade de manter a conformidade com as diretrizes estabelecidas, garantindo que qualquer atividade realizada fosse dentro dos parâmetros permitidos.
 
-O arquivo com os Termos de Uso completos na data atual (13/04/2025) pode ser acessado [neste link](../entrega1/TermosDeUso_MeuSUSDigital.pdf).
+O arquivo com os Termos de Uso completos na data atual (04/05/2025) pode ser instalado ao clicar [neste link](../entrega1/Copia_termosCinemark.pdf).
 
 ---
+<br>
+
+## Referências Bibliográficas
+
+> <p id="1">1. Aplicativo do Cinemark. Disponível em: 
+   [https://play.google.com/store/apps/details?id=com.cinemark&hl=pt-BR&pli=1](https://play.google.com/store/apps/details?id=com.cinemark&hl=pt-BR&pli=1). 
+   Acesso em: 04 mai. 2025.
+   
+><p id="2">2. Fonte do termo de uso. Disponível em: 
+   [https://www.cinemark.com.br/termos-de-uso](https://www.cinemark.com.br/termos-de-uso)
+   Acesso em: 04 mai. 2025.
+</p>
+
+<br>
+
+---
+
 
 ## Histórico de Versão
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  |  13/04/2025 |  Criação do Documento | [Arthur](https://github.com/arthurevg) | [Davi](https://github.com/Davicamilo23) e [Pedro](https://github.com/pedroeverton217) |
-| `2.0`  |  03/05/2025 | Mudança completa do projeto: troca do aplicativo analisado de "Meu SUS Digital" para "Cinemark" | [Davi](https://github.com/Davicamilo23) | [Artur](https://github.com/ArturDCR) |
+| `1.0`  |  13/04/2025 |  Criação do Documento | [Arthur Evangelista](https://github.com/arthurevg) | [Davi Camilo](https://github.com/Davicamilo23) e [Pedro everton](https://github.com/pedroeverton217) |
+| `2.0`  |  03/05/2025 | Mudança completa do projeto: troca do aplicativo analisado de "Meu SUS Digital" para "Cinemark" | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) |
+|`2.1`|04/05/2025|Adição da cópia dos termos de uso do aplicativo Cinemark e Referência Bibliográfica|[Arthur Evangelista](https://github.com/arthurevg)| [Tiago Antunes](https://github.com/TiagoBalieiro)|
