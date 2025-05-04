@@ -16,7 +16,7 @@ nav:
   - Elicitação:
     - Perfil de Usuário: elicitacao/perfilusuario.md
     - Personas: elicitacao/personas.md
-    - Técnicas:
+    - Técnicas de Elicitação:
       - Análise de Interface de Usuário: elicitacao/analiseUI.md
       - Introspecção: elicitacao/introspeccao.md
       - Storytelling: elicitacao/storytelling.md
