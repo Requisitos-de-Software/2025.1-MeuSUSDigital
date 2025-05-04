@@ -79,6 +79,12 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 
 ---
 
+## Referências Bibliográficas
+
+> - **SALES, André Barros de.** *Plano de Ensino – Requisitos de Software: REE012025 – Turma 03*. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. p. 1-2. Disponível em: [Lista de Verificação da Etapa 1](../assets/Lista%20de%20Verificação%201%20-%20Plano_de_Ensino.pdf). Acesso em: 4 mai. 2025.
+
+---
+
 ## Histórico de Versão
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
@@ -88,3 +94,4 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 | `1.2`  |  16/04/2025 | Adição da introdução e legenda na Tabela 1 | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Euller Júlio](https://github.com/Potatoyz908) |
 | `1.3`  |  04/05/2025 | Correção geral da página ("verificação" para "inspeção") | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.4`  |  04/05/2025 | Correção da lista de inspeção | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
+| `1.5`  |  04/05/2025 | Inclusão das referências bibliográficas | [Artur de Camargos](https://github.com/ArturDCR) | [Davi Camilo](https://github.com/Davicamilo23) |
