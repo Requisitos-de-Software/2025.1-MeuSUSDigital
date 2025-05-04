@@ -120,4 +120,4 @@ Os requisitos elicitados a partir da introspecção foram divididos em duas cate
 
 | Versão | Data       | Descrição                                          | Autor              |
 | ------ | ---------- | -------------------------------------------------- | ------------------ |
-| 1.0    | 02/04/2025 | Criação da página 'introspecção', contendo introdução, metodologia, relato introspectivo e os requisitos elicitados        | [Arthur](https://github.com/arthurevg) e [Euller](https://github.com/Potatoyz908) |
+| 1.0    | 02/05/2025 | Criação da página 'introspecção', contendo introdução, metodologia, relato introspectivo e os requisitos elicitados        | [Arthur Evangelista](https://github.com/arthurevg) e [Euller Júlio](https://github.com/Potatoyz908) |
