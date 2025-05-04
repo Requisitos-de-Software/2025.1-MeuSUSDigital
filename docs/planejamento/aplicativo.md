@@ -31,8 +31,9 @@ Durante a etapa inicial do projeto, cada integrante da equipe sugeriu um aplicat
 
 ## Aplicativo Escolhido: **Cinemark**
 
-<p align="center"><img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/raw/main/docs/img/logo_cinemark.png" style="width: 40%"></p>
 <p align="center"><strong>Figura 1:</strong> Logo oficial do aplicativo Cinemark</p>
+<p align="center"><img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/raw/main/docs/img/logo_cinemark.png" style="width: 40%"></p>
+<p align="center">Fonte: <a href="https://www.cinemark.com.br" target="_blank"><i>cinemark.com.br</i></a></p>
 
 ---
 
@@ -74,3 +75,4 @@ O arquivo com os Termos de Uso completos na data atual (04/05/2025) pode ser ins
 | `1.0`  |  13/04/2025 |  Criação do Documento | [Arthur Evangelista](https://github.com/arthurevg) | [Davi Camilo](https://github.com/Davicamilo23) e [Pedro Everton](https://github.com/pedroeverton217) |
 | `2.0`  |  03/05/2025 | Mudança completa do projeto: troca do aplicativo analisado de "Meu SUS Digital" para "Cinemark" | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) |
 |`2.1`|04/05/2025|Adição da cópia dos termos de uso do aplicativo Cinemark e Referência Bibliográfica|[Arthur Evangelista](https://github.com/arthurevg)| [Tiago Antunes](https://github.com/TiagoBalieiro)|
+|`2.1.1`|04/05/2025|Adição de fonte à imagem utilizada| [Pedro Everton](https://github.com/pedroeverton217) | [Davi Camilo](https://github.com/Davicamilo23) |
