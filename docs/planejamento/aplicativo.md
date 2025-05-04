@@ -49,7 +49,17 @@ Para garantir que o projeto fosse realizado de forma ética e dentro dos limites
 
 O arquivo com os Termos de Uso completos na data atual (04/05/2025) pode ser instalado ao clicar [neste link](../entrega1/Copia_termosCinemark.pdf).
 
-<p align="center"><img src="../assets/termos_de_uso/termos_de_uso.png" style="width: 40%"></p>
+<p align="center"><img src="../assets/termos_de_uso/um.png" style="width: 40%"></p>
+<p align="center"><img src="../assets/termos_de_uso/dois.png" style="width: 40%"></p>
+<p align="center"><img src="../assets/termos_de_uso/tres.png" style="width: 40%"></p>
+<p align="center"><img src="../assets/termos_de_uso/quatro.png" style="width: 40%"></p>
+<p align="center"><img src="../assets/termos_de_uso/cinco.png" style="width: 40%"></p>
+<p align="center"><img src="../assets/termos_de_uso/seis.png" style="width: 40%"></p>
+<p align="center"><img src="../assets/termos_de_uso/sete.png" style="width: 40%"></p>
+<p align="center"><img src="../assets/termos_de_uso/oito.png" style="width: 40%"></p>
+<p align="center"><img src="../assets/termos_de_uso/nove.png" style="width: 40%"></p>
+<p align="center"><img src="../assets/termos_de_uso/dez.png" style="width: 40%"></p>
+<font size="3"><p align="center">Fonte: Artur de Camargos, 2025.</p></font>
 
 ---
 <br>
@@ -79,3 +89,4 @@ O arquivo com os Termos de Uso completos na data atual (04/05/2025) pode ser ins
 | `2.1`  |04/05/2025|Adição da cópia dos termos de uso do aplicativo Cinemark e Referência Bibliográfica| [Arthur Evangelista](https://github.com/arthurevg) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 |`2.1.1` |04/05/2025|Adição de fonte à imagem utilizada| [Pedro Everton](https://github.com/pedroeverton217) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `2.2`  |04/05/2025|Inclusão dos termos de uso| [Artur de Camargos](https://github.com/ArturDCR) | [Davi Camilo](https://github.com/Davicamilo23) |
+| `2.3`  |04/05/2025|Ajuste dos termos de uso| [Artur de Camargos](https://github.com/ArturDCR) | [Davi Camilo](https://github.com/Davicamilo23) |
