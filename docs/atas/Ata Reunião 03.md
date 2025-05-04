@@ -8,7 +8,7 @@
 - **Hora de Início:**  20h22
 - **Hora de Término:**  21h36
 - **Local:**  Teams (online)
-- **Redator:**  Davi
+- **Redator:**  [Davi Camilo](https://github.com/Davicamilo23)
 
 ### 👥 Participantes
 
@@ -44,7 +44,7 @@
 
 | Nº | Pendência | Responsável | Prazo |
 |----|-----------|-------------|-------|
-| 1  | Alterar no GitHub (README) e no GitPages (Home e Planejamento) as informações para as do aplicativo do Cinemark. | Artur e Davi | 27/04/2025 |
+| 1  | Alterar no GitHub (README) e no GitPages (Home e Planejamento) as informações para as do aplicativo do Cinemark. | [Artur de Camargos](https://github.com/ArturDCR) e [Davi Camilo](https://github.com/Davicamilo23) | 27/04/2025 |
 
 ---
 
@@ -89,21 +89,21 @@
 
 | Nº | Compromisso | Responsável | Prazo |
 |----|-------------|-------------|-------|
-| 1  | Alterar no GitHub (README) e no GitPages (Home e Planejamento) as informações para as do aplicativo do Cinemark | Artur e Davi | 27/04/2025 |
+| 1  | Alterar no GitHub (README) e no GitPages (Home e Planejamento) as informações para as do aplicativo do Cinemark | [Artur de Camargos](https://github.com/ArturDCR) e [Davi Camilo](https://github.com/Davicamilo23) | 27/04/2025 |
 | 2  | Adicionar ao GitPages a entrega da etapa 2 do projeto (Elicitação de Requisitos: Técnicas e priorização) | Todos | 27/04/2025 |
 | 3  | Gravar o vídeo da apresentação da etapa 2 do projeto | Todos | 27/04/2025 |
 | 4  | Definir as técnicas de priorização e dividir os responsáveis por cada uma | Todos | 27/04/2025 |
-| 5  | Fazer o Rich Picture do aplicativo do Cinemark | Gabriel | 27/04/2025 |
-| 5  | Adicionar legendas aos rich pictures; adicionar as fotos dos rich pictures dos aplicativos analisados e que não foram escolhidos; adicionar referências bibliográficas aonde está faltando; chamar as tabelas e figuras nos textos; tirar print dos Termos de Uso do Cinemark e adicionar as fotos no GitPages; Adicionar o tutorial de como rodar o MKDocs localmente; e Adicionar a página de política do repositório | Artur | 27/04/2025 |
-| 6  | Adicionar a metodologia; Adicionar a fonte, juntamente com foto, de cada item da lista de verificação; Revisar as ferramentas utilizadas; Revisar as mudanças que o Artur fez/sugeriu e subir no GitPages; Alterar as listas de verificação/inspeção, adicionando autor (e para os próximos, data e revisor); e Alterar o link do GitPages do projeto | Davi | 27/04/2025 |
-| 7  | Deixar o Rich Picture numa aba separada (pré-rastreabilidade), tal como arrumar a organização do menu do GitPages; Deixar a lista de verificação em branco (separada da de inspeção); Adicionar fontes (como autores, por exemplo) aonde não tenha; Deixar salvo as versões do Rich Picture; e Adicionar no GitPages as novas atas e o que mais precisa ser atualizado para aparecer | Pedro | 27/04/2025 |
-| 8  | Estudar sobre, e adicionar ao GitPages, as técnicas de elicitação Introspecção e Brainstorming | Arthur e Euller | 27/04/2025 |
-| 9  | Estudar sobre, e adicionar ao GitPages, a técnica de elicitação Personas e Perfil de usuário | Davi e Pedro | 27/04/2025 |
-| 10 | Estudar sobre, e adicionar ao GitPages, a técnica de elicitação Storytelling | Gabriel e Tiago | 27/04/2025 |
-| 11 | Estudar sobre, e adicionar ao GitPages, a técnica de elicitação Questionário | Artur e Tiago | 27/04/2025 |
+| 5  | Fazer o Rich Picture do aplicativo do Cinemark | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | 27/04/2025 |
+| 5  | Adicionar legendas aos rich pictures; adicionar as fotos dos rich pictures dos aplicativos analisados e que não foram escolhidos; adicionar referências bibliográficas aonde está faltando; chamar as tabelas e figuras nos textos; tirar print dos Termos de Uso do Cinemark e adicionar as fotos no GitPages; Adicionar o tutorial de como rodar o MKDocs localmente; e Adicionar a página de política do repositório | [Artur de Camargos](https://github.com/ArturDCR) | 27/04/2025 |
+| 6  | Adicionar a metodologia; Adicionar a fonte, juntamente com foto, de cada item da lista de verificação; Revisar as ferramentas utilizadas; Revisar as mudanças que o Artur fez/sugeriu e subir no GitPages; Alterar as listas de verificação/inspeção, adicionando autor (e para os próximos, data e revisor); e Alterar o link do GitPages do projeto | [Davi Camilo](https://github.com/Davicamilo23) | 27/04/2025 |
+| 7  | Deixar o Rich Picture numa aba separada (pré-rastreabilidade), tal como arrumar a organização do menu do GitPages; Deixar a lista de verificação em branco (separada da de inspeção); Adicionar fontes (como autores, por exemplo) aonde não tenha; Deixar salvo as versões do Rich Picture; e Adicionar no GitPages as novas atas e o que mais precisa ser atualizado para aparecer | [Pedro Everton](https://github.com/pedroeverton217) | 27/04/2025 |
+| 8  | Estudar sobre, e adicionar ao GitPages, as técnicas de elicitação Introspecção e Brainstorming | [Arthur Evangelista](https://github.com/arthurevg) e [Euller Júlio](https://github.com/Potatoyz908) | 27/04/2025 |
+| 9  | Estudar sobre, e adicionar ao GitPages, a técnica de elicitação Personas e Perfil de usuário | [Davi Camilo](https://github.com/Davicamilo23) e [Pedro Everton](https://github.com/pedroeverton217) | 27/04/2025 |
+| 10 | Estudar sobre, e adicionar ao GitPages, a técnica de elicitação Storytelling | [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 27/04/2025 |
+| 11 | Estudar sobre, e adicionar ao GitPages, a técnica de elicitação Questionário | [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 27/04/2025 |
 
 ## Histórico de Versão
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  |  23/04/2025 |  Criação do Documento | Davi  | Arthur |
+| `1.0`  |  23/04/2025 |  Criação do Documento | [Davi Camilo](https://github.com/Davicamilo23)  | [Arthur Evangelista](https://github.com/arthurevg) |

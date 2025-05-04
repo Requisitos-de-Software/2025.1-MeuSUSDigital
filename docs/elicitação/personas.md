@@ -1,19 +1,22 @@
-## O que são Personas?
+# O que são Personas?
 
 **Personas** são representações fictícias de usuários ideais baseadas em dados reais sobre o público-alvo de um produto ou serviço. Elas são criadas para ajudar equipes de desenvolvimento, design e negócios a entender melhor as necessidades, comportamentos, objetivos e desafios dos usuários. Cada persona é descrita com características detalhadas, como nome, idade, profissão, interesses e motivações, permitindo que as decisões do projeto sejam mais centradas no usuário.
 
-## Personas do Projeto:
+# Personas do Projeto:
+## Persona 1
 
-### Persona 1
-Persona: Lucas Almeida
-
-![](../assets/personas/persona1-lucas-almeida.jpeg)
-Figura 1 Fonte: https://thispersondoesnotexist.com/
+<p align="center"><strong>Figura 1:</strong> Persona 1: Lucas Almeida</p>
+<p align="center"><img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/raw/main/docs/assets/personas/persona1-lucas-almeida.jpeg" style="width: 50%"></p>
+<p align="center">Fonte: <a href="https://thispersondoesnotexist.com/" target="_blank"><i>This Person Does Not Exists</i></a></p>
 
 Nome: Lucas Almeida
+
 Idade: 28 anos
+
 Profissão: Analista de Marketing
+
 Localização: São Paulo, SP
+
 Status: Usuário primário
 
 Objetivos:
@@ -52,16 +55,19 @@ Características adicionais:
 
 - Prefere usar o app tanto para planejamento antecipado como para compras de última hora
 
-### Persona 2
-Persona 2: Mariana Oliveira
-
-![](../assets/personas/persona2-mariana-oliveira.jpeg)
-Figura 2 Fonte: https://thispersondoesnotexist.com/
+## Persona 2
+<p align="center"><strong>Figura 1:</strong> Persona 2: Mariana Oliveira</p>
+<p align="center"><img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/raw/main/docs/assets/personas/persona2-mariana-oliveira.jpeg" style="width: 50%"></p>
+<p align="center">Fonte: <a href="https://thispersondoesnotexist.com/" target="_blank"><i>This Person Does Not Exists</i></a></p>
 
 Nome: Mariana Oliveira
+
 Idade: 22 anos
+
 Profissão: Estudante de Design Gráfico
+
 Localização: Belo Horizonte, MG
+
 Status: Usuária secundária
 
 Objetivos:
@@ -96,16 +102,19 @@ Características adicionais:
 
 - Frequenta o cinema no máximo uma vez por mês, geralmente com amigos
 
-### Persona 3
-Persona 3: João Santos
-
-![](../assets/personas/persona3-joao-santos.jpeg)
-Figura 3 Fonte: https://thispersondoesnotexist.com/
+## Persona 3
+<p align="center"><strong>Figura 3:</strong> Persona 3: João Santos</p>
+<p align="center"><img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/raw/main/docs/assets/personas/persona3-joao-santos.jpeg" style="width: 50%"></p>
+<p align="center">Fonte: <a href="https://thispersondoesnotexist.com/" target="_blank"><i>This Person Does Not Exists</i></a></p>
 
 Nome: João Santos
+
 Idade: 41 anos
+
 Profissão: Executivo de Empresa
+
 Localização: Rio de Janeiro, RJ
+
 Status: Stakeholder
 
 Objetivos:
@@ -140,20 +149,23 @@ Características adicionais:
 
 - Prefere interfaces limpas, sem muitas informações adicionais
 
-### O que é uma Antipersona?
+# O que é uma Antipersona?
 
 Uma **antipersona** é a representação fictícia de um tipo de usuário que não faz parte do público-alvo do produto ou serviço. Ela é criada para identificar perfis de usuários que podem não se beneficiar do produto, utilizá-lo de forma inadequada ou não atender aos objetivos do projeto. Definir antipersonas ajuda a evitar esforços desnecessários em atender necessidades que não são relevantes para o foco do projeto.
 
-### Antipersona
-Antipersona: Carlos Mota
-
-![](../assets/personas/antipersona-carlos-mota.jpeg)
-Figura 4 Fonte: https://thispersondoesnotexist.com/
+## Antipersona
+<p align="center"><strong>Figura 1:</strong> Antipersona: Carlos Mota</p>
+<p align="center"><img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/raw/main/docs/assets/personas/antipersona-carlos-mota.jpeg" style="width: 50%"></p>
+<p align="center">Fonte: <a href="https://thispersondoesnotexist.com/" target="_blank"><i>This Person Does Not Exists</i></a></p>
 
 Nome: Carlos Mota
+
 Idade: 52 anos
+
 Profissão: Aposentado
+
 Localização: Curitiba, PR
+
 Status: Antiusuário
 
 Contexto e Objetivos:
@@ -172,7 +184,7 @@ Habilidades e conhecimentos:
 
 - Prefere métodos convencionais de compra, como bilheteria física
 
-Tarefas e comportamento:
+Tarefas principais:
 
 - Geralmente assiste a filmes na TV, via canais a cabo ou DVD
 
@@ -190,7 +202,7 @@ Características adicionais:
 
 ## Bibliografia
 
-[1] This Person Doest Not Exist. Acesso em: 23 de nov. de 2022.Disponível em: https://thispersondoesnotexist.com
+[1] This Person Doest Not Exist. Acesso em: 03 de maio de 2025.Disponível em: https://thispersondoesnotexist.com
 
 [2] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
@@ -199,3 +211,4 @@ Características adicionais:
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  |  02/05/2025 |  Criação do Documento | [Pedro Everton](https://github.com/pedroeverton217) | [Davi Camilo](https://github.com/Davicamilo23) |
+| `2.0` | 04/05/2025 | Reformatação do Texto, Imagens e Links | [Pedro Everton](https://github.com/pedroeverton217) | [Davi Camilo](https://github.com/Davicamilo23) |

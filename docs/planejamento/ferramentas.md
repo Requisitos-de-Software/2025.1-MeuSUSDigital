@@ -71,10 +71,10 @@ Para auxiliar na execução e organização do projeto, foram utilizadas diferen
 
 | Versão | Data       | Descrição                          | Autor(es)     | Revisor(es) |
 |--------|------------|------------------------------------|---------------|-------------|
-| `1.0`  | 12/04/2025 | Criação do Documento               | [Pedro](https://github.com/pedroeverton217) e [Davi](https://github.com/Davicamilo23)  | Todos |
-|  `1.1`  | 13/04/2025 |   Adição de novas ferramentas e reajuste da Tabela 1   | [Euller](https://github.com/potatoyz908) e [Tiago](https://github.com/TiagoBalieiro) | [Arthur](https://github.com/arthurevg) e [Davi](https://github.com/Davicamilo23) |
-|  `1.1.1`  | 13/04/2025 |   Ajustes nos textos e formatação das Referências Bibliográficas   | [Euller](https://github.com/potatoyz908) e [Tiago](https://github.com/TiagoBalieiro) | [Arthur](https://github.com/arthurevg) e [Davi](https://github.com/Davicamilo23) |
-| `1.2`   | 03/05/2025 | Adição de novas ferramentas | [Davi](https://github.com/Davicamilo23) | [Euller](https://github.com/potatoyz908) |
-| `1.2.1` | 03/05/2025 | Ajuste do formato do número da referência (semelhante a uma nota de rodapé) | [Davi](https://github.com/Davicamilo23) | [Euller](https://github.com/potatoyz908) |
-| `1.3`   | 04/05/2025 | Adição de nova ferramenta | [Davi](https://github.com/Davicamilo23) | [Pedro](https://github.com/pedroeverton217) |
-| `1.4`   | 04/05/2025 | Ajuste do tamanho de alguns logos | [Davi](https://github.com/Davicamilo23) | [Arthur](https://github.com/arthurevg) |
+| `1.0`  | 12/04/2025 | Criação do Documento               | [Pedro Everton](https://github.com/pedroeverton217) e [Davi Camilo](https://github.com/Davicamilo23)  | Todos |
+|  `1.1`  | 13/04/2025 |   Adição de novas ferramentas e reajuste da Tabela 1   | [Euller Júlio](https://github.com/potatoyz908) e [Tiago Antunes](https://github.com/TiagoBalieiro) | [Arthur Evangelista](https://github.com/arthurevg) e [Davi Camilo](https://github.com/Davicamilo23) |
+|  `1.1.1`  | 13/04/2025 |   Ajustes nos textos e formatação das Referências Bibliográficas   | [Euller Júlio](https://github.com/potatoyz908) e [Tiago Antunes](https://github.com/TiagoBalieiro) | [Arthur Evangelista](https://github.com/arthurevg) e [Davi Camilo](https://github.com/Davicamilo23) |
+| `1.2`   | 03/05/2025 | Adição de novas ferramentas | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/potatoyz908) |
+| `1.2.1` | 03/05/2025 | Ajuste do formato do número da referência (semelhante a uma nota de rodapé) | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/potatoyz908) |
+| `1.3`   | 04/05/2025 | Adição de nova ferramenta | [Davi Camilo](https://github.com/Davicamilo23) | [Pedro Everton](https://github.com/pedroeverton217) |
+| `1.4`   | 04/05/2025 | Ajuste do tamanho de alguns logos | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |

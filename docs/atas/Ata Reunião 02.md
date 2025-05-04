@@ -8,7 +8,7 @@
 - **Hora de Início:**  15h19
 - **Hora de Término:**  16h46
 - **Local:**  Teams (online)
-- **Redator:**  Davi
+- **Redator:**  [Davi Camilo](https://github.com/Davicamilo23)
 
 ### 👥 Participantes
 
@@ -83,12 +83,12 @@
 
 | Nº | Compromisso | Responsável | Prazo |
 |----|-------------|-------------|-------|
-| 1  | Acompanhar a resposta do professor quanto à pergunta no fórum do "Linha Direta!" | Gabriel | 20/04/2025 |
+| 1  | Acompanhar a resposta do professor quanto à pergunta no fórum do "Linha Direta!" | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | 20/04/2025 |
 | 2  | Alterar no GitHub (nome do repositório e README) e no GitPages (Home e Planejamento) as informações, caso a troca do aplicativo seja feita | Todos | 23/04/2025 |
 
 ## Histórico de Versão
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  |  17/04/2025 |  Criação do Documento | Davi  | Tiago |
-| `1.1`  |  23/04/2025 |  Adição do link da gravação ao documento | Davi | Pedro |
+| `1.0`  |  17/04/2025 |  Criação do Documento | [Davi Camilo](https://github.com/Davicamilo23)  | [Tiago Antunes](https://github.com/tiagobalieiro) |
+| `1.1`  |  23/04/2025 |  Adição do link da gravação ao documento | [Davi Camilo](https://github.com/Davicamilo23) | [Pedro Everton](https://github.com/pedroeverton217) |
