@@ -55,7 +55,7 @@
 | 1  | As técnicas de priorização escolhidas foram: **MoSCoW**, **Kano Model**, **100$** e **Three Level Scale**. | Decisão |
 | 2  | Foi discutido que todas as entregas pendentes devem ser concluídas até domingo (04/05/2025). | Decisão |
 | 3  | Cada integrante revisará suas tarefas e atualizará o GitPages com as informações necessárias. | Decisão |
-
+| 4 | Mudança de técnica de elicitação de 'Brainstorming' para 'análise de UI'| Decisao|
 ### Descrição dos tipos:
 
 - **Apresentação:** Exposição de tema, sem necessidade de aprovação.
@@ -75,7 +75,7 @@
 ## 📆 Próxima Reunião
 
 - **Data:**  04/05/2025
-- **Hora:**  14h
+- **Hora:**  20h
 
 ---
 
@@ -86,13 +86,15 @@
 | Nº | Compromisso | Responsável | Prazo |
 |----|-------------|-------------|-------|
 | 1  | Implementar as técnicas de priorização no GitPages (MoSCoW, Kano Model, 100$ e Three Level Scale). | Todos | 04/05/2025 |
-| 2  | Revisar e atualizar os artefatos pendentes da entrega 1. | Artur, Davi e Pedro | 04/05/2025 |
-| 3  | Finalizar o Rich Picture do Cinemark e adicionar ao GitPages. | Gabriel | 04/05/2025 |
+| 2  | Revisar e atualizar os artefatos pendentes da entrega 1. | Artur de Camargos, Davi Camilo e Pedro Everton| 04/05/2025 |
+| 3  | Finalizar o Rich Picture do Cinemark e adicionar ao GitPages. | Gabriel Castelo| 04/05/2025 |
 | 4  | Adicionar as técnicas de elicitação ao GitPages. | Todos | 04/05/2025 |
+
 
 ## Histórico de Versão
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  |  02/05/2025 |  Criação do Documento | Arthur  | Euller |
-| `1.1`  |  03/05/2025 |  Padronização da Ata | Davi | Arthur |
+| `1.0`  |  02/05/2025 |  Criação do Documento | [Arthur Evangelista](https://github.com/arthurevg)  | [Euller Júlio da Silva](https://github.com/Potatoyz908) |
+| `1.1`  |  03/05/2025 |  Padronização da Ata | [Davi Camilo Menezes](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.2` |04/05/2025| Correção na ata |[Arthur Evangelista](https://github.com/arthurevg)|[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
