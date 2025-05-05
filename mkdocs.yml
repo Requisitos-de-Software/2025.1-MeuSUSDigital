@@ -43,8 +43,10 @@ nav:
   - Inspeção:
     - Grupo:
       - Entrega 01: inspeções/inspeção-01.md
+      - Entrega 02: inspeções/inspeção-02.md
     - Grupo+1:
       - Entrega 01: inspeções/inspeção-grupo+1-01.md
+      - Entrega 02: inspeções/inspeção-grupo+1-02.md
 
   - Atas:
     - Reunião 01: atas/Ata Reunião 01.md
