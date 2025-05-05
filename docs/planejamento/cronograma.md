@@ -12,7 +12,7 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 
 Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Planejamento do Projeto</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Planejamento da Entrega 1</p></font>
 
 | Atividade                         | Período de desenvolvimento     | Responsáveis                                      | Revisão                     | Revisores                                      |
 |----------------------------------|--------------------------------|--------------------------------------------------|-----------------------------|------------------------------------------------|
@@ -31,7 +31,7 @@ Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira 
 
 Na Tabela 2, tem-se o cronograma executado para todas as atividades da primeira entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Planejamento do Projeto</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Execução da Entrega 1</p></font>
 
 | Atividade                         | Período de desenvolvimento     | Responsáveis                                      | Revisão                     | Revisores                                      |
 |----------------------------------|--------------------------------|--------------------------------------------------|-----------------------------|------------------------------------------------|
@@ -54,7 +54,7 @@ Na Tabela 2, tem-se o cronograma executado para todas as atividades da primeira 
 
 Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Planejamento da Entrega 2</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Planejamento da Entrega 2</p></font>
 
 | Atividade                                                                 | Período de desenvolvimento     | Responsáveis                                      | Revisão                     | Revisores                   |
 |--------------------------------------------------------------------------|--------------------------------|--------------------------------------------------|-----------------------------|-----------------------------|
@@ -69,15 +69,40 @@ Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda e
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
+### Executado
+
+Na Tabela 4, tem-se o cronograma executado para todas as atividades da segunda entrega.
+
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Execução da Entrega 2</p></font>
+
+| Atividade                                                                 | Período de desenvolvimento     | Responsáveis                                      | Revisão                     | Revisores                   |
+|--------------------------------------------------------------------------|--------------------------------|--------------------------------------------------|-----------------------------|-----------------------------|
+| Criação de personas e pesquisa perfis de usuários                        | Início: 04/05 <br>Fim: 04/05   | Davi e Pedro                              | Início: 04/05 <br>Fim: 04/05 | Gabriel e Euller             |
+| Estudo e definição das técnicas de elicitação de requisitos              | Início: 23/04 <br>Fim: 23/04   | Artur, Arthur, Davi, Euller, Pedro e Tiago                      | Início: 23/04 <br>Fim: 04/05 | Artur, Arthur, Davi, Euller, Gabriel, Pedro e Tiago               |
+| Realizar Análise de Interface de Usuário para elicitação de requisitos                        | Início: 03/05 <br>Fim: 03/05   | Arthur e Euller| Início: 03/05 <br>Fim: 04/05 | Davi, Euller e Tiago        |
+| Realizar Introspecção para elicitação de requisitos                        | Início: 02/05 <br>Fim: 02/05   | Arthur e Euller| Início: 02/05 <br>Fim: 04/05 | Arthur, Davi, Gabriel e Tiago        |
+| Realizar Questionário para elicitação de requisitos                        | Início: 28/04 <br>Fim: 04/05   | Artur e Tiago| Início: 04/05 <br>Fim: 04/05 | Artur        |
+| Realizar Storytelling para elicitação de requisitos                        | Início: 01/05 <br>Fim: 01/05   | Gabriel e Tiago| Início: 03/05 <br>Fim: 04/05 | Gabriel e Tiago        |
+| Estudo e definição das técnicas de priorização de requisitos             | Início: 02/05 <br>Fim: 02/05   | Artur, Arthur, Euller, Gabriel, Pedro e Tiago                       | Início: 02/05 <br>Fim: 04/05 | Artur, Arthur, Davi, Euller, Gabriel, Pedro e Tiago        |
+| Realizar 100$ para elicitação de requisitos                        | Início: 04/05 <br>Fim: 04/05   | Davi, Gabriel e Tiago                              | Início: 04/05 <br>Fim: 04/05 | Davi, Gabriel e Tiago               |
+| Realizar Kano Model para elicitação de requisitos                        | Início: 04/05 <br>Fim: 04/05   | Arthur e Euller                              | Início: 04/05 <br>Fim: 04/05 | Euller               |
+| Realizar MoSCoW para elicitação de requisitos                        | Início: 04/05 <br>Fim: 04/05   | Artur, Davi e Gabriel                              | Início: 04/05 <br>Fim: 04/05 | Davi               |
+| Realizar Three Level Scale para elicitação de requisitos                        | Início: 04/05 <br>Fim: 04/05   | Davi, Gabriel e Pedro                              | Início: 04/05 <br>Fim: 04/05 | Arthur               |
+| Priorização dos requisitos elicitados                                    | Início: 04/05 <br>Fim: 04/05   | Artur, Arthur, Davi, Euller, Gabriel, Pedro e Tiago| Início: 04/05 <br>Fim: 04/05 | Artur, Arthur, Davi, Euller, Gabriel, Pedro e Tiago                |
+| Gravação da Apresentação e Entrega                                       | Início: 04/05 <br>Fim: 04/05   | Artur, Arthur, Davi, Euller, Gabriel, Pedro e Tiago| Início: 04/05 <br>Fim: 04/05 | Artur, Arthur, Davi, Euller, Gabriel, Pedro e Tiago |
+| Correção Pós-Apresentação                                                | Início: 06/05 <br>Fim: 08/05   | Artur, Arthur, Davi, Euller, Gabriel, Pedro e Tiago| Início: 08/05 <br>Fim: 09/05 | Artur, Arthur, Davi, Euller, Gabriel, Pedro e Tiago |
+
+<font size="3"><p style="text-align: center">Fonte: Davi Camilo, 2025.</p></font>
+
 ---
 
 ## Entrega 3 - Modelagem de Requisitos
 
 ### Planejado
 
-Na Tabela 4, tem-se o cronograma planejado para todas as atividades da terceira entrega.
+Na Tabela 5, tem-se o cronograma planejado para todas as atividades da terceira entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Planejamento da Entrega 3</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Planejamento da Entrega 3</p></font>
 
 | Atividade                     | Período de desenvolvimento     | Responsáveis               | Revisão                     | Revisores           |
 |------------------------------|--------------------------------|----------------------------|-----------------------------|----------------------|
@@ -96,9 +121,9 @@ Na Tabela 4, tem-se o cronograma planejado para todas as atividades da terceira 
 
 ### Planejado
 
-Na Tabela 5, tem-se o cronograma planejado para todas as atividades da quarta entrega.
+Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Planejamento da Entrega 4</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Planejamento da Entrega 4</p></font>
 
 | Atividade                                       | Período de desenvolvimento     | Responsáveis           | Revisão                     | Revisores               |
 |------------------------------------------------|--------------------------------|------------------------|-----------------------------|--------------------------|
@@ -116,9 +141,9 @@ Na Tabela 5, tem-se o cronograma planejado para todas as atividades da quarta en
 
 ### Planejado
 
-Na Tabela 6, tem-se o cronograma planejado para todas as atividades da quinta entrega.
+Na Tabela 9, tem-se o cronograma planejado para todas as atividades da quinta entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Planejamento da Entrega 5</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 9</b> - Planejamento da Entrega 5</p></font>
 
 | Atividade                                              | Período de desenvolvimento     | Responsáveis         | Revisão                     | Revisores              |
 |-------------------------------------------------------|--------------------------------|----------------------|-----------------------------|-------------------------|
@@ -135,9 +160,9 @@ Na Tabela 6, tem-se o cronograma planejado para todas as atividades da quinta en
 
 ### Planejado
 
-Na Tabela 7, tem-se o cronograma planejado para todas as atividades da entrega final.
+Na Tabela 11, tem-se o cronograma planejado para todas as atividades da entrega final.
 
-<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Planejamento da Entrega Final</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 11</b> - Planejamento da Entrega Final</p></font>
 
 | Atividade                                        | Período de desenvolvimento     | Responsáveis         | Revisão                     | Revisores              |
 |-------------------------------------------------|--------------------------------|----------------------|-----------------------------|-------------------------|
@@ -163,4 +188,5 @@ Na Tabela 7, tem-se o cronograma planejado para todas as atividades da entrega f
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  |  13/04/2025 |  Criação do planejamento inicial do semestre | [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Tiago Antunes](https://github.com/TiagoBalieiro) | [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217) e [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.1`  |  16/04/2025 |  Adição do planejamento executado da entrega 01 e nomes em ordem alfabética | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Arthur Evangelista](https://github.com/arthurevg)|
-| `1.2`  |  04/05/2025 |  Adição das referências bibliográficas | [Artur de Camargos](https://github.com/ArturDCR) | [Davi Camilo](https://github.com/Davicamilo23)|
+| `1.2`  |  04/05/2025 |  Adição das referências bibliográficas | [Artur de Camargos](https://github.com/ArturDCR) | [Davi Camilo](https://github.com/Davicamilo23) |
+| `1.3`  |  04/05/2025 | Adição do cronograma executado da entrega 2 | [Davi Camilo](https://github.com/Davicamilo23) | [Pedro Everton](https://github.com/pedroeverton217) |
