@@ -3,6 +3,8 @@
 ## Introdução
 Este documento apresenta a priorização de requisitos para um sistema de venda de ingressos e gestão de cinemas, utilizando a técnica **MoSCoW**. Essa metodologia categoriza os requisitos em quatro grupos: **Must Have** (obrigatórios), **Should Have** (importantes), **Could Have** (desejáveis) e **Won't Have** (não prioritários). O objetivo é garantir o foco nas funcionalidades críticas para o sucesso do produto, alinhando-se às necessidades do usuário e às restrições técnicas.
 
+---
+
 ## Metodologia
 A priorização seguiu os critérios:
 - **Must Have**: Requisitos essenciais para o funcionamento básico do sistema.
@@ -40,6 +42,6 @@ A priorização seguiu os critérios:
 
 | Versão | Data       | Descrição                          | Autor(es)     | Revisor(es) |
 |--------|------------|------------------------------------|---------------|-------------|
-| `1.0`  | 04/05/2025 | Criação do Documento | [Davi](https://github.com/Davicamilo23) | Todos |
-| `1.1`  | 04/05/2025 | Incluindo dados da reunião | [Artur](https://github.com/ArturDCR) | [Davi](https://github.com/Davicamilo23) |
-| `1.2`  | 04/05/2025 | Atualização do link da reunião com o suário | [Artur](https://github.com/ArturDCR) | [Davi](https://github.com/Davicamilo23) |
+| `1.0`  | 04/05/2025 | Criação do Documento | [Davi Camilo](https://github.com/Davicamilo23) | Todos |
+| `1.1`  | 04/05/2025 | Incluindo dados da reunião | [Artur de Camargos](https://github.com/ArturDCR) | [Davi Camilo](https://github.com/Davicamilo23) |
+| `1.2`  | 04/05/2025 | Atualização do link da reunião com o suário | [Artur de Camargos](https://github.com/ArturDCR) | [Davi Camilo](https://github.com/Davicamilo23) |
