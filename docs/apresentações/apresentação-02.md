@@ -16,7 +16,7 @@ A apresentação foi gravada no dia 04/05/2025, com todos os membros presentes.
 
 <p style="text-align: center">
   <iframe width="560" height="315"
-          src="https://www.youtube.com/watch?v=63nDJKC6v1I"
+          src="https://www.youtube.com/embed/63nDJKC6v1I"
           title="YouTube video player"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
