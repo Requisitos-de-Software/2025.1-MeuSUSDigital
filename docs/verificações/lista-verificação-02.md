@@ -43,7 +43,7 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 | 07 | Os requisitos funcionais foram derivados com base nas interações observadas no sistema estudado? | [Euller Júlio](https://github.com/Potatoyz908) | WIEGERS, Karl E.; BEATTY, Joy. *Software Requirements*. 3. ed. Redmond: Microsoft Press, 2013. |
 | 08 | Inconsistências ou possíveis melhorias nos caminhos de navegação e interação foram detectadas durante a análise? | [Euller Júlio](https://github.com/Potatoyz908) | WIEGERS, Karl E.; BEATTY, Joy. *Software Requirements*. 3. ed. Redmond: Microsoft Press, 2013. |
 
-<font size="3"><p align="center">Fonte: Euller Júlio.</p></font>
+<font size="3"><p align="center">Fonte: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
 
 ## Tabela 3: Lista de Verificação — Técnica de Elicitação Storytelling
 
@@ -61,8 +61,9 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 |10 |Os requisitos foram ranqueados com base no total acumulado.                                              |[Gabriel Castelo](https://github.com/GabrielCastelo-31)|WIEGERS, Karl E.;BEATTY, Joy. **Software requirements**. Pearson Education, 2013. p.321                                                                                                                                     |
 |11 |Foram analisadas possíveis distorções (e.g., alocação de $100 em um único item).                         |[Gabriel Castelo](https://github.com/GabrielCastelo-31)|WIEGERS, Karl E.; BEATTY, Joy. **Software requirements**  Pearson Education, 2013. p.322                                                                                                                                    |
 |12 |Foram documentadas as justificativas para escolhas de maior prioridade.                                  |[Gabriel Castelo](https://github.com/GabrielCastelo-31)|WIEGERS, Karl E.; BEATTY, Joy. **Software requirements**. Pearson Education, 2013. p.205                                                                                                                                    |
+|13 |O entrevistador não influenciou a narrativa.                                                             |[Tiago Antunes Balieiro](https://github.com/TiagoBalieiro)|SINNIG, D.; PITULA,K.; BECKER, R.; RADHAKRISHNAN, T.; FORBRIG, P. Structured digital storytelling for eliciting software requirements in the ICT4D domain. In: FORBRIG, P.; PATERNÓ, F.; PEJTERSEN, A. M. (eds.). Human-Computer Interaction. HCIS 2010. IFIP Advances in Information and Communication Technology, v. 332. Berlin; Heidelberg: Springer, 2010. Disponível em: [https://doi.org/10.1007/978-3-642-15231-3_7](https://doi.org/10.1007/978-3-642-15231-3_7). Acesso em: 4 maio 2025. P. 61.                                                                                                                                   |
 
-<font size="3"><p align="center">Fonte: Gabriel Castelo.</p></font>
+<font size="3"><p align="center">Fonte: [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro).</p></font>
 
 ## Tabela 4: Lista de Verificação — Técnica de Priorização Modelo Kano
 
@@ -101,4 +102,4 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 | `1.2` | 04/05/2025 | Correções nas Referências Bibliográficas | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.3` | 04/05/2025 | Adição de checklist de StoryTelling | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.4` | 04/05/2025 | Remove coluna desnecessária da lista de storytelling | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
-| `1.5` | 04/05/2025 | Adição da lsta de verificação do Modelo Kano | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
+| `1.5` | 04/05/2025 | Adição de checklist do modelo Kano | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
