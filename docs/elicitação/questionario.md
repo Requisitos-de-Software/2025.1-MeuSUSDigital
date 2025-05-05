@@ -21,43 +21,43 @@ A seguir apresentamos os resultados obtidos através do questionário online. To
 <figure>
     <font size="3"><p style="text-align: center"><b>Figura 1</b> - Pergunta nº 1 do questionário.</p></font>
     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/questionario/pergunta1.png" alt="Pergunta 1">
-    <figcaption>Fonte: Autores</figcaption>
+    <figcaption>Fonte: <a href="https://github.com/TiagoBalieiro">Tiago Antunes Balieiro</a> e <a href="https://github.com/ArturDCR">Artur de Camargos Rodrigues</a>, 2025.</figcaption>
 </figure>
 
 <figure>
     <font size="3"><p style="text-align: center"><b>Figura 2</b> - Pergunta nº 2 do questionário.</p></font>
     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/questionario/pergunta2.png" alt="Pergunta 2">
-    <figcaption>Fonte: Autores</figcaption>
+    <figcaption>Fonte: <a href="https://github.com/TiagoBalieiro">Tiago Antunes Balieiro</a> e <a href="https://github.com/ArturDCR">Artur de Camargos Rodrigues</a>, 2025.</figcaption>
 </figure>
 
 <figure>
     <font size="3"><p style="text-align: center"><b>Figura 3</b> - Pergunta nº 3 do questionário.</p></font>
     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/questionario/pergunta3.png" alt="Pergunta 3">
-    <figcaption>Fonte: Autores</figcaption>
+    <figcaption>Fonte: <a href="https://github.com/TiagoBalieiro">Tiago Antunes Balieiro</a> e <a href="https://github.com/ArturDCR">Artur de Camargos Rodrigues</a>, 2025.</figcaption>
 </figure>
 
 <figure>
     <font size="3"><p style="text-align: center"><b>Figura 4</b> - Pergunta nº 4 do questionário.</p></font>
     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/questionario/pergunta4.png" alt="Pergunta 4">
-    <figcaption>Fonte: Autores</figcaption>
+    <figcaption>Fonte: <a href="https://github.com/TiagoBalieiro">Tiago Antunes Balieiro</a> e <a href="https://github.com/ArturDCR">Artur de Camargos Rodrigues</a>, 2025.</figcaption>
 </figure>
 
 <figure>
     <font size="3"><p style="text-align: center"><b>Figura 5</b> - Pergunta nº 5 do questionário.</p></font>
     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/questionario/pergunta5.png" alt="Pergunta 5">
-    <figcaption>Fonte: Autores</figcaption>
+    <figcaption>Fonte: <a href="https://github.com/TiagoBalieiro">Tiago Antunes Balieiro</a> e <a href="https://github.com/ArturDCR">Artur de Camargos Rodrigues</a>, 2025.</figcaption>
 </figure>
 
 <figure>
     <font size="3"><p style="text-align: center"><b>Figura 6</b> - Pergunta nº 6 do questionário.</p></font>
     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/questionario/pergunta6.png" alt="Pergunta 6">
-    <figcaption>Fonte: Autores</figcaption>
+    <figcaption>Fonte: <a href="https://github.com/TiagoBalieiro">Tiago Antunes Balieiro</a> e <a href="https://github.com/ArturDCR">Artur de Camargos Rodrigues</a>, 2025.</figcaption>
 </figure>
 
 <figure>
     <font size="3"><p style="text-align: center"><b>Figura 7</b> - Pergunta nº 7 do questionário.</p></font>
     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/questionario/pergunta7.png" alt="Pergunta 7">
-    <figcaption>Fonte: Autores</figcaption>
+    <figcaption>Fonte: <a href="https://github.com/TiagoBalieiro">Tiago Antunes Balieiro</a> e <a href="https://github.com/ArturDCR">Artur de Camargos Rodrigues</a>, 2025.</figcaption>
 </figure>
 
 ### Perguntas para quem já utilizou o aplicativo
@@ -65,73 +65,73 @@ A seguir apresentamos os resultados obtidos através do questionário online. To
 <figure>
     <font size="3"><p style="text-align: center"><b>Figura 8</b> - Pergunta nº 8 do questionário.</p></font>
     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/questionario/pergunta8.png" alt="Pergunta 8">
-    <figcaption>Fonte: Autores</figcaption>
+    <figcaption>Fonte: <a href="https://github.com/TiagoBalieiro">Tiago Antunes Balieiro</a> e <a href="https://github.com/ArturDCR">Artur de Camargos Rodrigues</a>, 2025.</figcaption>
 </figure>
 
 <figure>
     <font size="3"><p style="text-align: center"><b>Figura 9</b> - Pergunta nº 9 do questionário.</p></font>
     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/questionario/pergunta9.png" alt="Pergunta 9">
-    <figcaption>Fonte: Autores</figcaption>
+    <figcaption>Fonte: <a href="https://github.com/TiagoBalieiro">Tiago Antunes Balieiro</a> e <a href="https://github.com/ArturDCR">Artur de Camargos Rodrigues</a>, 2025.</figcaption>
 </figure>
 
 <figure>
     <font size="3"><p style="text-align: center"><b>Figura 10</b> - Pergunta nº 10 do questionário.</p></font>
     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/questionario/pergunta10.png" alt="Pergunta 10">
-    <figcaption>Fonte: Autores</figcaption>
+    <figcaption>Fonte: <a href="https://github.com/TiagoBalieiro">Tiago Antunes Balieiro</a> e <a href="https://github.com/ArturDCR">Artur de Camargos Rodrigues</a>, 2025.</figcaption>
 </figure>
 
 <figure>
     <font size="3"><p style="text-align: center"><b>Figura 11</b> - Pergunta nº 11 do questionário.</p></font>
     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/questionario/pergunta11.png" alt="Pergunta 11">
-    <figcaption>Fonte: Autores</figcaption>
+    <figcaption>Fonte: <a href="https://github.com/TiagoBalieiro">Tiago Antunes Balieiro</a> e <a href="https://github.com/ArturDCR">Artur de Camargos Rodrigues</a>, 2025.</figcaption>
 </figure>
 
 <figure>
     <font size="3"><p style="text-align: center"><b>Figura 12</b> - Pergunta nº 12 do questionário.</p></font>
     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/questionario/pergunta12.png" alt="Pergunta 12">
-    <figcaption>Fonte: Autores</figcaption>
+    <figcaption>Fonte: <a href="https://github.com/TiagoBalieiro">Tiago Antunes Balieiro</a> e <a href="https://github.com/ArturDCR">Artur de Camargos Rodrigues</a>, 2025.</figcaption>
 </figure>
 
 <figure>
     <font size="3"><p style="text-align: center"><b>Figura 13</b> - Pergunta nº 13 do questionário.</p></font>
     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/questionario/pergunta13.png" alt="Pergunta 13">
-    <figcaption>Fonte: Autores</figcaption>
+    <figcaption>Fonte: <a href="https://github.com/TiagoBalieiro">Tiago Antunes Balieiro</a> e <a href="https://github.com/ArturDCR">Artur de Camargos Rodrigues</a>, 2025.</figcaption>
 </figure>
 
 <figure>
     <font size="3"><p style="text-align: center"><b>Figura 14</b> - Pergunta nº 14 do questionário.</p></font>
     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/questionario/pergunta14.png" alt="Pergunta 14">
-    <figcaption>Fonte: Autores</figcaption>
+    <figcaption>Fonte: <a href="https://github.com/TiagoBalieiro">Tiago Antunes Balieiro</a> e <a href="https://github.com/ArturDCR">Artur de Camargos Rodrigues</a>, 2025.</figcaption>
 </figure>
 
 <figure>
     <font size="3"><p style="text-align: center"><b>Figura 15</b> - Pergunta nº 15 do questionário.</p></font>
     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/questionario/pergunta15.png" alt="Pergunta 15">
-    <figcaption>Fonte: Autores</figcaption>
+    <figcaption>Fonte: <a href="https://github.com/TiagoBalieiro">Tiago Antunes Balieiro</a> e <a href="https://github.com/ArturDCR">Artur de Camargos Rodrigues</a>, 2025.</figcaption>
 </figure>
 
 <figure>
     <font size="3"><p style="text-align: center"><b>Figura 16</b> - Pergunta nº 16 do questionário.</p></font>
     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/questionario/pergunta16.png" alt="Pergunta 16">
-    <figcaption>Fonte: Autores</figcaption>
+    <figcaption>Fonte: <a href="https://github.com/TiagoBalieiro">Tiago Antunes Balieiro</a> e <a href="https://github.com/ArturDCR">Artur de Camargos Rodrigues</a>, 2025.</figcaption>
 </figure>
 
 <figure>
     <font size="3"><p style="text-align: center"><b>Figura 17</b> - Pergunta nº 17 do questionário.</p></font>
     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/questionario/pergunta17.png" alt="Pergunta 17">
-    <figcaption>Fonte: Autores</figcaption>
+    <figcaption>Fonte: <a href="https://github.com/TiagoBalieiro">Tiago Antunes Balieiro</a> e <a href="https://github.com/ArturDCR">Artur de Camargos Rodrigues</a>, 2025.</figcaption>
 </figure>
 
 <figure>
     <font size="3"><p style="text-align: center"><b>Figura 18</b> - Pergunta nº 18 do questionário.</p></font>
     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/questionario/pergunta18.png" alt="Pergunta 18">
-    <figcaption>Fonte: Autores</figcaption>
+    <figcaption>Fonte: <a href="https://github.com/TiagoBalieiro">Tiago Antunes Balieiro</a> e <a href="https://github.com/ArturDCR">Artur de Camargos Rodrigues</a>, 2025.</figcaption>
 </figure>
 
 <figure>
     <font size="3"><p style="text-align: center"><b>Figura 19</b> - Pergunta nº 19 do questionário.</p></font>
     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/questionario/pergunta19.png" alt="Pergunta 19">
-    <figcaption>Fonte: Autores</figcaption>
+    <figcaption>Fonte: <a href="https://github.com/TiagoBalieiro">Tiago Antunes Balieiro</a> e <a href="https://github.com/ArturDCR">Artur de Camargos Rodrigues</a>, 2025.</figcaption>
 </figure>
 
 ### Perguntas para quem nunca utilizou o aplicativo
@@ -139,25 +139,25 @@ A seguir apresentamos os resultados obtidos através do questionário online. To
 <figure>
     <font size="3"><p style="text-align: center"><b>Figura 20</b> - Pergunta nº 20 do questionário.</p></font>
     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/questionario/pergunta20.png" alt="Pergunta 20">
-    <figcaption>Fonte: Autores</figcaption>
+    <figcaption>Fonte: <a href="https://github.com/TiagoBalieiro">Tiago Antunes Balieiro</a> e <a href="https://github.com/ArturDCR">Artur de Camargos Rodrigues</a>, 2025.</figcaption>
 </figure>
 
 <figure>
     <font size="3"><p style="text-align: center"><b>Figura 21</b> - Pergunta nº 21 do questionário.</p></font>
     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/questionario/pergunta21.png" alt="Pergunta 21">
-    <figcaption>Fonte: Autores</figcaption>
+    <figcaption>Fonte: <a href="https://github.com/TiagoBalieiro">Tiago Antunes Balieiro</a> e <a href="https://github.com/ArturDCR">Artur de Camargos Rodrigues</a>, 2025.</figcaption>
 </figure>
 
 <figure>
     <font size="3"><p style="text-align: center"><b>Figura 22</b> - Pergunta nº 22 do questionário.</p></font>
     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/questionario/pergunta22.png" alt="Pergunta 22">
-    <figcaption>Fonte: Autores</figcaption>
+    <figcaption>Fonte: <a href="https://github.com/TiagoBalieiro">Tiago Antunes Balieiro</a> e <a href="https://github.com/ArturDCR">Artur de Camargos Rodrigues</a>, 2025.</figcaption>
 </figure>
 
 <figure>
     <font size="3"><p style="text-align: center"><b>Figura 23</b> - Pergunta nº 23 do questionário.</p></font>
     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/questionario/pergunta23.png" alt="Pergunta 23">
-    <figcaption>Fonte: Autores</figcaption>
+    <figcaption>Fonte: <a href="https://github.com/TiagoBalieiro">Tiago Antunes Balieiro</a> e <a href="https://github.com/ArturDCR">Artur de Camargos Rodrigues</a>, 2025.</figcaption>
 </figure>
 
 
