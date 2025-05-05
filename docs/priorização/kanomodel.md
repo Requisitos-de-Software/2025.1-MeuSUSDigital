@@ -16,7 +16,7 @@ As categorias principais do modelo são:
 
 ## Metodologia
 
-Para a aplicação da técnica de priorização do modelo Kano, foi desenvolvido um questionário com base nos critérios definidos para os requisitos do sistema. O questionário foi disponibilizado para um grupo de usuários selecionados, que responderam de acordo com suas preferências e expectativas sobre as funcionalidades do sistema. As respostas foram então analisadas para categorizar as funcionalidades em diferentes categorias do modelo Kano, como é possíver observar na tabela 1.
+Para a aplicação da técnica de priorização do modelo Kano, foi desenvolvido um questionário com base nos critérios definidos para os requisitos do sistema. O questionário foi disponibilizado para um grupo de usuários selecionados, que responderam de acordo com suas preferências e expectativas sobre as funcionalidades do sistema. As respostas foram então analisadas com base na figura 1 para categorizar as funcionalidades em diferentes categorias do modelo Kano, como é possível observar na tabela 1.
 
 
  <figure>
