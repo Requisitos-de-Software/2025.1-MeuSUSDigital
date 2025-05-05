@@ -20,7 +20,7 @@ A seguir apresentamos os resultados obtidos através do questionário online. To
 
 <figure>
     <font size="3"><p style="text-align: center"><b>Figura 1</b> - Pergunta nº 1 do questionário.</p></font>
-    <img src="/assets/questionario/pergunta1.png" alt="Pergunta 1">
+    <img src="../assets/questionario/pergunta1.png" alt="Pergunta 1">
     <figcaption>Fonte: Autores</figcaption>
 </figure>
 
@@ -215,4 +215,4 @@ Legenda:
 | Versão | Data       | Descrição                          | Autor(es)     | Revisor(es) |
 |--------|------------|------------------------------------|---------------|-------------|
 | `1.0`  | 04/05/2025 | Criação do Documento | [Davi](https://github.com/Davicamilo23) | Todos |
-| `1.1`  | 04/05/2025 | Criação do Documento | [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | Todos |
+| `1.1`  | 04/05/2025 | Criação do Documento | [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
