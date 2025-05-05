@@ -43,7 +43,7 @@ A priorização é definida pela combinação de **importância** (contribuiçã
 Após estudo da técnica, entramos em contato, e marcamos uma reunião, com um cliente. Desta forma, garantindo que relevância e peso real para as classificações de cada requisito. Na reunião foi utilizado um quadro virtual do miro para auxílio visual. Estavam presentes os integrantes Davi Camilo, Gabriel Castelo e Pedro Everton e o cliente João Victor Marques Leal.
 
 ### Gravação
-[Link]
+[Link](https://unbbr-my.sharepoint.com/personal/221008051_aluno_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2F221008051%5Faluno%5Funb%5Fbr%2FDocuments%2FGrava%C3%A7%C3%B5es%2FPrioriza%C3%A7%C3%A3o%20100%24%2D20250504%5F201833%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8e9429a8%2D7697%2D4c3a%2Da295%2Dbf677d97392a&isSPOFile=1&xsdata=MDV8MDJ8fGYwMTkxZmMzMWU0ZTQ4ZGNkZDc2MDhkZDhiNjg4ZDU1fGVjMzU5YmExNjMwYjRkMmJiODMzYzhlNmQ0OGY4MDU5fDB8MHw2Mzg4MjAwMDMzMjA1NTI4MjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPbTFsWlhScGJtZGZXa1JTYVZsVVl6TlpiVTEwVG5wU2FFNXBNREJOZWxWM1RGUm5lbGxxV1hSUFYxVXdXbXBOZUZwcVdtaE9SRUY2UUhSb2NtVmhaQzUyTWk5dFpYTnpZV2RsY3k4eE56UTJOREF6TlRNeE1EUTF8YTQ2NmM4OGJiMDkxNDEwM2RkNzYwOGRkOGI2ODhkNTV8NDE0NzEwODU3OWU2NGVjYTg5ZjA5OTQ4MjE0MDY3Nzk%3D&sdata=S1ArUVIxS2FqS1FHVHJJMmVGc3JnUFB2UmRXVDhrUUpwMGlPM0dMMmJoaz0%3D&ovuser=ec359ba1%2D630b%2D4d2b%2Db833%2Dc8e6d48f8059%2C221008768%40aluno%2Eunb%2Ebr&OR=Teams%2DHL&CT=1746403563391&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIxNDE1LzI1MDQwMzE5MTEzIiwiSGFzRmVkZXJhdGVkVXNlciI6ZmFsc2V9)
 
 ## Resultados
 
@@ -114,4 +114,4 @@ Dos 57 requisitos elicitados, tivemos 6 classificados com Baixa prioridade, 7 cl
 | Versão | Data       | Descrição                          | Autor(es)     | Revisor(es) |
 |--------|------------|------------------------------------|---------------|-------------|
 | `1.0`  | 04/05/2025 | Criação do Documento | [Davi](https://github.com/Davicamilo23) | Todos |
-|`2.0`| 04/05/2025 | Elaboração da Técnica e Registro dos Resultados | [Pedro Everton](https://github.com/pedroeverton217), [Davi Camilo](https://github.com/Davicamilo23) e [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31) |
+|`2.0`| 04/05/2025 | Elaboração da Técnica e Registro dos Resultados | [Pedro Everton](https://github.com/pedroeverton217), [Davi Camilo](https://github.com/Davicamilo23) e [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31) | [Arthur Evangelista](https://github.com/arthurevg) |
