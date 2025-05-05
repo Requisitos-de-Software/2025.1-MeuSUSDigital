@@ -29,6 +29,7 @@ nav:
       - MoSCoW: priorização/moscow.md
       - Three Level Scale: priorização/threelevelscale.md
     - Requisitos Elicitados: elicitação/requisitosElicitados.md
+
   - Apresentação:
     - Entrega 01: apresentações/apresentação-01.md
 
@@ -37,8 +38,8 @@ nav:
       - Entrega 01: verificações/lista-verificação-01.md
       - Entrega 02: verificações/lista-verificação-02.md
     - Grupo+1:
-      - Entrega 01: verificações/lista-verificação-01.md
-      - Entrega 02: verificações/lista-verificação-02.md
+      - Entrega 01: verificações/lista-verificação-01+1.md
+      - Entrega 02: verificações/lista-verificação-02+1.md
 
   - Inspeção:
     - Grupo:

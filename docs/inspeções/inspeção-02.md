@@ -72,10 +72,10 @@ Abaixo se encontra a inspeção da entrega do grupo. A inspeção foi realizada 
 
 | Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
 |---------|-------|------------|--------|--------|
-| **1.** Foram listadas todas as funcionalidades e atributos do produto que serão avaliados? | ADAV, Sachendra |  | 05/05/2025 |  |  |
+| **1.** Foram listadas todas as funcionalidades e atributos do produto que serão avaliados? |  | 05/05/2025 |  |  |
 | **2.** Você coletou feedback dos usuários sobre cada funcionalidade, considerando tanto a presença quanto a ausência delas? |  | 05/05/2025 |  |  |
 | **3.** Você classificou cada funcionalidade nas categorias do Modelo de Kano: Necessidades Básicas, Desempenho, Agradáveis, Indiferentes ou Rejeitadas? |  | 05/05/2025 |  |  |
-| **4.** As perguntas seguiram o formato correto de sentimento com presença/ausência da funcionalidade? | ADAV, Sachendra |  | 05/05/2025 |  |  |
+| **4.** As perguntas seguiram o formato correto de sentimento com presença/ausência da funcionalidade? |  | 05/05/2025 |  |  |
 | **5.** Os usuários responderam com uma das cinco categorias (gosto, espero, não me importo, posso tolerar, não gosto)? |  | 05/05/2025 |  |  |
 | **6.** As funcionalidades existentes foram listadas e agrupadas por área (ex: compra de ingressos, fidelidade, interface)? |  | 05/05/2025 |  |  |
 | **7.** As funcionalidades classificadas como “Indiferentes” ou “Rejeitadas” foram analisadas para possível descontinuação ou revisão? |  | 05/05/2025 |  |  |
