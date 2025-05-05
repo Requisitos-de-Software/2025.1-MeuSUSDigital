@@ -114,4 +114,4 @@ Dos 57 requisitos elicitados, tivemos 6 classificados com Baixa prioridade, 7 cl
 | Versão | Data       | Descrição                          | Autor(es)     | Revisor(es) |
 |--------|------------|------------------------------------|---------------|-------------|
 | `1.0`  | 04/05/2025 | Criação do Documento | [Davi](https://github.com/Davicamilo23) | Todos |
-|`2.0`| 04/05/2025 | Elaboração da Técnica e Registro dos Resultados | [Pedro Everton](https://github.com/pedroeverton217), [Davi Camilo](https://github.com/Davicamilo23) e [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31) | [Arthur Evangelista](https://github.com/arthurevg) |
+|`2.0`| 04/05/2025 | Realização da Técnica e Registro dos Resultados | [Pedro Everton](https://github.com/pedroeverton217), [Davi Camilo](https://github.com/Davicamilo23) e [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31) | [Arthur Evangelista](https://github.com/arthurevg) |
