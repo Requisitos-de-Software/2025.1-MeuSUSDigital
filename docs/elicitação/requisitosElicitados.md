@@ -1,11 +1,16 @@
 ## Introdução
+
 A partir das técnicas de elicitação aplicadas (storytelling, questionário, introspecção e análise de interface de usuário), foram levantados e documentados os requisitos do sistema. A Tabela 1 apresenta os requisitos elicitados, categorizando-os em requisitos funcionais (RF) e não funcionais (RNF), bem como seu status atual de implementação e a rastreabilidade com as fontes que os originaram.
+
+---
 
 ## Metodologia
 
 A elicitação dos requisitos foi realizada utilizando quatro técnicas: **storytelling**, **questionário**, **introspecção** e **análise de interface de usuário**. Cada técnica foi aplicada para identificar funcionalidades e características do sistema, resultando na documentação apresentada na Tabela 1.
 
 Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisitos Não Funcionais (RNF)**, com rastreabilidade às fontes que os originaram. A Tabela 1 também apresenta o status de implementação de cada requisito na data atual(04/05/2025), permitindo o acompanhamento do progresso do projeto.
+
+---
 
 ##  Legenda da tabela 1
 
@@ -17,8 +22,7 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 - ST: Requisito elicitado pela técnica de [Storytelling](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/storytelling/)
 - XX: Requisito elicitado pela técnica de [Questionário](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/questionario/)
 
-## Requisitos
-### Tabela 1 – Requisitos Elicitados(Versão 1)
+## Tabela 1 – Requisitos Elicitados (Versão 1)
 
 | ID   | Descrição                                                                                                             | Rastreabilidade      | Categoria | Implementado |
 | ---- | --------------------------------------------------------------------------------------------------------------------- | -------------------- | --------- | ------------ |
@@ -39,7 +43,7 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 | RQ15 | Integrar bomboniere ao app para compra antecipada de itens e retirada rápida                                          | IS11, AI12           | RF        | Sim          |
 | RQ16 | Exibir resumo da compra e permitir aplicação de cupom de desconto                                                     | AI13, AI29           | RF        | Sim          |
 | RQ17 | Gerar QR Code e chave Pix para pagamentos via Pix                                                                     | AI15                 | RF        | Sim          |
-| RQ18 | Disponibilizar ingresso digital no app, eliminando a necessidade de impressão                                         | IS9                  | RF        | Sim          |
+| RQ18 | Disponibilizar ingresso digital no app, eliminando a necessidade de impressão                                         | IS9, ST03                  | RF        | Sim          |
 | RQ19 | Salvar automaticamente ingressos na seção “Meus Ingressos” após confirmação de compra                                        | AI16                 | RF        | Sim          |
 | RQ20 | Permitir criação de conta (nome, e-mail, senha, CPF) e login com Google/redes sociais                                      | AI17, IS26           | RF        | Parcial          |
 | RQ21 | Recuperação de conta: enviar link de redefinição de senha por e-mail, recuperar e-mail via CPF e redefinir com código | AI18, AI19, AI20     | RF        | Sim          |
@@ -59,13 +63,13 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 | RQ35 | Exibir notificações e promoções com título, descrição e validade                                                      | AI32                 | RF        | Sim          |
 | RQ36 | Impedir avanço para pagamento com carrinho vazio                                                                      | AI30                 | RF        | Sim          |
 | RQ37 | Criar e editar perfil do usuário, gerenciar dados pessoais e métodos de pagamento                                     | AI31                 | RF        | Sim          |
-| RQ38 | Mensagens de erro claras e confirmações de ações para o usuário                                                       | ST05, IS28 | RF        | Sim      |
+| RQ38 | Mensagens de erro claras e confirmações de ações para o usuário                                                       | ST05, IS37 | RF        | Sim      |
 | RQ39 | Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas                                 | IS15| RF        | Não          |
 | RQ40 | Tempo de resposta de até 3 segundos em telas críticas (seleção de assentos, pagamento)                                | IS29                 | RNF       | Sim          |
 | RQ41 | Garantir uptime de 99,5% para funções críticas                                                                        | AI28                 | RNF       | Sim          |
 | RQ42 | Sistema responsivo e adaptável a diferentes tamanhos de tela (smartphone e tablet)                                    | AI24                 | RNF       | Sim          |
 | RQ43 | Interface intuitiva, com navegação fácil e boa usabilidade                                                            | IS28                 | RNF       | Sim          |
-| RQ44 | Interface acessível para pessoas com deficiência visual (leitores de tela) e baixo-visão                              | IS35, AI25           | RNF       | Não          |
+| RQ44 | Interface acessível para pessoas com deficiência visual (leitores de tela) e baixo-visão                              | IS35, AI25, ST05           | RNF       | Não          |
 | RQ45 | Contraste de interface conforme WCAG A/AA                                                                             | AI25                 | RNF       | Não          |
 | RQ46 | Garantir legenda clara para cores e ícones no mapa de assentos                                                        | AI22                 | RNF       | Sim          |
 | RQ47 | Atualizar automaticamente o valor total conforme seleção de ingressos e produtos                                      | AI23                 | RNF       | Sim          |
@@ -81,11 +85,11 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 | RQ57 | Validar dados pessoais no perfil antes de salvar                                                                      | AI36                 | RNF       | Sim          |
 
 **Observações:**
+
 - **RQ20:** O login com google e redes sociais ainda não foi implementado.
 
 
-<font size="3"><p style="text-align: center">Autor(a): [Arthur Evangelista de Oliveira](https://github.com/arthurevg)</p></font>
-
+<font size="3"><p style="text-align: center">Autor(a): [Arthur Evangelista de Oliveira](https://github.com/arthurevg), 2025.</p></font>
 
 ---
 
@@ -93,5 +97,8 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  |  04/05/2025 |  Criação do Documento com Introdução, metodologia, e tabela com os requisitos elicitados |[Arthur](https://github.com/arthurevg) | Todos
+| `1.0`  |  04/05/2025 |  Criação do Documento com Introdução, metodologia, e tabela com os requisitos elicitados |[Arthur Evangelista](https://github.com/arthurevg) | Todos |
+| `1.1`  |  04/05/2025 | Ajuste na formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.2`  |  04/05/2025 | Correções na rastreabilidade de alguns itens | [Arthur Evangelista](https://github.com/arthurevg)| [Artur de Camargos](https://github.com/ArturDCR) |
+| `1.3`  |  04/05/2025 | Correções na rastreabilidade do RQ38 | [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
 

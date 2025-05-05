@@ -87,7 +87,7 @@
 |----|-------------|-------------|-------|
 | 1  | Implementar as técnicas de priorização no GitPages (MoSCoW, Kano Model, 100$ e Three Level Scale). | Todos | 04/05/2025 |
 | 2  | Revisar e atualizar os artefatos pendentes da entrega 1. | [Artur de Camargos](https://github.com/ArturDCR), [Davi Camilo](https://github.com/Davicamilo23) e [Pedro Everton](https://github.com/pedroeverton217)| 04/05/2025 |
-| 3  | Finalizar o Rich Picture do Cinemark e adicionar ao GitPages. | Gabriel Castelo| 04/05/2025 |
+| 3  | Finalizar o Rich Picture do Cinemark e adicionar ao GitPages. | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | 04/05/2025 |
 | 4  | Adicionar as técnicas de elicitação ao GitPages. | Todos | 04/05/2025 |
 
 

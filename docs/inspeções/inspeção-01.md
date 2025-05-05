@@ -48,9 +48,16 @@ Abaixo se encontra a inspeção da entrega do grupo. A inspeção foi realizada 
 
 ---
 
+## Referências Bibliográficas
+
+> - **SALES, André Barros de.** *Plano de Ensino – Requisitos de Software: REE012025 – Turma 03*. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. p. 1-2. Disponível em: [Lista de Verificação da Etapa 1](../assets/Lista%20de%20Verificação%201%20-%20Plano_de_Ensino.pdf). Acesso em: 4 mai. 2025.
+
+---
+
 ## Histórico de Versão
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  |  04/05/2025 |  Criação do Documento | [Davi Camilo](https://github.com/Davicamilo23) | [Pedro Everton](https://github.com/pedroeverton217) |
 | `1.1`  |  04/05/2025 |  Correção da lista de inspeção | [Davi Camilo](https://github.com/Davicamilo23) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
+| `1.2`  |  04/05/2025 | Inclusão das referências bibliográficas | [Artur de Camargos](https://github.com/ArturDCR) | [Davi Camilo](https://github.com/Davicamilo23) |

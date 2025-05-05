@@ -6,6 +6,8 @@ A análise de interface de usuário (UI) é uma técnica de elicitação de requ
 
 Durante o processo de análise, o engenheiro de requisitos observa a interface e as interações com ela, levando em consideração aspectos como layout, design visual, consistência, feedback ao usuário, entre outros. O objetivo é identificar pontos de melhoria na interface, compreender as expectativas dos usuários e garantir que os requisitos de usabilidade sejam atendidos.
 
+---
+
 ## Participantes
 
 | Nome                                                   | Papel                  |
@@ -13,11 +15,15 @@ Durante o processo de análise, o engenheiro de requisitos observa a interface e
 | [Arthur Evangelista de Oliveira](https://github.com/arthurevg) | Analista de requisitos |
 | [Euller Júlio da Silva](https://github.com/Potatoyz908) | Analista de requisitos |
 
+---
+
 ## Metodologia
 
 A análise de interface de usuário foi realizada de forma colaborativa, com os participantes avaliando diferentes telas do aplicativo *Cinemark*. Para cada tela, foram observados elementos como a disposição dos botões, navegação, feedback visual e interação do usuário com as funcionalidades disponíveis. Os participantes também avaliaram a consistência do design, a facilidade de uso e a acessibilidade do sistema.
 
 A análise foi conduzida de forma qualitativa, sem a utilização de protótipos ou testes com usuários reais. O foco foi identificar pontos de melhoria na interface que poderiam otimizar a experiência do usuário e atender melhor às suas necessidades e expectativas.
+
+---
 
 ## Tabela 1 - de Análise de Telas
 
@@ -38,11 +44,14 @@ A análise foi conduzida de forma qualitativa, sem a utilização de protótipos
 | Perfil / Configurações             |[Euller Júlio da Silva](https://github.com/Potatoyz908)     | Permitir acesso a configurações e personalização da conta.                                                                                        | Menu “Mais” com as opções: Pedidos, Notificações, Meus dados, Senha e biometria, Pagamento, Promoções, Termos e Condições, Atendimento, Sobre o app, Avaliar na Google Play | Cada opção leva a uma tela específica; permite editar dados pessoais, alterar senha, ativar/desativar biometria e gerenciar métodos de pagamento; acesso a suporte e informações legais. |
 | Notificações / promoções           |[Euller Júlio da Silva](https://github.com/Potatoyz908)     | Exibir notificações recentes e promoções disponíveis.                                                                                             | Lista de notificações e promoções com título, descrição e, em alguns casos, imagem; botão ou link “Ver mais”                      | Promoções possuem validade e podem desaparecer após expirar; algumas notificações direcionam para páginas específicas (como filmes ou eventos).                               |
 
+<font size="3"><p style="text-align: center">Fonte: [Arthur Evangelista de Oliveira](https://github.com/arthurevg) e [Euller Júlio da Silva](https://github.com/Potatoyz908), 2025.</p></font>
 
-<font size="3"><p style="text-align: center">Fonte: [Arthur Evangelista de Oliveira](https://github.com/arthurevg) e [Euller Júlio da Silva](https://github.com/Potatoyz908).</p></font>
+---
 
 ## Requisitos Elicitados
 Os requisitos elicitados a partir da análise de interfaces de usuário foram organizados de forma estruturada para facilitar a visualização do comportamento esperado do sistema. As tabelas 2 e 3 apresentam os Requisitos Funcionais (RF) e os não funcionais (RNF) identificados, agrupados por tela, com suas respectivas funcionalidades, elementos de interação e regras de negócio observadas durante a atividade de avaliação.
+
+---
 
 ## Legenda das Tabelas 2 e 3
 
@@ -80,12 +89,9 @@ Os requisitos elicitados a partir da análise de interfaces de usuário foram or
 | RF   | O sistema deve permitir editar dados pessoais, alterar senha e gerenciar métodos de pagamento no perfil/configurações.               | AI31 | Sim          |
 | RF   | O sistema deve exibir notificações e promoções com título, descrição e validade.                                                     | AI32 | Sim          |
 
----
-
-<font size="3"><p style="text-align: center">Fonte: [Arthur Evangelista de Oliveira](https://github.com/arthurevg) e [Euller Júlio da Silva](https://github.com/Potatoyz908).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Arthur Evangelista de Oliveira](https://github.com/arthurevg) e [Euller Júlio da Silva](https://github.com/Potatoyz908), 2025.</p></font>
 
 ## Tabela 3 - Requisitos Não Funcionais
-
 
 | Tipo | Descrição                                                                                                              | ID   | Implementado |
 | ---- | ---------------------------------------------------------------------------------------------------------------------- | ---- | ------------ |
@@ -102,18 +108,19 @@ Os requisitos elicitados a partir da análise de interfaces de usuário foram or
 | RNF  | O sistema deve garantir que promoções expiradas sejam removidas automaticamente da tela de notificações.               | AI35 | Sim          |
 | RNF  | O sistema deve garantir que dados pessoais editados no perfil sejam validados antes de serem salvos.                   | AI36 | Sim          |
 
+<font size="3"><p style="text-align: center">Fonte: [Arthur Evangelista de Oliveira](https://github.com/arthurevg) e [Euller Júlio da Silva](https://github.com/Potatoyz908), 2025.</p></font>
+
 ---
 
-<font size="3"><p style="text-align: center">Fonte: [Arthur Evangelista de Oliveira](https://github.com/arthurevg) e [Euller Júlio da Silva](https://github.com/Potatoyz908).</p></font>
-
 ## Bibliografia
-> 1. Cinemark Brasil. Disponível em: <https://www.cinemark.com.br>. Acesso em: 3 mai. 2025.
+> 1. Cinemark Brasil. Disponível em: <https://www.cinemark.com.br>. Acesso em: 3 maio 2025.
 > 2. WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013.
 
+---
 
-## Histórico de Versões
+## Histórico de Versão
 
-| Versão | Data       | Descrição                                                                                      | Autor(es)                                         | Revisor(es) |
-| ------ | ---------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------ |
-| 1.0    | 03/04/2025 | Criação da página 'Análise de UI', contendo introdução, metodologia, análise e os requisitos elicitados | [Arthur Evangelista](https://github.com/arthurevg) e [Euller Júlio](https://github.com/Potatoyz908) | [Davi Camilo](https://github.com/Davicamilo23) e [Tiago Antunes](https://github.com/TiagoBalieiro)|
-
+| Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
+| ------ | ------------- | ---------------------------------- | ------------- | ------------- |
+| `1.0`  | 03/04/2025 | Criação da página 'Análise de UI', contendo introdução, metodologia, análise e os requisitos elicitados | [Arthur Evangelista](https://github.com/arthurevg) e [Euller Júlio](https://github.com/Potatoyz908) | [Davi Camilo](https://github.com/Davicamilo23) e [Tiago Antunes](https://github.com/TiagoBalieiro) |
+| `1.1`  | 04/05/2025 | Ajuste na formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
