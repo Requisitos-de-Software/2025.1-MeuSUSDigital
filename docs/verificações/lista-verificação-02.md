@@ -47,20 +47,22 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 ## Tabela 3: Lista de Verificação — Técnica de Elicitação Storytelling
 
-| ID | Descrição | Avaliação (Conforme/Não Conforme) | Autores | Referência |
-| --- | ----- | ----- | ----- | ----- |
-| 1 | Todos os participantes compreendem a técnica dos $100 e seu objetivo. |  |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| WIEGERS, Karl E.; BEATTY, Joy. **Software requirements**. Pearson Education, 2013. p.321 |
-| 2 | A lista completa de requisitos candidatos está disponível e é compreensível para todos. |  |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| SOMMERVILLE, Ian. ***Engenharia de software***. 9. ed. São Paulo: Pearson Prentice Hall, 2011. 58 p. Tradução de Ivan Bosnic e Kalinka G. de O. Gonçalves. |
-| 3 | Os requisitos foram identificados de forma única e escritos de maneira clara e direta? |  |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| REINEHR, Sheila. **Engenharia de requisitos**. Porto Alegre: SAGAH, 2020. *E-book.* p.230. ISBN 9786556900674. Disponível em: https://integrada.minhabiblioteca.com.br/reader/books/9786556900674/. Acesso em: 04 mai. 2025. |
-| 4 | Há um número limitado e razoável de requisitos para não sobrecarregar os participantes. |  |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| MA, Qiao. **The effectiveness of requirements prioritization techniques for a medium to large number of requirements: a systematic literature review.** Auckland University of Technology, 2009. p.27 |
-| 5 | Cada participante recebeu $100 imaginários para distribuir entre os requisitos. |  |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| WIEGERS, Karl E.; BEATTY, Joy. **Software requirements**. Pearson Education, 2013. p.321  |
-| 6 | Participantes foram instruídos a distribuir os valores proporcionalmente à importância percebida. |  |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| WIEGERS, Karl E.; BEATTY, Joy. **Software requirements**. Pearson Education, 2013. p.321 |
-| 7 | Foi evitado o uso de toda a quantia em um único requisito, exceto se justificado de forma coerente. |  |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| WIEGERS, Karl E.; BEATTY, Joy. **Software requirements**. Pearson Education, 2013. p.321 |
-| 8 | Foi informado que a alocação deve considerar o sistema como um todo, e não apenas interesses individuais. |  |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| WIEGERS, Karl E.; BEATTY, Joy. **Software requirements**. Pearson Education, 2013. p.321 |
-| 9 | Os valores atribuídos a cada requisito foram somados corretamente. |  |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| WIEGERS, Karl E.; BEATTY, Joy. **Software requirements**. Pearson Education, 2013. p.321 |
-| 10 | Os requisitos foram ranqueados com base no total acumulado. |  |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| WIEGERS, Karl E.;BEATTY, Joy. **Software requirements**. Pearson Education, 2013. p.321 |
-| 11 | Foram analisadas possíveis distorções (e.g., alocação de $100 em um único item). |  |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| WIEGERS, Karl E.; BEATTY, Joy. **Software requirements**  Pearson Education, 2013. p.322 |
-| 12 | Foram documentadas as justificativas para escolhas de maior prioridade. |  |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| WIEGERS, Karl E.; BEATTY, Joy. **Software requirements**. Pearson Education, 2013. p.205 |
+|ID |Descrição                                                                                                |Autores                                                |Referência                                                                                                                                                                                                                  |
+|---|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|1  |Todos os participantes compreendem a técnica dos $100 e seu objetivo.                                    |[Gabriel Castelo](https://github.com/GabrielCastelo-31)|WIEGERS, Karl E.; BEATTY, Joy. **Software requirements**. Pearson Education, 2013. p.321                                                                                                                                    |
+|2  |A lista completa de requisitos candidatos está disponível e é compreensível para todos.                  |[Gabriel Castelo](https://github.com/GabrielCastelo-31)|SOMMERVILLE, Ian. ***Engenharia de software***. 9. ed. São Paulo: Pearson Prentice Hall, 2011. 58 p. Tradução de Ivan Bosnic e Kalinka G. de O. Gonçalves.                                                                  |
+|3  |Os requisitos foram identificados de forma única e escritos de maneira clara e direta?                   |[Gabriel Castelo](https://github.com/GabrielCastelo-31)|REINEHR, Sheila. **Engenharia de requisitos**. Porto Alegre: SAGAH, 2020. *E-book.* p.230. ISBN 9786556900674. Disponível em: https://integrada.minhabiblioteca.com.br/reader/books/9786556900674/. Acesso em: 04 mai. 2025.|
+|4  |Há um número limitado e razoável de requisitos para não sobrecarregar os participantes.                  |[Gabriel Castelo](https://github.com/GabrielCastelo-31)|MA, Qiao. **The effectiveness of requirements prioritization techniques for a medium to large number of requirements: a systematic literature review.** Auckland University of Technology, 2009. p.27                       |
+|5  |Cada participante recebeu $100 imaginários para distribuir entre os requisitos.                          |[Gabriel Castelo](https://github.com/GabrielCastelo-31)|WIEGERS, Karl E.; BEATTY, Joy. **Software requirements**. Pearson Education, 2013. p.321                                                                                                                                    |
+|6  |Participantes foram instruídos a distribuir os valores proporcionalmente à importância percebida.        |[Gabriel Castelo](https://github.com/GabrielCastelo-31)|WIEGERS, Karl E.; BEATTY, Joy. **Software requirements**. Pearson Education, 2013. p.321                                                                                                                                    |
+|7  |Foi evitado o uso de toda a quantia em um único requisito, exceto se justificado de forma coerente.      |[Gabriel Castelo](https://github.com/GabrielCastelo-31)|WIEGERS, Karl E.; BEATTY, Joy. **Software requirements**. Pearson Education, 2013. p.321                                                                                                                                    |
+|8  |Foi informado que a alocação deve considerar o sistema como um todo, e não apenas interesses individuais.|[Gabriel Castelo](https://github.com/GabrielCastelo-31)|WIEGERS, Karl E.; BEATTY, Joy. **Software requirements**. Pearson Education, 2013. p.321                                                                                                                                    |
+|9  |Os valores atribuídos a cada requisito foram somados corretamente.                                       |[Gabriel Castelo](https://github.com/GabrielCastelo-31)|WIEGERS, Karl E.; BEATTY, Joy. **Software requirements**. Pearson Education, 2013. p.321                                                                                                                                    |
+|10 |Os requisitos foram ranqueados com base no total acumulado.                                              |[Gabriel Castelo](https://github.com/GabrielCastelo-31)|WIEGERS, Karl E.;BEATTY, Joy. **Software requirements**. Pearson Education, 2013. p.321                                                                                                                                     |
+|11 |Foram analisadas possíveis distorções (e.g., alocação de $100 em um único item).                         |[Gabriel Castelo](https://github.com/GabrielCastelo-31)|WIEGERS, Karl E.; BEATTY, Joy. **Software requirements**  Pearson Education, 2013. p.322                                                                                                                                    |
+|12 |Foram documentadas as justificativas para escolhas de maior prioridade.                                  |[Gabriel Castelo](https://github.com/GabrielCastelo-31)|WIEGERS, Karl E.; BEATTY, Joy. **Software requirements**. Pearson Education, 2013. p.205                                                                                                                                    |
+
+<font size="3"><p align="center">Fonte: Gabriel Castelo.</p></font>
 
 ---
 
@@ -70,11 +72,11 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 > **WIEGERS, Karl E.; BEATTY, Joy.** *Software Requirements*. 3. ed. Redmond: Microsoft Press, 2013.
 
->**REINEHR, Sheila.** Engenharia de requisitos. Porto Alegre: SAGAH, 2020. *E-book.* p.230. ISBN 9786556900674. Disponível em: https://integrada.minhabiblioteca.com.br/reader/books/9786556900674/. Acesso em: 04 mai. 2025.
+> **REINEHR, Sheila.** Engenharia de requisitos. Porto Alegre: SAGAH, 2020. *E-book.* p.230. ISBN 9786556900674. Disponível em: https://integrada.minhabiblioteca.com.br/reader/books/9786556900674/. Acesso em: 04 mai. 2025.
 
 > **MA, Qiao.** The effectiveness of requirements prioritization techniques for a medium to large number of requirements: a systematic literature review. Auckland University of Technology, 2009. p.27
 
----
+***
 
 ## Histórico de Versão
 
@@ -84,5 +86,4 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 | `1.1` | 04/05/2025 | Adição da Tabela 2: Lista de Verificação — Técnica de Elicitação Análise de Interface de Usuário | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.2` | 04/05/2025 | Correções nas Referências Bibliográficas | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.3` | 04/05/2025 | Adição de checklist de StoryTelling | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
-
-
+| `1.4` | 04/05/2025 | Remove coluna desnecessária da lista de storytelling | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
