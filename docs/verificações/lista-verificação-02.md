@@ -61,5 +61,7 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 |--------|------|-----------|-----------|-------------|
 | `1.0` | 04/05/2025 | Criação do documento com lista de verificação da Entrega 2 | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.1` | 04/05/2025 | Adição da Tabela 2: Lista de Verificação — Técnica de Elicitação Análise de Interface de Usuário | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.2` | 04/05/2025 | Correções nas Referências Bibliográficas | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
+
 
 
