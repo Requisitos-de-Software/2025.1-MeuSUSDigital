@@ -51,6 +51,8 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 > **SALES, André Barros de.** *Plano de Ensino – Requisitos de Software: REE012025 – Turma 03*. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Disponível em: [Lista de Verificação da Etapa 2](../assets/Lista_Verificacao_Etapa2.pdf). Acesso em: 4 maio 2025.
 
+> **WIEGERS, Karl E.; BEATTY, Joy.** *Software Requirements*. 3. ed. Redmond: Microsoft Press, 2013.
+
 ---
 
 ## Histórico de Versão
