@@ -63,7 +63,7 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 | RQ35 | Exibir notificações e promoções com título, descrição e validade                                                      | AI32                 | RF        | Sim          |
 | RQ36 | Impedir avanço para pagamento com carrinho vazio                                                                      | AI30                 | RF        | Sim          |
 | RQ37 | Criar e editar perfil do usuário, gerenciar dados pessoais e métodos de pagamento                                     | AI31                 | RF        | Sim          |
-| RQ38 | Mensagens de erro claras e confirmações de ações para o usuário                                                       | ST05, IS28 | RF        | Sim      |
+| RQ38 | Mensagens de erro claras e confirmações de ações para o usuário                                                       | ST05, IS37 | RF        | Sim      |
 | RQ39 | Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas                                 | IS15| RF        | Não          |
 | RQ40 | Tempo de resposta de até 3 segundos em telas críticas (seleção de assentos, pagamento)                                | IS29                 | RNF       | Sim          |
 | RQ41 | Garantir uptime de 99,5% para funções críticas                                                                        | AI28                 | RNF       | Sim          |
@@ -100,3 +100,5 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 | `1.0`  |  04/05/2025 |  Criação do Documento com Introdução, metodologia, e tabela com os requisitos elicitados |[Arthur Evangelista](https://github.com/arthurevg) | Todos |
 | `1.1`  |  04/05/2025 | Ajuste na formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.2`  |  04/05/2025 | Correções na rastreabilidade de alguns itens | [Arthur Evangelista](https://github.com/arthurevg)| [Artur de Camargos](https://github.com/ArturDCR) |
+| `1.3`  |  04/05/2025 | Correções na rastreabilidade do RQ38 | [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
+
