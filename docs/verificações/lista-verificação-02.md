@@ -77,6 +77,8 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 > **MA, Qiao.** The effectiveness of requirements prioritization techniques for a medium to large number of requirements: a systematic literature review. Auckland University of Technology, 2009. p.27
 
+> **SINNIG, D.; PITULA,K.; BECKER, R.; RADHAKRISHNAN, T.; FORBRIG, P.** Structured digital storytelling for eliciting software requirements in the ICT4D domain. In: FORBRIG, P.; PATERNÓ, F.; PEJTERSEN, A. M. (eds.). Human-Computer Interaction. HCIS 2010. IFIP Advances in Information and Communication Technology, v. 332. Berlin; Heidelberg: Springer, 2010. Disponível em: [https://doi.org/10.1007/978-3-642-15231-3_7](https://doi.org/10.1007/978-3-642-15231-3_7). Acesso em: 4 maio 2025. P. 61.
+
 ***
 
 ## Histórico de Versão
@@ -89,3 +91,4 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 | `1.3` | 04/05/2025 | Adição de checklist de StoryTelling | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.4` | 04/05/2025 | Remove coluna desnecessária da lista de storytelling | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.5` | 04/05/2025 | Adiciona item na lista de verificação - Storytelling | [Tiago Antunes](https://github.com/TiagoBalieiro) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
+| `1.6` | 04/05/2025 | Atualiza Referências Bibliográficas  | [Tiago Antunes](https://github.com/TiagoBalieiro) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
