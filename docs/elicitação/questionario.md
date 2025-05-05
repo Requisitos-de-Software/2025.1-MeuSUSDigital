@@ -160,7 +160,6 @@ A seguir apresentamos os resultados obtidos através do questionário online. To
     <figcaption>Fonte: <a href="https://github.com/TiagoBalieiro">Tiago Antunes Balieiro</a> e <a href="https://github.com/ArturDCR">Artur de Camargos Rodrigues</a>, 2025.</figcaption>
 </figure>
 
-
 ---
 
 ## Requisitos Elicitados
@@ -204,6 +203,7 @@ Legenda:
 
 <font size="3"><p style="text-align: center">Fonte: [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) e [Artur de Camargos Rodrigues](https://github.com/ArturDCR), 2025.</p></font>
 
+---
 
 ## Bibliografia
 
@@ -215,6 +215,6 @@ Legenda:
 
 | Versão | Data       | Descrição                          | Autor(es)     | Revisor(es) |
 |--------|------------|------------------------------------|---------------|-------------|
-| `1.0`  | 04/05/2025 | Criação do Documento | [Davi](https://github.com/Davicamilo23) | Todos |
-| `1.1`  | 04/05/2025 | Criação do Documento | [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
-| `1.2`  | 04/05/2025 | Criação do Documento | [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
+| `1.0`  | 04/05/2025 | Criação do Documento | [Davi Camilo](https://github.com/Davicamilo23) | Todos |
+| `1.1`  | 04/05/2025 | Correção do link das imagens do questionário | [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
+| `1.2`  | 04/05/2025 | Correção das fontes das imagens do questionário | [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
