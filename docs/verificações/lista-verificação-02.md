@@ -64,6 +64,19 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 <font size="3"><p align="center">Fonte: Gabriel Castelo.</p></font>
 
+## Tabela 4: Lista de Verificação — Técnica de Priorização Modelo Kano
+
+| Item | Pergunta | Autor | Referência |
+|------|----------|--------|-------------|
+| 1 | Foram listadas todas as funcionalidades e atributos do produto que serão avaliados? | ADAV, Sachendra | *The Kano Model – A tool to prioritize the users’ wants and desires*. Interaction Design Foundation, [2023?]. Disponível em: [https://www.interaction-design.org/literature/article/the-kano-model-a-tool-to-prioritize-the-users-wants-and-desires](https://www.interaction-design.org/literature/article/the-kano-model-a-tool-to-prioritize-the-users-wants-and-desires). Acesso em: 3 maio 2025. |
+| 2 | Você coletou feedback dos usuários sobre cada funcionalidade, considerando tanto a presença quanto a ausência delas? | ADAV, Sachendra | *The Kano Model – A tool to prioritize the users’ wants and desires*. Interaction Design Foundation, [2023?]. Disponível em: [https://www.interaction-design.org/literature/article/the-kano-model-a-tool-to-prioritize-the-users-wants-and-desires](https://www.interaction-design.org/literature/article/the-kano-model-a-tool-to-prioritize-the-users-wants-and-desires). Acesso em: 3 maio 2025. |
+| 3 | Você classificou cada funcionalidade nas categorias do Modelo de Kano: Necessidades Básicas, Desempenho, Agradáveis, Indiferentes ou Rejeitadas? | ADAV, Sachendra | *The Kano Model – A tool to prioritize the users’ wants and desires*. Interaction Design Foundation, [2023?]. Disponível em: [https://www.interaction-design.org/literature/article/the-kano-model-a-tool-to-prioritize-the-users-wants-and-desires](https://www.interaction-design.org/literature/article/the-kano-model-a-tool-to-prioritize-the-users-wants-and-desires). Acesso em: 3 maio 2025. |
+| 4 | As perguntas seguiram o formato correto de sentimento com presença/ausência da funcionalidade? | ADAV, Sachendra | *The Kano Model – A tool to prioritize the users’ wants and desires*. Interaction Design Foundation, [2023?]. Disponível em: [https://www.interaction-design.org/literature/article/the-kano-model-a-tool-to-prioritize-the-users-wants-and-desires](https://www.interaction-design.org/literature/article/the-kano-model-a-tool-to-prioritize-the-users-wants-and-desires). Acesso em: 3 maio 2025. |
+| 5 | Os usuários responderam com uma das cinco categorias (gosto, espero, não me importo, posso tolerar, não gosto)? | ADAV, Sachendra | *The Kano Model – A tool to prioritize the users’ wants and desires*. Interaction Design Foundation, [2023?]. Disponível em: [https://www.interaction-design.org/literature/article/the-kano-model-a-tool-to-prioritize-the-users-wants-and-desires](https://www.interaction-design.org/literature/article/the-kano-model-a-tool-to-prioritize-the-users-wants-and-desires). Acesso em: 3 maio 2025. |
+| 6 | As funcionalidades existentes foram listadas e agrupadas por área (ex: compra de ingressos, fidelidade, interface)? | ADAV, Sachendra | *The Kano Model – A tool to prioritize the users’ wants and desires*. Interaction Design Foundation, [2023?]. Disponível em: [https://www.interaction-design.org/literature/article/the-kano-model-a-tool-to-prioritize-the-users-wants-and-desires](https://www.interaction-design.org/literature/article/the-kano-model-a-tool-to-prioritize-the-users-wants-and-desires). Acesso em: 3 maio 2025. |
+| 7 | As funcionalidades classificadas como “Indiferentes” ou “Rejeitadas” foram analisadas para possível descontinuação ou revisão? | ADAV, Sachendra | *The Kano Model – A tool to prioritize the users’ wants and desires*. Interaction Design Foundation, [2023?]. Disponível em: [https://www.interaction-design.org/literature/article/the-kano-model-a-tool-to-prioritize-the-users-wants-and-desires](https://www.interaction-design.org/literature/article/the-kano-model-a-tool-to-prioritize-the-users-wants-and-desires). Acesso em: 3 maio 2025. |
+
+<font size="3"><p align="center">Fonte: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
 ---
 
 ## Referências Bibliográficas
@@ -76,6 +89,7 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 > **MA, Qiao.** The effectiveness of requirements prioritization techniques for a medium to large number of requirements: a systematic literature review. Auckland University of Technology, 2009. p.27
 
+> **KANO MODEL.** The Kano Model – A Tool to Prioritize the Users’ Wants and Desires. Interaction Design Foundation. Disponível em: <https://www.interaction-design.org/literature/article/the-kano-model-a-tool-to-prioritize-the-users-wants-and-desires>. Acesso em: 03 maio 2025.
 ***
 
 ## Histórico de Versão
@@ -87,3 +101,4 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 | `1.2` | 04/05/2025 | Correções nas Referências Bibliográficas | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.3` | 04/05/2025 | Adição de checklist de StoryTelling | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.4` | 04/05/2025 | Remove coluna desnecessária da lista de storytelling | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
+| `1.5` | 04/05/2025 | Adição da lsta de verificação do Modelo Kano | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
