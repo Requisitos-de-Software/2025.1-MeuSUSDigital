@@ -31,7 +31,7 @@ A priorização seguiu os critérios:
 ---
 
 ## Gravação com Usuário
-- [Link para a gravação](https://unbbr-my.sharepoint.com/personal/221008051_aluno_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2F221008051%5Faluno%5Funb%5Fbr%2FDocuments%2FGrava%C3%A7%C3%B5es%2FPrioriza%C3%A7%C3%A3o%20100%24%2D20250504%5F211328%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ef7a7d1a9%2De66b%2D4dc1%2D8dd3%2Dda0b0cffd821)  
+- [Link para a gravação](https://youtu.be/qba_o8SSdFc)  
 
 ---
 
