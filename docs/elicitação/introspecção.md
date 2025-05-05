@@ -123,15 +123,15 @@ Os requisitos elicitados a partir da introspecção foram divididos em duas cate
 
 | Tipo   | Descrição                                                                                                                                      | ID   | Implementado |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------------------|------|--------------|
-| RNF1   | Interface intuitiva, com navegação fácil e boa usabilidade.                                                                                     | IS28 | Sim          |
-| RNF2   | Resposta instantânea em telas críticas (seleção de assentos, pagamento), sem travamentos.                                                       | IS29 | Sim          |
-| RNF3   | Ingresso disponível offline, para acesso sem conexão com Internet.                                                                              | IS30 | Não          |
-| RNF4   | Mapa de assentos com indicação gráfica clara de ocupação e disponibilidade.                                                                     | IS31 | Sim          |
-| RNF5   | Dados de pagamento e histórico do usuário protegidos (armazenamento seguro).                                                                    | IS32 | Sim          |
-| RNF6   | Autenticação por biometria ou PIN para operações sensíveis (pagamentos, acesso a dados pessoais).                                               | IS33 | Sim          |
-| RNF7   | Notificações push customizáveis pelo usuário (ex.: “lembre-me 1 dia antes”).                                                                    | IS34 | Não          |
-| RNF8   | Interface acessível para pessoas com deficiência visual, incluindo suporte para leitores de tela.                                               | IS35 | Não          |
-| RNF9   | Garantir um bom contraste nas interfaces do aplicativo para melhorar a legibilidade para usuários com deficiência visual, com opção de ajuste. | IS36 | Não          |
+| RNF1   | Interface intuitiva, com navegação fácil e boa usabilidade.                                                                                     | IS29 | Sim          |
+| RNF2   | Resposta instantânea em telas críticas (seleção de assentos, pagamento), sem travamentos.                                                       | IS30 | Sim          |
+| RNF3   | Ingresso disponível offline, para acesso sem conexão com Internet.                                                                              | IS31 | Não          |
+| RNF4   | Mapa de assentos com indicação gráfica clara de ocupação e disponibilidade.                                                                     | IS32 | Sim          |
+| RNF5   | Dados de pagamento e histórico do usuário protegidos (armazenamento seguro).                                                                    | IS33 | Sim          |
+| RNF6   | Autenticação por biometria ou PIN para operações sensíveis (pagamentos, acesso a dados pessoais).                                               | IS34 | Sim          |
+| RNF7   | Notificações push customizáveis pelo usuário (ex.: “lembre-me 1 dia antes”).                                                                    | IS35 | Não          |
+| RNF8   | Interface acessível para pessoas com deficiência visual, incluindo suporte para leitores de tela.                                               | IS36 | Não          |
+| RNF9   | Garantir um bom contraste nas interfaces do aplicativo para melhorar a legibilidade para usuários com deficiência visual, com opção de ajuste. | IS37 | Não          |
 
 <font size="3"><p style="text-align: center">Fonte: [Arthur Evangelista de Oliveira](https://github.com/arthurevg) e [Euller Júlio da Silva](https://github.com/Potatoyz908), 2025.</p></font>
 
@@ -147,5 +147,6 @@ Os requisitos elicitados a partir da introspecção foram divididos em duas cate
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 02/04/2025 | Criação da página 'introspecção', contendo introdução, metodologia, relato introspectivo e os requisitos elicitados | [Arthur](https://github.com/arthurevg) e [Euller](https://github.com/Potatoyz908) | [Davi Camilo](https://github.com/Davicamilo23) e [Tiago Antunes](https://github.com/TiagoBalieiro) |
-| `1.1`  | 04/05/2025 | Ajuste na formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.0`  | 02/04/2025 | Criação da página 'introspecção', contendo introdução, metodologia, relato introspectivo e os requisitos elicitados | [Arthur Evangelista](https://github.com/arthurevg) e [Euller Júlio](https://github.com/Potatoyz908) | [Davi Camilo](https://github.com/Davicamilo23) e [Tiago Antunes](https://github.com/TiagoBalieiro) |
+| `1.1`  | 04/05/2025 | Ajuste na formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg)  |
+| `1.2`  | 04/05/2025 | Correção dos IDs dos requisitos não funcionais (RNF) | [Euller Júlio](https://github.com/Potatoyz908) | [Gabriel Henrique Castelo](https://github.com/GabrielCastelo-31) |

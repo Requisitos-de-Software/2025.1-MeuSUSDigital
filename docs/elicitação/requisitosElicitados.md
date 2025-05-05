@@ -43,7 +43,7 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 | RQ15 | Integrar bomboniere ao app para compra antecipada de itens e retirada rápida                                          | IS11, AI12           | RF        | Sim          |
 | RQ16 | Exibir resumo da compra e permitir aplicação de cupom de desconto                                                     | AI13, AI29           | RF        | Sim          |
 | RQ17 | Gerar QR Code e chave Pix para pagamentos via Pix                                                                     | AI15                 | RF        | Sim          |
-| RQ18 | Disponibilizar ingresso digital no app, eliminando a necessidade de impressão                                         | IS9                  | RF        | Sim          |
+| RQ18 | Disponibilizar ingresso digital no app, eliminando a necessidade de impressão                                         | IS9, ST03                  | RF        | Sim          |
 | RQ19 | Salvar automaticamente ingressos na seção “Meus Ingressos” após confirmação de compra                                        | AI16                 | RF        | Sim          |
 | RQ20 | Permitir criação de conta (nome, e-mail, senha, CPF) e login com Google/redes sociais                                      | AI17, IS26           | RF        | Parcial          |
 | RQ21 | Recuperação de conta: enviar link de redefinição de senha por e-mail, recuperar e-mail via CPF e redefinir com código | AI18, AI19, AI20     | RF        | Sim          |
@@ -69,7 +69,7 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 | RQ41 | Garantir uptime de 99,5% para funções críticas                                                                        | AI28                 | RNF       | Sim          |
 | RQ42 | Sistema responsivo e adaptável a diferentes tamanhos de tela (smartphone e tablet)                                    | AI24                 | RNF       | Sim          |
 | RQ43 | Interface intuitiva, com navegação fácil e boa usabilidade                                                            | IS28                 | RNF       | Sim          |
-| RQ44 | Interface acessível para pessoas com deficiência visual (leitores de tela) e baixo-visão                              | IS35, AI25           | RNF       | Não          |
+| RQ44 | Interface acessível para pessoas com deficiência visual (leitores de tela) e baixo-visão                              | IS35, AI25, ST05           | RNF       | Não          |
 | RQ45 | Contraste de interface conforme WCAG A/AA                                                                             | AI25                 | RNF       | Não          |
 | RQ46 | Garantir legenda clara para cores e ícones no mapa de assentos                                                        | AI22                 | RNF       | Sim          |
 | RQ47 | Atualizar automaticamente o valor total conforme seleção de ingressos e produtos                                      | AI23                 | RNF       | Sim          |
@@ -97,5 +97,6 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  |  04/05/2025 |  Criação do Documento com Introdução, metodologia, e tabela com os requisitos elicitados |[Arthur](https://github.com/arthurevg) | Todos |
+| `1.0`  |  04/05/2025 |  Criação do Documento com Introdução, metodologia, e tabela com os requisitos elicitados |[Arthur Evangelista](https://github.com/arthurevg) | Todos |
 | `1.1`  |  04/05/2025 | Ajuste na formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.2`  |  04/05/2025 | Correções na rastreabilidade de alguns itens | [Arthur Evangelista](https://github.com/arthurevg)| [Artur de Camargos](https://github.com/ArturDCR) |
