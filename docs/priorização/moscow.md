@@ -42,3 +42,4 @@ A priorização seguiu os critérios:
 |--------|------------|------------------------------------|---------------|-------------|
 | `1.0`  | 04/05/2025 | Criação do Documento | [Davi](https://github.com/Davicamilo23) | Todos |
 | `1.1`  | 04/05/2025 | Incluindo dados da reunião | [Artur](https://github.com/ArturDCR) | [Davi](https://github.com/Davicamilo23) |
+| `1.2`  | 04/05/2025 | Atualização do link da reunião com o suário | [Artur](https://github.com/ArturDCR) | [Davi](https://github.com/Davicamilo23) |
