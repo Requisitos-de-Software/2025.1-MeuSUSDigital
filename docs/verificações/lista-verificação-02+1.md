@@ -137,6 +137,19 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes](https://github.com/TiagoBalieiro), 2025.</p></font>
 
+### Tabela 9: Lista de Verificação — Técnica de Priorização Three-Level Scale
+
+| Item | Autor | Referência |
+|------|-------|------------|
+| **1.** Todos os Requisitos elicitados foram utilizados na técnica?  | [Pedro Everton](https://github.com/pedroeverton217) | WIEGERS, Karl E.; BEATTY, Joy. *Software Requirements*. 3. ed. Redmond: Microsoft Press, 2013. |
+| **2.** Foi criado um tabelamento com 4 quadrantes com eixos de importância por urgência? | [Pedro Everton](https://github.com/pedroeverton217) | WIEGERS, Karl E.; BEATTY, Joy. *Software Requirements*. 3. ed. Redmond: Microsoft Press, 2013. |
+| **3.** Todos e cada requisito foi alocados para algum quadrante? | [Pedro Everton](https://github.com/pedroeverton217) | WIEGERS, Karl E.; BEATTY, Joy. *Software Requirements*. 3. ed. Redmond: Microsoft Press, 2013. |
+| **4.** Os requisitos foram classificados como de "Alta prioridade", "Média prioridade", "Baixa prioridade" e "Não fazer" (ou classificações parecidas)?  | [Pedro Everton](https://github.com/pedroeverton217) | WIEGERS, Karl E.; BEATTY, Joy. *Software Requirements*. 3. ed. Redmond: Microsoft Press, 2013. |
+| **5.** Requisitos "Importante" e "Urgente" -> "Alta prioridade", "Importante" e "Não tão Urgente" -> "Média prioridade", "Não tão Importante" e "Não tão Urgente" -> "Baixa prioridade" e "Não tão Importante" e "Urgente" -> "Não fazer | [Pedro Everton](https://github.com/pedroeverton217) | WIEGERS, Karl E.; BEATTY, Joy. *Software Requirements*. 3. ed. Redmond: Microsoft Press, 2013. |
+| **6.** Houve alinhamento com os stakeholders sobre as definições de "importante" e "urgente" para evitar subjetividade na classificação? | [Pedro Everton](https://github.com/pedroeverton217) | WIEGERS, Karl E.; BEATTY, Joy. *Software Requirements*. 3. ed. Redmond: Microsoft Press, 2013. |
+
+<font size="3"><p style="text-align: center">Fonte: [Pedro Everton](https://github.com/pedroeverton217), 2025.</p></font>
+
 
 ---
 
@@ -179,3 +192,4 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 | `1.10`  |  05/05/2025 |  Adição da lista de Inspeção - Técnica de Elicitação Storytelling | [Tiago Antunes](https://github.com/TiagoBalieiro) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.11` | 05/05/2025 | Corrige titulo errado da tabela 100$ e corrige histórico de versão para refletir a adição da tabela de verificação 100$ | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.12` | 05/05/2025 | Ajuste nas tabelas de verificação | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
+| `1.13` | 05/05/2025 | Adição da lista de verificação do Three-Level Scale | [Pedro Everton](https://github.com/pedroeverton217) | [Euller Júlio](https://github.com/Potatoyz908) |

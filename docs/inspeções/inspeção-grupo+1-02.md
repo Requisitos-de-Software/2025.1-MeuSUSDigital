@@ -196,6 +196,18 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes](https://github.com/TiagoBalieiro), 2025.</p></font>
 
+### Tabela 9: Lista de Inspeção — Técnica de Priorização Three-Level Scale
+| Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
+|---------|-------|------------|--------|--------|
+| **1.** Todos os Requisitos elicitados foram utilizados na técnica? |  | 05/05/2025 |  |  |
+| **2.** Foi criado um tabelamento com 4 quadrantes com eixos de importância por urgência? |  | 05/05/2025 |  |  |
+| **3.** Todos e cada requisito foi alocados para algum quadrante? |  | 05/05/2025 |  |  |
+| **4.** Os requisitos foram classificados como de "Alta prioridade", "Média prioridade", "Baixa prioridade" e "Não fazer" (ou classificações parecidas)?  |  | 05/05/2025 |  |  |
+| **5.** Requisitos "Importante" e "Urgente" -> "Alta prioridade", "Importante" e "Não tão Urgente" -> "Média prioridade", "Não tão Importante" e "Não tão Urgente" -> "Baixa prioridade" e "Não tão Importante" e "Urgente" -> "Não fazer  |  | 05/05/2025 |  |  |
+| **6.** Houve alinhamento com os stakeholders sobre as definições de "importante" e "urgente" para evitar subjetividade na classificação? |  | 05/05/2025 |  |  |
+
+<font size="3"><p align="center">Fonte: Autores, 2025.</p></font>
+
 ---
 
 ## 💬 Comentários
@@ -234,4 +246,4 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 | `1.2`  |  05/05/2025 |  Adição da lista de Inspeção - Técnica de Elicitação Storytelling | [Tiago Antunes](https://github.com/TiagoBalieiro) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.3` | 05/05/2025 | Corrige titulo errado de tabela de 100$ | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.4` | 05/05/2025 | Adição das listas de inspeção de alguns artefatos e correção das fontes | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
-| `1.5` | 05/05/2025 | Preenchimento das listas de inspeção | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
+| `1.5` | 05/05/2025 | Adição da lista de inspeção do Three-Level Scale | [Pedro Everton](https://github.com/pedroeverton217) | [Euller Júlio](https://github.com/Potatoyz908) |
