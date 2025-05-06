@@ -196,7 +196,7 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes](https://github.com/TiagoBalieiro), 2025.</p></font>
 
-### Tabela 9: Lista de Inspeção — Técnica de Priorização Three-Level Scale
+### Tabela 9: Lista de Inspeção — Técnica de Priorização Three-Level Scale - Não foi realizada pela grupo
 | Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
 |---------|-------|------------|--------|--------|
 | **1.** Todos os Requisitos elicitados foram utilizados na técnica? |  | 05/05/2025 |  |  |
@@ -247,3 +247,4 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 | `1.3` | 05/05/2025 | Corrige titulo errado de tabela de 100$ | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.4` | 05/05/2025 | Adição das listas de inspeção de alguns artefatos e correção das fontes | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
 | `1.5` | 05/05/2025 | Adição da lista de inspeção do Three-Level Scale | [Pedro Everton](https://github.com/pedroeverton217) | [Euller Júlio](https://github.com/Potatoyz908) |
+| `1.6` | 05/05/2025 | Preenchimento das listas de inspeção | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
