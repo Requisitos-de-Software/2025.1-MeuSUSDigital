@@ -49,7 +49,7 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 | **12.** Existe gravação e registro da priorização dos requisitos? |  | 05/05/2025 |  |  |
 | **13.** A priorização foi feita com um(ns) stakeholders? |  | 05/05/2025 |  |  |
 
-<font size="3"><p align="center">Fonte: Autores, 2025.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23) e [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
 ### Tabela 2: Lista de Inspeção — Técnica de Elicitação Análise de Interface de Usuário
 
@@ -64,7 +64,7 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 | **7.** Os requisitos funcionais foram derivados com base nas interações observadas no sistema estudado? |  | 05/05/2025 |  |  |
 | **8.** Inconsistências ou possíveis melhorias nos caminhos de navegação e interação foram detectadas durante a análise? |  | 05/05/2025 |  |  |
 
-<font size="3"><p align="center">Fonte: Autores, 2025.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
 ### Tabela 3: Lista de Inspeção — Técnica de Priorização $100
 
@@ -84,7 +84,7 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 **12.** Foram documentadas as justificativas para escolhas de maior prioridade.                                  |  | 05/05/2025 |  |  |
 |**13.** O entrevistador não influenciou a narrativa.                                                             |  | 05/05/2025 |  |  |
 
-<font size="3"><p align="center">Fonte: Autores, 2025.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro), 2025.</p></font>
 
 ### Tabela 4: Lista de Inspeção — Técnica de Priorização Modelo Kano
 
@@ -98,9 +98,50 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 | **6.** As funcionalidades existentes foram listadas e agrupadas por área (ex: compra de ingressos, fidelidade, interface)? |  | 05/05/2025 |  |  |
 | **7.** As funcionalidades classificadas como “Indiferentes” ou “Rejeitadas” foram analisadas para possível descontinuação ou revisão? |  | 05/05/2025 |  |  |
 
-<font size="3"><p align="center">Fonte: Autores, 2025.</p></font>
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
 
-### Tabela 5: Lista de Inspeção — Técnica de Elicitação Storytelling
+### Tabela 5: Lista de Verificação — Observação
+
+| Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
+|---------|-------|------------|--------|--------|
+|**1.** Foi definido previamente o que será observado (tarefas, comportamentos, interações)? |  | 05/05/2025 |  |  |
+|**2.** O observador interferiu o mínimo possível no ambiente para não comprometer a naturalidade do comportamento? |  | 05/05/2025 |  |  |
+|**3.** Os registros da observação foram documentados de forma clara, com data, local e descrição das atividades? |  | 05/05/2025 |  |  |
+
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
+
+### Tabela 6: Lista de Verificação — Perfil de Usuário
+
+| Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
+|---------|-------|------------|--------|--------|
+| **1.** Foi realizada a especificação de requisitos de maneira a compreender as ideias dos stakeholders corretamente? |  | 05/05/2025 |  |  |
+| **2.** Os requisitos funcionais ou não funcionais foram bem descritos e distinguidos? |  | 05/05/2025 |  |  |
+| **3.** Os requisitos de usuário foram escritos em linguagem natural, com tabelas simples, formas e diagramas intuitivos? |  | 05/05/2025 |  |  |
+| **4.** Foi realizada a elicitação e análise de requisitos? |  | 05/05/2025 |  |  |
+| **5.** Os perfis de usuários foram identificados com clareza? |  | 05/05/2025 |  |  |
+| **6.** Foi criada uma lista com todos os stakeholders? |  | 05/05/2025 |  |  |
+| **7.** O perfil foi validado com dados reais, como entrevistas ou observações? |  | 05/05/2025 |  |  |
+| **8.** Foi realizado um diagrama de casos de uso, ou outras ferramentas como user story mapping, para auxiliar no entendimento do perfil do usuário? |  | 05/05/2025 |  |  |
+
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+
+### Tabela 7: Lista de Verificação — Personas
+
+| Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
+|---------|-------|------------|--------|--------|
+| **1.** O mapeamento de personas, ou seja, caracterizar um representante hipotético, genérico, de uma classe de usuários, foi feito corretamente? |  | 05/05/2025 |  |  |
+| **2.** Foram diferenciadas as personas primárias das secundárias, e vice-versa? |  | 05/05/2025 |  |  |
+| **3.** As personas foram caracterizadas considerando características e comportamentos sociais e demográficos, preferências, preocupações e informações similares? |  | 05/05/2025 |  |  |
+| **4.** Diferentes perfis foram analisados para ajudar na identificação dos requisitos? |  | 05/05/2025 |  |  |
+| **5.** A identificação de quais stakeholders devem fazer a validação foi feita da maneira certa (a partir das personas)? |  | 05/05/2025 |  |  |
+| **6**. A persona foi baseada em dados reais coletados por técnicas como entrevistas, questionários ou observações? |  | 05/05/2025 |  |  |
+| **7.** A persona apresenta objetivos e motivações claras relacionadas ao uso do sistema, baseando-se na especificação de requisitos? |  | 05/05/2025 |  |  |
+| **8.** O sistema está pronto para a criação de novas personas para caso mudanças aconteçam com os stakeholders? |  | 05/05/2025 |  |  |
+
+
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+
+### Tabela 8: Lista de Inspeção — Técnica de Elicitação Storytelling
 
 | Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
 |---------|-------|------------|--------|--------|
@@ -150,4 +191,5 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 | `1.0`  |  05/05/2025 |  Criação do Documento | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.1`  |  05/05/2025 |  Adição das listas de inspeção | [Davi Camilo](https://github.com/Davicamilo23) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.2`  |  05/05/2025 |  Adição da lista de Inspeção - Técnica de Elicitação Storytelling | [Tiago Antunes](https://github.com/TiagoBalieiro) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
-| `1.3` | 04/05/2025 | Corrige titulo errado de tabela de 100$ | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
+| `1.3` | 05/05/2025 | Corrige titulo errado de tabela de 100$ | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
+| `1.4` | 05/05/2025 | Adição das listas de inspeção de alguns artefatos e correção das fontes | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
