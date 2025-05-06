@@ -6,7 +6,7 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 ---
 
 ## 🔗 Link da reunião
-[Assista ao vídeo no YouTube]()
+[Assista ao vídeo no YouTube](https://youtu.be/_U7bVyU9x8Q)
 
 ---
 
@@ -51,7 +51,7 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 
 <font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23) e [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
-### Tabela 2: Lista de Inspeção — Técnica de Elicitação Análise de Interface de Usuário - Não foi realizada pela grupo
+### Tabela 2: Lista de Inspeção — Técnica de Elicitação Análise de Interface de Usuário - Não foi realizada pelo grupo+1
 
 | Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
 |---------|-------|------------|--------|--------|
@@ -86,7 +86,7 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro), 2025.</p></font>
 
-### Tabela 4: Lista de Inspeção — Técnica de Priorização Modelo Kano - Não foi realizada pela grupo
+### Tabela 4: Lista de Inspeção — Técnica de Priorização Modelo Kano - Não foi realizada pelo grupo+1
 
 | Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
 |---------|-------|------------|--------|--------|
@@ -141,7 +141,7 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
-### Tabela 8: Lista de Inspeção — Técnica de Elicitação Storytelling - Não foi realizada pela grupo
+### Tabela 8: Lista de Inspeção — Técnica de Elicitação Storytelling - Não foi realizada pelo grupo+1
 
 | Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
 |---------|-------|------------|--------|--------|
@@ -156,7 +156,7 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes](https://github.com/TiagoBalieiro), 2025.</p></font>
 
-### Tabela 9: Lista de Inspeção — Técnica de Priorização Three-Level Scale - Não foi realizada pela grupo
+### Tabela 9: Lista de Inspeção — Técnica de Priorização Three-Level Scale - Não foi realizada pelo grupo+1
 | Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
 |---------|-------|------------|--------|--------|
 | **1.** Todos os Requisitos elicitados foram utilizados na técnica? |  | 05/05/2025 |  |  |
@@ -209,3 +209,4 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 | `1.5` | 05/05/2025 | Adição da lista de inspeção do Three-Level Scale | [Pedro Everton](https://github.com/pedroeverton217) | [Euller Júlio](https://github.com/Potatoyz908) |
 | `1.6` | 05/05/2025 | Preenchimento das listas de inspeção | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.6.1` | 05/05/2025 | Ajuste na formatação das tabelas | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
+| `1.7` | 05/05/2025 | Adição do link da gravação | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
