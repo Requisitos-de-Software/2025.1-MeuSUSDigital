@@ -46,7 +46,7 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 <font size="3"><p style="text-align: center">Fonte: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
-### Tabela 3: Lista de Verificação — Técnica de Elicitação Storytelling
+### Tabela 3: Lista de Verificação — Técnica de Priorização $100
 
 | Item | Autor | Referência |
 |------|-------|------------|
@@ -157,7 +157,7 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 > **SINNIG, D.; PITULA,K.; BECKER, R.; RADHAKRISHNAN, T.; FORBRIG, P.** Structured digital storytelling for eliciting software requirements in the ICT4D domain. In: FORBRIG, P.; PATERNÓ, F.; PEJTERSEN, A. M. (eds.). Human-Computer Interaction. HCIS 2010. IFIP Advances in Information and Communication Technology, v. 332. Berlin; Heidelberg: Springer, 2010. Disponível em: [https://doi.org/10.1007/978-3-642-15231-3_7](https://doi.org/10.1007/978-3-642-15231-3_7). Acesso em: 4 maio 2025. P. 61.
 
-> **REINEHR, Sheila** Engenharia de Requisitos, Editora: Grupo A Selo: Sagah. 1ª edição. 2020. Cap. Seleção de técnicas de elicitação de requisitos de software. 
+> **REINEHR, Sheila** Engenharia de Requisitos, Editora: Grupo A Selo: Sagah. 1ª edição. 2020. Cap. Seleção de técnicas de elicitação de requisitos de software.
 
 > **SOMMERVILLE, Ian**. Engenharia de Software. 9. ed. São Paulo: Pearson Addison Wesley, 2011.
 
@@ -172,11 +172,12 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 | `1.0` | 04/05/2025 | Criação do documento com lista de verificação da Entrega 2 | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.1` | 04/05/2025 | Adição da Tabela 2: Lista de Verificação — Técnica de Elicitação Análise de Interface de Usuário | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.2` | 04/05/2025 | Correções nas Referências Bibliográficas | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
-| `1.3` | 04/05/2025 | Adição de checklist de StoryTelling | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
-| `1.4` | 04/05/2025 | Remove coluna desnecessária da lista de storytelling | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
-| `1.5` | 04/05/2025 | Adiciona item na lista de verificação - Storytelling | [Tiago Antunes](https://github.com/TiagoBalieiro) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
+| `1.3` | 04/05/2025 | Adição de checklist de priorização 100$ | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
+| `1.4` | 04/05/2025 | Remove coluna desnecessária da lista de verificação 100$ | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
+| `1.5` | 04/05/2025 | Adiciona item na lista de verificação - 100$ | [Tiago Antunes](https://github.com/TiagoBalieiro) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.6` | 04/05/2025 | Atualiza Referências Bibliográficas  | [Tiago Antunes](https://github.com/TiagoBalieiro) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.7` | 04/05/2025 | Adição de checklist do modelo Kano | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
 | `1.8` | 05/05/2025 | Correção do caminho das imagens (prints) e adição de item | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
 | `1.9` | 05/05/2025 | Adição das seguintes listas de verificação: Observação, Perfil de usuário e personas | [Arthur Evangelista](https://github.com/arthurevg) | [Pedro Everton de Paula](https://github.com/pedroeverton217) |
 | `1.10`  |  05/05/2025 |  Adição da lista de Inspeção - Técnica de Elicitação Storytelling | [Tiago Antunes](https://github.com/TiagoBalieiro) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
+| `1.11` | 04/05/2025 | Corrige titulo errado da tabela 100$ e corrige histórico de versão para refletir a adição da tabela de verificação 100$ | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
