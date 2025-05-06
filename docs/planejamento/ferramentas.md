@@ -83,4 +83,4 @@ Para auxiliar na execução e organização do projeto, foram utilizadas diferen
 | `1.3`   | 04/05/2025 | Adição de nova ferramenta | [Davi Camilo](https://github.com/Davicamilo23) | [Pedro Everton](https://github.com/pedroeverton217) |
 | `1.4`   | 04/05/2025 | Ajuste do tamanho de alguns logos | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.5`   | 05/05/2025 | Adiciona Miro às ferramentas| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Arthur Evangelista](https://github.com/arthurevg) |
-| `1.6`   | 05/05/2025 | Adiciona Miro às referências da página e corrige link da tabela| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.5.1`   | 05/05/2025 | Adiciona Miro às referências da página e corrige link da tabela| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Arthur Evangelista](https://github.com/arthurevg) |
