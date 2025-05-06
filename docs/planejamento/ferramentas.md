@@ -66,7 +66,7 @@ Para auxiliar na execução e organização do projeto, foram utilizadas diferen
 >
 > <a id="FRM15" href="#anchor_15">15.</a> This Person Does Not Exist. Disponível em: [https://thispersondoesnotexist.com/](). Acesso em: 4 de maio de 2025.
 >
-> <a id="FRM16" href="#anchor_16">15.</a> Miro. Disponível em: [https://miro.com/](). Acesso em: 4 de maio de 2025.
+> <a id="FRM16" href="#anchor_16">16.</a> Miro. Disponível em: [https://miro.com/](). Acesso em: 4 de maio de 2025.
 
 
 ---
