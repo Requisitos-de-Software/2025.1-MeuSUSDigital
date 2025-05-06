@@ -91,7 +91,7 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
 
-### Tabela 6: Lista de Verificação — Perfil d eusuário
+### Tabela 6: Lista de Verificação — Perfil de usuário
 
 | ### Tabela 6: Lista de Verificação — Especificação e Análise de Requisitos
 
@@ -125,6 +125,21 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
+### Tabela 8: Lista de Verificação — Storytelling
+
+| Item | Descrição | Autor | Referência |
+| ---- | --------- | ----- | ---------- |
+| 01 | Os itens de interesse foram esclarecidos e explicados | [Tiago Antunes](https://github.com/TiagoBalieiro) | SINNIG, D.; PITULA, K.; BECKER, R.; RADHAKRISHNAN, T.; FORBRIG, P. Structured digital storytelling for eliciting software requirements in the ICT4D domain. In: FORBRIG,P.; PATERNÓ, F.; PEJTERSEN, A. M. (eds.). Human-Computer Interaction. HCIS 2010. IFIP Advances in Information and Communication Technology, v. 332. Berlin; Heidelberg: Springer, 2010. Disponível em: https://doi.org/10.1007/978-3-642-15231-3_7. Acesso em: 4 maio 2025. p. 60. |
+| 02 | O entrevistador não influenciou a narrativa. | [Tiago Antunes](https://github.com/TiagoBalieiro) | SINNIG, D.; PITULA, K.; BECKER, R.; RADHAKRISHNAN, T.; FORBRIG, P. Structured digital storytelling for eliciting software requirements in the ICT4D domain. In: FORBRIG,P.; PATERNÓ, F.; PEJTERSEN, A. M. (eds.). Human-Computer Interaction. HCIS 2010. IFIP Advances in Information and Communication Technology, v. 332. Berlin; Heidelberg: Springer, 2010. Disponível em: https://doi.org/10.1007/978-3-642-15231-3_7. Acesso em: 4 maio 2025. p. 60. |
+| 03 | O entrevistado pertence as partes interessadas do software (stakeholders, usuários). | [Tiago Antunes](https://github.com/TiagoBalieiro) | REINEHR, Sheila. *Engenharia de Requisitos*. Grupo A, Selo Sagah, 1ª ed. 2020. Cap. Seleção de técnicas de elicitação de requisitos de software, p. 57. |
+| 04 | Foi definido o contexto onde a história se aplica durante a entrevista. | [Tiago Antunes](https://github.com/TiagoBalieiro) | CIANCARINI, Paolo; FARINA, Mirko; OKONICHA, Ozioma; SMIRNOVA, Marina; SUCCI, Giancarlo  Software as storytelling: A systematic literature review. Computer Science Review, 2023. Disponível em: https://www.sciencedirect.com/science/article/abs/pii/S157401372200051X. Acesso em: 4 maio 2025. |
+| 05 | As histórias criadas são compreensíveis e engajam todos os envolvidos. | [Tiago Antunes](https://github.com/TiagoBalieiro) | CIANCARINI, Paolo; FARINA, Mirko; OKONICHA, Ozioma; SMIRNOVA, Marina; SUCCI, Giancarlo  Software as storytelling: A systematic literature review. Computer Science Review, 2023. Disponível em: https://www.sciencedirect.com/science/article/abs/pii/S157401372200051X. Acesso em: 4 maio 2025. |
+| 06 | As histórias capturam e trasnferem conhecimentos. | [Tiago Antunes](https://github.com/TiagoBalieiro) | CIANCARINI, Paolo; FARINA, Mirko; OKONICHA, Ozioma; SMIRNOVA, Marina; SUCCI, Giancarlo  Software as storytelling: A systematic literature review. Computer Science Review, 2023. Disponível em: https://www.sciencedirect.com/science/article/abs/pii/S157401372200051X. Acesso em: 4 maio 2025. |
+| 07 | As histórias facilitam a compreensão das necessidades das partes interessadas. | [Tiago Antunes](https://github.com/TiagoBalieiro) | CIANCARINI, Paolo; FARINA, Mirko; OKONICHA, Ozioma; SMIRNOVA, Marina; SUCCI, Giancarlo  Software as storytelling: A systematic literature review. Computer Science Review, 2023. Disponível em: https://www.sciencedirect.com/science/article/abs/pii/S157401372200051X. Acesso em: 4 maio 2025. |
+| 08 | Incluiu-se o conflito principal (problema que o requisito busca resolver). | [Tiago Antunes](https://github.com/TiagoBalieiro) | CIANCARINI, Paolo; FARINA, Mirko; OKONICHA, Ozioma; SMIRNOVA, Marina; SUCCI, Giancarlo  Software as storytelling: A systematic literature review. Computer Science Review, 2023. Disponível em: https://www.sciencedirect.com/science/article/abs/pii/S157401372200051X. Acesso em: 4 maio 2025. |
+
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes](https://github.com/TiagoBalieiro), 2025.</p></font>
+
 
 ---
 
@@ -146,6 +161,8 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 > **SOMMERVILLE, Ian**. Engenharia de Software. 9. ed. São Paulo: Pearson Addison Wesley, 2011.
 
+> **CIANCARINI, Paolo; FARINA, Mirko; OKONICHA, Ozioma; SMIRNOVA, Marina; SUCCI, Giancarlo**  Software as storytelling: A systematic literature review. Computer Science Review, 2023. Disponível em: https://www.sciencedirect.com/science/article/abs/pii/S157401372200051X. Acesso em: 4 maio 2025.
+
 ---
 
 ## Histórico de Versão
@@ -162,3 +179,4 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 | `1.7` | 04/05/2025 | Adição de checklist do modelo Kano | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
 | `1.8` | 05/05/2025 | Correção do caminho das imagens (prints) e adição de item | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
 | `1.9` | 05/05/2025 | Adição das seguintes listas de verificação: Observação, Perfil de usuário e personas | [Arthur Evangelista](https://github.com/arthurevg) | [Pedro Everton de Paula](https://github.com/pedroeverton217) |
+| `1.10`  |  05/05/2025 |  Adição da lista de Inspeção - Técnica de Elicitação Storytelling | [Tiago Antunes](https://github.com/TiagoBalieiro) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |

@@ -100,6 +100,21 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 
 <font size="3"><p align="center">Fonte: Autores, 2025.</p></font>
 
+### Tabela 5: Lista de Inspeção — Técnica de Elicitação Storytelling
+
+| Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
+|---------|-------|------------|--------|--------|
+| **1.** Os itens de interesse foram esclarecidos e explicados |  | 05/05/2025 |  |  |
+| **2.** O entrevistador não influenciou a narrativa. |  | 05/05/2025 |  |  |
+| **3.** O entrevistado pertence as partes interessadas do software (stakeholders, usuários). |  | 05/05/2025 |  |  |
+| **4.** Foi definido o contexto onde a história se aplica durante a entrevista. |  | 05/05/2025 |  |  |
+| **5.** As histórias criadas são compreensíveis e engajam todos os envolvidos. |  | 05/05/2025 |  |  |
+| **6.** As histórias capturam e trasnferem conhecimentos. |  | 05/05/2025 |  |  |
+| **7.** As histórias facilitam a compreensão das necessidades das partes interessadas. |  | 05/05/2025 |  |  |
+| **8.** Incluiu-se o conflito principal (problema que o requisito busca resolver). |  | 05/05/2025 |  |  |
+
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes](https://github.com/TiagoBalieiro), 2025.</p></font>
+
 ---
 
 ## 💬 Comentários
@@ -124,6 +139,8 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 
 > **Reinehr, Sheila** Engenharia de Requisitos, Editora: Grupo A Selo: Sagah. 1ª edição. 2020. Cap. Seleção de técnicas de elicitação de requisitos de software, p. 41.
 
+> **CIANCARINI, Paolo; FARINA, Mirko; OKONICHA, Ozioma; SMIRNOVA, Marina; SUCCI, Giancarlo**  Software as storytelling: A systematic literature review. Computer Science Review, 2023. Disponível em: https://www.sciencedirect.com/science/article/abs/pii/S157401372200051X. Acesso em: 4 maio 2025.
+
 ---
 
 ## Histórico de Versão
@@ -132,3 +149,4 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  |  05/05/2025 |  Criação do Documento | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.1`  |  05/05/2025 |  Adição das listas de inspeção | [Davi Camilo](https://github.com/Davicamilo23) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
+| `1.2`  |  05/05/2025 |  Adição da lista de Inspeção - Técnica de Elicitação Storytelling | [Tiago Antunes](https://github.com/TiagoBalieiro) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
