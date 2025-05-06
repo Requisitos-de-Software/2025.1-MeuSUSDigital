@@ -27,6 +27,7 @@ Para auxiliar na execução e organização do projeto, foram utilizadas diferen
 | <img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/raw/main/docs/assets/ferramentas/chatgpt.png" style="height:100px;width:100px"> | ChatGPT | Auxílio em dúvidas gerais, revisão de textos e markdown.<a id="anchor_13" href="#FRM13"><sup>13</sup></a> |
 | <img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/raw/main/docs/assets/ferramentas/telegram.png" style="height:100px;width:100px"> | Telegram | Comunicação com a monitora atribuída ao grupo.<a id="anchor_14" href="#FRM14"><sup>14</sup></a> |
 | <img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/raw/main/docs/assets/ferramentas/thispersonnotexist.png" style="height:110px;width:120px"> | This Person Does Not Exist | Criação de personas.<a id="anchor_15" href="#FRM15"><sup>15</sup></a> |
+| <img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/raw/main/docs/assets/ferramentas/miro.png" style="height:110px;width:120px"> | Miro | Auxílio visual e operacional para aplicar diferentes técnicas.<a id="anchor_15" href="#FRM15"><sup>15</sup></a> |
 
 
 <font size="3"><p align="center">Fonte: Autores.</p></font>
