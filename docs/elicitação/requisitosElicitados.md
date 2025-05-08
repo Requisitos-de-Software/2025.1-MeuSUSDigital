@@ -33,8 +33,8 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 | RQ5  | Buscar filmes por nome                                                                                                | AI05                 | RF        | Sim          |
 | RQ6  | Listar filmes em cartaz, pré-venda e futuros lançamentos                                                              | AI06                 | RF        | Sim          |
 | RQ7  | Exibir informações do filme (título, sinopse, gênero, duração, direção, elenco, distribuidor, origem)                 | IS3, AI07            | RF        | Sim          |
-| RQ8  | Exibir sessões com data, horário, idioma, formato e sala                                                              | IS4, ST01, AI08      | RF        | Sim          |
-| RQ9  | Permitir compra de ingressos com cartão de crédito, débito ou Pix                                                     | IS5, AI14            | RF        | Sim          |
+| RQ8  | Exibir sessões com data, horário, idioma, formato e sala                                                              | IS4, ST01, AI08, Q01      | RF        | Sim          |
+| RQ9  | Permitir compra de ingressos com cartão de crédito, débito ou Pix                                                     | IS5, AI14, Q02            | RF        | Sim          |
 | RQ10 | Armazenar cartões de pagamento cadastrados para uso em compras futuras                                                | IS6                  | RF        | Sim          |
 | RQ11 | Permitir compra de múltiplos ingressos em uma única transação                                                         | IS7                  | RF        | Sim          |
 | RQ12 | Exibir mapa da sala com indicação gráfica de assentos ocupados, livres e especiais, e permitir seleção pelos usuários | IS8, AI09            | RF        | Sim          |
@@ -52,7 +52,7 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 | RQ24 | Exibir trailers dentro do app                                                                                         | IS16                 | RF        | Não          |
 | RQ25 | Oferecer fluxo de compra simplificado, com o mínimo de toques até a confirmação                                       | IS17                 | RF        | Não          |
 | RQ26 | Permitir salvar ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc.)                      | IS18                 | RF        | Não          |
-| RQ27 | Permitir uso de pontos acumulados para desconto em ingressos e produtos                                               | IS19                 | RF        | Sim          |
+| RQ27 | Permitir uso de pontos acumulados para desconto em ingressos e produtos                                               | IS19, Q03                 | RF        | Sim          |
 | RQ28 | Alertar usuário sobre pontos suficientes para ingresso grátis e antes da expiração                                    | IS20                 | RF        | Não          |
 | RQ29 | Sugerir cinemas com base no histórico de visitas e na localização atual                                               | IS21                 | RF        | Não          |
 | RQ30 | Permitir que o usuário salve cinemas como favoritos                                                                   | IS22                 | RF        | Não          |
@@ -63,9 +63,9 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 | RQ35 | Exibir notificações e promoções com título, descrição e validade                                                      | AI32                 | RF        | Sim          |
 | RQ36 | Impedir avanço para pagamento com carrinho vazio                                                                      | AI30                 | RF        | Sim          |
 | RQ37 | Criar e editar perfil do usuário, gerenciar dados pessoais e métodos de pagamento                                     | AI31                 | RF        | Sim          |
-| RQ38 | Mensagens de erro claras e confirmações de ações para o usuário                                                       | ST05, IS28 | RF        | Sim      |
+| RQ38 | Mensagens de erro claras e confirmações de ações para o usuário                                                       | ST05, IS37 | RF        | Sim      |
 | RQ39 | Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas                                 | IS15| RF        | Não          |
-| RQ40 | Tempo de resposta de até 3 segundos em telas críticas (seleção de assentos, pagamento)                                | IS29                 | RNF       | Sim          |
+| RQ40 | Tempo de resposta de até 3 segundos em telas críticas (seleção de assentos, pagamento)                                | IS29, Q09, Q12                 | RNF       | Sim          |
 | RQ41 | Garantir uptime de 99,5% para funções críticas                                                                        | AI28                 | RNF       | Sim          |
 | RQ42 | Sistema responsivo e adaptável a diferentes tamanhos de tela (smartphone e tablet)                                    | AI24                 | RNF       | Sim          |
 | RQ43 | Interface intuitiva, com navegação fácil e boa usabilidade                                                            | IS28                 | RNF       | Sim          |
@@ -73,7 +73,7 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 | RQ45 | Contraste de interface conforme WCAG A/AA                                                                             | AI25                 | RNF       | Não          |
 | RQ46 | Garantir legenda clara para cores e ícones no mapa de assentos                                                        | AI22                 | RNF       | Sim          |
 | RQ47 | Atualizar automaticamente o valor total conforme seleção de ingressos e produtos                                      | AI23                 | RNF       | Sim          |
-| RQ48 | Proteger dados de pagamento e histórico do usuário com criptografia                                                   | IS32                 | RNF       | Sim          |
+| RQ48 | Proteger dados de pagamento e histórico do usuário com criptografia                                                   | IS32, Q10                 | RNF       | Sim          |
 | RQ49 | Autenticação por biometria ou PIN para operações sensíveis                                                            | IS33                 | RNF       | Sim          |
 | RQ50 | Notificações push customizáveis pelo usuário                                                                          | IS34                 | RNF       | Não          |
 | RQ51 | Exibir mapa de assentos com indicação gráfica clara de ocupação e disponibilidade                                     | IS31                 | RNF       | Sim          |
@@ -83,6 +83,12 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 | RQ55 | Validar e-mail e senha antes de criação ou redefinição de conta                                                       | AI34                 | RNF       | Sim          |
 | RQ56 | Remover automaticamente promoções expiradas da interface                                                              | AI35                 | RNF       | Sim          |
 | RQ57 | Validar dados pessoais no perfil antes de salvar                                                                      | AI36                 | RNF       | Sim          |
+| RQ58 | Fornecer comparação de preços entre cinemas.                                                                          | Q04                 | RF       | Não          |
+| RQ59 | Fornecer reservas de salas para eventos.                                                                              | Q05                 | RF       | Não          |
+| RQ60 | Fornecer um Hub para crítica de filmes.                                                                               | Q06                 | RF       | Não          |
+| RQ61 | Manter a conta logada após o login.                                                                                   | Q07                 | RF       | Sim          |
+| RQ62 | Permitir que o usuário cancele compras.                                                                               | Q08                 | RF       | Sim          |
+| RQ63 | O aplicativo deve ser leve e usar pouca memória do dispositivo.                                                       | Q11                 | RNF       | Sim          |
 
 **Observações:**
 
@@ -100,3 +106,5 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 | `1.0`  |  04/05/2025 |  Criação do Documento com Introdução, metodologia, e tabela com os requisitos elicitados |[Arthur Evangelista](https://github.com/arthurevg) | Todos |
 | `1.1`  |  04/05/2025 | Ajuste na formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.2`  |  04/05/2025 | Correções na rastreabilidade de alguns itens | [Arthur Evangelista](https://github.com/arthurevg)| [Artur de Camargos](https://github.com/ArturDCR) |
+| `1.3`  |  04/05/2025 | Correções na rastreabilidade do RQ38 | [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
+

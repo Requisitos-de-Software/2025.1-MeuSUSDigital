@@ -115,7 +115,7 @@ Os requisitos elicitados a partir da introspecção foram divididos em duas cate
 | RF25  | Permitir que o usuário altere suas preferências de idioma para uma experiência personalizada.                                                                    | IS25 | Não          |
 | RF26  | Integrar o login do aplicativo com redes sociais para facilitar o acesso e compartilhamento de informações.                                                      | IS26 | Não          |
 | RF27  | Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.                                                        | IS27 | Não          |
-| RF28|Feedback visual/sonoro em transições de tela (loading, sucesso, erro) |IS28|Sim|
+| RF28|Feedback visual/sonoro em transições de tela (loading, sucesso, erro) |IS37|Sim|
 
 <font size="3"><p style="text-align: center">Fonte: [Arthur Evangelista de Oliveira](https://github.com/arthurevg) e [Euller Júlio da Silva](https://github.com/Potatoyz908), 2025.</p></font>
 
@@ -149,3 +149,4 @@ Os requisitos elicitados a partir da introspecção foram divididos em duas cate
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 02/04/2025 | Criação da página 'introspecção', contendo introdução, metodologia, relato introspectivo e os requisitos elicitados | [Arthur Evangelista](https://github.com/arthurevg) e [Euller Júlio](https://github.com/Potatoyz908) | [Davi Camilo](https://github.com/Davicamilo23) e [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.1`  | 04/05/2025 | Ajuste na formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg)  |
+| `1.2`  | 04/05/2025 | Correção dos IDs dos requisitos não funcionais (RNF) | [Euller Júlio](https://github.com/Potatoyz908) | [Gabriel Henrique Castelo](https://github.com/GabrielCastelo-31) |

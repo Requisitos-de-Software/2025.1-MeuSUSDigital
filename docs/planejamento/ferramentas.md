@@ -27,6 +27,7 @@ Para auxiliar na execução e organização do projeto, foram utilizadas diferen
 | <img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/raw/main/docs/assets/ferramentas/chatgpt.png" style="height:100px;width:100px"> | ChatGPT | Auxílio em dúvidas gerais, revisão de textos e markdown.<a id="anchor_13" href="#FRM13"><sup>13</sup></a> |
 | <img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/raw/main/docs/assets/ferramentas/telegram.png" style="height:100px;width:100px"> | Telegram | Comunicação com a monitora atribuída ao grupo.<a id="anchor_14" href="#FRM14"><sup>14</sup></a> |
 | <img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/raw/main/docs/assets/ferramentas/thispersonnotexist.png" style="height:110px;width:120px"> | This Person Does Not Exist | Criação de personas.<a id="anchor_15" href="#FRM15"><sup>15</sup></a> |
+| <img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/raw/main/docs/assets/ferramentas/miro.png" style="height:110px;width:120px"> | Miro | Auxílio visual e operacional para aplicar diferentes técnicas.<a id="anchor_16" href="#FRM16"><sup>16</sup></a> |
 
 
 <font size="3"><p align="center">Fonte: Autores.</p></font>
@@ -64,6 +65,9 @@ Para auxiliar na execução e organização do projeto, foram utilizadas diferen
 > <a id="FRM14" href="#anchor_14">14.</a> Telegram. Disponível em: [https://telegram.org/](). Acesso em: 3 de maio de 2025.  
 >
 > <a id="FRM15" href="#anchor_15">15.</a> This Person Does Not Exist. Disponível em: [https://thispersondoesnotexist.com/](). Acesso em: 4 de maio de 2025.
+>
+> <a id="FRM16" href="#anchor_16">16.</a> Miro. Disponível em: [https://miro.com/](). Acesso em: 4 de maio de 2025.
+
 
 ---
 
@@ -78,3 +82,5 @@ Para auxiliar na execução e organização do projeto, foram utilizadas diferen
 | `1.2.1` | 03/05/2025 | Ajuste do formato do número da referência (semelhante a uma nota de rodapé) | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/potatoyz908) |
 | `1.3`   | 04/05/2025 | Adição de nova ferramenta | [Davi Camilo](https://github.com/Davicamilo23) | [Pedro Everton](https://github.com/pedroeverton217) |
 | `1.4`   | 04/05/2025 | Ajuste do tamanho de alguns logos | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.5`   | 05/05/2025 | Adiciona Miro às ferramentas| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.5.1`   | 05/05/2025 | Adiciona Miro às referências da página e corrige link da tabela| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Arthur Evangelista](https://github.com/arthurevg) |

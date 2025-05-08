@@ -12,10 +12,19 @@ As categorias principais do modelo são:
 - **Indifferent (Indiferente)**: aspectos que não afetam a satisfação ou insatisfação do usuário, independentemente de estarem presentes ou ausentes.  
 - **Reverse (Reverso)**: características que, quando presentes, podem gerar insatisfação em alguns usuários e, quando ausentes, podem causar satisfação em outros.
 
+---
 
 ## Metodologia
 
-Para a aplicação da técnica de priorização do modelo Kano, foi desenvolvido um questionário com base nos critérios definidos para os requisitos do sistema. O questionário foi disponibilizado para um grupo de usuários selecionados, que responderam de acordo com suas preferências e expectativas sobre as funcionalidades do sistema. As respostas foram então analisadas para categorizar as funcionalidades em diferentes categorias do modelo Kano, como é possíver observar na tabela 1.
+Para a aplicação da técnica de priorização do modelo Kano, foi desenvolvido um questionário com base nos critérios definidos para os requisitos do sistema. O questionário foi disponibilizado para um grupo de usuários selecionados, que responderam de acordo com suas preferências e expectativas sobre as funcionalidades do sistema. As respostas foram então analisadas com base na figura 1 para categorizar as funcionalidades em diferentes categorias do modelo Kano, como é possível observar na tabela 1.
+
+
+ <figure>
+    <font size="3"><p style="text-align: center"><b>Figura 1</b>: Tabela do Modelo Kano</p></font>
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/kanoModel/tabelaKano.png" alt="Tabela do modelo kano cada dado cruzado leva a uma característica Ksno diferente">
+    <figcaption>Fonte: <a href="https://www.interaction-design.org/literature/article/the-kano-model-a-tool-to-prioritize-the-users-wants-and-desires">The Kano Model – A tool to prioritize the users’ wants and desires</a>, 2025.</figcaption>
+</figure> 
+---
 
 ## Link da gravação da sessão
 
@@ -29,7 +38,11 @@ Para a aplicação da técnica de priorização do modelo Kano, foi desenvolvido
   allowfullscreen>
 </iframe>
 
+---
+
 ## Priorização 
+
+
 
 ### Legenda da Tabela 1
 
@@ -91,11 +104,16 @@ Para a aplicação da técnica de priorização do modelo Kano, foi desenvolvido
 
 <font size="3"><p style="text-align: center">Autores: [Arthur Evangelista de Oliveira](https://github.com/arthurevg) e [Euller Júlio da Silva](https://github.com/Potatoyz908).</p></font>
 
+---
+
 ## Bibliografia
- - KANO MODEL. **The Kano Model – A Tool to Prioritize the Users’ Wants and Desires**. Interaction Design Foundation. Disponível em: <https://www.interaction-design.org/literature/article/the-kano-model-a-tool-to-prioritize-the-users-wants-and-desires>. Acesso em: 04 maio 2025.  
+ - KANO MODEL. **The Kano Model – A Tool to Prioritize the Users’ Wants and Desires**. Interaction Design Foundation. Disponível em: <https://www.interaction-design.org/literature/article/the-kano-model-a-tool-to-prioritize-the-users-wants-and-desires>. Acesso em: 04 maio 2025.
 
-## Histórico de Versões
+---
 
-| Versão | Data       | Descrição                                          | Autor              | Revisor |
-| ------ | ---------- | -------------------------------------------------- | ------------------ | -- |
-| 1.0    | 04/05/2025 | Criação da página 'Kano Model', contendo introdução, metodologia e tabela de priorização de requisitos| [Arthur Evangelista](https://github.com/arthurevg) e [Euller Júlio](https://github.com/Potatoyz908) | Todos |
+## Histórico de Versão
+
+| Versão | Data       | Descrição                          | Autor(es)     | Revisor(es) |
+|--------|------------|------------------------------------|---------------|-------------|
+| `1.0`  | 04/05/2025 | Criação da página 'Kano Model', contendo introdução, metodologia e tabela de priorização de requisitos| [Arthur Evangelista](https://github.com/arthurevg) e [Euller Júlio](https://github.com/Potatoyz908) | Todos |
+| `1.1`  | 05/05/2025 | Adição da tabela do Modelo Kano| [Arthur Evangelista](https://github.com/arthurevg)  |[Euller Júlio](https://github.com/Potatoyz908) |

@@ -3,6 +3,8 @@
 ## Introdução
 Este documento apresenta a priorização de requisitos para um sistema de venda de ingressos e gestão de cinemas, utilizando a técnica **MoSCoW**. Essa metodologia categoriza os requisitos em quatro grupos: **Must Have** (obrigatórios), **Should Have** (importantes), **Could Have** (desejáveis) e **Won't Have** (não prioritários). O objetivo é garantir o foco nas funcionalidades críticas para o sucesso do produto, alinhando-se às necessidades do usuário e às restrições técnicas.
 
+---
+
 ## Metodologia
 A priorização seguiu os critérios:
 - **Must Have**: Requisitos essenciais para o funcionamento básico do sistema.
@@ -35,10 +37,16 @@ A priorização seguiu os critérios:
 
 ---
 
+## Bibliografia
+ - Interaction Design Foundation - IxDF. (2015, November 18). Making Your UX Life Easier with the MoSCoW. Interaction Design Foundation - IxDF. Disponível em: <https://www.interaction-design.org/literature/article/making-your-ux-life-easier-with-the-moscow>. Acesso em: 04 maio 2025.
+
+---
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                          | Autor(es)     | Revisor(es) |
 |--------|------------|------------------------------------|---------------|-------------|
-| `1.0`  | 04/05/2025 | Criação do Documento | [Davi](https://github.com/Davicamilo23) | Todos |
-| `1.1`  | 04/05/2025 | Incluindo dados da reunião | [Artur](https://github.com/ArturDCR) | [Davi](https://github.com/Davicamilo23) |
+| `1.0`  | 04/05/2025 | Criação do Documento | [Davi Camilo](https://github.com/Davicamilo23) | Todos |
+| `1.1`  | 04/05/2025 | Incluindo dados da reunião | [Artur de Camargos](https://github.com/ArturDCR) | [Davi Camilo](https://github.com/Davicamilo23) |
+| `1.2`  | 04/05/2025 | Atualização do link da reunião com o suário | [Artur de Camargos](https://github.com/ArturDCR) | [Davi Camilo](https://github.com/Davicamilo23) |
+| `1.3`  | 04/05/2025 | Inclusão da bibliografia | [Artur de Camargos](https://github.com/ArturDCR) | [Davi Camilo](https://github.com/Davicamilo23) |
