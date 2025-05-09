@@ -82,6 +82,18 @@ Abaixo se encontra a inspeção da entrega do grupo. A inspeção foi realizada 
 
 <font size="3"><p align="center">Fonte: Autores, 2025.</p></font>
 
+### Tabela 5: Lista de verificação: Técnica de elicitação Introspecção
+
+| Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
+|------|--------------|------|-------------|-----------|
+| **1.** O grupo demonstrou ter se colocado no lugar do usuário ao definir os requisitos? |  |  |  |  |
+| **2.** Foram considerados os recursos e equipamentos reais disponíveis para a tarefa? |  |  |  |  |
+| **3.** As propriedades do sistema foram definidas com base nessa simulação de uso? |  |  |  |  |
+
+
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
+
+
 ---
 
 ## Referências Bibliográficas
@@ -100,6 +112,8 @@ Abaixo se encontra a inspeção da entrega do grupo. A inspeção foi realizada 
 
 > **Reinehr, Sheila** Engenharia de Requisitos, Editora: Grupo A Selo: Sagah. 1ª edição. 2020. Cap. Seleção de técnicas de elicitação de requisitos de software, p. 41.
 
+> **SERRANO, Milene; SERRANO, Maurício.** *Engenharia de Requisitos – Aula 07: Técnicas de Elicitação*. Gama, DF: UnB/FGA, 2024. Material de aula. Disponível em: <https://aprender3.unb.br/course/view.php?id=24696&section=6>.
+
 ---
 
 ## Histórico de Versão
@@ -108,3 +122,5 @@ Abaixo se encontra a inspeção da entrega do grupo. A inspeção foi realizada 
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  |  05/05/2025 |  Criação do Documento | [Davi Camilo](https://github.com/Davicamilo23) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.1`  |  05/05/2025 |  Adição das listas de inspeção | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
+
+| `1.2`  |  05/05/2025 |  Adição da lista de introspecção | [Arthur Evangelista](https://github.com/arthurevg)| [Gabriel Castelo](https://github.com/GabrielCastelo-31)
