@@ -82,6 +82,17 @@ Abaixo se encontra a inspeção da entrega do grupo. A inspeção foi realizada 
 
 <font size="3"><p align="center">Fonte: Autores, 2025.</p></font>
 
+### Tabela 4: Lista de Inspeção — Técnica de Priorização Moscow
+
+| Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
+|---------|-------|------------|--------|--------|
+| **1.** Os critérios para classificação dos requisitos nas categorias Must have, Should have, Could have e Won’t have foram claramente definidos e alinhados com os objetivos do projeto e as restrições técnicas/orçamentárias? |  | 09/05/2025 |  |  |
+| **2.** Houve participação ativa de múltiplos stakeholders (clientes, usuários, equipe técnica) no processo de classificação dos requisitos, garantindo consenso sobre as prioridades? |  | 09/05/2025 |  |  |
+| **3.** Os requisitos classificados como Must have foram validados como essenciais para a entrega mínima viável (MVP), considerando riscos de exclusão (ex.: impacto legal, funcionalidades críticas)? |  | 09/05/2025 |  |  |
+| **4.** O modelo foi combinado ou adaptado a outras técnicas (ex.: Kano, storytelling) para mitigar limitações do MoSCoW, como a subjetividade na classificação ou a falta de análise de valor percebido pelo usuário? |  | 09/05/2025 |  |  |
+
+<font size="3"><p align="center">Fonte: Artur de Camargos, 2025.</p></font>
+
 ---
 
 ## Referências Bibliográficas
