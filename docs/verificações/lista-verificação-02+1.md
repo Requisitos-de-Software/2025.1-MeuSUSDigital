@@ -150,17 +150,6 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Everton](https://github.com/pedroeverton217), 2025.</p></font>
 
-### Tabela 10: Lista de verificação: Técnica de elicitação Introspecção
-
-| Item | Autor | Referência |
-|------|-------|------------|
-| O grupo demonstrou ter se colocado no lugar do usuário ao definir os requisitos? | [Arthur Evangelista](https://github.com/arthurevg) | ![alt text](../assets/verificacao/introspeccao1.png)SERRANO, Milene; SERRANO, Maurício. *Engenharia de Requisitos – Aula 07: Técnicas de Elicitação*. Gama, DF: UnB/FGA, 2024. Material de aula. Disponível em: <https://aprender3.unb.br/course/view.php?id=24696&section=6>. Acesso em: 9 maio 2025. |
-| Foram considerados os recursos e equipamentos reais disponíveis para a tarefa? | [Arthur Evangelista](https://github.com/arthurevg) |![alt text](../assets/verificacao/introspeccao1.png) SERRANO, Milene; SERRANO, Maurício. *Engenharia de Requisitos – Aula 07: Técnicas de Elicitação*. Gama, DF: UnB/FGA, 2024. Material de aula. Disponível em: <https://aprender3.unb.br/course/view.php?id=24696&section=6>. Acesso em: 9 maio 2025. |
-| As propriedades do sistema foram definidas com base nessa simulação de uso? | [Arthur Evangelista](https://github.com/arthurevg) |![alt text](../assets/verificacao/introspeccao1.png) SERRANO, Milene; SERRANO, Maurício. *Engenharia de Requisitos – Aula 07: Técnicas de Elicitação*. Gama, DF: UnB/FGA, 2024. Material de aula. Disponível em: <https://aprender3.unb.br/course/view.php?id=24696&section=6>. Acesso em: 9 maio 2025. |
-
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
-
-
 ---
 
 ## Referências Bibliográficas
