@@ -8,7 +8,7 @@ O questionário é uma técnica bastante utilizada no processo de elicitação d
 
 ## Metodologia
 
-Criamos o questionário dividindo em seções sobre perfil de usuário, usabilidade, interface, experiência com o aplicativo, etc. Compartilhamos o mesmo em grupos de WhatsApp e Telegram, principalmente em grupos relacionados a faculdade. Tendo isso em vista, podemos inferir que a maioria das respostas será de um grupo de usuários específicos, o dos universitários. Esse é um grupo relevante, pois das respostas coletadas vimos que mais de 50% já usaram ou conhecem o aplicativo.
+Criamos o questionário dividindo em seções sobre perfil de usuário, usabilidade, interface, experiência com o aplicativo, etc. Compartilhamos o mesmo em grupos de WhatsApp e Telegram, principalmente em grupos relacionados a faculdade como: "UnB - FGA 2023/1", "UnB - FGA 2023/2", "UnB - FGA 2024/1", "UnB - FGA 2024/2", "UnB - FGA 2025/1" e "Eng de Software UnB". Tendo isso em vista, podemos inferir que a maioria das respostas será de um grupo de usuários específicos, o dos universitários. Escolhemos esses grupos por ser um público jovem e que tem contato com aplicativos e cinema, como confirmado através das respostas.
 As perguntas do questionário foram adaptadas do conteúdo do livro de Wiegers e Beatty (2013), Sommerville (2011), Pressman (2015) e Reinehr (2011).
 
 ---
@@ -228,3 +228,4 @@ Legenda:
 | `1.1`  | 04/05/2025 | Correção do link das imagens do questionário | [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
 | `1.2`  | 04/05/2025 | Correção das fontes das imagens do questionário | [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
 | `1.3`  | 09/05/2025 | Adição da fonte das perguntas do questionário | [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
+| `1.4`  | 09/05/2025 | Adicionar o local de divulgação do questionário e o motivo da escolha do local  | [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | [Davi Camilo](https://github.com/Davicamilo23) |
