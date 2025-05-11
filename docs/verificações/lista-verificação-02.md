@@ -90,6 +90,21 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
 
+### Tabela 6: Lista de Verificação - Técnica de Elicitação Questionário
+
+| Item                                                                                                                             | Autor                                             | Referência                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **1.** O questionário foi formulado com perguntas claras e objetivas, visando obter informações diretas dos stakeholders?        | [Tiago Antunes](https://github.com/tiagobalieiro) | WIEGERS, Karl; BEATTY, Joy. *Software Requirements*. 3. ed. Redmond: Microsoft Press, 2013.                   |
+| **2.** Foram consideradas diferentes perspectivas dos stakeholders ao formular as perguntas?                                     | [Tiago Antunes](https://github.com/tiagobalieiro) | SOMMERVILLE, Ian. *Engenharia de Software*. 9. ed. São Paulo: Pearson, 2011.                                  |
+| **3.** O questionário foi projetado para cobrir todas as áreas relevantes de requisitos, tanto funcionais quanto não funcionais? | [Tiago Antunes](https://github.com/tiagobalieiro) | PRESSMAN, Roger S. *Engenharia de Software: Uma Abordagem Profissional*. 8. ed. São Paulo: McGraw-Hill, 2015. |
+| **4.** O formato das perguntas (abertas ou fechadas) foi adequado para o tipo de informação necessária?                          | [Tiago Antunes](https://github.com/tiagobalieiro) | REINEHR, Sheila. *Engenharia de Requisitos*. Rio de Janeiro: LTC, 2011.                                       |
+| **5.** A estrutura do questionário foi balanceada, de forma a garantir uma coleta eficiente sem sobrecarregar os participantes?  | [Tiago Antunes](https://github.com/tiagobalieiro) | WIEGERS, Karl; BEATTY, Joy. *Software Requirements*. 3. ed. Redmond: Microsoft Press, 2013.                   |
+| **6.** O questionário foi revisado para evitar ambiguidades, erros de linguagem ou termos técnicos confusos?                     | [Tiago Antunes](https://github.com/tiagobalieiro) | SOMMERVILLE, Ian. *Engenharia de Software*. 9. ed. São Paulo: Pearson, 2011.                                  |
+| **7.** O questionário foi testado previamente com um pequeno grupo de usuários para validar sua eficácia e clareza?              | [Tiago Antunes](https://github.com/tiagobalieiro) | PRESSMAN, Roger S. *Engenharia de Software: Uma Abordagem Profissional*. 8. ed. São Paulo: McGraw-Hill, 2015. |
+| **8.** Foi considerado o tempo necessário para que os participantes completassem o questionário de maneira confortável?          | [Tiago Antunes](https://github.com/tiagobalieiro) | REINEHR, Sheila. *Engenharia de Requisitos*. Rio de Janeiro: LTC, 2011.                                       |
+
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes](https://github.com/tiagobalieiro), 2025.</p></font>
+
 ---
 
 ## Referências Bibliográficas
@@ -126,4 +141,5 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 | `1.7` | 04/05/2025 | Adição da lista de verificação do modelo Kano | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
 | `1.8` | 05/05/2025 | Correção do caminho das imagens (prints) e adição de item | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
 | `1.9` | 09/05/2025 | Ajustes nas tabelas e adição da técnica de introspecção| [Arthur Evangelista](https://github.com/arthurevg) | [Pedro Everton](https://github.com/pedroeverton217) |
+| `1.10` | 09/05/2025 | Adição da lista de verificação - questionário| [Tiago Antunes](https://github.com/tiagobalieiro) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
 
