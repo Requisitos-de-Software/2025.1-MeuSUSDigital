@@ -80,6 +80,16 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 <font size="3"><p style="text-align: center">Fonte: [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
 
+### Tabela 5: Lista de verificação: Técnica de elicitação Introspecção
+
+| Item | Autor | Referência |
+|------|-------|------------|
+| O grupo demonstrou ter se colocado no lugar do usuário ao definir os requisitos? | [Arthur Evangelista](https://github.com/arthurevg) | ![alt text](../assets/verificacao/introspeccao1.png)SERRANO, Milene; SERRANO, Maurício. *Engenharia de Requisitos – Aula 07: Técnicas de Elicitação*. Gama, DF: UnB/FGA, 2024. Material de aula. Disponível em: <https://aprender3.unb.br/course/view.php?id=24696&section=6>. Acesso em: 9 maio 2025. |
+| Foram considerados os recursos e equipamentos reais disponíveis para a tarefa? | [Arthur Evangelista](https://github.com/arthurevg) |![alt text](../assets/verificacao/introspeccao1.png) SERRANO, Milene; SERRANO, Maurício. *Engenharia de Requisitos – Aula 07: Técnicas de Elicitação*. Gama, DF: UnB/FGA, 2024. Material de aula. Disponível em: <https://aprender3.unb.br/course/view.php?id=24696&section=6>. Acesso em: 9 maio 2025. |
+| As propriedades do sistema foram definidas com base nessa simulação de uso? | [Arthur Evangelista](https://github.com/arthurevg) |![alt text](../assets/verificacao/introspeccao1.png) SERRANO, Milene; SERRANO, Maurício. *Engenharia de Requisitos – Aula 07: Técnicas de Elicitação*. Gama, DF: UnB/FGA, 2024. Material de aula. Disponível em: <https://aprender3.unb.br/course/view.php?id=24696&section=6>. Acesso em: 9 maio 2025. |
+
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
+
 ---
 
 ## Referências Bibliográficas
@@ -93,6 +103,8 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 > **MA, Qiao.** The effectiveness of requirements prioritization techniques for a medium to large number of requirements: a systematic literature review. Auckland University of Technology, 2009. p.27
 
 > **KANO MODEL.** The Kano Model – A Tool to Prioritize the Users’ Wants and Desires. Interaction Design Foundation. Disponível em: <https://www.interaction-design.org/literature/article/the-kano-model-a-tool-to-prioritize-the-users-wants-and-desires>. Acesso em: 03 maio 2025.
+
+> **SERRANO, Milene; SERRANO, Maurício**. *Engenharia de Requisitos – Aula 07: Técnicas de Elicitação*. Gama, DF: UnB/FGA, 2024. Material de aula. Disponível em: <https://aprender3.unb.br/course/view.php?id=24696&section=6>. Acesso em: 9 maio 2025. 
 
 > **SINNIG, D.; PITULA,K.; BECKER, R.; RADHAKRISHNAN, T.; FORBRIG, P.** Structured digital storytelling for eliciting software requirements in the ICT4D domain. In: FORBRIG, P.; PATERNÓ, F.; PEJTERSEN, A. M. (eds.). Human-Computer Interaction. HCIS 2010. IFIP Advances in Information and Communication Technology, v. 332. Berlin; Heidelberg: Springer, 2010. Disponível em: [https://doi.org/10.1007/978-3-642-15231-3_7](https://doi.org/10.1007/978-3-642-15231-3_7). Acesso em: 4 maio 2025. P. 61.
 
@@ -111,5 +123,7 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 | `1.4` | 04/05/2025 | Remove coluna desnecessária da lista de storytelling | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.5` | 04/05/2025 | Adiciona item na lista de verificação - Storytelling | [Tiago Antunes](https://github.com/TiagoBalieiro) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.6` | 04/05/2025 | Atualiza Referências Bibliográficas  | [Tiago Antunes](https://github.com/TiagoBalieiro) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
-| `1.7` | 04/05/2025 | Adição de checklist do modelo Kano | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
+| `1.7` | 04/05/2025 | Adição da lista de verificação do modelo Kano | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
 | `1.8` | 05/05/2025 | Correção do caminho das imagens (prints) e adição de item | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
+| `1.9` | 09/05/2025 | Ajustes nas tabelas e adição da técnica de introspecção| [Arthur Evangelista](https://github.com/arthurevg) | [Pedro Everton](https://github.com/pedroeverton217) |
+

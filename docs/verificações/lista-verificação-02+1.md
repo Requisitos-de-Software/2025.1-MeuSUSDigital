@@ -150,7 +150,6 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Everton](https://github.com/pedroeverton217), 2025.</p></font>
 
-
 ---
 
 ## Referências Bibliográficas
@@ -173,6 +172,7 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 > **CIANCARINI, Paolo; FARINA, Mirko; OKONICHA, Ozioma; SMIRNOVA, Marina; SUCCI, Giancarlo**  Software as storytelling: A systematic literature review. Computer Science Review, 2023. Disponível em: https://www.sciencedirect.com/science/article/abs/pii/S157401372200051X. Acesso em: 4 maio 2025.
 
+> **SERRANO, Milene; SERRANO, Maurício.** *Engenharia de Requisitos – Aula 07: Técnicas de Elicitação*. Gama, DF: UnB/FGA, 2024. Material de aula. Disponível em: <https://aprender3.unb.br/course/view.php?id=24696&section=6>.
 ---
 
 ## Histórico de Versão
@@ -189,7 +189,8 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 | `1.7` | 04/05/2025 | Adição de checklist do modelo Kano | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
 | `1.8` | 05/05/2025 | Correção do caminho das imagens (prints) e adição de item | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
 | `1.9` | 05/05/2025 | Adição das seguintes listas de verificação: Observação, Perfil de usuário e personas | [Arthur Evangelista](https://github.com/arthurevg) | [Pedro Everton de Paula](https://github.com/pedroeverton217) |
-| `1.10`  |  05/05/2025 |  Adição da lista de Inspeção - Técnica de Elicitação Storytelling | [Tiago Antunes](https://github.com/TiagoBalieiro) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
-| `1.11` | 05/05/2025 | Corrige titulo errado da tabela 100$ e corrige histórico de versão para refletir a adição da tabela de verificação 100$ | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
-| `1.12` | 05/05/2025 | Ajuste nas tabelas de verificação | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
-| `1.13` | 05/05/2025 | Adição da lista de verificação do Three-Level Scale | [Pedro Everton](https://github.com/pedroeverton217) | [Euller Júlio](https://github.com/Potatoyz908) |
+| `1.91`  |  05/05/2025 |  Adição da lista de Inspeção - Técnica de Elicitação Storytelling | [Tiago Antunes](https://github.com/TiagoBalieiro) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
+| `1.92` | 05/05/2025 | Corrige titulo errado da tabela 100$ e corrige histórico de versão para refletir a adição da tabela de verificação 100$ | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
+| `1.93` | 05/05/2025 | Ajuste nas tabelas de verificação | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
+| `1.94` | 05/05/2025 | Adição da lista de verificação do Three-Level Scale | [Pedro Everton](https://github.com/pedroeverton217) | [Euller Júlio](https://github.com/Potatoyz908) e  [Arthur Evangelista](https://github.com/arthurevg)|
+| `2.0` | 09/05/2025 | Correção no histórico de versão que ia de [1.8, 1.9, 1.10, 1.11., ..] |  [Arthur Evangelista](https://github.com/arthurevg)| [Gabriel Castelo](https://github.com/GabrielCastelo-31)
