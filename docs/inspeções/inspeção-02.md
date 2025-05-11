@@ -105,6 +105,21 @@ Abaixo se encontra a inspeção da entrega do grupo. A inspeção foi realizada 
 
 <font size="3"><p align="center">Fonte: Artur de Camargos, 2025.</p></font>
 
+### Tabela 7: Lista de Inspeção — Técnica de Elicitação Questionário
+
+| Item                                                                                                                             | Inspetor(es) | Data       | Revisor(es) | Avaliação |
+| -------------------------------------------------------------------------------------------------------------------------------- | ------------ | ---------- | ----------- | --------- |
+| **1.** O questionário foi formulado com perguntas claras e objetivas, visando obter informações diretas dos stakeholders?        |              | 05/05/2025 |             |           |
+| **2.** Foram consideradas diferentes perspectivas dos stakeholders ao formular as perguntas?                                     |              | 05/05/2025 |             |           |
+| **3.** O questionário foi projetado para cobrir todas as áreas relevantes de requisitos, tanto funcionais quanto não funcionais? |              | 05/05/2025 |             |           |
+| **4.** O formato das perguntas (abertas ou fechadas) foi adequado para o tipo de informação necessária?                          |              | 05/05/2025 |             |           |
+| **5.** A estrutura do questionário foi balanceada, de forma a garantir uma coleta eficiente sem sobrecarregar os participantes?  |              | 05/05/2025 |             |           |
+| **6.** O questionário foi revisado para evitar ambiguidades, erros de linguagem ou termos técnicos confusos?                     |              | 05/05/2025 |             |           |
+| **7.** O questionário foi testado previamente com um pequeno grupo de usuários para validar sua eficácia e clareza?              |              | 05/05/2025 |             |           |
+| **8.** Foi considerado o tempo necessário para que os participantes completassem o questionário de maneira confortável?          |              | 05/05/2025 |             |           |
+
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes](https://github.com/tiagobalieiro), 2025.</p></font>
+
 ---
 
 ## Referências Bibliográficas
@@ -125,6 +140,10 @@ Abaixo se encontra a inspeção da entrega do grupo. A inspeção foi realizada 
 
 > **SERRANO, Milene; SERRANO, Maurício.** *Engenharia de Requisitos – Aula 07: Técnicas de Elicitação*. Gama, DF: UnB/FGA, 2024. Material de aula. Disponível em: <https://aprender3.unb.br/course/view.php?id=24696&section=6>.
 
+> **SOMMERVILLE, Ian.** Engenharia de Software. 9. ed. São Paulo: Pearson, 2011.
+
+> **PRESSMAN, Roger S.** Engenharia de Software: Uma Abordagem Profissional. 8. ed. São Paulo: McGraw-Hill, 2015.
+
 ---
 
 ## Histórico de Versão
@@ -134,3 +153,4 @@ Abaixo se encontra a inspeção da entrega do grupo. A inspeção foi realizada 
 | `1.0`  |  05/05/2025 |  Criação do Documento | [Davi Camilo](https://github.com/Davicamilo23) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.1`  |  05/05/2025 |  Adição das listas de inspeção | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.2`  |  05/05/2025 |  Adição da lista de introspecção | [Arthur Evangelista](https://github.com/arthurevg)| [Gabriel Castelo](https://github.com/GabrielCastelo-31)
+| `1.3`  |  09/05/2025 |  Adição da lista do questionário | [Tiago Antunes](https://github.com/TiagoBalieiro) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR)
