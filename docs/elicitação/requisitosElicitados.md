@@ -89,6 +89,10 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 | RQ61 | Manter a conta logada após o login.                                                                                   | Q07                 | RF       | Sim          |
 | RQ62 | Permitir que o usuário cancele compras.                                                                               | Q08                 | RF       | Sim          |
 | RQ63 | O aplicativo deve ser leve e usar pouca memória do dispositivo.                                                       | Q11                 | RNF       | Sim          |
+| RQ64 | Permitir que o usuário exclua permanentemente sua conta.                                                       | IS38                 | RF       | Sim          |
+| RQ65 | Permitir ao usuário realizar logout de sua conta.                                                       | IS39                 | RF       | Sim          |
+
+
 
 **Observações:**
 
@@ -107,4 +111,4 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 | `1.1`  |  04/05/2025 | Ajuste na formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.2`  |  04/05/2025 | Correções na rastreabilidade de alguns itens | [Arthur Evangelista](https://github.com/arthurevg)| [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.3`  |  04/05/2025 | Correções na rastreabilidade do RQ38 | [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
-
+| `1.4`  |  11/05/2025 | Correções na tabela de requisitos elicitados | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
