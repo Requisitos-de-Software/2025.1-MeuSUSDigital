@@ -102,6 +102,10 @@ Abaixo se encontra a inspeção da entrega do grupo. A inspeção foi realizada 
 | **2.** Houve participação ativa de múltiplos stakeholders (clientes, usuários, equipe técnica) no processo de classificação dos requisitos, garantindo consenso sobre as prioridades? |  | 09/05/2025 |  |  |
 | **3.** Os requisitos classificados como Must have foram validados como essenciais para a entrega mínima viável (MVP), considerando riscos de exclusão (ex.: impacto legal, funcionalidades críticas)? |  | 09/05/2025 |  |  |
 | **4.** O modelo foi combinado ou adaptado a outras técnicas (ex.: Kano, storytelling) para mitigar limitações do MoSCoW, como a subjetividade na classificação ou a falta de análise de valor percebido pelo usuário? |  | 09/05/2025 |  |  |
+| **5.** Os requisitos classificados como Won’t have foram documentados com justificativas claras (ex.: baixo valor agregado, custo elevado, desalinhamento estratégico) para evitar futuras reinvindicações ou retrabalho? |  | 12/05/2025 |  |  |
+| **6.** Houve avaliação de dependências entre requisitos (ex.: um Should have depende de um Must have) para garantir coerência na priorização e no planejamento das entregas? |  | 12/05/2025 |  |  |
+| **7.** Foi realizado um processo de revisão periódica das prioridades definidas pelo MoSCoW, considerando mudanças no escopo, feedback de usuários ou novas restrições do projeto? |  | 12/05/2025 |  |  |
+| **8.** As decisões de priorização foram validadas com técnicas quantitativas (ex.: votação ponderada, análise custo-benefício) para reduzir vieses subjetivos e aumentar a confiabilidade das classificações? |  | 12/05/2025 |  |  |
 
 <font size="3"><p align="center">Fonte: Artur de Camargos, 2025.</p></font>
 
