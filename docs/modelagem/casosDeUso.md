@@ -1,4 +1,5 @@
-# Casos de Uso
+# A DESENVOLVER...
+<!-- # Casos de Uso
 
 ## Introdução
 
@@ -77,4 +78,4 @@ Os casos de uso foram agrupados por fluxo funcional do sistema. Cada tabela abai
 
 | Versão | Data       | Descrição                              | Autor(es)                                                                                           | Revisor(es)                                       |
 | ------ | ---------- | -------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| 1.0    | 11/05/2025 | Criação da estrutura inicial da página | [Euller Júlio](https://github.com/Potatoyz908) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
+| 1.0    | 11/05/2025 | Criação da estrutura inicial da página | [Euller Júlio](https://github.com/Potatoyz908) | [Tiago Antunes](https://github.com/TiagoBalieiro) | -->
