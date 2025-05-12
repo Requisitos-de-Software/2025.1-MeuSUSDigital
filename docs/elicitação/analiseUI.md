@@ -112,6 +112,10 @@ Os requisitos elicitados a partir da análise de interfaces de usuário foram or
 
 ---
 
+## Conclusão
+
+A análise da interface do próprio aplicativo Cinemark forneceu informações valiosas sobre padrões de design e funcionalidades existentes. Essa avaliação auxiliou na identificação de elementos que poderiam ser aprimorados no aplicativo, visando uma melhor experiência do usuário. As informações coletadas contribuíram diretamente para a definição de requisitos específicos, detalhados na seção de [Requisitos Elicitados](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/).
+
 ## Bibliografia
 > 1. Cinemark Brasil. Disponível em: <https://www.cinemark.com.br>. Acesso em: 3 maio 2025.
 > 2. WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013.
@@ -124,3 +128,4 @@ Os requisitos elicitados a partir da análise de interfaces de usuário foram or
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 03/04/2025 | Criação da página 'Análise de UI', contendo introdução, metodologia, análise e os requisitos elicitados | [Arthur Evangelista](https://github.com/arthurevg) e [Euller Júlio](https://github.com/Potatoyz908) | [Davi Camilo](https://github.com/Davicamilo23) e [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.1`  | 04/05/2025 | Ajuste na formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
+| `1.2`  | 12/05/2025 | Adição da conclusão | [Arthur Evangelista](https://github.com/arthurevg) | [Euller Júlio](https://github.com/Potatoyz908) |
