@@ -14,28 +14,28 @@ A priorização é definida pela combinação de **importância** (contribuiçã
 | **Não Urgente**         | **Média Prioridade**     | **Baixa Prioridade**    |
 
 ### Detalhamento das Categorias:
-1. **Alta Prioridade**  
-   - **Critérios**: Requisitos **importantes** e **urgentes**.  
-   - **Exemplos**:  
-     - Necessários para conformidade legal ou contratual.  
-     - Capacidades críticas para o próximo lançamento (ex: funcionalidade essencial do MVP).  
-     - Impactam diretamente os resultados do negócio se não forem entregues.  
+1. **Alta Prioridade**
+   - **Critérios**: Requisitos **importantes** e **urgentes**.
+   - **Exemplos**:
+     - Necessários para conformidade legal ou contratual.
+     - Capacidades críticas para o próximo lançamento (ex: funcionalidade essencial do MVP).
+     - Impactam diretamente os resultados do negócio se não forem entregues.
 
-2. **Média Prioridade**  
-   - **Critérios**: Requisitos **importantes**, mas **não urgentes**.  
-   - **Exemplos**:  
-     - Funcionalidades valorizadas pelos clientes, mas que podem ser adiadas para uma versão futura.  
-     - Melhorias que agregam valor, mas não bloqueiam o lançamento inicial.  
+2. **Média Prioridade**
+   - **Critérios**: Requisitos **importantes**, mas **não urgentes**.
+   - **Exemplos**:
+     - Funcionalidades valorizadas pelos clientes, mas que podem ser adiadas para uma versão futura.
+     - Melhorias que agregam valor, mas não bloqueiam o lançamento inicial.
 
-3. **Baixa Prioridade**  
-   - **Critérios**: Requisitos **não importantes** e **não urgentes**.  
-   - **Exemplos**:  
-     - Recursos "desejáveis" que os clientes podem viver sem (ex: temas personalizados).  
-     - Melhorias incrementais sem impacto significativo no sucesso do produto.  
+3. **Baixa Prioridade**
+   - **Critérios**: Requisitos **não importantes** e **não urgentes**.
+   - **Exemplos**:
+     - Recursos "desejáveis" que os clientes podem viver sem (ex: temas personalizados).
+     - Melhorias incrementais sem impacto significativo no sucesso do produto.
 
-4. **Não Fazer!**  
-   - **Critérios**: Requisitos **urgentes** (por pressão política ou stakeholders), mas **não importantes**.  
-   - **Recomendação**: Ignorar ou descartar, pois não contribuem para os objetivos estratégicos.  
+4. **Não Fazer!**
+   - **Critérios**: Requisitos **urgentes** (por pressão política ou stakeholders), mas **não importantes**.
+   - **Recomendação**: Ignorar ou descartar, pois não contribuem para os objetivos estratégicos.
 
 ---
 
@@ -45,7 +45,7 @@ Após estudo da técnica, entramos em contato, e marcamos uma reunião, com um c
 ---
 
 ## Gravação
-[Link](https://unbbr-my.sharepoint.com/personal/221008051_aluno_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2F221008051%5Faluno%5Funb%5Fbr%2FDocuments%2FGrava%C3%A7%C3%B5es%2FPrioriza%C3%A7%C3%A3o%20100%24%2D20250504%5F201833%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8e9429a8%2D7697%2D4c3a%2Da295%2Dbf677d97392a&isSPOFile=1&xsdata=MDV8MDJ8fGYwMTkxZmMzMWU0ZTQ4ZGNkZDc2MDhkZDhiNjg4ZDU1fGVjMzU5YmExNjMwYjRkMmJiODMzYzhlNmQ0OGY4MDU5fDB8MHw2Mzg4MjAwMDMzMjA1NTI4MjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPbTFsWlhScGJtZGZXa1JTYVZsVVl6TlpiVTEwVG5wU2FFNXBNREJOZWxWM1RGUm5lbGxxV1hSUFYxVXdXbXBOZUZwcVdtaE9SRUY2UUhSb2NtVmhaQzUyTWk5dFpYTnpZV2RsY3k4eE56UTJOREF6TlRNeE1EUTF8YTQ2NmM4OGJiMDkxNDEwM2RkNzYwOGRkOGI2ODhkNTV8NDE0NzEwODU3OWU2NGVjYTg5ZjA5OTQ4MjE0MDY3Nzk%3D&sdata=S1ArUVIxS2FqS1FHVHJJMmVGc3JnUFB2UmRXVDhrUUpwMGlPM0dMMmJoaz0%3D&ovuser=ec359ba1%2D630b%2D4d2b%2Db833%2Dc8e6d48f8059%2C221008768%40aluno%2Eunb%2Ebr&OR=Teams%2DHL&CT=1746403563391&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIxNDE1LzI1MDQwMzE5MTEzIiwiSGFzRmVkZXJhdGVkVXNlciI6ZmFsc2V9)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kOOzwJ_FGhc?si=4jp81z8SF7-1cVru" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
