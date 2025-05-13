@@ -94,6 +94,36 @@ Abaixo se encontra a inspeção da entrega do grupo. A inspeção foi realizada 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
 
 
+### Tabela 6: Lista de Inspeção — Técnica de Priorização Moscow
+
+| Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
+|---------|-------|------------|--------|--------|
+| **1.** Os critérios para classificação dos requisitos nas categorias Must have, Should have, Could have e Won’t have foram claramente definidos e alinhados com os objetivos do projeto e as restrições técnicas/orçamentárias? |  | 09/05/2025 |  |  |
+| **2.** Houve participação ativa de múltiplos stakeholders (clientes, usuários, equipe técnica) no processo de classificação dos requisitos, garantindo consenso sobre as prioridades? |  | 09/05/2025 |  |  |
+| **3.** Os requisitos classificados como Must have foram validados como essenciais para a entrega mínima viável (MVP), considerando riscos de exclusão (ex.: impacto legal, funcionalidades críticas)? |  | 09/05/2025 |  |  |
+| **4.** O modelo foi combinado ou adaptado a outras técnicas (ex.: Kano, storytelling) para mitigar limitações do MoSCoW, como a subjetividade na classificação ou a falta de análise de valor percebido pelo usuário? |  | 09/05/2025 |  |  |
+| **5.** Os requisitos classificados como Won’t have foram documentados com justificativas claras (ex.: baixo valor agregado, custo elevado, desalinhamento estratégico) para evitar futuras reinvindicações ou retrabalho? |  | 12/05/2025 |  |  |
+| **6.** Houve avaliação de dependências entre requisitos (ex.: um Should have depende de um Must have) para garantir coerência na priorização e no planejamento das entregas? |  | 12/05/2025 |  |  |
+| **7.** Foi realizado um processo de revisão periódica das prioridades definidas pelo MoSCoW, considerando mudanças no escopo, feedback de usuários ou novas restrições do projeto? |  | 12/05/2025 |  |  |
+| **8.** As decisões de priorização foram validadas com técnicas quantitativas (ex.: votação ponderada, análise custo-benefício) para reduzir vieses subjetivos e aumentar a confiabilidade das classificações? |  | 12/05/2025 |  |  |
+
+<font size="3"><p align="center">Fonte: Artur de Camargos, 2025.</p></font>
+
+### Tabela 7: Lista de Inspeção — Técnica de Elicitação Questionário
+
+| Item                                                                                                                             | Inspetor(es) | Data       | Revisor(es) | Avaliação |
+| -------------------------------------------------------------------------------------------------------------------------------- | ------------ | ---------- | ----------- | --------- |
+| **1.** O questionário foi formulado com perguntas claras e objetivas, visando obter informações diretas dos stakeholders?        |              | 05/05/2025 |             |           |
+| **2.** Foram consideradas diferentes perspectivas dos stakeholders ao formular as perguntas?                                     |              | 05/05/2025 |             |           |
+| **3.** O questionário foi projetado para cobrir todas as áreas relevantes de requisitos, tanto funcionais quanto não funcionais? |              | 05/05/2025 |             |           |
+| **4.** O formato das perguntas (abertas ou fechadas) foi adequado para o tipo de informação necessária?                          |              | 05/05/2025 |             |           |
+| **5.** A estrutura do questionário foi balanceada, de forma a garantir uma coleta eficiente sem sobrecarregar os participantes?  |              | 05/05/2025 |             |           |
+| **6.** O questionário foi revisado para evitar ambiguidades, erros de linguagem ou termos técnicos confusos?                     |              | 05/05/2025 |             |           |
+| **7.** O questionário foi testado previamente com um pequeno grupo de usuários para validar sua eficácia e clareza?              |              | 05/05/2025 |             |           |
+| **8.** Foi considerado o tempo necessário para que os participantes completassem o questionário de maneira confortável?          |              | 05/05/2025 |             |           |
+
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes](https://github.com/tiagobalieiro), 2025.</p></font>
+
 ---
 
 ## Referências Bibliográficas
@@ -114,6 +144,10 @@ Abaixo se encontra a inspeção da entrega do grupo. A inspeção foi realizada 
 
 > **SERRANO, Milene; SERRANO, Maurício.** *Engenharia de Requisitos – Aula 07: Técnicas de Elicitação*. Gama, DF: UnB/FGA, 2024. Material de aula. Disponível em: <https://aprender3.unb.br/course/view.php?id=24696&section=6>.
 
+> **SOMMERVILLE, Ian.** Engenharia de Software. 9. ed. São Paulo: Pearson, 2011.
+
+> **PRESSMAN, Roger S.** Engenharia de Software: Uma Abordagem Profissional. 8. ed. São Paulo: McGraw-Hill, 2015.
+
 ---
 
 ## Histórico de Versão
@@ -123,3 +157,5 @@ Abaixo se encontra a inspeção da entrega do grupo. A inspeção foi realizada 
 | `1.0`  |  05/05/2025 |  Criação do Documento | [Davi Camilo](https://github.com/Davicamilo23) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.1`  |  05/05/2025 |  Adição das listas de inspeção | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.2`  |  05/05/2025 |  Adição da lista de introspecção | [Arthur Evangelista](https://github.com/arthurevg)| [Gabriel Castelo](https://github.com/GabrielCastelo-31)
+| `1.3`  |  09/05/2025 |  Adição da lista do questionário | [Tiago Antunes](https://github.com/TiagoBalieiro) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR)
+| `1.3`  |  12/05/2025 |  Finalização da lista de introspecção | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | [Tiago Antunes](https://github.com/TiagoBalieiro)
