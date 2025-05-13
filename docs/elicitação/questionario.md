@@ -206,6 +206,10 @@ Legenda:
 
 ---
 
+## Conclusão
+
+A aplicação de questionários aos usuários do aplicativo Cinemark possibilitou a coleta de dados quantitativos sobre suas preferências, dificuldades e sugestões. As informações obtidas foram fundamentais para entender as necessidades reais dos usuários e orientar o desenvolvimento de requisitos mais alinhados às suas expectativas. Os resultados dessa técnica estão refletidos nos [Requisitos Elicitados](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/).
+
 ## Bibliografia
 
 > VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. [S. l.]: Brasport, 2016.
@@ -229,3 +233,4 @@ Legenda:
 | `1.2`  | 04/05/2025 | Correção das fontes das imagens do questionário | [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
 | `1.3`  | 09/05/2025 | Adição da fonte das perguntas do questionário | [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
 | `1.4`  | 09/05/2025 | Adicionar o local de divulgação do questionário e o motivo da escolha do local  | [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | [Davi Camilo](https://github.com/Davicamilo23) |
+| `1.5`  | 12/05/2025 | Adição da conclusão | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
