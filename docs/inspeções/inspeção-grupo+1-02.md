@@ -6,7 +6,7 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 ---
 
 ## 🔗 Link da reunião
-[Assista ao vídeo no YouTube]()
+[Assista ao vídeo no YouTube](https://youtu.be/_U7bVyU9x8Q)
 
 ---
 
@@ -35,23 +35,23 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 
 | Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
 |---------|-------|------------|--------|--------|
-| **1.** A Especificação do Perfil do usuário possui informações de: idade, experiência, atitudes e tarefas primárias? |  | 05/05/2025 |  |  |
-| **2.** Existe um cronograma (data, horário e local) para realização da elicitação dos requisitos com o cliente/persona? |  | 05/05/2025 |  |  |
-| **3.** Foram utilizadas no mínimo quatro técnicas de elicitação? |  | 05/05/2025 |  |  |
-| **4.** O cliente/persona participou da elicitação de requisitos? |  | 05/05/2025 |  |  |
-| **5.** Existe gravação e registro da elicitação dos requisitos (pré-rastreabilidade)? |  | 05/05/2025 |  |  |
-| **6.** Cada requisito possui ao menos uma fonte de origem? |  | 05/05/2025 |  |  |
-| **7.** São apresentados requisitos implementados e não implementados? |  | 05/05/2025 |  |  |
-| **8.** Existe indicação de como o requisito pode ser verificado (critério de aceitação)? |  | 05/05/2025 |  |  |
-| **9.** Existe cronograma (data, horário e local) para a priorização dos requisitos com o cliente/persona? |  | 05/05/2025 |  |  |
-| **10.** Foram utilizadas no mínimo quatro técnicas de priorização? |  | 05/05/2025 |  |  |
-| **11.** O cliente/persona participou do processo de priorização? |  | 05/05/2025 |  |  |
-| **12.** Existe gravação e registro da priorização dos requisitos? |  | 05/05/2025 |  |  |
-| **13.** A priorização foi feita com um(ns) stakeholders? |  | 05/05/2025 |  |  |
+| **1.** A Especificação do Perfil do usuário possui informações de: idade, experiência, atitudes e tarefas primárias? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Arthur Evangelista](https://github.com/arthurevg) | Conforme |
+| **2.** Existe um cronograma (data, horário e local) para realização da elicitação dos requisitos com o cliente/persona? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Artur de Camargos](https://github.com/ArturDCR) | Inconforme |
+| **3.** Foram utilizadas no mínimo quatro técnicas de elicitação? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Davi Camilo](https://github.com/Davicamilo23) | Conforme |
+| **4.** O cliente/persona participou da elicitação de requisitos? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Euller Júlio](https://github.com/Potatoyz908) | Conforme |
+| **5.** Existe gravação e registro da elicitação dos requisitos (pré-rastreabilidade)? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | Conforme |
+| **6.** Cada requisito possui ao menos uma fonte de origem? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Pedro Everton](https://github.com/pedroeverton217) | Conforme |
+| **7.** São apresentados requisitos implementados e não implementados? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Pedro Everton](https://github.com/pedroeverton217) | 05/05/2025 | [Tiago Antunes](https://github.com/TiagoBalieiro) | Inconforme |
+| **8.** Existe indicação de como o requisito pode ser verificado (critério de aceitação)? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Pedro Everton](https://github.com/pedroeverton217) | 05/05/2025 | [Arthur Evangelista](https://github.com/arthurevg) | Conforme |
+| **9.** Existe cronograma (data, horário e local) para a priorização dos requisitos com o cliente/persona? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Pedro Everton](https://github.com/pedroeverton217) | 05/05/2025 | [Artur de Camargos](https://github.com/ArturDCR) | Inconforme |
+| **10.** Foram utilizadas no mínimo quatro técnicas de priorização? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Pedro Everton](https://github.com/pedroeverton217) | 05/05/2025 | [Davi Camilo](https://github.com/Davicamilo23) | Conforme |
+| **11.** O cliente/persona participou do processo de priorização? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Pedro Everton](https://github.com/pedroeverton217) | 05/05/2025 | [Euller Júlio](https://github.com/Potatoyz908) | Inconforme |
+| **12.** Existe gravação e registro da priorização dos requisitos? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Pedro Everton](https://github.com/pedroeverton217) | 05/05/2025 | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | Inconforme |
+| **13.** A priorização foi feita com um(ns) stakeholders? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Pedro Everton](https://github.com/pedroeverton217) | 05/05/2025 | [Pedro Everton](https://github.com/pedroeverton217) | Conforme |
 
 <font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23) e [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
-### Tabela 2: Lista de Inspeção — Técnica de Elicitação Análise de Interface de Usuário
+### Tabela 2: Lista de Inspeção — Técnica de Elicitação Análise de Interface de Usuário - Não foi realizada pelo grupo+1
 
 | Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
 |---------|-------|------------|--------|--------|
@@ -70,23 +70,23 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 
 | Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
 |---------|-------|------------|--------|--------|
-|**1.**  Todos os participantes compreendem a técnica dos $100 e seu objetivo.                                    |  | 05/05/2025 |  |  |
-|**2.**  A lista completa de requisitos candidatos está disponível e é compreensível para todos.                  |  | 05/05/2025 |  |  |
-|**3.**  Os requisitos foram identificados de forma única e escritos de maneira clara e direta?                   |  | 05/05/2025 |  |  |
-|**4.**  Há um número limitado e razoável de requisitos para não sobrecarregar os participantes.                  |  | 05/05/2025 |  |  |
-|**5.**  Cada participante recebeu $100 imaginários para distribuir entre os requisitos.                          |  | 05/05/2025 |  |  |
-|**6.**  Participantes foram instruídos a distribuir os valores proporcionalmente à importância percebida.        |  | 05/05/2025 |  |  |
-|**7.**  Foi evitado o uso de toda a quantia em um único requisito, exceto se justificado de forma coerente.      |  | 05/05/2025 |  |  |
-|**8.**  Foi informado que a alocação deve considerar o sistema como um todo, e não apenas interesses individuais.|  | 05/05/2025 |  |  |
-|**9.**  Os valores atribuídos a cada requisito foram somados corretamente.                                       |  | 05/05/2025 |  |  |
-|**10.** Os requisitos foram ranqueados com base no total acumulado.                                              |  | 05/05/2025 |  |  |
-|**11.** Foram analisadas possíveis distorções (e.g., alocação de $100 em um único item).                         |  | 05/05/2025 |  |  |
-**12.** Foram documentadas as justificativas para escolhas de maior prioridade.                                  |  | 05/05/2025 |  |  |
-|**13.** O entrevistador não influenciou a narrativa.                                                             |  | 05/05/2025 |  |  |
+|**1.**  Todos os participantes compreendem a técnica dos $100 e seu objetivo.                                    | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Tiago Antunes](https://github.com/TiagoBalieiro) | Conforme |
+|**2.**  A lista completa de requisitos candidatos está disponível e é compreensível para todos.                  | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Arthur Evangelista](https://github.com/arthurevg) | Conforme |
+|**3.**  Os requisitos foram identificados de forma única e escritos de maneira clara e direta?                   | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Artur de Camargos](https://github.com/ArturDCR) | Conforme |
+|**4.**  Há um número limitado e razoável de requisitos para não sobrecarregar os participantes.                  | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Davi Camilo](https://github.com/Davicamilo23) | Conforme |
+|**5.**  Cada participante recebeu $100 imaginários para distribuir entre os requisitos.                          | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Euller Júlio](https://github.com/Potatoyz908) | Conforme |
+|**6.**  Participantes foram instruídos a distribuir os valores proporcionalmente à importância percebida.        | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | Conforme |
+|**7.**  Foi evitado o uso de toda a quantia em um único requisito, exceto se justificado de forma coerente.      | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Pedro Everton](https://github.com/pedroeverton217) | Conforme |
+|**8.**  Foi informado que a alocação deve considerar o sistema como um todo, e não apenas interesses individuais.| [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Tiago Antunes](https://github.com/TiagoBalieiro) | Conforme |
+|**9.**  Os valores atribuídos a cada requisito foram somados corretamente.                                       | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Arthur Evangelista](https://github.com/arthurevg) | Conforme |
+|**10.** Os requisitos foram ranqueados com base no total acumulado.                                              | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Artur de Camargos](https://github.com/ArturDCR) | Conforme |
+|**11.** Foram analisadas possíveis distorções (e.g., alocação de $100 em um único item).                         | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Davi Camilo](https://github.com/Davicamilo23) | Conforme |
+**12.** Foram documentadas as justificativas para escolhas de maior prioridade.                                  | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Euller Júlio](https://github.com/Potatoyz908) | Inconforme |
+|**13.** O entrevistador não influenciou a narrativa.                                                             | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | Conforme |
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro), 2025.</p></font>
 
-### Tabela 4: Lista de Inspeção — Técnica de Priorização Modelo Kano
+### Tabela 4: Lista de Inspeção — Técnica de Priorização Modelo Kano - Não foi realizada pelo grupo+1
 
 | Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
 |---------|-------|------------|--------|--------|
@@ -104,9 +104,9 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 
 | Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
 |---------|-------|------------|--------|--------|
-|**1.** Foi definido previamente o que será observado (tarefas, comportamentos, interações)? |  | 05/05/2025 |  |  |
-|**2.** O observador interferiu o mínimo possível no ambiente para não comprometer a naturalidade do comportamento? |  | 05/05/2025 |  |  |
-|**3.** Os registros da observação foram documentados de forma clara, com data, local e descrição das atividades? |  | 05/05/2025 |  |  |
+|**1.** Foi definido previamente o que será observado (tarefas, comportamentos, interações)? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Pedro Everton](https://github.com/pedroeverton217) | Inconforme |
+|**2.** O observador interferiu o mínimo possível no ambiente para não comprometer a naturalidade do comportamento? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Tiago Antunes](https://github.com/TiagoBalieiro) | Inconforme |
+|**3.** Os registros da observação foram documentados de forma clara, com data, local e descrição das atividades? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Arthur Evangelista](https://github.com/arthurevg) | Inconforme |
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
 
@@ -114,14 +114,14 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 
 | Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
 |---------|-------|------------|--------|--------|
-| **1.** Foi realizada a especificação de requisitos de maneira a compreender as ideias dos stakeholders corretamente? |  | 05/05/2025 |  |  |
-| **2.** Os requisitos funcionais ou não funcionais foram bem descritos e distinguidos? |  | 05/05/2025 |  |  |
-| **3.** Os requisitos de usuário foram escritos em linguagem natural, com tabelas simples, formas e diagramas intuitivos? |  | 05/05/2025 |  |  |
-| **4.** Foi realizada a elicitação e análise de requisitos? |  | 05/05/2025 |  |  |
-| **5.** Os perfis de usuários foram identificados com clareza? |  | 05/05/2025 |  |  |
-| **6.** Foi criada uma lista com todos os stakeholders? |  | 05/05/2025 |  |  |
-| **7.** O perfil foi validado com dados reais, como entrevistas ou observações? |  | 05/05/2025 |  |  |
-| **8.** Foi realizado um diagrama de casos de uso, ou outras ferramentas como user story mapping, para auxiliar no entendimento do perfil do usuário? |  | 05/05/2025 |  |  |
+| **1.** Foi realizada a especificação de requisitos de maneira a compreender as ideias dos stakeholders corretamente? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Artur de Camargos](https://github.com/ArturDCR) | Conforme |
+| **2.** Os requisitos funcionais ou não funcionais foram bem descritos e distinguidos? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Davi Camilo](https://github.com/Davicamilo23) | Inconforme |
+| **3.** Os requisitos de usuário foram escritos em linguagem natural, com tabelas simples, formas e diagramas intuitivos? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Euller Júlio](https://github.com/Potatoyz908) | Conforme |
+| **4.** Foi realizada a elicitação e análise de requisitos? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | Inconforme |
+| **5.** Os perfis de usuários foram identificados com clareza? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Pedro Everton](https://github.com/pedroeverton217) | Inconforme |
+| **6.** Foi criada uma lista com todos os stakeholders? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Tiago Antunes](https://github.com/TiagoBalieiro) | Inconforme |
+| **7.** O perfil foi validado com dados reais, como entrevistas ou observações? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Arthur Evangelista](https://github.com/arthurevg) | Conforme |
+| **8.** Foi realizado um diagrama de casos de uso, ou outras ferramentas como user story mapping, para auxiliar no entendimento do perfil do usuário? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Artur de Camargos](https://github.com/ArturDCR) | Conforme |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
@@ -129,19 +129,19 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 
 | Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
 |---------|-------|------------|--------|--------|
-| **1.** O mapeamento de personas, ou seja, caracterizar um representante hipotético, genérico, de uma classe de usuários, foi feito corretamente? |  | 05/05/2025 |  |  |
-| **2.** Foram diferenciadas as personas primárias das secundárias, e vice-versa? |  | 05/05/2025 |  |  |
-| **3.** As personas foram caracterizadas considerando características e comportamentos sociais e demográficos, preferências, preocupações e informações similares? |  | 05/05/2025 |  |  |
-| **4.** Diferentes perfis foram analisados para ajudar na identificação dos requisitos? |  | 05/05/2025 |  |  |
-| **5.** A identificação de quais stakeholders devem fazer a validação foi feita da maneira certa (a partir das personas)? |  | 05/05/2025 |  |  |
-| **6**. A persona foi baseada em dados reais coletados por técnicas como entrevistas, questionários ou observações? |  | 05/05/2025 |  |  |
-| **7.** A persona apresenta objetivos e motivações claras relacionadas ao uso do sistema, baseando-se na especificação de requisitos? |  | 05/05/2025 |  |  |
-| **8.** O sistema está pronto para a criação de novas personas para caso mudanças aconteçam com os stakeholders? |  | 05/05/2025 |  |  |
+| **1.** O mapeamento de personas, ou seja, caracterizar um representante hipotético, genérico, de uma classe de usuários, foi feito corretamente? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Davi Camilo](https://github.com/Davicamilo23) | Conforme |
+| **2.** Foram diferenciadas as personas primárias das secundárias, e vice-versa? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Euller Júlio](https://github.com/Potatoyz908) | Conforme |
+| **3.** As personas foram caracterizadas considerando características e comportamentos sociais e demográficos, preferências, preocupações e informações similares? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | Conforme |
+| **4.** Diferentes perfis foram analisados para ajudar na identificação dos requisitos? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Pedro Everton](https://github.com/pedroeverton217) | Conforme |
+| **5.** A identificação de quais stakeholders devem fazer a validação foi feita da maneira certa (a partir das personas)? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Tiago Antunes](https://github.com/TiagoBalieiro) | Inconforme |
+| **6**. A persona foi baseada em dados reais coletados por técnicas como entrevistas, questionários ou observações? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Arthur Evangelista](https://github.com/arthurevg) | Conforme |
+| **7.** A persona apresenta objetivos e motivações claras relacionadas ao uso do sistema, baseando-se na especificação de requisitos? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Artur de Camargos](https://github.com/ArturDCR) | Conforme |
+| **8.** O sistema está pronto para a criação de novas personas para caso mudanças aconteçam com os stakeholders? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Davi Camilo](https://github.com/Davicamilo23) | Conforme |
 
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
-### Tabela 8: Lista de Inspeção — Técnica de Elicitação Storytelling
+### Tabela 8: Lista de Inspeção — Técnica de Elicitação Storytelling - Não foi realizada pelo grupo+1
 
 | Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
 |---------|-------|------------|--------|--------|
@@ -156,7 +156,7 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes](https://github.com/TiagoBalieiro), 2025.</p></font>
 
-### Tabela 9: Lista de Inspeção — Técnica de Priorização Three-Level Scale
+### Tabela 9: Lista de Inspeção — Técnica de Priorização Three-Level Scale - Não foi realizada pelo grupo+1
 | Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
 |---------|-------|------------|--------|--------|
 | **1.** Todos os Requisitos elicitados foram utilizados na técnica? |  | 05/05/2025 |  |  |
@@ -172,7 +172,8 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 
 ## 💬 Comentários
 
--
+- Alguns itens não estão totalmente incorretos, porém foram colocados como "inconforme" para seguir as diretrizes da inspeção.
+- Recomenda-se detalhar mais a observação quanto às tarefas realizadas pelo grupo e atividades observadas.
 
 ---
 
@@ -206,3 +207,6 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 | `1.3` | 05/05/2025 | Corrige titulo errado de tabela de 100$ | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.4` | 05/05/2025 | Adição das listas de inspeção de alguns artefatos e correção das fontes | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
 | `1.5` | 05/05/2025 | Adição da lista de inspeção do Three-Level Scale | [Pedro Everton](https://github.com/pedroeverton217) | [Euller Júlio](https://github.com/Potatoyz908) |
+| `1.6` | 05/05/2025 | Preenchimento das listas de inspeção | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
+| `1.6.1` | 05/05/2025 | Ajuste na formatação das tabelas | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
+| `1.7` | 05/05/2025 | Adição do link da gravação | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |

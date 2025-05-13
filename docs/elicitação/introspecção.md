@@ -2,9 +2,9 @@
 
 ## Introdução
 
-A introspecção é uma técnica de elicitação rica e profunda, que busca compreender quais características um sistema deve possuir para alcançar o sucesso sob a perspectiva do próprio engenheiro de requisitos. Essa técnica consiste em imaginar como seria a execução de uma tarefa específica, considerando os recursos disponíveis no momento, como equipamentos, tempo e ambiente, e refletir sobre quais funcionalidades e comportamentos seriam desejáveis no sistema.
+A introspecção é uma técnica de elicitação que visa compreender as características desejáveis de um sistema para seu sucesso, considerando as percepções do engenheiro de requisitos. Essa técnica consiste em imaginar como seria a execução de uma tarefa específica, considerando os recursos disponíveis no momento, como equipamentos, tempo e ambiente, e refletir sobre quais funcionalidades e comportamentos seriam desejáveis no sistema. Durante essa técnica, o engenheiro se coloca no lugar de um usuário potencial, refletindo sobre como seria a execução de uma tarefa específica, levando em conta recursos como equipamentos, tempo e ambiente, e analisando quais funcionalidades e comportamentos seriam ideais para o sistema.
 
-Durante esse processo, o engenheiro de requisitos se coloca no papel de um usuário potencial, baseando-se em experiências reais ou simuladas, e projeta suas expectativas, necessidades e frustrações. Com isso, torna-se possível identificar requisitos funcionais e não funcionais relevantes para o desenvolvimento do sistema, ainda que sem a participação direta de usuários reais.
+No processo de introspecção, o engenheiro de requisitos assume o papel de um usuário potencial, utilizando experiências passadas ou simulações para projetar suas expectativas, necessidades e frustrações. Esse exercício permite identificar requisitos funcionais e não funcionais importantes para o desenvolvimento do sistema, mesmo sem a participação direta de usuários reais.
 
 ---
 
@@ -29,43 +29,31 @@ Não foram utilizados protótipos ou interfaces visuais durante a técnica; o fo
 Durante o processo de introspecção, nos colocamos no lugar de usuários frequentes de aplicativos de cinema, considerando desde o momento em que decidimos assistir a um filme até a experiência completa de ida ao cinema. O relato completo pode ser encontrado abaixo e também no seguinte [link](https://docs.google.com/document/d/1Pm_DnCimXhM9ytfqsZnnv4eh21U2sqBZmh0-3c49Jys/edit?usp=sharing).
 
 <details> <summary><strong>Relato de Arthur Evangelista</strong></summary>
-Eu, como um usuário ativo de apps de cinema, gosto de acompanhar os lançamentos de filmes e as ofertas. Também gosto que o app me mostre os cinemas mais próximos de mim, sem eu precisar digitar minha localização manualmente, mas também quero poder trocar, se necessário.
+Durante a introspecção, observou-se que usuários de aplicativos de cinema costumam buscar por funcionalidades que facilitem o acesso a lançamentos e promoções de filmes. É desejável que o sistema identifique automaticamente a localização do usuário para sugerir cinemas próximos, mas também permita alteração manual.
 
-Quando entro no aplicativo, quero ver os filmes que estão em cartaz. Ao clicar em um, quero ver as sessões disponíveis, com data, horário, sinopse, gênero do filme e se é legendado ou dublado. Também gosto de saber quais formatos estão disponíveis, como 2D, 3D, XD ou salas especiais.
+A experiência ideal do usuário ao acessar o aplicativo inclui visualizar facilmente os filmes em cartaz, juntamente com sessões disponíveis, datas, horários, sinopse, idioma (legendado/dublado), gênero e formato (2D, 3D, XD, etc). A compra de ingressos pelo aplicativo deve ser prática, aceitando múltiplas formas de pagamento como cartão de crédito, débito e Pix. Para evitar retrabalho, é recomendável que os métodos de pagamento possam ser armazenados de forma segura.
 
-Também quero poder comprar os ingressos pelo aplicativo usando cartão de crédito, débito ou pagando no Pix. Não gosto da ideia de adicionar o mesmo cartão toda vez que realizar uma compra, então gostaria de deixá-los armazenados para uso rápido em futuras compras. Gosto de ir para o cinema com família e amigos, então gostaria de comprar mais de um ingresso de uma vez.
+Outro ponto observado é a preferência por adquirir múltiplos ingressos em uma única transação, especialmente para quem vai ao cinema com familiares ou amigos. O uso do ingresso diretamente pelo aplicativo, inclusive offline, é um diferencial importante, pois evita a necessidade de impressão ou conexão com a internet no momento da entrada na sala.
 
-Quero comprar pelo aplicativo justamente para evitar filas, então quero que dê para utilizar o ingresso direto pelo app, sem a necessidade de impressão. Também quero acessar o ingresso de maneira offline, sem depender de conexão com a internet na hora da sessão.
+Em relação à escolha de assentos, é valorizada a possibilidade de selecionar posições específicas com base em uma visualização clara do mapa da sala, incluindo a indicação de lugares ocupados e disponíveis. Além disso, espera-se que o sistema permita a compra antecipada de produtos da bomboniere, como pipoca e refrigerante, com retirada expressa no balcão.
 
-Geralmente, gosto de sentar no meio da sala, pois acredito que a visão de lá é melhor. Então, gostaria de poder selecionar os assentos e ver o mapa da sala do filme, para que assim eu saiba onde exatamente será o meio, visto que geralmente as salas são diferentes. A visualização precisa ser clara, com os lugares ocupados e disponíveis bem indicados.
-
-Aproveitando a compra dos ingressos, também gostaria de comprar itens na bomboniere, como pipoca e refrigerante, para que eu apenas vá ao balcão e retire o que foi comprado, sem enfrentar filas.
-
-Além disso, sou um assinante do Cinemark Club, então gostaria de uma parte destinada a ele, onde eu possa ver meus ingressos, meus pontos e quando eles expiram. Também seria bom receber alertas antes de perder os pontos.
-
-Além disso, gostaria de ter um histórico com os filmes que já assisti, com as datas, horários e cinemas em que fui. Me ajudaria a lembrar dos filmes assistidos, quais formatos eu gostei mais ou quais salas oferecem a melhor experiência.
-
-Esse histórico também poderia incluir as compras feitas na bomboniere, para facilitar futuras repetições, por exemplo, se eu gostei de um combo, gostaria de pedir repeti-lo novamente.
+Para usuários associados a programas como o Cinemark Club, é desejável que o aplicativo possua uma seção dedicada, exibindo ingressos, pontos acumulados e a data de expiração dos mesmos, com alertas antes da perda dos pontos. Um histórico de filmes assistidos, com informações sobre datas, horários e salas, também é útil, assim como o histórico de compras na bomboniere, possibilitando repetir pedidos anteriores com facilidade.
 
 
 </details> <details> <summary><strong>Relato de Euller Júlio</strong></summary>
-Como usuário de aplicativos de cinema, valorizo muito a facilidade de navegação e a velocidade de resposta. Não gosto de aplicativos que demoram para carregar ou que travam em telas importantes, como seleção de assentos ou pagamento.
+A introspecção identificou que a navegação intuitiva e o bom desempenho do aplicativo são fatores essenciais para uma boa experiência do usuário. Funcionalidades críticas, como seleção de assentos e etapas de pagamento, devem carregar rapidamente e operar sem travamentos.
 
-Algo que considero essencial é poder filtrar os filmes por categoria (ação, comédia, terror etc.) e avaliar quais têm melhor nota, seja do público geral ou de plataformas como IMDb. Também gostaria de ver trailers dentro do próprio app, sem ser redirecionado para o YouTube.
+Usuários valorizam filtros de busca por categoria de filme (ação, comédia, terror, etc.) e classificações de público ou de plataformas como IMDb. É considerado positivo que trailers sejam exibidos diretamente no aplicativo, sem redirecionamento para outras plataformas.
 
-Na experiência de compra, o app precisa ser simples: gosto quando posso finalizar tudo com poucos toques, incluindo a escolha de assento, forma de pagamento e confirmação. Se possível, gostaria que ele salvasse meus ingressos automaticamente na carteira do celular, como o Google Wallet.
+O fluxo de compra ideal é simplificado, permitindo a finalização da transação com poucos toques, incluindo escolha de assento, pagamento e confirmação. A funcionalidade de salvar ingressos automaticamente em carteiras digitais, como Google Wallet, aumenta a conveniência do usuário.
 
-Outro ponto que valorizo é a integração com o sistema de pontos, onde posso usar meus pontos como desconto na compra de ingressos ou produtos da bomboniere. Seria interessante que o aplicativo me avisasse automaticamente quando eu tiver pontos suficientes para uma entrada grátis ou desconto.
+Outro aspecto importante é a integração com sistemas de pontos, permitindo o uso de pontos como desconto em ingressos ou produtos. Notificações automáticas sobre pontos disponíveis ou prestes a expirar são consideradas valiosas.
 
-Em relação à localização, prefiro que o app sugira cinemas com base no meu histórico e localização atual, mas que também me deixe salvar alguns cinemas como "favoritos", para facilitar futuras buscas.
+A sugestão de cinemas com base em localização atual e histórico de uso é desejável, desde que acompanhada da opção de salvar cinemas favoritos. Notificações personalizadas, como lembretes sobre estreias ou sobre a compra antecipada de ingressos, são funcionalidades que agregam valor.
 
-Seria muito bom se o aplicativo me deixasse criar notificações personalizadas, como “me avise quando o filme X estiver em cartaz” ou “me lembre de comprar ingressos um dia antes do lançamento”. Isso me ajudaria a não perder estreias importantes.
+Recomendações personalizadas baseadas em histórico e preferências são bem-vindas, pois reduzem o tempo gasto na escolha de um filme. Além disso, usuários esperam poder configurar preferências de idioma no app.
 
-Além disso, penso que o app poderia ter uma área de recomendações personalizadas, baseada nos filmes que já assisti ou nos gêneros que mais vejo. Isso me pouparia tempo tentando decidir o que assistir.
-
-Além do mais, seria interessante poder alterar minhas preferências de idioma dentro do aplicativo para uma experiência mais personalizada. Também vejo como uma vantagem a integração com redes sociais, o que facilitaria o login e o compartilhamento de informações com amigos. Outro ponto que considero importante é a acessibilidade para pessoas com deficiência visual, com o app oferecendo suporte adequado a leitores de tela e um bom contraste nas interfaces para garantir que todos possam utilizar o aplicativo de forma confortável e eficaz.
-
-Por fim, valorizo a segurança. Quero saber que meus dados de pagamento e histórico estão protegidos. Então, seria bom ter autenticação por biometria ou PIN ao finalizar uma compra ou acessar dados sensíveis.
+A integração com redes sociais é considerada uma vantagem, pois facilita o login e o compartilhamento de informações. Por fim, espera-se que o sistema adote boas práticas de acessibilidade, como suporte a leitores de tela e contraste adequado, além de mecanismos de segurança como autenticação por biometria ou PIN para proteção de dados sensíveis.
 
 </details>
 
@@ -116,6 +104,10 @@ Os requisitos elicitados a partir da introspecção foram divididos em duas cate
 | RF26  | Integrar o login do aplicativo com redes sociais para facilitar o acesso e compartilhamento de informações.                                                      | IS26 | Não          |
 | RF27  | Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.                                                        | IS27 | Não          |
 | RF28|Feedback visual/sonoro em transições de tela (loading, sucesso, erro) |IS37|Sim|
+| RF29|O sistema deve permitir ao usuário excluir permanentemente sua conta, incluindo a remoção dos dados associados, com confirmação prévia da ação. |IS38|Sim|
+| RF30|O sistema deve permitir ao usuário realizar logout de sua conta, encerrando a sessão atual e retornando à tela de login. |IS39|Sim|
+
+
 
 <font size="3"><p style="text-align: center">Fonte: [Arthur Evangelista de Oliveira](https://github.com/arthurevg) e [Euller Júlio da Silva](https://github.com/Potatoyz908), 2025.</p></font>
 
@@ -137,6 +129,10 @@ Os requisitos elicitados a partir da introspecção foram divididos em duas cate
 
 ---
 
+## Conclusão
+
+A introspecção permitiu que a equipe refletisse sobre suas próprias experiências e expectativas em relação ao uso de aplicativos de cinema. Essa abordagem inicial ajudou a identificar funcionalidades desejadas e possíveis melhorias, servindo como ponto de partida para as demais técnicas de elicitação. Os insights obtidos por meio da introspecção foram fundamentais para a formulação dos requisitos, disponíveis na seção de [Requisitos Elicitados](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/).
+
 ## Bibliografia
 
 1. SERRANO, Milene; SERRANO, Maurício. "Requisitos - Aula 07". *UnB Gama*. Disponível em: [https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf)
@@ -150,3 +146,6 @@ Os requisitos elicitados a partir da introspecção foram divididos em duas cate
 | `1.0`  | 02/04/2025 | Criação da página 'introspecção', contendo introdução, metodologia, relato introspectivo e os requisitos elicitados | [Arthur Evangelista](https://github.com/arthurevg) e [Euller Júlio](https://github.com/Potatoyz908) | [Davi Camilo](https://github.com/Davicamilo23) e [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.1`  | 04/05/2025 | Ajuste na formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg)  |
 | `1.2`  | 04/05/2025 | Correção dos IDs dos requisitos não funcionais (RNF) | [Euller Júlio](https://github.com/Potatoyz908) | [Gabriel Henrique Castelo](https://github.com/GabrielCastelo-31) |
+| `1.3`  | 11/05/2025 | Ajustes na tabela de requisitos funcionais (RF) | [Euller Júlio](https://github.com/Potatoyz908) | [Davi Camilo](https://github.com/Davicamilo23) |
+| `1.4`  | 11/05/2025 | Ajustes no conteúdo de introspecção e relatos | [Euller Júlio](https://github.com/Potatoyz908) | [Gabriel Henrique Castelo](https://github.com/GabrielCastelo-31) |
+| `1.5`  | 12/05/2025 | Adição da conclusão | [Arthur Evangelista](https://github.com/arthurevg) | [Davi Camilo](https://github.com/Davicamilo23) |
