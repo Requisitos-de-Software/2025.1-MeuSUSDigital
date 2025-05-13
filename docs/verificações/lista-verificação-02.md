@@ -90,6 +90,20 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
 
+### Tabela 6: Lista de Verificação — Técnica de Priorização MoSCoW
+
+| Item                                                                                                                                                                    | Autor           | Referência                                                                                   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|----------------------------------------------------------------------------------------------|
+|**1**. As quatro categorias da técnica (Must, Should, Could, Won’t) estão claramente documentadas e descritas no projeto?                                                      |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| WIEGERS, Karl E.; BEATTY, Joy. *Software requirements*. Pearson Education, 2013. p. 321       |
+|**2**. Foi definido um critério objetivo para classificar requisitos como **Must** (ex.: essenciais para a operação mínima do sistema)?                                        |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| WIEGERS, Karl E.; BEATTY, Joy. *Software requirements*. Pearson Education, 2013. p. 321       |
+|**3**. Os itens classificados como **Should** são importantes, mas há consenso de que o sistema pode operar sem eles em um primeiro momento?                                   |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| WIEGERS, Karl E.; BEATTY, Joy. *Software requirements*. Pearson Education, 2013. p. 321       |
+|**4**. Os requisitos **Could** são tratados como opcionais e estão claramente marcados como passíveis de exclusão se houver restrição de tempo ou recursos?                    |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| WIEGERS, Karl E.; BEATTY, Joy. *Software requirements*. Pearson Education, 2013. p. 321       |
+|**5**. Os requisitos **Won’t** são aqueles que não serão implementados nesta versão do sistema, mas podem ser considerados para versões futuras?                                 |[Gabriel Castelo](https://github.com/GabrielCastelo-31) |WIEGERS, Karl E.; BEATTY, Joy. *Software requirements*. Pearson Education, 2013. p. 321      |
+|**5**. Todos os stakeholders foram informados e instruídos sobre o **significado e as implicações de cada categoria da técnica**?                                              |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| WIEGERS, Karl E.; BEATTY, Joy. *Software requirements*. Pearson Education, 2013. p. 321       |
+|**6**. A priorização MoSCoW está sendo **complementada** com outras abordagens para decisões mais equilibradas?                |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| WIEGERS, Karl E.; BEATTY, Joy. *Software requirements*. Pearson Education, 2013. p. 321       |
+
+<font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31), 2025.</p></font>
+
 ---
 
 ## Referências Bibliográficas
@@ -127,4 +141,4 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 | `1.8` | 05/05/2025 | Correção do caminho das imagens (prints) e adição de item | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
 | `1.9` | 09/05/2025 | Ajustes nas tabelas e adição da técnica de introspecção| [Arthur Evangelista](https://github.com/arthurevg) | [Pedro Everton](https://github.com/pedroeverton217) |
 | `1.9.1` | 09/05/2025 | Ajustes no titulo da tabela 3 | [Gabriel Castelo](https://github.com/GabrielCastelo-31)| [Pedro Everton](https://github.com/pedroeverton217) |
-
+| `2.0` | 09/05/2025 | Adiciona tabela de priorização MoSCoW| [Gabriel Castelo](https://github.com/GabrielCastelo-31)| [Euller Júlio](https://github.com/Potatoyz908) |
