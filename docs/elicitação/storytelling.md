@@ -26,6 +26,16 @@ Através de uma videoconferência com um usuário do aplicativo Cinemark, a téc
 
 ---
 
+## História do usuário
+
+Gabriel, um universitário de 22 anos apaixonado por cinema, tem o hábito de planejar suas idas às salas de exibição com antecedência. Para isso, acessa frequentemente o site da rede Cinemark, buscando de forma ágil e prática os horários das sessões disponíveis. A atualização semanal da programação é muito importante para ele, pois garante acesso às estreias e permite organizar sua agenda sem surpresas.
+
+Mesmo utilizando outros serviços digitais para tarefas cotidianas, Gabriel ainda recorre ao site da Cinemark quando deseja uma visão abrangente dos horários de exibição. Para ele, ter todas as opções em um só lugar é essencial para não perder nenhum título de seu interesse.
+
+Ele acredita que a experiência poderia ser ainda mais fluida se, após a compra de ingressos, fosse possível acessá-los diretamente em seu celular, incluindo informações como o assento e a sala, eliminando a necessidade de e-mails ou impressões físicas. Isso agilizaria sua entrada na sala e aumentaria sua comodidade.
+
+Ao utilizar o aplicativo, Gabriel acha necessário a disponibilidade de ferramentas de acessibilidade. Ele reconhece o esforço da plataforma em atender públicos com diferentes necessidades, o que, em sua visão, agrega valor à experiência do usuário. Como estudante universitário atento às inovações digitais, ele também destaca a importância de um aplicativo funcional que concentre todos esses recursos, oferecendo uma jornada otimizada em qualquer lugar, a qualquer momento.
+
 ## Requisitos elicitados
 
 Os requisitos identificados com o storytelling seguem a seguir:
