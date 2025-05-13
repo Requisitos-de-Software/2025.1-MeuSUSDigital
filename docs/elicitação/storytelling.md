@@ -67,3 +67,4 @@ Por meio do storytelling, foram criadas narrativas que representavam situações
 | `1.1`  | 04/05/2025 | Ajuste na formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.2`  | 04/05/2025 | Ajuste na formatação da tabela de requisitos | [Tiago Antunes](https://github.com/TiagoBalieiro) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.3`  | 12/05/2025 | Adição da conclusão | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
+| `1.4`  | 12/05/2025 | Adição da tabela de participantes | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |[Tiago Antunes](https://github.com/TiagoBalieiro)  |
