@@ -150,6 +150,45 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Everton](https://github.com/pedroeverton217), 2025.</p></font>
 
+### Tabela 10: Lista de verificação: Técnica de elicitação Introspecção
+
+| Item | Autor | Referência |
+|------|-------|------------|
+| O grupo demonstrou ter se colocado no lugar do usuário ao definir os requisitos? | [Arthur Evangelista](https://github.com/arthurevg) | ![alt text](../assets/verificacao/introspeccao1.png)SERRANO, Milene; SERRANO, Maurício. *Engenharia de Requisitos – Aula 07: Técnicas de Elicitação*. Gama, DF: UnB/FGA, 2024. Material de aula. Disponível em: <https://aprender3.unb.br/course/view.php?id=24696&section=6>. Acesso em: 9 maio 2025. |
+| Foram considerados os recursos e equipamentos reais disponíveis para a tarefa? | [Arthur Evangelista](https://github.com/arthurevg) |![alt text](../assets/verificacao/introspeccao1.png) SERRANO, Milene; SERRANO, Maurício. *Engenharia de Requisitos – Aula 07: Técnicas de Elicitação*. Gama, DF: UnB/FGA, 2024. Material de aula. Disponível em: <https://aprender3.unb.br/course/view.php?id=24696&section=6>. Acesso em: 9 maio 2025. |
+| As propriedades do sistema foram definidas com base nessa simulação de uso? | [Arthur Evangelista](https://github.com/arthurevg) |![alt text](../assets/verificacao/introspeccao1.png) SERRANO, Milene; SERRANO, Maurício. *Engenharia de Requisitos – Aula 07: Técnicas de Elicitação*. Gama, DF: UnB/FGA, 2024. Material de aula. Disponível em: <https://aprender3.unb.br/course/view.php?id=24696&section=6>. Acesso em: 9 maio 2025. |
+
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
+
+### Tabela 11: Lista de Verificação - Técnica de Elicitação Questionário
+
+| Item                                                                                                                             | Autor                                             | Referência                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **1.** O questionário foi formulado com perguntas claras e objetivas, visando obter informações diretas dos stakeholders?        | [Tiago Antunes](https://github.com/tiagobalieiro) | WIEGERS, Karl; BEATTY, Joy. *Software Requirements*. 3. ed. Redmond: Microsoft Press, 2013.                   |
+| **2.** Foram consideradas diferentes perspectivas dos stakeholders ao formular as perguntas?                                     | [Tiago Antunes](https://github.com/tiagobalieiro) | SOMMERVILLE, Ian. *Engenharia de Software*. 9. ed. São Paulo: Pearson, 2011.                                  |
+| **3.** O questionário foi projetado para cobrir todas as áreas relevantes de requisitos, tanto funcionais quanto não funcionais? | [Tiago Antunes](https://github.com/tiagobalieiro) | PRESSMAN, Roger S. *Engenharia de Software: Uma Abordagem Profissional*. 8. ed. São Paulo: McGraw-Hill, 2015. |
+| **4.** O formato das perguntas (abertas ou fechadas) foi adequado para o tipo de informação necessária?                          | [Tiago Antunes](https://github.com/tiagobalieiro) | REINEHR, Sheila. *Engenharia de Requisitos*. Rio de Janeiro: LTC, 2011.                                       |
+| **5.** A estrutura do questionário foi balanceada, de forma a garantir uma coleta eficiente sem sobrecarregar os participantes?  | [Tiago Antunes](https://github.com/tiagobalieiro) | WIEGERS, Karl; BEATTY, Joy. *Software Requirements*. 3. ed. Redmond: Microsoft Press, 2013.                   |
+| **6.** O questionário foi revisado para evitar ambiguidades, erros de linguagem ou termos técnicos confusos?                     | [Tiago Antunes](https://github.com/tiagobalieiro) | SOMMERVILLE, Ian. *Engenharia de Software*. 9. ed. São Paulo: Pearson, 2011.                                  |
+| **7.** O questionário foi testado previamente com um pequeno grupo de usuários para validar sua eficácia e clareza?              | [Tiago Antunes](https://github.com/tiagobalieiro) | PRESSMAN, Roger S. *Engenharia de Software: Uma Abordagem Profissional*. 8. ed. São Paulo: McGraw-Hill, 2015. |
+| **8.** Foi considerado o tempo necessário para que os participantes completassem o questionário de maneira confortável?          | [Tiago Antunes](https://github.com/tiagobalieiro) | REINEHR, Sheila. *Engenharia de Requisitos*. Rio de Janeiro: LTC, 2011.                                       |
+
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes](https://github.com/tiagobalieiro), 2025.</p></font>
+
+### Tabela 12: Lista de Verificação — Técnica de Priorização MoSCoW
+
+| Item                                                                                                                                                                    | Autor           | Referência                                                                                   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|----------------------------------------------------------------------------------------------|
+|**1**. As quatro categorias da técnica (Must, Should, Could, Won’t) estão claramente documentadas e descritas no projeto?                                                      |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| WIEGERS, Karl E.; BEATTY, Joy. *Software requirements*. Pearson Education, 2013. p. 321       |
+|**2**. Foi definido um critério objetivo para classificar requisitos como **Must** (ex.: essenciais para a operação mínima do sistema)?                                        |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| WIEGERS, Karl E.; BEATTY, Joy. *Software requirements*. Pearson Education, 2013. p. 321       |
+|**3**. Os itens classificados como **Should** são importantes, mas há consenso de que o sistema pode operar sem eles em um primeiro momento?                                   |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| WIEGERS, Karl E.; BEATTY, Joy. *Software requirements*. Pearson Education, 2013. p. 321       |
+|**4**. Os requisitos **Could** são tratados como opcionais e estão claramente marcados como passíveis de exclusão se houver restrição de tempo ou recursos?                    |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| WIEGERS, Karl E.; BEATTY, Joy. *Software requirements*. Pearson Education, 2013. p. 321       |
+|**5**. Os requisitos **Won’t** são aqueles que não serão implementados nesta versão do sistema, mas podem ser considerados para versões futuras?                                 |[Gabriel Castelo](https://github.com/GabrielCastelo-31) |WIEGERS, Karl E.; BEATTY, Joy. *Software requirements*. Pearson Education, 2013. p. 321      |
+|**5**. Todos os stakeholders foram informados e instruídos sobre o **significado e as implicações de cada categoria da técnica**?                                              |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| WIEGERS, Karl E.; BEATTY, Joy. *Software requirements*. Pearson Education, 2013. p. 321       |
+|**6**. A priorização MoSCoW está sendo **complementada** com outras abordagens para decisões mais equilibradas?                |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| WIEGERS, Karl E.; BEATTY, Joy. *Software requirements*. Pearson Education, 2013. p. 321       |
+
+<font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31), 2025.</p></font>
+
 ---
 
 ## Referências Bibliográficas
@@ -170,9 +209,11 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 > **SOMMERVILLE, Ian**. Engenharia de Software. 9. ed. São Paulo: Pearson Addison Wesley, 2011.
 
+> **SERRANO, Milene; SERRANO, Maurício.** Engenharia de Requisitos – Aula 07: Técnicas de Elicitação. Gama, DF: UnB/FGA, 2024. Material de aula. Disponível em: <https://aprender3.unb.br/course/view.php?id=24696&section=6>.
+
 > **CIANCARINI, Paolo; FARINA, Mirko; OKONICHA, Ozioma; SMIRNOVA, Marina; SUCCI, Giancarlo**  Software as storytelling: A systematic literature review. Computer Science Review, 2023. Disponível em: https://www.sciencedirect.com/science/article/abs/pii/S157401372200051X. Acesso em: 4 maio 2025.
 
-> **SERRANO, Milene; SERRANO, Maurício.** *Engenharia de Requisitos – Aula 07: Técnicas de Elicitação*. Gama, DF: UnB/FGA, 2024. Material de aula. Disponível em: <https://aprender3.unb.br/course/view.php?id=24696&section=6>.
+
 ---
 
 ## Histórico de Versão
@@ -193,4 +234,5 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 | `1.92` | 05/05/2025 | Corrige titulo errado da tabela 100$ e corrige histórico de versão para refletir a adição da tabela de verificação 100$ | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.93` | 05/05/2025 | Ajuste nas tabelas de verificação | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
 | `1.94` | 05/05/2025 | Adição da lista de verificação do Three-Level Scale | [Pedro Everton](https://github.com/pedroeverton217) | [Euller Júlio](https://github.com/Potatoyz908) e  [Arthur Evangelista](https://github.com/arthurevg)|
-| `2.0` | 09/05/2025 | Correção no histórico de versão que ia de [1.8, 1.9, 1.10, 1.11., ..] |  [Arthur Evangelista](https://github.com/arthurevg)| [Gabriel Castelo](https://github.com/GabrielCastelo-31)
+| `2.0` | 09/05/2025 | Correção no histórico de versão que ia de [1.8, 1.9, 1.10, 1.11., ..] |  [Arthur Evangelista](https://github.com/arthurevg)| [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
+| `3.0` | 13/05/2025 | Adição das Listas de Verificação da Introspecção, Questionário e MoSCoW | [Pedro Everton](https://github.com/pedroeverton217) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
