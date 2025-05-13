@@ -111,7 +111,10 @@ Após estudo da técnica, entramos em contato, e marcamos uma reunião, com um c
 | RQ56 | Remover automaticamente promoções expiradas da interface                                                              |ALTA|
 | RQ57 | Validar dados pessoais no perfil antes de salvar                                                                      |ALTA|
 
-Dos 57 requisitos elicitados, tivemos 6 classificados com Baixa prioridade, 7 classificados com Média prioridade, 13 classificados como Não Fazer, e 31 classificados com Alta prioridade.
+Dos 57 requisitos priorizados, tivemos 6 classificados com Baixa prioridade, 7 classificados com Média prioridade, 13 classificados como Não Fazer, e 31 classificados com Alta prioridade.
+
+## Bibliografia
+ - WIEGERS, K; BEATTY, J. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013.
 
 ---
 
@@ -121,3 +124,4 @@ Dos 57 requisitos elicitados, tivemos 6 classificados com Baixa prioridade, 7 cl
 |--------|------------|------------------------------------|---------------|-------------|
 | `1.0`  | 04/05/2025 | Criação do Documento | [Davi](https://github.com/Davicamilo23) | Todos |
 | `1.1`  | 04/05/2025 | Realização da Técnica e Registro dos Resultados | [Pedro Everton](https://github.com/pedroeverton217), [Davi Camilo](https://github.com/Davicamilo23) e [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.2` | 13/05/2025 | Correção na Bibliografia | [Pedro Everton](https://github.com/pedroeverton217) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
