@@ -101,6 +101,14 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 
 <font size="3"><p style="text-align: center">Autor(a): [Arthur Evangelista de Oliveira](https://github.com/arthurevg), 2025.</p></font>
 
+## Conclusão
+
+Os requisitos elicitados por meio de técnicas como introspecção, análise de UI, questionários e storytelling foram fundamentais para compreender as necessidades e expectativas dos usuários. Com base nesses requisitos, aplicamos quatro técnicas distintas de priorização para organizar e hierarquizar as funcionalidades identificadas: 
+- [Kano Model](https://requisitos-de-software.github.io/2025.1-Cinemark/prioriza%C3%A7%C3%A3o/kanomodel/)
+- [Moscow](https://requisitos-de-software.github.io/2025.1-Cinemark/prioriza%C3%A7%C3%A3o/moscow/)
+- [Three Level Scale](https://requisitos-de-software.github.io/2025.1-Cinemark/prioriza%C3%A7%C3%A3o/threelevelscale/)
+- [100$](https://requisitos-de-software.github.io/2025.1-Cinemark/prioriza%C3%A7%C3%A3o/100%24/)
+
 ---
 
 ## Histórico de Versão
@@ -112,3 +120,4 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 | `1.2`  |  04/05/2025 | Correções na rastreabilidade de alguns itens | [Arthur Evangelista](https://github.com/arthurevg)| [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.3`  |  04/05/2025 | Correções na rastreabilidade do RQ38 | [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.4`  |  11/05/2025 | Correções na tabela de requisitos elicitados | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.5`  | 12/05/2025 | Adição da conclusão | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
