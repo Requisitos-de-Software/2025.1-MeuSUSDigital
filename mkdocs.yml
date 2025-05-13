@@ -30,6 +30,8 @@ nav:
       - Three Level Scale: priorização/threelevelscale.md
     - Requisitos Elicitados: elicitação/requisitosElicitados.md
 
+  - Modelagem:
+    - Casos de Uso: modelagem/casosDeUso.md
   - Apresentação:
     - Entrega 01: apresentações/apresentação-01.md
     - Entrega 02: apresentações/apresentação-02.md

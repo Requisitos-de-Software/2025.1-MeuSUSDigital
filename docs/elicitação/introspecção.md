@@ -104,6 +104,10 @@ Os requisitos elicitados a partir da introspecção foram divididos em duas cate
 | RF26  | Integrar o login do aplicativo com redes sociais para facilitar o acesso e compartilhamento de informações.                                                      | IS26 | Não          |
 | RF27  | Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.                                                        | IS27 | Não          |
 | RF28|Feedback visual/sonoro em transições de tela (loading, sucesso, erro) |IS37|Sim|
+| RF29|O sistema deve permitir ao usuário excluir permanentemente sua conta, incluindo a remoção dos dados associados, com confirmação prévia da ação. |IS38|Sim|
+| RF30|O sistema deve permitir ao usuário realizar logout de sua conta, encerrando a sessão atual e retornando à tela de login. |IS39|Sim|
+
+
 
 <font size="3"><p style="text-align: center">Fonte: [Arthur Evangelista de Oliveira](https://github.com/arthurevg) e [Euller Júlio da Silva](https://github.com/Potatoyz908), 2025.</p></font>
 
@@ -125,6 +129,10 @@ Os requisitos elicitados a partir da introspecção foram divididos em duas cate
 
 ---
 
+## Conclusão
+
+A introspecção permitiu que a equipe refletisse sobre suas próprias experiências e expectativas em relação ao uso de aplicativos de cinema. Essa abordagem inicial ajudou a identificar funcionalidades desejadas e possíveis melhorias, servindo como ponto de partida para as demais técnicas de elicitação. Os insights obtidos por meio da introspecção foram fundamentais para a formulação dos requisitos, disponíveis na seção de [Requisitos Elicitados](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/).
+
 ## Bibliografia
 
 1. SERRANO, Milene; SERRANO, Maurício. "Requisitos - Aula 07". *UnB Gama*. Disponível em: [https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf)
@@ -138,4 +146,6 @@ Os requisitos elicitados a partir da introspecção foram divididos em duas cate
 | `1.0`  | 02/04/2025 | Criação da página 'introspecção', contendo introdução, metodologia, relato introspectivo e os requisitos elicitados | [Arthur Evangelista](https://github.com/arthurevg) e [Euller Júlio](https://github.com/Potatoyz908) | [Davi Camilo](https://github.com/Davicamilo23) e [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.1`  | 04/05/2025 | Ajuste na formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg)  |
 | `1.2`  | 04/05/2025 | Correção dos IDs dos requisitos não funcionais (RNF) | [Euller Júlio](https://github.com/Potatoyz908) | [Gabriel Henrique Castelo](https://github.com/GabrielCastelo-31) |
-| `1.3`  | 09/05/2025 | Ajustes no conteúdo de introspecção e relatos | [Euller Júlio](https://github.com/Potatoyz908) | [Gabriel Henrique Castelo](https://github.com/GabrielCastelo-31) |
+| `1.3`  | 11/05/2025 | Ajustes na tabela de requisitos funcionais (RF) | [Euller Júlio](https://github.com/Potatoyz908) | [Davi Camilo](https://github.com/Davicamilo23) |
+| `1.4`  | 11/05/2025 | Ajustes no conteúdo de introspecção e relatos | [Euller Júlio](https://github.com/Potatoyz908) | [Gabriel Henrique Castelo](https://github.com/GabrielCastelo-31) |
+| `1.5`  | 12/05/2025 | Adição da conclusão | [Arthur Evangelista](https://github.com/arthurevg) | [Davi Camilo](https://github.com/Davicamilo23) |
