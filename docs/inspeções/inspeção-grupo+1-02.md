@@ -166,7 +166,7 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 | **5.** Requisitos "Importante" e "Urgente" -> "Alta prioridade", "Importante" e "Não tão Urgente" -> "Média prioridade", "Não tão Importante" e "Não tão Urgente" -> "Baixa prioridade" e "Não tão Importante" e "Urgente" -> "Não fazer  |  | 05/05/2025 |  |  |
 | **6.** Houve alinhamento com os stakeholders sobre as definições de "importante" e "urgente" para evitar subjetividade na classificação? |  | 05/05/2025 |  |  |
 
-<font size="3"><p align="center">Fonte: Autores, 2025.</p></font>
+<font size="3"><p align="center">Autor: [Pedro Everton](https://github.com/pedroeverton217), 2025.</p></font>
 
 ---
 
