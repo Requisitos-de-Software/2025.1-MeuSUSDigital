@@ -25,6 +25,30 @@ A análise foi conduzida de forma qualitativa, sem a utilização de protótipos
 
 ---
 
+## Demonstração Visual
+
+A seguir, apresentamos um vídeo demonstrando as telas analisadas na técnica de Análise de Interface de Usuário. A gravação tem como objetivo ilustrar visualmente os elementos de interação, fluxos de navegação e características observadas durante a avaliação.
+Ótimo! Se o vídeo está hospedado no **YouTube**, você pode incorporá-lo facilmente na página da Análise de Interface de Usuário com um bloco HTML ou Markdown compatível com MkDocs.
+
+Aqui está o trecho que você pode adicionar **logo após a seção Metodologia**:
+
+---
+
+## Demonstração Visual
+
+A seguir, apresentamos um vídeo demonstrando as principais telas analisadas na técnica de Análise de Interface de Usuário. A gravação tem como objetivo ilustrar visualmente os elementos de interação, fluxos de navegação e características observadas durante a avaliação.
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/zF4ibDKKBdE" frameborder="0" allowfullscreen></iframe>
+</div>
+<div style="text-align: center;">
+Gravado por <a href="https://github.com/Potatoyz908" target="_blank">Euller Júlio</a>.
+</div>
+
+> O vídeo apresenta exemplos reais das interações observadas no app Cinemark, como tela inicial, seleção de sessões, escolha de assentos, navegação pelo catálogo de filmes, uso do Snack Bar, login, pagamento, carrinho e configurações de perfil.
+
+---
+
 ## Tabela 1 - de Análise de Telas
 
 | Tela                                | Responsável | Funcionalidades                                                                                                                                  | Elementos de Interação                                                                                                            | Observações / Regras de Negócio                                                                                                                                             |
@@ -124,3 +148,4 @@ Os requisitos elicitados a partir da análise de interfaces de usuário foram or
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 03/04/2025 | Criação da página 'Análise de UI', contendo introdução, metodologia, análise e os requisitos elicitados | [Arthur Evangelista](https://github.com/arthurevg) e [Euller Júlio](https://github.com/Potatoyz908) | [Davi Camilo](https://github.com/Davicamilo23) e [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.1`  | 04/05/2025 | Ajuste na formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
+| `1.2`  | 11/05/2025 | Adição da seção "Demonstração Visual" com vídeo no YouTube sobre as interações analisadas | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
