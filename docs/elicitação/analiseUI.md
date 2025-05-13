@@ -8,15 +8,6 @@ Durante o processo de análise, o engenheiro de requisitos observa a interface e
 
 ---
 
-## Participantes
-
-| Nome                                                   | Papel                  |
-| ------------------------------------------------------ | ----------------------- |
-| [Arthur Evangelista de Oliveira](https://github.com/arthurevg) | Analista de requisitos |
-| [Euller Júlio da Silva](https://github.com/Potatoyz908) | Analista de requisitos |
-
----
-
 ## Metodologia
 
 A análise de interface de usuário foi realizada de forma colaborativa, com os participantes avaliando diferentes telas do aplicativo *Cinemark*. Para cada tela, foram observados elementos como a disposição dos botões, navegação, feedback visual e interação do usuário com as funcionalidades disponíveis. Os participantes também avaliaram a consistência do design, a facilidade de uso e a acessibilidade do sistema.
@@ -25,7 +16,22 @@ A análise foi conduzida de forma qualitativa, sem a utilização de protótipos
 
 ---
 
-## Tabela 1 - de Análise de Telas
+## Cronograma
+
+A tabela 1 apresenta o cronograma da elicitação e as funções dos membros responsáveis pela técnica.
+
+<font size="3"><p style="text-align: center">Tabela 1: Cronograma da Análise de Interface de Usuário.</p></font>
+
+| Nome                                                   | Data       | Função                 |
+| ------------------------------------------------------ | ---------- | ---------------------- |
+| [Arthur Evangelista de Oliveira](https://github.com/arthurevg) | 03/05/2025 | Analista de requisitos |
+| [Euller Júlio da Silva](https://github.com/Potatoyz908)        | 03/05/2025 | Analista de requisitos |
+
+<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+
+---
+
+## Tabela 2 - Análise de Telas
 
 | Tela                                | Responsável | Funcionalidades                                                                                                                                  | Elementos de Interação                                                                                                            | Observações / Regras de Negócio                                                                                                                                             |
 | ----------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -49,70 +55,70 @@ A análise foi conduzida de forma qualitativa, sem a utilização de protótipos
 ---
 
 ## Requisitos Elicitados
-Os requisitos elicitados a partir da análise de interfaces de usuário foram organizados de forma estruturada para facilitar a visualização do comportamento esperado do sistema. As tabelas 2 e 3 apresentam os Requisitos Funcionais (RF) e os não funcionais (RNF) identificados, agrupados por tela, com suas respectivas funcionalidades, elementos de interação e regras de negócio observadas durante a atividade de avaliação.
+Os requisitos elicitados a partir da análise de interfaces de usuário foram organizados de forma estruturada para facilitar a visualização do comportamento esperado do sistema. As tabelas 3 e 4 apresentam os Requisitos Funcionais (RF) e os não funcionais (RNF) identificados, agrupados por tela, com suas respectivas funcionalidades, elementos de interação e regras de negócio observadas durante a atividade de avaliação.
 
 ---
 
-## Legenda das Tabelas 2 e 3
+## Legenda das Tabelas 3 e 4
 
 - *RF*: Requisito Funcional  
 - *RNF*: Requisito Não Funcional  
 - *AIx*: Requisito elicitado por Análise de Interface
 
-## Tabela 2 - Requisitos Funcionais
-
+## Tabela 3 - Requisitos Funcionais
 
 | Tipo | Descrição                                                                                                                            | ID   | Implementado |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------ | ---- | ------------ |
-| RF   | O sistema deve exibir filmes em cartaz, novidades, ofertas e parcerias na tela inicial.                                              | AI01 | Sim          |
-| RF   | O sistema deve permitir alterar manualmente a localização do usuário.                                                                | AI02 | Sim          |
-| RF   | O sistema deve permitir navegação por abas: Home, Filmes, Cinemas, Snack Bar, Club e Mais.                                           | AI03 | Sim          |
-| RF   | O sistema deve autenticar o usuário por e-mail e senha.                                                                              | AI04 | Sim          |
-| RF   | O sistema deve permitir busca de filmes por nome.                                                                                    | AI05 | Sim          |
-| RF   | O sistema deve listar filmes em cartaz, pré-venda e futuros lançamentos.                                                             | AI06 | Sim          |
-| RF   | O sistema deve exibir informações dos filmes (nome, gênero, duração, sinopse, direção, elenco, distribuidor e origem).               | AI07 | Sim          |
-| RF   | O sistema deve permitir ao usuário escolher uma sessão específica (data, horário, sala, tipo de exibição e idioma).                  | AI08 | Sim          |
-| RF   | O sistema deve exibir um mapa visual da sala com opções de assentos diferenciadas (disponíveis, ocupados, selecionados e especiais). | AI09 | Sim          |
-| RF   | O sistema deve obrigar a seleção de ao menos um assento antes de prosseguir.                                                         | AI10 | Sim          |
-| RF   | O sistema deve permitir definir o tipo de ingresso para cada assento (inteira, meia, convênio, voucher).                             | AI11 | Sim          |
-| RF   | O sistema deve permitir adicionar produtos do Snack Bar à compra.                                                                    | AI12 | Sim          |
-| RF   | O sistema deve exibir resumo da compra e permitir aplicação de cupom de desconto.                                                    | AI13 | Sim          |
-| RF   | O sistema deve oferecer métodos de pagamento: cartão de crédito, débito e Pix.                                                       | AI14 | Sim          |
-| RF   | O sistema deve gerar QR Code e chave Pix para pagamentos via Pix.                                                                    | AI15 | Sim          |
-| RF   | O sistema deve salvar automaticamente os ingressos na seção "Meus Ingressos" após confirmação do pagamento.                          | AI16 | Sim          |
-| RF   | O sistema deve permitir criação de conta com nome, e-mail e senha.                                                                   | AI17 | Sim          |
-| RF   | O sistema deve enviar link de recuperação de senha para e-mail cadastrado.                                                           | AI18 | Sim          |
-| RF   | O sistema deve permitir recuperar e-mail do usuário através do CPF.                                                                  | AI19 | Sim          |
-| RF   | O sistema deve permitir redefinir senha com envio de código de verificação por e-mail.                                               | AI20 | Sim          |
-| RF   | O sistema deve exibir o resumo da compra no carrinho e permitir aplicar cupom de desconto.                                           | AI29 | Sim          |
-| RF   | O sistema deve impedir o avanço para pagamento com carrinho vazio.                                                                   | AI30 | Sim          |
-| RF   | O sistema deve permitir editar dados pessoais, alterar senha e gerenciar métodos de pagamento no perfil/configurações.               | AI31 | Sim          |
-| RF   | O sistema deve exibir notificações e promoções com título, descrição e validade.                                                     | AI32 | Sim          |
+| RF   | O sistema deve exibir filmes em cartaz, novidades, ofertas e parcerias na tela inicial.                                              | <a id="AI01"></a>AI01 | Sim          |
+| RF   | O sistema deve permitir alterar manualmente a localização do usuário.                                                                | <a id="AI02"></a>AI02 | Sim          |
+| RF   | O sistema deve permitir navegação por abas: Home, Filmes, Cinemas, Snack Bar, Club e Mais.                                           | <a id="AI03"></a>AI03 | Sim          |
+| RF   | O sistema deve autenticar o usuário por e-mail e senha.                                                                              | <a id="AI04"></a>AI04 | Sim          |
+| RF   | O sistema deve permitir busca de filmes por nome.                                                                                    | <a id="AI05"></a>AI05 | Sim          |
+| RF   | O sistema deve listar filmes em cartaz, pré-venda e futuros lançamentos.                                                             | <a id="AI06"></a>AI06 | Sim          |
+| RF   | O sistema deve exibir informações dos filmes (nome, gênero, duração, sinopse, direção, elenco, distribuidor e origem).               | <a id="AI07"></a>AI07 | Sim          |
+| RF   | O sistema deve permitir ao usuário escolher uma sessão específica (data, horário, sala, tipo de exibição e idioma).                  | <a id="AI08"></a>AI08 | Sim          |
+| RF   | O sistema deve exibir um mapa visual da sala com opções de assentos diferenciadas (disponíveis, ocupados, selecionados e especiais). | <a id="AI09"></a>AI09 | Sim          |
+| RF   | O sistema deve obrigar a seleção de ao menos um assento antes de prosseguir.                                                         | <a id="AI10"></a>AI10 | Sim          |
+| RF   | O sistema deve permitir definir o tipo de ingresso para cada assento (inteira, meia, convênio, voucher).                             | <a id="AI11"></a>AI11 | Sim          |
+| RF   | O sistema deve permitir adicionar produtos do Snack Bar à compra.                                                                    | <a id="AI12"></a>AI12 | Sim          |
+| RF   | O sistema deve exibir resumo da compra e permitir aplicação de cupom de desconto.                                                    | <a id="AI13"></a>AI13 | Sim          |
+| RF   | O sistema deve oferecer métodos de pagamento: cartão de crédito, débito e Pix.                                                       | <a id="AI14"></a>AI14 | Sim          |
+| RF   | O sistema deve gerar QR Code e chave Pix para pagamentos via Pix.                                                                    | <a id="AI15"></a>AI15 | Sim          |
+| RF   | O sistema deve salvar automaticamente os ingressos na seção "Meus Ingressos" após confirmação do pagamento.                          | <a id="AI16"></a>AI16 | Sim          |
+| RF   | O sistema deve permitir criação de conta com nome, e-mail e senha.                                                                   | <a id="AI17"></a>AI17 | Sim          |
+| RF   | O sistema deve enviar link de recuperação de senha para e-mail cadastrado.                                                           | <a id="AI18"></a>AI18 | Sim          |
+| RF   | O sistema deve permitir recuperar e-mail do usuário através do CPF.                                                                  | <a id="AI19"></a>AI19 | Sim          |
+| RF   | O sistema deve permitir redefinir senha com envio de código de verificação por e-mail.                                               | <a id="AI20"></a>AI20 | Sim          |
+| RF   | O sistema deve exibir o resumo da compra no carrinho e permitir aplicar cupom de desconto.                                           | <a id="AI29"></a>AI29 | Sim          |
+| RF   | O sistema deve impedir o avanço para pagamento com carrinho vazio.                                                                   | <a id="AI30"></a>AI30 | Sim          |
+| RF   | O sistema deve permitir editar dados pessoais, alterar senha e gerenciar métodos de pagamento no perfil/configurações.               | <a id="AI31"></a>AI31 | Sim          |
+| RF   | O sistema deve exibir notificações e promoções com título, descrição e validade.                                                     | <a id="AI32"></a>AI32 | Sim          |
 
 <font size="3"><p style="text-align: center">Fonte: [Arthur Evangelista de Oliveira](https://github.com/arthurevg) e [Euller Júlio da Silva](https://github.com/Potatoyz908), 2025.</p></font>
 
-## Tabela 3 - Requisitos Não Funcionais
+## Tabela 4 - Requisitos Não Funcionais
 
 | Tipo | Descrição                                                                                                              | ID   | Implementado |
 | ---- | ---------------------------------------------------------------------------------------------------------------------- | ---- | ------------ |
-| RNF  | O sistema deve garantir que o botão de pedidos não fique sobreposto a anúncios na tela inicial.                        | AI21 | Não          |
-| RNF  | O sistema deve apresentar legenda clara para as cores e ícones do mapa de assentos.                                    | AI22 | Sim          |
-| RNF  | O sistema deve atualizar automaticamente o valor total conforme seleção de ingressos e produtos.                       | AI23 | Sim          |
-| RNF  | O sistema deve ser responsivo e ajustar-se a diferentes tamanhos de tela (smartphone e tablet).                        | AI24 | Sim          |
-| RNF  | O sistema deve assegurar contraste adequado de texto e ícones para acessibilidade (WCAG A/AA).                         | AI25 | Não          |
-| RNF  | O sistema deve permitir no máximo 20 unidades por item no Snack Bar.                                                   | AI26 | Sim          |
-| RNF  | O sistema deve manter informações da sessão (filme, data, hora e sala) visíveis em todas as etapas do fluxo de compra. | AI27 | Sim          |
-| RNF  | O sistema deve garantir uptime de 99,5% para funções críticas (compra e pagamento).                                    | AI28 | Sim          |
-| RNF  | O sistema deve ocultar parcialmente o e-mail recuperado para segurança (exibir com asteriscos).                        | AI33 | Sim          |
-| RNF  | O sistema deve validar e-mails e senhas antes de permitir a redefinição ou criação de conta.                           | AI34 | Sim          |
-| RNF  | O sistema deve garantir que promoções expiradas sejam removidas automaticamente da tela de notificações.               | AI35 | Sim          |
-| RNF  | O sistema deve garantir que dados pessoais editados no perfil sejam validados antes de serem salvos.                   | AI36 | Sim          |
+| RNF  | O sistema deve garantir que o botão de pedidos não fique sobreposto a anúncios na tela inicial.                        | <a id="AI21"></a>AI21 | Não          |
+| RNF  | O sistema deve apresentar legenda clara para as cores e ícones do mapa de assentos.                                    | <a id="AI22"></a>AI22 | Sim          |
+| RNF  | O sistema deve atualizar automaticamente o valor total conforme seleção de ingressos e produtos.                       | <a id="AI23"></a>AI23 | Sim          |
+| RNF  | O sistema deve ser responsivo e ajustar-se a diferentes tamanhos de tela (smartphone e tablet).                        | <a id="AI24"></a>AI24 | Sim          |
+| RNF  | O sistema deve assegurar contraste adequado de texto e ícones para acessibilidade (WCAG A/AA).                         | <a id="AI25"></a>AI25 | Não          |
+| RNF  | O sistema deve permitir no máximo 20 unidades por item no Snack Bar.                                                   | <a id="AI26"></a>AI26 | Sim          |
+| RNF  | O sistema deve manter informações da sessão (filme, data, hora e sala) visíveis em todas as etapas do fluxo de compra. | <a id="AI27"></a>AI27 | Sim          |
+| RNF  | O sistema deve garantir uptime de 99,5% para funções críticas (compra e pagamento).                                    | <a id="AI28"></a>AI28 | Sim          |
+| RNF  | O sistema deve ocultar parcialmente o e-mail recuperado para segurança (exibir com asteriscos).                        | <a id="AI33"></a>AI33 | Sim          |
+| RNF  | O sistema deve validar e-mails e senhas antes de permitir a redefinição ou criação de conta.                           | <a id="AI34"></a>AI34 | Sim          |
+| RNF  | O sistema deve garantir que promoções expiradas sejam removidas automaticamente da tela de notificações.               | <a id="AI35"></a>AI35 | Sim          |
+| RNF  | O sistema deve garantir que dados pessoais editados no perfil sejam validados antes de serem salvos.                   | <a id="AI36"></a>AI36 | Sim          |
 
 <font size="3"><p style="text-align: center">Fonte: [Arthur Evangelista de Oliveira](https://github.com/arthurevg) e [Euller Júlio da Silva](https://github.com/Potatoyz908), 2025.</p></font>
 
 ---
 
 ## Bibliografia
+
 > 1. Cinemark Brasil. Disponível em: <https://www.cinemark.com.br>. Acesso em: 3 maio 2025.
 > 2. WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013.
 
@@ -122,5 +128,6 @@ Os requisitos elicitados a partir da análise de interfaces de usuário foram or
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 03/04/2025 | Criação da página 'Análise de UI', contendo introdução, metodologia, análise e os requisitos elicitados | [Arthur Evangelista](https://github.com/arthurevg) e [Euller Júlio](https://github.com/Potatoyz908) | [Davi Camilo](https://github.com/Davicamilo23) e [Tiago Antunes](https://github.com/TiagoBalieiro) |
+| `1.0`  | 03/05/2025 | Criação da página 'Análise de UI', contendo introdução, metodologia, análise e os requisitos elicitados | [Arthur Evangelista](https://github.com/arthurevg) e [Euller Júlio](https://github.com/Potatoyz908) | [Davi Camilo](https://github.com/Davicamilo23) e [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.1`  | 04/05/2025 | Ajuste na formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
+| `1.2`  | 12/05/2025 | Adição do cronograma da técnica | [Davi Camilo](https://github.com/Davicamilo23) | [Tiago Antunes](https://github.com/tiagobalieiro) |

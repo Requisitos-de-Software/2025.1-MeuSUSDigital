@@ -1,4 +1,4 @@
-# Técnica de Priorização de Requisitos: Three Level Scale
+# Three Level Scale
 
 ## Introdução
 A **Three Level Scale** (Escala de Três Níveis) é uma técnica simples e eficaz para priorizar requisitos em projetos de software ou gestão de produtos. Ela classifica os requisitos em três categorias distintas com base em sua **importância** e **urgência**, permitindo que as equipes foquem no que é essencial para o sucesso do projeto.
@@ -39,7 +39,7 @@ A priorização é definida pela combinação de **importância** (contribuiçã
 
 ---
 
-## Aplicação da Técnica
+## Metodologia
 Após estudo da técnica, entramos em contato, e marcamos uma reunião, com um cliente. Desta forma, garantindo que relevância e peso real para as classificações de cada requisito. Na reunião foi utilizado um quadro virtual do miro para auxílio visual. Estavam presentes os integrantes Davi Camilo, Gabriel Castelo e Pedro Everton e o cliente João Victor Marques Leal.
 
 ---
