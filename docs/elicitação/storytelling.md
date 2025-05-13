@@ -1,4 +1,4 @@
-# Storytelling 
+# Storytelling
 
 ## Introdução
 
@@ -8,7 +8,15 @@ Storytelling é a atividade de passar para outras pessoas ideias, crenças, ou e
 
 ## Metodologia
 
-Através de uma videoconferência com um usuário do aplicativo Cinemark, a técnica foi conduzida por 2 facilitadores. A ferramenta utilizada para a gravação da sessão foi o Microsoft Teams. O usuário foi orientado sobre a técnica, teve tempo suficiente e um ambiente seguro para contar as histórias. Após a sessão foi feita uma análise do conteúdo gerado, do qual foram retirados os requisitos apresentados. 
+Através de uma videoconferência com um usuário do aplicativo Cinemark, a técnica foi conduzida por 2 facilitadores. A ferramenta utilizada para a gravação da sessão foi o Microsoft Teams. O usuário foi orientado sobre a técnica, teve tempo suficiente e um ambiente seguro para contar as histórias. Após a sessão foi feita uma análise do conteúdo gerado, do qual foram retirados os requisitos apresentados.
+
+## Participantes
+
+| Nome               | Papel                  |
+| ------------------ | -----------------------|
+| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | Analista de requisitos |
+| [Tiago Antunes](https://github.com/TiagoBalieiro)     | Analista de requisitos |
+| Gabriel Villela   | Usuário do aplicativo|
 
 ---
 
