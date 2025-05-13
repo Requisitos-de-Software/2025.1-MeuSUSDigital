@@ -27,15 +27,6 @@ A análise foi conduzida de forma qualitativa, sem a utilização de protótipos
 
 ## Demonstração Visual
 
-A seguir, apresentamos um vídeo demonstrando as telas analisadas na técnica de Análise de Interface de Usuário. A gravação tem como objetivo ilustrar visualmente os elementos de interação, fluxos de navegação e características observadas durante a avaliação.
-Ótimo! Se o vídeo está hospedado no **YouTube**, você pode incorporá-lo facilmente na página da Análise de Interface de Usuário com um bloco HTML ou Markdown compatível com MkDocs.
-
-Aqui está o trecho que você pode adicionar **logo após a seção Metodologia**:
-
----
-
-## Demonstração Visual
-
 A seguir, apresentamos um vídeo demonstrando as principais telas analisadas na técnica de Análise de Interface de Usuário. A gravação tem como objetivo ilustrar visualmente os elementos de interação, fluxos de navegação e características observadas durante a avaliação.
 
 <div style="text-align: center;">
