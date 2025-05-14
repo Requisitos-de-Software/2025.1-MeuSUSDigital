@@ -46,6 +46,8 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 <font size="3"><p style="text-align: center">Fonte: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
+---
+
 ### Tabela 3: Lista de Verificação — Técnica de Priorização $100
 
 | Item | Autor | Referência |
@@ -66,6 +68,8 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro), 2025.</p></font>
 
+---
+
 ### Tabela 4: Lista de Verificação — Técnica de Priorização Modelo Kano
 
 | Item | Autor | Referência |
@@ -80,8 +84,9 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
 
+---
 
-### Tabela 5: Lista de Verificação — Observação
+### Tabela 5: Lista de Verificação — Técnica de Elicitação Observação
 
 | Item                                                                                                        | Autor   | Referência                                         |
 | ----------------------------------------------------------------------------------------------------------- | ------- | -------------------------------------------------- |
@@ -90,6 +95,8 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 | **3.** Os registros da observação foram documentados de forma clara, com data, local e descrição das atividades?   | [Arthur Evangelista](https://github.com/arthurevg) | ![alt text](../assets/verificacao/observacao1.png) REINEHR, Sheila. *Engenharia de Requisitos*. 2020. p.65|
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
+
+---
 
 ### Tabela 6: Lista de Verificação — Perfil de Usuário
 
@@ -107,6 +114,8 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
+---
+
 ### Tabela 7: Lista de Verificação — Personas
 
 | Item | Autor | Referência |
@@ -122,7 +131,9 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
-### Tabela 8: Lista de Verificação — Storytelling
+---
+
+### Tabela 8: Lista de Verificação — Técnica de Elicitação Storytelling
 
 | Item | Autor | Referência |
 | ---- | ----- | ---------- |
@@ -137,6 +148,8 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes](https://github.com/TiagoBalieiro), 2025.</p></font>
 
+---
+
 ### Tabela 9: Lista de Verificação — Técnica de Priorização Three-Level Scale
 
 | Item | Autor | Referência |
@@ -150,7 +163,9 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Everton](https://github.com/pedroeverton217), 2025.</p></font>
 
-### Tabela 10: Lista de verificação: Técnica de elicitação Introspecção
+---
+
+### Tabela 10: Lista de Verificação — Técnica de Elicitação Introspecção
 
 | Item | Autor | Referência |
 |------|-------|------------|
@@ -160,7 +175,9 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
 
-### Tabela 11: Lista de Verificação - Técnica de Elicitação Questionário
+---
+
+### Tabela 11: Lista de Verificação — Técnica de Elicitação Questionário
 
 | Item                                                                                                                             | Autor                                             | Referência                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -174,6 +191,8 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 | **8.** Foi considerado o tempo necessário para que os participantes completassem o questionário de maneira confortável?          | [Tiago Antunes](https://github.com/tiagobalieiro) | REINEHR, Sheila. *Engenharia de Requisitos*. Rio de Janeiro: LTC, 2011.                                       |
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes](https://github.com/tiagobalieiro), 2025.</p></font>
+
+---
 
 ### Tabela 12: Lista de Verificação — Técnica de Priorização MoSCoW
 
@@ -212,7 +231,6 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 > **SERRANO, Milene; SERRANO, Maurício.** Engenharia de Requisitos – Aula 07: Técnicas de Elicitação. Gama, DF: UnB/FGA, 2024. Material de aula. Disponível em: <https://aprender3.unb.br/course/view.php?id=24696&section=6>.
 
 > **CIANCARINI, Paolo; FARINA, Mirko; OKONICHA, Ozioma; SMIRNOVA, Marina; SUCCI, Giancarlo**  Software as storytelling: A systematic literature review. Computer Science Review, 2023. Disponível em: https://www.sciencedirect.com/science/article/abs/pii/S157401372200051X. Acesso em: 4 maio 2025.
-
 
 ---
 
