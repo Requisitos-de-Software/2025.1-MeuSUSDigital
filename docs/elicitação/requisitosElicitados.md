@@ -91,7 +91,7 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 | RQ63 | O aplicativo deve ser leve e usar pouca memória do dispositivo.                                                       | [Q11](../elicitação/questionario.md#Q11)                 | RNF       | Sim          |
 | RQ64 | Permitir que o usuário exclua permanentemente sua conta.                                                       | [IS38](../elicitação/introspecção.md#IS38)                 | RF       | Sim          |
 | RQ65 | Permitir ao usuário realizar logout de sua conta.                                                       | [IS39](../elicitação/introspecção.md#IS39)                 | RF       | Sim          |
-| RQ66 | Permitir acesso ao ingresso offline, sem depender de conexão à internet na hora da sessão.                                                       | [IS10](../elicitação/introspecção.md#IS10), [IS30](../elicitação/introspecção.md#IS30)                 | RF/RNF       | Não          |
+| RQ66 | Permitir acesso ao ingresso offline, sem depender de conexão à internet na hora da sessão.                                                       | [IS10](../elicitação/introspecção.md#IS10), [IS30](../elicitação/introspecção.md#IS30)                 | RNF       | Não          |
 | RQ67 | Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.                                                       | [IS27](../elicitação/introspecção.md#IS27)                 | RF       | Não          |
 
 
@@ -125,3 +125,4 @@ Os requisitos elicitados por meio de técnicas como introspecção, análise de 
 | `1.4`  |  11/05/2025 | Correções na tabela de requisitos elicitados | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.5`  | 12/05/2025 | Adição da conclusão | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
 | `1.6`  | 12/05/2025 | Ajuste na legenda da tabela 1, na rastreabilidade e adição de RQ66 e RQ67 | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
+| `1.6.1` | 14/05/2025 | Ajuste no RQ66 | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
