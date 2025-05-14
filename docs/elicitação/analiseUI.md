@@ -136,6 +136,8 @@ Os requisitos elicitados a partir da análise de interfaces de usuário foram or
 
 A análise da interface do próprio aplicativo Cinemark forneceu informações valiosas sobre padrões de design e funcionalidades existentes. Essa avaliação auxiliou na identificação de elementos que poderiam ser aprimorados no aplicativo, visando uma melhor experiência do usuário. As informações coletadas contribuíram diretamente para a definição de requisitos específicos, detalhados na seção de [Requisitos Elicitados](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/).
 
+---
+
 ## Bibliografia
 
 > 1. Cinemark Brasil. Disponível em: <https://www.cinemark.com.br>. Acesso em: 3 maio 2025.
