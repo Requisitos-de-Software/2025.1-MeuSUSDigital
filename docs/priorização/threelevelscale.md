@@ -6,8 +6,8 @@ A **Three Level Scale** (Escala de Três Níveis) é uma técnica simples e efic
 
 A priorização é definida pela combinação de **importância** (contribuição para objetivos estratégicos) e **urgência** (necessidade de entrega imediata). Cada requisito é classificado em uma das quatro categorias, sendo três delas prioritárias:
 
-| **Importante**          | **Não Importante**       |
-|-------------------------|--------------------------|
+|  | **Importante**          | **Não Importante**       |
+|---|-------------------------|--------------------------|
 | **Urgente**             | **Alta Prioridade**      | **Não Fazer!**          |
 | **Não Urgente**         | **Média Prioridade**     | **Baixa Prioridade**    |
 
