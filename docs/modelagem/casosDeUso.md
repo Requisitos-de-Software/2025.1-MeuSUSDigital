@@ -1,7 +1,6 @@
-# A DESENVOLVER...
-<!-- # Casos de Uso
+# Casos de Uso
 
-## Introdução
+<!--## Introdução
 
 Casos de uso descrevem como os usuários interagem com um sistema para atingir objetivos específicos. Eles representam sequências de ações realizadas pelos usuários (atores) e as respostas esperadas do sistema, servindo como base para a especificação de requisitos funcionais.
 
@@ -72,10 +71,11 @@ Os casos de uso foram agrupados por fluxo funcional do sistema. Cada tabela abai
 > PRESSMAN, Roger. Engenharia de Software. McGraw-Hill, 2016.
 > REPOSITÓRIO: Requisitos de Software – UnB FGA. Disponível em: [https://requisitos-de-software.github.io/](https://requisitos-de-software.github.io/)
 
+-->
 ---
 
-## Histórico de Versões
+## Histórico de Versão
 
-| Versão | Data       | Descrição                              | Autor(es)                                                                                           | Revisor(es)                                       |
-| ------ | ---------- | -------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| 1.0    | 11/05/2025 | Criação da estrutura inicial da página | [Euller Júlio](https://github.com/Potatoyz908) | [Tiago Antunes](https://github.com/TiagoBalieiro) | -->
+| Versão | Data       | Descrição                          | Autor(es)     | Revisor(es) |
+|--------|------------|------------------------------------|---------------|-------------|
+| `1.0`  | 11/05/2025 | Criação da estrutura inicial da página | [Euller Júlio](https://github.com/Potatoyz908) | [Tiago Antunes](https://github.com/TiagoBalieiro) |

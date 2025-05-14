@@ -31,6 +31,10 @@ nav:
 
   - Modelagem:
     - Casos de Uso: modelagem/casosDeUso.md
+    - Especificação Suplementar: modelagem/especificaçãoSuplementar.md
+    - Cenários: modelagem/cenarios.md
+    - Léxicos: modelagem/lexicos.md
+
   - Apresentação:
     - Entrega 01: apresentações/apresentação-01.md
     - Entrega 02: apresentações/apresentação-02.md
