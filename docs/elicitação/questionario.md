@@ -13,6 +13,21 @@ As perguntas do questionário foram adaptadas do conteúdo do livro de Wiegers e
 
 ---
 
+## Cronograma
+
+A tabela 1 apresenta o cronograma da elicitação e as funções dos membros responsáveis pela técnica.
+
+<font size="3"><p style="text-align: center">Tabela 1: Cronograma do Questionário.</p></font>
+
+| Nome                                                   | Data | Função            |
+| ------------------------------------------------------ | ---- | ----------------- |
+| [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | 28/04/2025 | Analista de requisitos e elaborador do questionário |
+| [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | 28/04/2025 | Analista de requisitos e elaborador do questionário |
+
+<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+
+---
+
 ## Resultados
 
 A seguir apresentamos os resultados obtidos através do questionário online. Todas as respostas foram autorizadas pelas participantes, exclusivamente para fins acadêmicos e de pesquisa relacionados ao aplicativo. O questionário esteve disponível entre 28/04/2025 e 04/05/2025 e obtivemos 16 respostas nesse período. A primeira pergunta questionava o participante se ele já utilizou o aplicativo, se nunca utilizou mas já ouviu falar, ou se nunca utilizou e nunca ouviu falar, e com base nessa resposta ele seria redirecionado para o restante do questionário em caso afirmativo, ou para uma seção exclusiva com perguntas para quem não utilizou o aplicativo. 
@@ -165,7 +180,7 @@ A seguir apresentamos os resultados obtidos através do questionário online. To
 
 ## Requisitos Elicitados
 
-As Tabelas 1 e 2 apresentam os requisitos funcionais e não funcionais identificados a partir das respostas ao questionário aplicado aos usuários do aplicativo. Esses requisitos foram reunidos e organizados em categorias para facilitar a compreensão e a análise por parte da equipe do projeto. Com esses resultados, será possível realizar a etapa de priorização dos requisitos do aplicativo.
+As Tabelas 2 e 3 apresentam os requisitos funcionais e não funcionais identificados a partir das respostas ao questionário aplicado aos usuários do aplicativo. Esses requisitos foram reunidos e organizados em categorias para facilitar a compreensão e a análise por parte da equipe do projeto. Com esses resultados, será possível realizar a etapa de priorização dos requisitos do aplicativo.
 
 Legenda:
 
@@ -175,32 +190,32 @@ Legenda:
 
 ### Requisitos Funcionais
 
-<p style="text-align: center; font-size: 14px;"><b>Tabela 1:</b> Requisitos Funcionais.</p>
+<p style="text-align: center; font-size: 14px;"><b>Tabela 2:</b> Requisitos Funcionais.</p>
 
 | Tipo | Descrição                                                                            | ID  | Implementado |
 | ---- | ------------------------------------------------------------------------------------ | ----| ------------ |
-| RF   | Permitir que o usuário verifique sessões de filmes.                                  | Q01 | Sim          |
-| RF   | Permitir que o usuário compre ingressos.                                             | Q02 | Sim          |
-| RF   | Fornecer cupom de desconto para o usuário.                                           | Q03 | Sim          |
-| RF   | Fornecer comparação de preços entre cinemas.                                         | Q04 | Não          |
-| RF   | Fornecer reservas de salas para eventos.                                             | Q05 | Não          |
-| RF   | Fornecer um Hub para crítica de filmes.                                              | Q06 | Não          |
-| RF   | Manter a conta logada após o login.                                                  | Q07 | Sim          |
-| RF   | Permitir que o usuário cancele compras.                                              | Q08 | Sim          |
+| RF   | Permitir que o usuário verifique sessões de filmes.                                  | <a id="Q01"></a>Q01 | Sim          |
+| RF   | Permitir que o usuário compre ingressos.                                             | <a id="Q02"></a>Q02 | Sim          |
+| RF   | Fornecer cupom de desconto para o usuário.                                           | <a id="Q03"></a>Q03 | Sim          |
+| RF   | Fornecer comparação de preços entre cinemas.                                         | <a id="Q04"></a>Q04 | Não          |
+| RF   | Fornecer reservas de salas para eventos.                                             | <a id="Q05"></a>Q05 | Não          |
+| RF   | Fornecer um Hub para crítica de filmes.                                              | <a id="Q06"></a>Q06 | Não          |
+| RF   | Manter a conta logada após o login.                                                  | <a id="Q07"></a>Q07 | Sim          |
+| RF   | Permitir que o usuário cancele compras.                                              | <a id="Q08"></a>Q08 | Sim          |
 
 <font size="3"><p style="text-align: center">Fonte: [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) e [Artur de Camargos Rodrigues](https://github.com/ArturDCR), 2025.</p></font>
 
 
 ### Requisitos Não Funcionais
 
-<p style="text-align: center; font-size: 14px;"><b>Tabela 2:</b> Requisitos Não Funcionais.</p>
+<p style="text-align: center; font-size: 14px;"><b>Tabela 3:</b> Requisitos Não Funcionais.</p>
 
 | Tipo  | Descrição                                                                                      | ID  | Implementado |
 | ----- | ---------------------------------------------------------------------------------------------- | ----| ------------ |
-| RNF01 | O aplicativo deve ser rápido para realizar compras de ingressos.                               | Q09 | Sim          |
-| RNF02 | O aplicativo deve proteger as informações pessoais do usuário. | Q10 | Sim         |
-| RNF03 | O aplicativo deve ser leve e usar pouca memória do dispositivo.                             | Q11 | Sim          |
-| RNF04 | As respostas as ações realizadas no aplicativo devem ser rápidas. | Q12 | Sim          |
+| RNF01 | O aplicativo deve ser rápido para realizar compras de ingressos.                               | <a id="Q09"></a>Q09 | Sim          |
+| RNF02 | O aplicativo deve proteger as informações pessoais do usuário. | <a id="Q10"></a>Q10 | Sim         |
+| RNF03 | O aplicativo deve ser leve e usar pouca memória do dispositivo.                             | <a id="Q11"></a>Q11 | Sim          |
+| RNF04 | As respostas as ações realizadas no aplicativo devem ser rápidas. | <a id="Q12"></a>Q12 | Sim          |
 
 <font size="3"><p style="text-align: center">Fonte: [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) e [Artur de Camargos Rodrigues](https://github.com/ArturDCR), 2025.</p></font>
 
@@ -209,6 +224,8 @@ Legenda:
 ## Conclusão
 
 A aplicação de questionários aos usuários do aplicativo Cinemark possibilitou a coleta de dados quantitativos sobre suas preferências, dificuldades e sugestões. As informações obtidas foram fundamentais para entender as necessidades reais dos usuários e orientar o desenvolvimento de requisitos mais alinhados às suas expectativas. Os resultados dessa técnica estão refletidos nos [Requisitos Elicitados](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/).
+
+---
 
 ## Bibliografia
 
@@ -234,3 +251,4 @@ A aplicação de questionários aos usuários do aplicativo Cinemark possibilito
 | `1.3`  | 09/05/2025 | Adição da fonte das perguntas do questionário | [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
 | `1.4`  | 09/05/2025 | Adicionar o local de divulgação do questionário e o motivo da escolha do local  | [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.5`  | 12/05/2025 | Adição da conclusão | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
+| `1.6`  | 12/05/2025 | Adição do cronograma da técnica | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
