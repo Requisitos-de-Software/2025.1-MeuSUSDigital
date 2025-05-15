@@ -8,7 +8,7 @@ Abaixo se encontra a inspeção da entrega do grupo. A inspeção foi realizada 
 
 ## 🔗 Link da reunião
 
-[Assista ao vídeo no YouTube]()
+[Assista ao vídeo no YouTube](https://youtu.be/ue4MfQbhc_I)
 
 ---
 
@@ -244,8 +244,9 @@ Abaixo se encontra a inspeção da entrega do grupo. A inspeção foi realizada 
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  |  05/05/2025 |  Criação do Documento | [Davi Camilo](https://github.com/Davicamilo23) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.1`  |  05/05/2025 |  Adição das listas de inspeção | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
-| `1.2`  |  05/05/2025 |  Adição da lista de introspecção | [Arthur Evangelista](https://github.com/arthurevg)| [Gabriel Castelo](https://github.com/GabrielCastelo-31)
-| `1.3`  |  09/05/2025 |  Adição da lista do questionário | [Tiago Antunes](https://github.com/TiagoBalieiro) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR)
+| `1.2`  |  05/05/2025 |  Adição da lista de introspecção | [Arthur Evangelista](https://github.com/arthurevg)| [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
+| `1.3`  |  09/05/2025 |  Adição da lista do questionário | [Tiago Antunes](https://github.com/TiagoBalieiro) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
 | `1.3`  |  12/05/2025 |  Finalização da lista de introspecção | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `2.0`  |  14/05/2025 |  Adição das listas que estavam faltando | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
 | `2.1`  |  14/05/2025 |  Adição da inspeção realizada pelo grupo (conformidade ou não) | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `2.1.1` | 14/05/2025 |  Adição do link da gravação | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
