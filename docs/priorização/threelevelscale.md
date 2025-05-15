@@ -62,8 +62,7 @@ A tabela 1 apresenta o cronograma da priorização e as funções dos membros re
 
 ## Gravação com Usuário
 
-[Link](https://unbbr-my.sharepoint.com/personal/221008051_aluno_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2F221008051%5Faluno%5Funb%5Fbr%2FDocuments%2FGrava%C3%A7%C3%B5es%2FPrioriza%C3%A7%C3%A3o%20100%24%2D20250504%5F201833%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8e9429a8%2D7697%2D4c3a%2Da295%2Dbf677d97392a&isSPOFile=1&xsdata=MDV8MDJ8fGYwMTkxZmMzMWU0ZTQ4ZGNkZDc2MDhkZDhiNjg4ZDU1fGVjMzU5YmExNjMwYjRkMmJiODMzYzhlNmQ0OGY4MDU5fDB8MHw2Mzg4MjAwMDMzMjA1NTI4MjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPbTFsWlhScGJtZGZXa1JTYVZsVVl6TlpiVTEwVG5wU2FFNXBNREJOZWxWM1RGUm5lbGxxV1hSUFYxVXdXbXBOZUZwcVdtaE9SRUY2UUhSb2NtVmhaQzUyTWk5dFpYTnpZV2RsY3k4eE56UTJOREF6TlRNeE1EUTF8YTQ2NmM4OGJiMDkxNDEwM2RkNzYwOGRkOGI2ODhkNTV8NDE0NzEwODU3OWU2NGVjYTg5ZjA5OTQ4MjE0MDY3Nzk%3D&sdata=S1ArUVIxS2FqS1FHVHJJMmVGc3JnUFB2UmRXVDhrUUpwMGlPM0dMMmJoaz0%3D&ovuser=ec359ba1%2D630b%2D4d2b%2Db833%2Dc8e6d48f8059%2C221008768%40aluno%2Eunb%2Ebr&OR=Teams%2DHL&CT=1746403563391&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIxNDE1LzI1MDQwMzE5MTEzIiwiSGFzRmVkZXJhdGVkVXNlciI6ZmFsc2V9)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uQsFbIhIGkc?si=jYnT16yrmblp8EBd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
 
 ## Tabela 2 - Priorização dos Requisitos
@@ -150,3 +149,4 @@ Dos 57 requisitos elicitados, 6 foram classificados com Baixa prioridade, 7 clas
 | `1.1`  | 04/05/2025 | Realização da Técnica e Registro dos Resultados | [Pedro Everton](https://github.com/pedroeverton217), [Davi Camilo](https://github.com/Davicamilo23) e [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.2` | 13/05/2025 | Correção na Bibliografia | [Pedro Everton](https://github.com/pedroeverton217) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.3`  | 13/05/2025 | Adição do cronograma da técnica, ajuste na tabela 2 e adição da rastreabilidade | [Davi Camilo](https://github.com/Davicamilo23) | [Pedro Everton](https://github.com/pedroeverton217) |
+| `1.3.1`  | 14/05/2025 | Correção do link da reunião| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Pedro Everton](https://github.com/pedroeverton217) |
