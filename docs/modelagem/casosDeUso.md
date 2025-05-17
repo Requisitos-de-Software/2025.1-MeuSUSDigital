@@ -82,8 +82,8 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
 | Id   | Descrição                                                   | Implementado |
 | ---- | ----------------------------------------------------------- | ------------ |
-| RQ23 | Filtrar Filmes por Categoria e Exibir Avaliações de Público | Não          |
-| RQ24 | Exibir Trailers dentro do App                               | Não          |
+| [IS15](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS15) | Filtrar Filmes por Categoria e Exibir Avaliações de Público | Não          |
+| [IS16](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS16) | Exibir Trailers dentro do App                               | Não          |
 
 
 ## Especialização dos Casos de Uso
@@ -121,7 +121,8 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 | **Fluxo Alternativo** | Usuário interrompe a reprodução antes do fim: o sistema para o vídeo e retorna à tela de detalhes. |
 | **Fluxo de Exceção**| Falha de conexão ou erro no carregamento: o sistema exibe mensagem de erro e sugere tentar novamente. |
 | **Pós-condições**   | O trailer foi reproduzido com sucesso ou tratou o erro conforme o fluxo de exceção.          |
-| **Data de Criação** | 17/05/2025                                                           | **Rastreabilidade** | [IS16](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS16)                           
+| **Data de Criação** | 17/05/2025                                                           | 
+|**Rastreabilidade** | [IS16](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS16)                           
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
 ---
@@ -138,4 +139,4 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 | Versão | Data       | Descrição                          | Autor(es)     | Revisor(es) |
 |--------|------------|------------------------------------|---------------|-------------|
 | `1.0`  | 11/05/2025 | Criação da estrutura inicial da página | [Euller Júlio](https://github.com/Potatoyz908) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
-| `1.1`  | 17/05/2025 | Adição da Introdução, metodologia, componentes e símbolos, Tabelas 1, 2 e 3, e referências  | [Arthur Evangelista](https://github.com/arthurevg) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
+| `1.1`  | 17/05/2025 | Adição da Introdução, metodologia, componentes e símbolos, Tabelas 1, 2 e 3, e referências  | [Arthur Evangelista](https://github.com/arthurevg) | [Davi Camilo](https://github.com/Davicamilo23) |
