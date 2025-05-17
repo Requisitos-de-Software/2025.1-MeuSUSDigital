@@ -74,7 +74,7 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
 ## Diagrama de Casos de Uso
-[Falar sobre e colocaro diagrama aqui]
+[Falar sobre e colocar o diagrama aqui]
 
 ## Requisitos Utilizados
 
@@ -84,7 +84,8 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 | ---- | ----------------------------------------------------------- | ------------ |
 | [IS15](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS15) | Filtrar Filmes por Categoria e Exibir Avaliações de Público | Não          |
 | [IS16](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS16) | Exibir Trailers dentro do App                               | Não          |
-
+| [IS24](../elicitação/introspecção.md#IS24) | Exibir recomendações de filmes baseadas em histórico e preferências | Não |
+| [Q04](../elicitação/questionario.md#Q04) | Fornecer comparação de preços entre cinemas | Não |
 
 ## Especialização dos Casos de Uso
 
@@ -125,6 +126,43 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 |**Rastreabilidade** | [IS16](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS16)                           
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
+
+### **Tabela 4: Exibir recomendações de filmes baseadas em histórico e preferências**
+
+| Campo                 | Descrição                                                                                                                                                                                                                                     |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **UC**                | UC03                                                                                                                                                                                                                                          |
+| **Descrição**         | O sistema exibe recomendações personalizadas de filmes com base no histórico de visualização e preferências do usuário.                                                                                                                       |
+| **Ator**              | Usuário                                                                                                                                                                                                                                       |
+| **Pré-condições**     | Acesso à internet; usuário com histórico de interações e/ou preferências já registradas.                                                                                                                                                         |
+| **Ação**              | O usuário acessa a seção de recomendações.                                                                                                                                                                                                    |
+| **Fluxo Principal**   | 1. O usuário acessa o aplicativo.  <br>2. Navega até a seção "Recomendações para Você".  <br>3. O sistema analisa o histórico de visualizações e preferências salvas.  <br>4. O sistema exibe uma lista personalizada de filmes recomendados. |
+| **Fluxo Alternativo** | Usuário sem histórico ou preferências: o sistema exibe filmes populares ou mais bem avaliados como sugestões iniciais.                                                                                                                        |
+| **Fluxo de Exceção**  | Falha na análise de dados do usuário: o sistema notifica a falha e exibe sugestões genéricas.                                                                                                                                                 |
+| **Pós-condições**     | Recomendações são apresentadas e o usuário pode explorá-las ou salvar para assistir depois as que desejar.                                                                                                                                                   |
+| **Data de Criação**   | 17/05/2025                                                                                                                                                                                                                                    |
+| **Rastreabilidade**   | [IS24](../elicitação/introspecção.md#IS24)                                                                                                                                                |
+
+<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+
+### **Tabela 5: Fornecer comparação de preços entre cinemas**
+
+| Campo                 | Descrição                                                                                                                                                                                                                                                  |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **UC**                | UC04                                                                                                                                                                                                                                                       |
+| **Descrição**         | O usuário pode comparar os preços de ingressos e combos entre diferentes cinemas para o mesmo filme.                                                                                                                                                       |
+| **Ator**              | Usuário                                                                                                                                                                                                                                                    |
+| **Pré-condições**     | Acesso à internet; existência de dados de preços atualizados dos cinemas Cinemark.                                                                                                                                                                        |
+| **Ação**              | O usuário acessa a seção de comparação de preços para um filme específico.                                                                                                                                                                                 |
+| **Fluxo Principal**   | 1. O usuário acessa o aplicativo.  <br>2. Seleciona um filme desejado.  <br>3. O sistema identifica cinemas próximos com sessões disponíveis.  <br>4. O sistema apresenta uma tabela comparativa de preços de ingressos e combos para os cinemas listados. |
+| **Fluxo Alternativo** | Caso o filme não esteja disponível em mais de um cinema: o sistema apresenta os preços apenas do cinema disponível.                                                                                                                                        |
+| **Fluxo de Exceção**  | Falha na obtenção de preços de um cinema: o sistema exibe os demais e sinaliza a ausência temporária de dados do cinema com falha.                                                                                                                                             |
+| **Pós-condições**     | O usuário visualiza e compara os preços, podendo escolher o cinema com melhor custo-benefício.                                                                                                                                                             |
+| **Data de Criação**   | 17/05/2025                                                                                                                                                                                                                                                 |
+| **Rastreabilidade**   | [Q04](../elicitação/questionario.md#Q04)                                                                                                                                                             |
+
+<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+
 ---
 ## Referências Bibliográficas
 
@@ -140,3 +178,4 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 |--------|------------|------------------------------------|---------------|-------------|
 | `1.0`  | 11/05/2025 | Criação da estrutura inicial da página | [Euller Júlio](https://github.com/Potatoyz908) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.1`  | 17/05/2025 | Adição da Introdução, metodologia, componentes e símbolos, Tabelas 1, 2 e 3, e referências  | [Arthur Evangelista](https://github.com/arthurevg) | [Davi Camilo](https://github.com/Davicamilo23) |
+| `1.2`  | 17/05/2025 | Adição dos requisitos RQ32 (Exibir recomendações de filmes baseadas em histórico e preferências) e RQ58 (Fornecer comparação de preços entre cinemas) e suas respectivas tabelas (4 e 5) com a especialização dos casos de uso | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
