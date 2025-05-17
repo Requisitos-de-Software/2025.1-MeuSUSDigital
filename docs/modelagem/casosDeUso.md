@@ -1,77 +1,136 @@
-# Casos de Uso
+## Introdução
 
-<!--## Introdução
+  O diagrama de casos de uso é um artefato de modelagem comportamental na UML que representa, de forma simplificada, as interações entre atores externos e o sistema. Por meio de casos de uso, descrevemos funcionalidades sob a ótica do usuário, focando nos objetivos que devem ser alcançados e nos resultados práticos gerados.
 
-Casos de uso descrevem como os usuários interagem com um sistema para atingir objetivos específicos. Eles representam sequências de ações realizadas pelos usuários (atores) e as respostas esperadas do sistema, servindo como base para a especificação de requisitos funcionais.
-
-Neste projeto, os casos de uso foram utilizados para documentar as principais funcionalidades do aplicativo **Cinemark**, com o intuito de apoiar o desenvolvimento e entendimento dos fluxos de interação.
-
----
+  Cada caso de uso sintetiza uma sequência de ações que inicia com uma solicitação do ator e termina com uma resposta do sistema, entregando valor tangível ao usuário. Para cenários complexos, recomenda-se enriquecer a descrição com detalhes em linguagem natural, prática conhecida como escrita expandida de casos de uso.
 
 ## Metodologia
 
-Para a modelagem dos casos de uso, seguimos a notação UML, com foco na clareza e rastreabilidade dos requisitos. O diagrama é composto por:
+  Para a construção do diagrama de casos de uso do sistema Cinemark, adotamos uma abordagem clássica em UML. Utilizamos o LucidChart para elaborar a representação gráfica, garantindo consistência nos símbolos e clareza na disposição dos elementos.
 
-* **Atores**, que representam os usuários do sistema (ex: cliente do app);
-* **Casos de uso**, que representam funcionalidades acessíveis;
-* **Relações** como dependência, extensão ou inclusão entre os casos de uso;
-* **Sistema**, que agrupa os casos de uso.
+## Componentes e Símbolos
 
-Adicionalmente, utilizamos a persona [Lara Dias](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/personas/) como base para simular cenários reais e construir os fluxos de maneira centrada no usuário.
+  A seguir, apresentamos os principais componentes de um diagrama de casos de uso, com explicações sobre seus significados e representações gráficas.
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b>: Elementos da notação de casos de uso</p></font>
+### Atores
 
-| Nome                 | Função                                           |                    Exemplo                    |
-| -------------------- | ------------------------------------------------ | :-------------------------------------------: |
-| Ator                 | Representa quem interage com o sistema           |      ![ator](../assets/usecase/ator.png)      |
-| Elipse (caso de uso) | Representa uma funcionalidade acessada pelo ator |    ![elipse](../assets/usecase/elipse.png)    |
-| Retângulo (sistema)  | Representa os limites do sistema                 | ![retangulo](../assets/usecase/retangulo.png) |
-| Flechas (relações)   | Indicam interações e dependências                |    ![flecha](../assets/usecase/flecha.png)    |
+  São as entidades externas que interagem com o sistema, podem ser usuários ou outros sistemas. No diagrama, são representados por ícones que lembram pessoas.
 
----
+<p align="center">Figura 1: Ator no diagrama.</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/modelagem/ator.png" alt="Ator no diagrama" width="250px">
+</p>
+
+<p align="center"><br>
+Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
+
+### Sistema (Cenário)
+
+  Define o perímetro funcional do diagrama, demarcando quais casos de uso estão dentro do escopo do sistema. É ilustrado como uma caixa retangular que envolve todos os casos de uso.
+
+<p align="center">Figura 2: Caixa de sistema delimitando o cenário.</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/modelagem/sistema.png" alt="sistema no diagrama, representado por uma retângulo com título na parte superior" width="250px">
+</p>
+
+<p align="center"><br>
+Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
+
+### Casos de Uso
+
+  Cada caso de uso corresponde a uma ação ou serviço que o sistema oferece ao ator. Representado por elipses horizontais, seu nome deve empregar verbos no infinitivo, como “Filtrar filmes” ou “Assistir trailer”.
+
+
+<p align="center">Figura 3: Casos de uso representados por elipses.</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/modelagem/casoDeUso.png" width="250px">
+</p>
+
+<p align="center"><br>
+Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
+
+### Relacionamentos
+
+
+ - **Associação:** conecta atores a casos de uso, indicando participação direta do ator na execução do caso. É representada por uma linha simples ligando o ícone do ator à elipse do caso de uso.
+
+- **Inclusão:** indica reutilização de comportamento comum entre casos de uso (ex.: “Aplicar cupom” incluído em “Comprar ingresso”). Usa-se a estereotipagem «incluir».
+
+- **Extensão** adiciona variações opcionais a um caso base (ex.: “Filtrar por categoria” estendendo “Exibir filmes”). Usa-se a estereotipagem «extender».
+
+- **Generalização:** modela especializações de casos de uso ou atores, mostrando que um elemento filho herda o comportamento ou características do elemento pai. É representada por uma seta com ponta oca apontando para o pai.
+
+
+<p align="center">Figura 4: Exemplos de relacionamentos.</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/modelagem/relacionamentos.png" alt="exemplo de como cada relacionamento é representado" width="250px">
+</p>
+
+<p align="center"><br>
+Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
 ## Diagrama de Casos de Uso
+[Falar sobre e colocaro diagrama aqui]
 
-A Figura 1 apresenta o diagrama de casos de uso elaborado com base nos requisitos elicitados:
+## Requisitos Utilizados
 
-<font size="3"><p style="text-align: center"><b>Figura 1</b>: Diagrama de casos de uso do app Cinemark</p></font>
+### **Tabela 1: Requisitos utilizados no Diagrama de Casos de Uso**
 
-<img src="../../assets/usecase/diagrama-cinemark.png" class="usecaseElement">
+| Id   | Descrição                                                   | Implementado |
+| ---- | ----------------------------------------------------------- | ------------ |
+| RQ23 | Filtrar Filmes por Categoria e Exibir Avaliações de Público | Não          |
+| RQ24 | Exibir Trailers dentro do App                               | Não          |
 
-<font size="2"><p style="text-align: center"><b>Fonte: [Arthur Evangelista](https://github.com/arthurevg) e [Euller Júlio](https://github.com/Potatoyz908)</b></p></font>
-
----
 
 ## Especialização dos Casos de Uso
 
-Os casos de uso foram agrupados por fluxo funcional do sistema. Cada tabela abaixo descreve um caso de uso em detalhes, com seus fluxos principais, alternativos e de exceção.
+As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 
-> *(Sugestão: você pode começar criando uma tabela por vez conforme documenta cada caso. Aqui está um exemplo pronto para “Selecionar Sessão” que você pode copiar e adaptar):*
+### **Tabela 2: Filtrar Filmes por Categoria e Exibir Avaliações**
 
-<font size="3"><p style="text-align: center">Tabela 2: Selecionar Sessão</p></font>
+| Campo               | Descrição                                                                                             |
+| ------------------- | ----------------------------------------------------------------------------------------------------- |
+| **UC**              | UC01                                                                                                  |
+| **Descrição**       | O usuário pode filtrar filmes por categoria e visualizar as avaliações de público interno e externas. |
+| **Ator**            | Usuário                                                                                               |
+| **Pré-condições**   | Acesso à internet; existência de filmes com categorias e avaliações cadastradas.                      |
+| **Ação**            | O usuário selecionou categorias de filmes e solicitou exibição das avaliações correspondentes.        |
+| **Fluxo Principal** | 1. O usuário acessa o aplicativo.  </br>2. Seleciona a opção "Filtrar por Categoria". </br>3. O sistema apresenta as categorias disponíveis. </br>4. O usuário escolhe uma ou mais categorias. </br>5. O sistema lista filmes filtrados e exibe avaliações de público e de plataformas externas.|
+   | **Fluxo Alternativo** | Usuário não escolhe categoria: o sistema exibe todos os filmes com suas avaliações correspondentes. |
+   | **Fluxo de Exceção**| Falha ao obter avaliações externas: o sistema exibe apenas as avaliações internas e notifica o usuário. |
+   | **Pós-condições**   | A lista de filmes filtrados e suas avaliações são apresentadas ao usuário.                         |
+   | **Data de Criação** | 17/05/2025                                                                                        |
+   | **Rastreabilidade** | [IS15](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS15)|
 
-| UC01                  | Informações                                                                                                                          |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| **Descrição**         | Permite ao usuário escolher uma sessão específica para um filme                                                                      |
-| **Ator**              | Usuário                                                                                                                              |
-| **Pré-condições**     | Estar logado no app; possuir conexão com a internet                                                                                  |
-| **Ação**              | O usuário navega até a aba de filmes, escolhe um filme e seleciona uma sessão                                                        |
-| **Fluxo principal**   | <ul><li>O usuário acessa o filme</li><li>O sistema exibe a lista de sessões</li><li>O usuário escolhe data, horário e sala</li></ul> |
-| **Fluxo alternativo** | <ul><li>O sistema sugere sessões com base na localização e histórico do usuário</li></ul>                                            |
-| **Fluxo de exceção**  | <ul><li>O sistema não encontra sessões disponíveis</li><li>O sistema exibe uma mensagem de erro</li></ul>                            |
-| **Pós-condições**     | A sessão é selecionada e o sistema redireciona para a seleção de assentos                                                            |
-| **Rastreabilidade**   | [RQ8](../elicitacao/requisitos/#rq8), [RQ29](../elicitacao/requisitos/#rq29)                                                         |
-| **Data de Criação**   | 10/05/2025                                                                                                                           |
+   <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
 
+### **Tabela 3: Exibir Trailers dentro do App**
+
+| Campo               | Descrição                                                                    |
+| ------------------- | ---------------------------------------------------------------------------- |
+| **UC**              | UC02                                                                         |
+| **Descrição**       | O usuário pode assistir trailers de filmes diretamente dentro do aplicativo. |
+| **Ator**            | Usuário                                                                      |
+| **Pré-condições**   | Acesso à internet; trailers vinculados aos filmes disponíveis no sistema.    |
+| **Ação**            | O usuário solicitou a reprodução de um trailer em um filme específico.       |
+| **Fluxo Principal** | 1. O usuário acessa o aplicativo. </br>2. Seleciona um filme.</br>3. Clica no botão "Assistir Trailer".</br>4. O sistema reproduz o trailer dentro do app.|
+| **Fluxo Alternativo** | Usuário interrompe a reprodução antes do fim: o sistema para o vídeo e retorna à tela de detalhes. |
+| **Fluxo de Exceção**| Falha de conexão ou erro no carregamento: o sistema exibe mensagem de erro e sugere tentar novamente. |
+| **Pós-condições**   | O trailer foi reproduzido com sucesso ou tratou o erro conforme o fluxo de exceção.          |
+| **Data de Criação** | 17/05/2025                                                           | **Rastreabilidade** | [IS16](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS16)                           
+
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
 ---
+## Referências Bibliográficas
 
-## Bibliografia
+> LUCID SOFTWARE PORTUGUÊS. Tutorial de Caso de Uso UML [vídeo]. YouTube, 2018. Disponível em: https://www.youtube.com/watch?v=ab6eDdwS3rA. Acesso em: 17 maio 2025.
 
-> LUCIDCHART. Diagrama de Caso de Uso UML. Disponível em: [https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml](https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml). Acesso em: 10 maio 2025.
-> PRESSMAN, Roger. Engenharia de Software. McGraw-Hill, 2016.
-> REPOSITÓRIO: Requisitos de Software – UnB FGA. Disponível em: [https://requisitos-de-software.github.io/](https://requisitos-de-software.github.io/)
+> LUCIDCHART. Use Case Diagrams in Lucidchart [software]. Disponível em: https://www.lucidchart.com/pages/uml-use-case-diagram. Acesso em: 17 maio 2025.
 
--->
 ---
 
 ## Histórico de Versão
@@ -79,3 +138,4 @@ Os casos de uso foram agrupados por fluxo funcional do sistema. Cada tabela abai
 | Versão | Data       | Descrição                          | Autor(es)     | Revisor(es) |
 |--------|------------|------------------------------------|---------------|-------------|
 | `1.0`  | 11/05/2025 | Criação da estrutura inicial da página | [Euller Júlio](https://github.com/Potatoyz908) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
+| `1.1`  | 17/05/2025 | Adição da Introdução, metodologia, componentes e símbolos, Tabelas 1, 2 e 3, e referências  | [Arthur Evangelista](https://github.com/arthurevg) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
