@@ -86,6 +86,9 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 | [IS16](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS16) | Exibir Trailers dentro do App                               | Não          |
 | [IS24](../elicitação/introspecção.md#IS24) | Exibir recomendações de filmes baseadas em histórico e preferências | Não |
 | [Q04](../elicitação/questionario.md#Q04) | Fornecer comparação de preços entre cinemas | Não |
+| [Q05](../elicitação/questionario.md#Q05) | Permitir reserva de salas para eventos | Não |
+| [IS25](../elicitação/introspecção.md#IS25) | 	Permitir alteração de preferências de idioma | Não |
+
 
 ## Especialização dos Casos de Uso
 
@@ -163,6 +166,41 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 
 <font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
+### **Tabela 6: Reservar salas para eventos**
+| Campo                 | Descrição                                                                                                                                                                                                                                                                                                         |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **UC**                | UC05                                                                                                                                                                                                                                                                                                              |
+| **Descrição**         | Permitir que o usuário reserve uma sala de cinema para eventos privados, como aniversários, reuniões ou sessões fechadas.                                                                                                                                                                                         |
+| **Ator**              | Usuário                                                                                                                                                                                                                                                                                                           |
+| **Pré-condições**     | Acesso à internet; login efetuado; disponibilidade de salas em datas e horários válidos.                                                                                                                                                                                                                          |
+| **Ação**              | O usuário acessa a opção de reserva de salas e preenche os dados solicitados.                                                                                                                                                                                                                                     |
+| **Fluxo Principal**   | 1. O usuário acessa o app. <br>2. Entra na seção "Reservar Sala".<br>3. Informa data, horário e número estimado de pessoas.<br>4. O sistema exibe as salas disponíveis.<br>5. O usuário seleciona a sala desejada.<br>6. O sistema solicita confirmação e dados de pagamento.<br>7. O usuário confirma a reserva. |
+| **Fluxo Alternativo** | Usuário cancela a reserva antes da confirmação final: o sistema retorna à tela inicial da funcionalidade.                                                                                                                                                                                                         |
+| **Fluxo de Exceção**  | Nenhuma sala disponível na data/hora: o sistema informa indisponibilidade e sugere horários alternativos.                                                                                                                                                                                                         |
+| **Pós-condições**     | A reserva da sala é registrada no sistema e o usuário recebe um comprovante.                                                                                                                                                                                                                                      |
+| **Data de Criação**   | 18/05/2025                                                                                                                                                                                                                                                                                                        |
+| **Rastreabilidade**   | [Q05](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/questionario/#Q05)                                                                                                                                                                                                            |
+
+<font size="3"><p style="text-align: center">Fonte: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
+
+### **Tabela 7: Alterar preferências de idioma**
+| Campo                 | Descrição                                                                                                                                                                                                                      |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **UC**                | UC06                                                                                                                                                                                                                           |
+| **Descrição**         | O usuário pode alterar o idioma da interface do aplicativo, escolhendo entre as opções disponíveis.                                                                                                                            |
+| **Ator**              | Usuário                                                                                                                                                                                                                        |
+| **Pré-condições**     | Estar autenticado no aplicativo.                                                                                                                                                                                               |
+| **Ação**              | O usuário acessa as configurações de conta e altera a preferência de idioma.                                                                                                                                                   |
+| **Fluxo Principal**   | 1. O usuário acessa o aplicativo.<br>2. Vai ao menu "Mais" ou "Perfil".<br>3. Acessa "Preferências de Idioma".<br>4. Seleciona o novo idioma desejado.<br>5. O sistema aplica a mudança imediatamente ou após reinicialização. |
+| **Fluxo Alternativo** | O usuário cancela a alteração antes de confirmar: o idioma permanece o mesmo.                                                                                                                                                  |
+| **Fluxo de Exceção**  | O idioma selecionado não está disponível ou há falha na aplicação da mudança: o sistema exibe mensagem de erro.                                                                                                                |
+| **Pós-condições**     | O idioma da interface é alterado com sucesso, refletindo em todas as telas subsequentes.                                                                                                                                       |
+| **Data de Criação**   | 18/05/2025                                                                                                                                                                                                                     |
+| **Rastreabilidade**   | [IS25](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS25)                                                                                                                         |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
+
 ---
 ## Referências Bibliográficas
 
@@ -179,3 +217,4 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 | `1.0`  | 11/05/2025 | Criação da estrutura inicial da página | [Euller Júlio](https://github.com/Potatoyz908) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.1`  | 17/05/2025 | Adição da Introdução, metodologia, componentes e símbolos, Tabelas 1, 2 e 3, e referências  | [Arthur Evangelista](https://github.com/arthurevg) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.2`  | 17/05/2025 | Adição dos requisitos RQ32 (Exibir recomendações de filmes baseadas em histórico e preferências) e RQ58 (Fornecer comparação de preços entre cinemas) e suas respectivas tabelas (4 e 5) com a especialização dos casos de uso | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.3`  | 18/05/2025 | Adição das Tabelas 6 e 7 com os casos de uso para RQ59 (Reservar salas para eventos) e RQ33 (Alterar preferências de idioma); atualização da Tabela 1 com novos requisitos | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
