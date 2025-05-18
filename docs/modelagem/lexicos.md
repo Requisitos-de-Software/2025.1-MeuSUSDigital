@@ -34,6 +34,46 @@ A estrutura de cada termo léxico é composta por:
 * **Impacto**: Ao modificar essa configuração, a interface deve ser imediatamente ajustada para o idioma escolhido. Afeta a experiência do usuário e a apresentação de todos os textos exibidos no sistema.
 * **Rastreabilidade**: [RQ33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Permitir alteração de preferências de idioma.
 
+---
+
+### 3. **Filtrar Filmes**
+
+* **Tipo**: Verbo  
+* **Sinônimos**: Selecionar por categoria, Classificar filmes, Aplicar filtro de gênero  
+* **Noção**: Ação realizada pelo usuário para limitar a exibição de filmes com base em categorias ou gêneros disponíveis, como ação, comédia, drama etc.  
+* **Impacto**: Ao realizar o filtro, o sistema deve consultar os dados cadastrados de filmes, aplicar os critérios definidos e exibir apenas os resultados compatíveis. Isso influencia a navegação e a personalização da experiência do usuário.  
+* **Rastreabilidade**: [RQ23](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Filtrar filmes por categoria e exibir avaliações de público e plataformas externas.
+
+---
+
+### 4. **Avaliações de Filmes**
+
+* **Tipo**: Objeto  
+* **Sinônimos**: Opiniões, Notas, Reviews  
+* **Noção**: Representa as notas e comentários fornecidos tanto por usuários da plataforma quanto por sistemas externos de avaliação (como IMDb, Rotten Tomatoes etc.).  
+* **Impacto**: Essas avaliações são exibidas junto aos detalhes dos filmes, impactando a decisão do usuário sobre assistir ou não. O sistema deve buscar e apresentar essas informações de forma clara e atualizada.  
+* **Rastreabilidade**: [RQ23](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Filtrar filmes por categoria e exibir avaliações de público e plataformas externas.
+
+---
+
+### 5. **Assistir Trailer**
+
+* **Tipo**: Verbo  
+* **Sinônimos**: Ver prévia, Reproduzir trailer, Ver vídeo promocional  
+* **Noção**: Ação em que o usuário inicia a reprodução de um vídeo promocional (trailer) de um filme dentro do próprio aplicativo.  
+* **Impacto**: Ao assistir ao trailer, o sistema deve reproduzir o conteúdo audiovisual sem necessidade de redirecionamento externo. Isso melhora a experiência do usuário e pode influenciar o interesse em assistir ao filme.  
+* **Rastreabilidade**: [RQ24](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Exibir trailers dentro do app.
+
+---
+
+### 6. **Trailer**
+
+* **Tipo**: Objeto  
+* **Sinônimos**: Prévia, Vídeo de divulgação, Teaser  
+* **Noção**: Conteúdo audiovisual curto, destinado à divulgação de um filme, contendo cenas selecionadas para atrair o público.  
+* **Impacto**: Os trailers devem estar associados aos filmes e disponíveis para reprodução dentro do app. Devem estar integrados a um player funcional e acessível.  
+* **Rastreabilidade**: [RQ24](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Exibir trailers dentro do app.
+
 
 ---
 
@@ -54,3 +94,4 @@ A estrutura de cada termo léxico é composta por:
 | `1.0`  | 13/05/2025 | Criação do Documento                          | [Davi Camilo](https://github.com/Davicamilo23) | Todos                                             |
 | `1.1`  | 18/05/2025 | Adição da introdução, metodologia e referências | [Euller Júlio](https://github.com/Potatoyz908) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.2`  | 18/05/2025 | Adição dos léxicos dos requisitos RQ59 e RQ33 | [Euller Júlio](https://github.com/Potatoyz908) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
+| `1.3`  | 18/05/2025 | Adição dos léxicos 3, 4, 5 e 6 (RQ23 e RQ24) | [Arthur Evangelista](https://github.com/arthurevg) | [Euller Júlio](https://github.com/Potatoyz908) |
