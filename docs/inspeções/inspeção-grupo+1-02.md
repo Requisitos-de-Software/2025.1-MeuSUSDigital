@@ -1,11 +1,13 @@
 # Inspeção do grupo+1
 
 ## Introdução
+
 Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran DF, composto por 7 integrantes. A inspeção foi realizada no dia 05/05/2025 e foi feita com base na lista de verificação da entrega 2.
 
 ---
 
 ## 🔗 Link da reunião
+
 [Assista ao vídeo no YouTube](https://youtu.be/_U7bVyU9x8Q)
 
 ---
@@ -41,15 +43,17 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 | **4.** O cliente/persona participou da elicitação de requisitos? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Euller Júlio](https://github.com/Potatoyz908) | Conforme |
 | **5.** Existe gravação e registro da elicitação dos requisitos (pré-rastreabilidade)? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | Conforme |
 | **6.** Cada requisito possui ao menos uma fonte de origem? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Pedro Everton](https://github.com/pedroeverton217) | Conforme |
-| **7.** São apresentados requisitos implementados e não implementados? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Pedro Everton](https://github.com/pedroeverton217) | 05/05/2025 | [Tiago Antunes](https://github.com/TiagoBalieiro) | Inconforme |
-| **8.** Existe indicação de como o requisito pode ser verificado (critério de aceitação)? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Pedro Everton](https://github.com/pedroeverton217) | 05/05/2025 | [Arthur Evangelista](https://github.com/arthurevg) | Conforme |
-| **9.** Existe cronograma (data, horário e local) para a priorização dos requisitos com o cliente/persona? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Pedro Everton](https://github.com/pedroeverton217) | 05/05/2025 | [Artur de Camargos](https://github.com/ArturDCR) | Inconforme |
-| **10.** Foram utilizadas no mínimo quatro técnicas de priorização? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Pedro Everton](https://github.com/pedroeverton217) | 05/05/2025 | [Davi Camilo](https://github.com/Davicamilo23) | Conforme |
-| **11.** O cliente/persona participou do processo de priorização? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Pedro Everton](https://github.com/pedroeverton217) | 05/05/2025 | [Euller Júlio](https://github.com/Potatoyz908) | Inconforme |
-| **12.** Existe gravação e registro da priorização dos requisitos? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Pedro Everton](https://github.com/pedroeverton217) | 05/05/2025 | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | Inconforme |
-| **13.** A priorização foi feita com um(ns) stakeholders? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Pedro Everton](https://github.com/pedroeverton217) | 05/05/2025 | [Pedro Everton](https://github.com/pedroeverton217) | Conforme |
+| **7.** São apresentados requisitos implementados e não implementados? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Tiago Antunes](https://github.com/TiagoBalieiro) | Inconforme |
+| **8.** Existe indicação de como o requisito pode ser verificado (critério de aceitação)? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Arthur Evangelista](https://github.com/arthurevg) | Conforme |
+| **9.** Existe cronograma (data, horário e local) para a priorização dos requisitos com o cliente/persona? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Artur de Camargos](https://github.com/ArturDCR) | Inconforme |
+| **10.** Foram utilizadas no mínimo quatro técnicas de priorização? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Davi Camilo](https://github.com/Davicamilo23) | Conforme |
+| **11.** O cliente/persona participou do processo de priorização? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Euller Júlio](https://github.com/Potatoyz908) | Inconforme |
+| **12.** Existe gravação e registro da priorização dos requisitos? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | Inconforme |
+| **13.** A priorização foi feita com um(ns) stakeholders? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes](https://github.com/TiagoBalieiro) | 05/05/2025 | [Pedro Everton](https://github.com/pedroeverton217) | Conforme |
 
 <font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23) e [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
+
+---
 
 ### Tabela 2: Lista de Inspeção — Técnica de Elicitação Análise de Interface de Usuário - Não foi realizada pelo grupo+1
 
@@ -65,6 +69,8 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 | **8.** Inconsistências ou possíveis melhorias nos caminhos de navegação e interação foram detectadas durante a análise? |  | 05/05/2025 |  |  |
 
 <font size="3"><p style="text-align: center">Fonte: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
+
+---
 
 ### Tabela 3: Lista de Inspeção — Técnica de Priorização $100
 
@@ -86,6 +92,8 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro), 2025.</p></font>
 
+---
+
 ### Tabela 4: Lista de Inspeção — Técnica de Priorização Modelo Kano - Não foi realizada pelo grupo+1
 
 | Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
@@ -100,7 +108,9 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
 
-### Tabela 5: Lista de Verificação — Observação
+---
+
+### Tabela 5: Lista de Inspeção — Técnica de Elicitação Observação
 
 | Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
 |---------|-------|------------|--------|--------|
@@ -110,7 +120,9 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
 
-### Tabela 6: Lista de Verificação — Perfil de Usuário
+---
+
+### Tabela 6: Lista de Inspeção — Perfil de Usuário
 
 | Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
 |---------|-------|------------|--------|--------|
@@ -125,7 +137,9 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
-### Tabela 7: Lista de Verificação — Personas
+---
+
+### Tabela 7: Lista de Inspeção — Personas
 
 | Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
 |---------|-------|------------|--------|--------|
@@ -140,6 +154,8 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+
+---
 
 ### Tabela 8: Lista de Inspeção — Técnica de Elicitação Storytelling - Não foi realizada pelo grupo+1
 
@@ -156,7 +172,10 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes](https://github.com/TiagoBalieiro), 2025.</p></font>
 
+---
+
 ### Tabela 9: Lista de Inspeção — Técnica de Priorização Three-Level Scale - Não foi realizada pelo grupo+1
+
 | Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
 |---------|-------|------------|--------|--------|
 | **1.** Todos os Requisitos elicitados foram utilizados na técnica? |  | 05/05/2025 |  |  |
@@ -166,7 +185,7 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 | **5.** Requisitos "Importante" e "Urgente" -> "Alta prioridade", "Importante" e "Não tão Urgente" -> "Média prioridade", "Não tão Importante" e "Não tão Urgente" -> "Baixa prioridade" e "Não tão Importante" e "Urgente" -> "Não fazer  |  | 05/05/2025 |  |  |
 | **6.** Houve alinhamento com os stakeholders sobre as definições de "importante" e "urgente" para evitar subjetividade na classificação? |  | 05/05/2025 |  |  |
 
-<font size="3"><p align="center">Fonte: Autores, 2025.</p></font>
+<font size="3"><p align="center">Autor: [Pedro Everton](https://github.com/pedroeverton217), 2025.</p></font>
 
 ---
 
