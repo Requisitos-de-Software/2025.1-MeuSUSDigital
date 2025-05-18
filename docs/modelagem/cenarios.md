@@ -162,6 +162,44 @@ O oitavo cenário, apresentado na Tabela 8, faz referência ao requisito não im
 <p align="center"><br>
 Autor: <a href="https://github.com/ArturDCR">Artur De Camargos</a>, 2025.</p>
 
+## 2.9 Cenário 9: Permitir salvar ingressos na carteira digital do dispositivo
+
+O nono cenário, apresentado na Tabela 9, faz referência ao requisito [RQ26](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Permitir salvar ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc).
+
+**Tabela 9: Cenário de permitir salvar ingressos na carteira digital do dispositivo.**
+
+| Item       | Descrição                                                                                                                                                                                    |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Objetivo   | Permitir que o usuário adicione seu ingresso do aplicativo diretamente na carteira digital do dispositivo (como Google Wallet ou Apple Wallet) para facilitar o acesso ao ingresso. |
+| Contexto   | Local: Tela de detalhes do pedido ou confirmação de compra.<br>Tempo: Imediato após a compra ou na tela de detalhes do ingresso.<br>Pré-condição: Usuário tenha um ingresso válido e carteira digital compatível instalada. |
+| Atores     | Usuário do aplicativo Cinemark Digital. |
+| Recursos   | Conexão com a internet; aplicativo Cinemark instalado e logado; carteira digital compatível instalada no dispositivo. |
+| Episódios  | 1. Usuário acessa o aplicativo e vai até "Meus Pedidos".<br>2. Usuário seleciona um ingresso válido para salvar na carteira digital.<br>3. O sistema apresenta a opção de adicionar à carteira digital.<br>4. O usuário confirma a adição.<br>5. O ingresso é adicionado à carteira digital do dispositivo. |
+| Restrições | O dispositivo do usuário deve ser compatível com a funcionalidade de carteira digital (Google Wallet ou Apple Wallet). <br>O ingresso deve ser válido para ser adicionado à carteira digital. |
+| Exceções   | Falha ao adicionar o ingresso: exibir mensagem "Erro ao salvar na carteira digital". <br>Carteira digital não compatível: exibir mensagem "Seu dispositivo não suporta esta funcionalidade". |
+
+<p align="center"><br>
+Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 2025.</p>
+
+## 2.10 Cenário 10: Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas
+
+O nono cenário, apresentado na Tabela 10, faz referência ao requisito [RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas.
+
+**Tabela 10: Cenário de exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas**
+
+| Item       | Descrição                                                                                                                                                                                    |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Objetivo   | Permitir que os usuários vejam as avaliações de outros e também possam avaliar filmes, usando uma escala de 1 a 5 estrelas. |
+| Contexto   | Local: Tela de detalhes do filme ou seção de avaliações. <br>Tempo: Imediato após o carregamento da página do filme. <br>Pré-condição: O filme deve ter sido lançado e ter avaliações disponíveis ou o usuário deve já ter assistido o filme. |
+| Atores     | Usuário do aplicativo Cinemark Digital. |
+| Recursos   | 	Conexão com a internet; aplicativo Cinemark Digital instalado e logado; sistema de avaliação integrado. |
+| Episódios  | 1. Usuário acessa o aplicativo e vai até a página do filme. <br>2. O sistema exibe as avaliações anteriores de outros usuários. <br>3. O usuário pode clicar nas estrelas para dar sua própria avaliação. <br>4. O sistema registra a avaliação e a exibe. |
+| Restrições | A avaliação deve ser feita apenas por usuários que já assistiram ao filme. <br>O sistema deve permitir a alteração da avaliação por um período de tempo após a primeira avaliação. |
+| Exceções   | Avaliação não registrada: exibir mensagem "Erro ao registrar avaliação, tente novamente". <br>Falta de avaliações: exibir mensagem "Este filme ainda não possui avaliações". |
+
+<p align="center"><br>
+Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 2025.</p>
+
 ---
 
 ## Referências Bibliográficas
@@ -184,3 +222,4 @@ Autor: <a href="https://github.com/ArturDCR">Artur De Camargos</a>, 2025.</p>
 | `1.3.1`  | 18/05/2025 | Correção no Cenário 3 | [Euller Júlio](https://github.com/Potatoyz908)      | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.4`  | 18/05/2025 | Adição dos cenários 5 (RQ32 - Exibir recomendações de filmes baseadas em histórico e preferências) e 6 (RQ58 - Fornecer comparação de preços entre cinemas) | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
 | `1.5`  | 18/05/2025 | Adição dos cenários 7 (RQ60 - Cenário para Fornecer um Hub para crítica de filmes.) e 8 (RQ67- Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.) | [Artur de Camargos](https://github.com/ArturDCR) | [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) |
+| `1.6`  | 18/05/2025 | Adição dos cenários 9 (RQ26 - Permitir salvar ingressos na carteira digital do dispositivo.) e 10 (RQ39- Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas.) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Euller Júlio](https://github.com/Potatoyz908) |
