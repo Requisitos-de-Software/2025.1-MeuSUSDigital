@@ -86,6 +86,44 @@ O quarto cenário, apresentado na Tabela 4, faz referência ao requisito não im
 <p align="center"><br>
 Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
 
+## 2.5 Cenário 5: Exibir recomendações de filmes baseadas em histórico e preferências
+
+O quinto cenário, apresentado na Tabela 5, faz referência ao requisito não implementado [RQ32](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Exibir recomendações de filmes baseadas em histórico e preferências.
+
+**Tabela 5: Cenário de exibir recomendações de filmes baseadas em histórico e preferências**
+
+| Item           | Descrição                                                                                                                                                                                                                   |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Objetivo   | Oferecer ao usuário sugestões de filmes baseadas em seu histórico de visualização e preferências cadastradas.                                                                                                               |
+| Contexto   | Local: Página inicial do aplicativo ou seção "Para Você".<br>Tempo: Imediato após login.<br>Pré-condição: Usuário possuir histórico de navegação ou ter informado preferências ao sistema.                                             |
+| Atores     | Usuário do aplicativo Cinemark Digital.                                                                                                                                                                                     |
+| Recursos   | Conexão com a internet; aplicativo Cinemark Digital instalado e logado com perfil pessoal.                                                                                                                                  |
+| Episódios  | 1. Usuário acessa o aplicativo.<br>2. O sistema analisa o histórico e preferências do perfil.<br>3. O sistema exibe recomendações personalizadas com base nesses dados.<br>4. Usuário pode explorar as sugestões apresentadas. |
+| Restrições | Recomendação personalizada depende de dados mínimos no histórico.<br>Filmes sugeridos devem estar em cartaz ou em pré-venda.                                                                                                |
+| Exceções   | Histórico vazio: sistema exibe sugestões populares ou mais bem avaliadas.<br>Falha na análise de dados: exibe aviso "Não foi possível carregar recomendações".                                                              |
+
+<p align="center"><br>
+Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
+
+## 2.6 Cenário 6: Fornecer comparação de preços entre cinemas
+
+O sexto cenário, apresentado na Tabela 6, faz referência ao requisito não implementado [RQ58](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Fornecer comparação de preços entre cinemas.
+
+**Tabela 6: Cenário de fornecer comparação de preços entre cinemas**
+
+| Item           | Descrição                                                                                                                                                                                                |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Objetivo   | Permitir que o usuário compare os preços de ingressos e combos para um mesmo filme em diferentes cinemas.                                                                                                |
+| Contexto   | Local: Página de detalhes do filme ou seleção de sessão.<br>Tempo: Aproximadamente 1 minuto.<br>Pré-condição: Existência de múltiplos cinemas com o filme selecionado em cartaz.                      |
+| Atores     | Usuário do aplicativo Cinemark Digital.                                                                                                                                                                  |
+| Recursos   | Conexão com a internet; GPS habilitado (opcional para ordenar cinemas por proximidade); aplicativo Cinemark Digital atualizado.                                                                                                         |
+| Episódios  | 1. Usuário seleciona um filme.<br>2. O sistema lista cinemas que exibem o filme.<br>3. Usuário solicita comparação de preços.<br>4. O sistema apresenta tabela comparativa com valores de ingresso e combos. |
+| Restrições | Sistema só compara preços entre cinemas Cinemark com dados atualizados.<br>Preços devem incluir taxas e promoções aplicáveis.                                                                           |
+| Exceções   | Cinema com dados indisponíveis: exibir aviso "Informações de preço indisponíveis para este cinema".<br>Erro de rede: exibir mensagem "Falha ao carregar preços, tente novamente".                        |
+
+<p align="center"><br>
+Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
+
 ---
 
 ## Referências Bibliográficas
@@ -106,3 +144,4 @@ Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
 | `1.2`  | 18/05/2025 | Correção nas Referências Bibliográficas | [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.3`  | 18/05/2025 | Adição dos cenários 3 (RQ59 - Reservar Sala) e 4 (RQ33 - Alterar Idioma)                         | [Euller Júlio](https://github.com/Potatoyz908)      | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.3.1`  | 18/05/2025 | Correção no Cenário 3 | [Euller Júlio](https://github.com/Potatoyz908)      | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.4`  | 18/05/2025 | Adição dos cenários 5 (RQ32 - Exibir recomendações de filmes baseadas em histórico e preferências) e 6 (RQ58 - Fornecer comparação de preços entre cinemas) | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
