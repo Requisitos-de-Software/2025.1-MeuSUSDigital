@@ -185,7 +185,73 @@ Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
 <p align="center"><br>
 Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
 
-### 15. **Salvar ingresso na carteira digital**
+### 15. **Histórico de visitas**
+
+- **Tipo:** Objeto
+- **Sinônimos:** histórico de sessões, cinemas visitados anteriormente
+- **Noção:** Conjunto de registros armazenados no perfil do usuário, indicando cinemas visitados e frequência de visitas.
+- **Impacto:** Usado pelo sistema como critério de personalização para sugestões de cinema.
+- **Rastreabilidade:** [RQ29](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) - Sugerir cinemas com base no histórico de visitas e na localização atual.
+
+<p align="center"><br>
+Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
+
+### 16: **Localização atual**
+
+- **Tipo:** Objeto
+- **Sinônimos:** posição geográfica, localização do usuário
+- **Noção:** Ponto geográfico detectado pelo sistema, geralmente via GPS, utilizado para identificar cinemas próximos ao usuário.
+- **Impacto:** Requisito essencial para a filtragem geográfica nas sugestões de cinema; afeta permissões e uso de recursos do dispositivo.
+- **Rastreabilidade:** [RQ29](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) - Sugerir cinemas com base no histórico de visitas e na localização atual.
+
+<p align="center"><br>
+Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
+
+### 17: **Salvar como favorito**
+
+- **Tipo:** Verbo
+- **Sinônimos:** adicionar aos favoritos, marcar como preferido
+- **Noção:** Ação que permite ao usuário registrar um cinema em sua lista pessoal de favoritos para facilitar o acesso futuro.
+- **Impacto:** Afeta o banco de dados do usuário, a interface de exibição de favoritos e as funcionalidades de busca personalizada.
+- **Rastreabilidade:** [RQ30](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Permitir que o usuário salve cinemas como favoritos
+
+<p align="center"><br>
+Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
+
+### 18: **Favorito**
+
+- **Tipo:** Estado
+- **Sinônimos:** preferido, marcado
+- **Noção:** Estado atribuído a um cinema pelo usuário indicando preferência e desejo de acesso facilitado.
+- **Impacto:** Afeta a forma como os cinemas são priorizados na navegação do usuário e em futuras interações com o sistema.
+- **Rastreabilidade:** [RQ30](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Permitir que o usuário salve cinemas como favoritos
+
+<p align="center"><br>
+Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
+
+### 19: **Lista de favoritos**
+
+- **Tipo:** Objeto
+- **Sinônimos:** favoritos, cinemas salvos
+- **Noção:** Conjunto de cinemas marcados como favoritos pelo usuário, armazenado em seu perfil pessoal.
+- **Impacto:** Funcionalidade essencial para navegação personalizada e acesso rápido a cinemas preferidos.
+- **Rastreabilidade:** [RQ30](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Permitir que o usuário salve cinemas como favoritos
+
+<p align="center"><br>
+Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
+
+### 20: **Sugerir**
+
+- **Tipo:** Verbo
+- **Sinônimos:** recomendar, indicar, apresentar opções
+- **Noção:** Ação realizada pelo sistema para apresentar ao usuário uma lista de cinemas com base em critérios como localização atual e histórico de visitas anteriores.
+- **Impacto:** Afeta o módulo de recomendação, a interface de exibição de sugestões e o uso de localização do dispositivo.
+- **Rastreabilidade:** [RQ29](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Sugerir cinemas com base no histórico de visitas e na localização atual
+
+<p align="center"><br>
+Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
+
+### 21. **Salvar ingresso na carteira digital**
 
 - **Tipo**: Verbo
 - **Sinônimos**: Adicionar à carteira digital, Armazenar ingresso, Salvar no Google Wallet / Apple Wallet
@@ -196,7 +262,7 @@ Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
 <p align="center"><br>
 Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 2025.</p>
 
-### 16. **Avaliar filme**
+### 22. **Avaliar filme**
 
 - **Tipo**: Verbo
 - **Sinônimos**: Classificar filme, Atribuir nota, Avaliar filme com estrelas
@@ -230,4 +296,5 @@ Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 20
 | `1.4`  | 18/05/2025 | Adição dos léxicos 7 e 8 (referentes ao RQ32), e 9 e 10 (referentes ao RQ58) | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.5`  | 18/05/2025 | Adição dos léxicos 11 e 12 (referentes ao RQ60), e 13 e 14 (referentes ao RQ67) | [Artur de Camargos](https://github.com/ArturDCR) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.6`  | 18/05/2025 | Correção dos léxicos dos requisitos RQ59 e RQ33 | [Euller Júlio](https://github.com/Potatoyz908) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
-| `1.7`  | 18/05/2025 | Adição dos léxicos 15 (referente ao RQ26), e 16 (referentes ao RQ39) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR)  |
+| `1.7`  | 18/05/2025 | Adição dos léxicos 15, 16, 17, 18, 19 e 20 (referentes ao RQ29 e RQ30) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Euller Júlio](https://github.com/Potatoyz908)
+| `1.8`  | 18/05/2025 | Adição dos léxicos 21 (referente ao RQ26), e 22 (referentes ao RQ39) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR)  |
