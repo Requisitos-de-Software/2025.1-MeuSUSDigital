@@ -41,9 +41,9 @@ O segundo cenário, apresentado na Tabela 2, faz referência ao requisito não-i
 | Contexto  | Local: Página de detalhes do filme.</br>Tempo: Aproximadamente 30 s.</br>Pré-condição: Trailer disponível para o filme.                   |
 | Atores    | Usuário do aplicativo Cinemark Digital.                                         |
 | Recursos  | Internet; Dispositivo móvel com o aplicativo Cinemark Digital instalado.               |
-| Episódios | 1. Usuário acessa detalhes do filme.</br>2. Aplicativo exibe botão "Assistir Trailer".</br>3. Usuário toca e reproduz trailer no player incorporado.</br>4. Usuário pode pausar, avançar ou fechar o trailer. | 
+| Episódios | 1. Usuário acessa detalhes do filme.</br>2. Aplicativo exibe botão "Assistir Trailer".</br>3. Usuário toca e reproduz trailer no player incorporado.</br>4. Usuário pode pausar, avançar ou fechar o trailer. |
 | Restrições| Trailer deve reproduzir em alta definição compatível.</br>Player deve suportar controles básicos.               |
-| Exceções  | Erro de carregamento: exibe "Trailer indisponível no momento".</br>Falha de rede: permite recarregar. |   
+| Exceções  | Erro de carregamento: exibe "Trailer indisponível no momento".</br>Falha de rede: permite recarregar. |
 
 <p align="center"><br>
 Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
@@ -124,6 +124,44 @@ O sexto cenário, apresentado na Tabela 6, faz referência ao requisito não imp
 <p align="center"><br>
 Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 
+## 2.7 Cenário 7: Fornecer um Hub para crítica de filmes
+
+O sétimo cenário, apresentado na Tabela 7, faz referência ao requisito não implementado [RQ60](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Fornecer um Hub para crítica de filmes.
+
+**Tabela 7: Cenário para Fornecer um Hub para crítica de filmes.**
+
+| Item       | Descrição                                                                                                                                                                                    |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Objetivo   | Oferecer aos usuários do aplicativo Cinemark um espaço integrado para criar, compartaltilhar e acessar críticas de filmes, promovendo interação social e auxiliando na decisão de escolha de filmes com base em opiniões de outros espectadores. |
+| Contexto   | O aplicativo Cinemark atualmente permite compra de ingressos, consulta de horários de sessões e visualização de trailers. No entanto, não há um espaço dedicado para críticas ou discussões sobre filmes. O Hub de Crítica visa preencher essa lacuna, incentivando a comunidade de cinéfilos a compartilhar análises, avaliações (como notas de 1 a 5) e debates, integrando-se às funcionalidades existentes (ex.: exibição de filmes em cartaz). |
+| Atores     | Crítico: Usuário que escreve e publica críticas.<br>Leitor: Usuário que consome críticas e interage com elas (curtidas, comentários).<br>Administrador Cinemark: Responsável por moderar conteúdo e gerenciar o Hub.<br>Sistema do Aplicativo: Processa e armazena críticas, notas e interações. |
+| Recursos   | Internet; aplicativo Cinemark instalado em dispositivo móvel. |
+| Episódios  | **Acesso ao Hub de Críticas**:<br>1- Usuário abre o app e seleciona "Críticas" no menu de um filme.<br>2- Sistema exibe críticas recentes e avaliação média.<br>3- Usuário visualiza opiniões e decide assistir ao filme.<br><br>**Publicação de uma Crítica**:<br>1- Trigger: Usuário clica em "Escrever Crítica".<br>2- Ação: Preenche texto, adiciona nota, marca spoiler e publica.<br>3- Resultado: Crítica é exibida no filme e em seu perfil.<br><br>**Interação com Críticas**:<br>1- Trigger: Leitor curte ou comenta uma crítica.<br>2- Ação: Sistema registra a interação e notifica o crítico.<br>3- Resultado: Engajamento aumenta a visibilidade da crítica.<br><br>**Moderação de Conteúdo**:<br>1- Trigger: Usuário denuncia uma crítica como inadequada.<br>2- Ação: Administrador avalia e remove conteúdo ofensivo.<br>3- Resultado: Crítica é excluída ou mantida, com feedback ao denunciante. |
+| Restrições | **Técnicas**:<br>1- Limite de 500 caracteres por crítica para garantir objetividade.<br>2- Latência máxima de 2 segundos para carregamento de críticas.<br><br>**Negócio**:<br>1- Críticas não podem conter promoção de concorrentes.<br>2- Integração com o design atual do app (sem alterar fluxo de compra).<br><br>**Legais**:<br>1- Cumprimento da LGPD para armazenamento de dados de usuários.<br>2- Proibição de discurso de ódio ou spoilers não marcados. |
+| Exceções   | 1- **Falha ao Publicar Crítica**<br>Causa: Perda de conexão com a internet.<br>Ação: Sistema salva rascunho localmente e notifica o usuário.<br><br>2- **Crítica com Conteúdo Inadequado**<br>Causa: Filtro automático não detecta palavrões.<br>Ação: Administrador remove manualmente após denúncia.<br><br>3- **Sobrecarga do Sistema**<br>Causa: Pico de acesso durante lançamento de um filme aguardado.<br>Ação: Sistema prioriza carregamento de críticas mais relevantes (com base em curtidas).<br><br>4- **Avaliação de Filme Não Lançado**<br>Causa: Usuário tenta criticar um filme sem sessões disponíveis.<br>Ação: Sistema bloqueia a publicação até a data de estreia. |
+
+<p align="center"><br>
+Autor: <a href="https://github.com/ArturDCR">Artur De Camargos</a>, 2025.</p>
+
+## 2.8 Cenário 8: Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial
+
+O oitavo cenário, apresentado na Tabela 8, faz referência ao requisito não implementado [RQ67](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.
+
+**Tabela 8: Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.**
+
+| Item       | Descrição                                                                                                                                                                                    |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Objetivo   | Facilitar e tornar visível o acesso à compra de ingressos no aplicativo Cinemark, garantindo que os usuários encontrem a funcionalidade de forma rápida e intuitiva, com um botão dedicado ou atalho direto no menu inicial. |
+| Contexto   | Atualmente, a compra de ingressos está disponível no aplicativo, mas sua localização não é imediatamente visível, exigindo múltiplos cliques ou navegação por menus. Essa mudança visa reduzir etapas e destacar a funcionalidade como prioridade na interface. |
+| Atores     | Usuário do Aplicativo: Cliente que deseja comprar ingressos.<br>Equipe de Design/UX: Responsável por implementar a mudança na interface.<br>Sistema do Aplicativo: Exibe o botão/atalho e direciona para a compra. |
+| Recursos   | Interface atualizada do aplicativo;<br>Ferramentas de desenvolvimento front-end (ex.: React Native, Figma);<br>Integração com a API de vendas de ingressos. |
+| Episódios  | **Acesso Rápido ao Ingresso**:<br>1- Usuário abre o app e visualiza o botão "Comprar Ingresso" no menu inicial.<br>2- Sistema redireciona para a seleção de filme, cinema e sessão.<br>3- Usuário conclui a compra em poucas etapas.<br><br>**Personalização de Atalho**:<br>1- Trigger: Usuário pressiona e segura o ícone do app (atalho).<br>2- Ação: Sistema exibe opção "Comprar Ingresso" no menu de contexto.<br>3- Resultado: Redirecionamento direto para a página de compra. |
+| Restrições | **Técnicas**:<br>1- O botão deve ser compatível com todas as versões do app (Android e iOS).<br>2- Tempo de carregamento da página de compra não pode exceder 3 segundos.<br><br>**Negócio**:<br>1- O botão não deve sobrepor anúncios patrocinados.<br>2- Manter o padrão visual da marca (cores, tipografia).<br><br>**Legais**:<br>1- Acessibilidade garantida para usuários com deficiência visual (ex.: leitor de tela). |
+| Exceções   | 1- **Botão Não Renderizado**<br>Causa: Falha no carregamento da interface.<br>Ação: Sistema exibe mensagem "Recarregar Página" e loga o erro.<br><br>2- **Conectividade Interrompida**<br>Causa: Usuário perde internet durante o acesso.<br>Ação: App salva progresso localmente e retoma ao reconectar.<br><br>3- **Serviço de Ingressos Indisponível**<br>Causa: API de vendas fora do ar.<br>Ação: Sistema exibe mensagem educada e sugere tentar novamente mais tarde. |
+
+<p align="center"><br>
+Autor: <a href="https://github.com/ArturDCR">Artur De Camargos</a>, 2025.</p>
+
 ---
 
 ## Referências Bibliográficas
@@ -145,3 +183,4 @@ Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 | `1.3`  | 18/05/2025 | Adição dos cenários 3 (RQ59 - Reservar Sala) e 4 (RQ33 - Alterar Idioma)                         | [Euller Júlio](https://github.com/Potatoyz908)      | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.3.1`  | 18/05/2025 | Correção no Cenário 3 | [Euller Júlio](https://github.com/Potatoyz908)      | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.4`  | 18/05/2025 | Adição dos cenários 5 (RQ32 - Exibir recomendações de filmes baseadas em histórico e preferências) e 6 (RQ58 - Fornecer comparação de preços entre cinemas) | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
+| `1.5`  | 18/05/2025 | Adição dos cenários 7 (RQ60 - Cenário para Fornecer um Hub para crítica de filmes.) e 8 (RQ67- Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.) | [Artur de Camargos](https://github.com/ArturDCR) | [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) |
