@@ -74,6 +74,57 @@ A estrutura de cada termo léxico é composta por:
 * **Impacto**: Os trailers devem estar associados aos filmes e disponíveis para reprodução dentro do app. Devem estar integrados a um player funcional e acessível.  
 * **Rastreabilidade**: [RQ24](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Exibir trailers dentro do app.
 
+---
+
+### 7. **Exibir Recomendações de Filmes**
+
+- **Tipo**: Verbo  
+- **Sinônimos**: Sugerir filmes, Recomendação personalizada, Indicar títulos  
+- **Noção**: Ação em que o sistema apresenta sugestões de filmes ao usuário com base em seu histórico de visualização, avaliações e preferências cadastradas no aplicativo.  
+- **Impacto**: Melhora a personalização da experiência do usuário, aumentando o engajamento e a probabilidade de escolha de um filme por parte do usuário. Exige análise de dados comportamentais e preferência do usuário para entregar recomendações relevantes.  
+- **Rastreabilidade**: [RQ32](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Exibir recomendações de filmes baseadas em histórico e preferências.
+
+<p align="center"><br>
+Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
+
+---
+
+### 8. **Recomendações de Filmes**
+
+- **Tipo**: Objeto  
+- **Sinônimos**: Sugestões, Indicações, Lista personalizada  
+- **Noção**: Conjunto de filmes apresentados ao usuário com base em dados como seu histórico, preferências e comportamento de uso.  
+- **Impacto**: Influencia diretamente a decisão do usuário, aumentando as chances do mesmo assistir a um filme recomendado. Deve ser exibido em local de fácil acesso, com informações claras e atrativas.  
+- **Rastreabilidade**: [RQ32](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Exibir recomendações de filmes baseadas em histórico e preferências.
+
+<p align="center"><br>
+Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
+
+---
+
+### 9. **Comparar Preços de Ingressos**
+
+- **Tipo**: Verbo  
+- **Sinônimos**: Ver preços, Analisar valores, Checar tarifas  
+- **Noção**: Ação em que o usuário solicita a exibição de preços de ingressos e combos para um mesmo filme em diferentes cinemas disponíveis.  
+- **Impacto**: Permite ao usuário tomar decisões mais econômicas e conscientes. O sistema deve coletar e apresentar os preços de forma clara, organizada e atualizada, respeitando as regras de cada cinema Cinemark.  
+- **Rastreabilidade**: [RQ58](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Fornecer comparação de preços entre cinemas.
+
+<p align="center"><br>
+Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
+
+---
+
+### 10. **Tabela Comparativa de Preços**
+
+- **Tipo**: Objeto  
+- **Sinônimos**: Comparação de preços, Série de valores, Lista de tarifas  
+- **Noção**: Tabela exibida ao usuário com os preços de ingressos e combos em diferentes cinemas para o mesmo filme.  
+- **Impacto**: Facilita a comparação direta, promovendo escolhas mais vantajosas para o usuário. Deve incluir o local dos cinemas, horários e valores totais, respeitando promoções e taxas aplicáveis.  
+- **Rastreabilidade**: [RQ58](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Fornecer comparação de preços entre cinemas.
+
+<p align="center"><br>
+Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 
 ---
 
@@ -95,3 +146,4 @@ A estrutura de cada termo léxico é composta por:
 | `1.1`  | 18/05/2025 | Adição da introdução, metodologia e referências | [Euller Júlio](https://github.com/Potatoyz908) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.2`  | 18/05/2025 | Adição dos léxicos dos requisitos RQ59 e RQ33 | [Euller Júlio](https://github.com/Potatoyz908) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.3`  | 18/05/2025 | Adição dos léxicos 3, 4, 5 e 6 (RQ23 e RQ24) | [Arthur Evangelista](https://github.com/arthurevg) | [Euller Júlio](https://github.com/Potatoyz908) |
+| `1.4`  | 18/05/2025 | Adição dos léxicos 7 e 8 (referentes ao RQ32), e 9 e 10 (referentes ao RQ58) | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
