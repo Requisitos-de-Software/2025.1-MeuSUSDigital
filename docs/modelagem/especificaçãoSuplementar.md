@@ -142,6 +142,30 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 
 <font size="3"><p style="text-align: center">Fonte: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
 
+### Tabela 14: Detalhamento do RQ44
+
+| ID                                                                                                | Descrição                                                                                    | Categoria Detalhada           | Métrica                                                                                              |
+| ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [RQ44](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | Interface acessível para pessoas com deficiência visual (leitores de tela) e baixa visão. | Usabilidade (Acessibilidade) | Conformidade com WCAG 2.1 (nível AA). Testes com leitores de tela (TalkBack e VoiceOver) alcançam 95% de funcionalidade acessível. |
+
+<font size="3"><p style="text-align: center">Fonte: [Artur de Camargos](https://github.com/ArturDCR), 2025.</p></font>
+
+### Tabela 15: Detalhamento do RQ53
+
+| ID                                                                                                | Descrição                                                                                    | Categoria Detalhada           | Métrica                                                                                              |
+| ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [RQ53](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | Manter informações da sessão (filme, data, hora e sala) visíveis em todas as etapas do fluxo de compra. | Usabilidade (Consistência de Interface) | 100% dos usuários identificam as informações da sessão sem recarregar a tela. Layout persiste em cabeçalho fixo ou barra lateral durante o fluxo. |
+
+<font size="3"><p style="text-align: center">Fonte: [Artur de Camargos](https://github.com/ArturDCR), 2025.</p></font>
+
+### Tabela 16: Detalhamento do RQ63
+
+| ID                                                                                                | Descrição                                                                                    | Categoria Detalhada           | Métrica                                                                                              |
+| ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [RQ63](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | O aplicativo deve ser leve e usar pouca memória do dispositivo. | Desempenho (Eficiência de Recursos) | Consumo de memória não excede 150 MB em uso contínuo. Compatibilidade com dispositivos Android (API 24+) e iOS (versão 12+). |
+
+<font size="3"><p style="text-align: center">Fonte: [Artur de Camargos](https://github.com/ArturDCR), 2025.</p></font>
+
 ---
 
 ## 4. Referências Bibliográficas
@@ -169,3 +193,4 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 | `1.3`  | 17/05/2025 | Adição das tabelas 8, 9 e 10 com os requisitos RQ45 (contraste), RQ49 (biometria) e RQ66 (offline) | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.3.1`  | 17/05/2025 | Correções na tabela 1 |  [Arthur Evangelista](https://github.com/arthurevg) | [Euller Júlio](https://github.com/Potatoyz908)|
 | `1.4`  | 18/05/2025 | Adição do detalhamento dos requisitos RQ50, RQ51 e RQ52 com suas respectivas tabelas (11, 12 e 13) |  [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR)|
+| `1.5`  | 18/05/2025 | Adição do detalhamento dos requisitos RQ44, RQ53 e RQ63 com suas respectivas tabelas (14, 15 e 16) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
