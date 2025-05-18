@@ -48,6 +48,52 @@ O segundo cenário, apresentado na Tabela 2, faz referência ao requisito não-i
 <p align="center"><br>
 Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
+## 2.3 Cenário 3: Reservar salas para eventos
+
+Perfeito! Com base nos requisitos RQ33 e RQ59, aqui estão dois cenários prontos para você adicionar na sua página de GitPages em Markdown:
+
+---
+
+## 2.3 Cenário 3: Reservar salas para eventos
+
+O terceiro cenário, apresentado na Tabela 3, faz referência ao requisito não implementado [RQ59](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Reservar salas para eventos.
+
+**Tabela 3: Cenário de reservar salas para eventos**
+
+| Item       | Descrição                                                                                                                                                                                                                           |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Objetivo   | Permitir que o usuário reserve uma sala de cinema para eventos privados, como aniversários, sessões fechadas ou encontros corporativos.                                                                                             |
+| Contexto   | Local: Menu "Mais" > Opção "Reservar Sala".</br>Tempo: 3 a 5 minutos.</br>Pré-condição: Usuário autenticado; existência de salas disponíveis.                                                                                       |
+| Atores     | Usuário autenticado.                                                                                                                                                                                                                |
+| Recursos   | Internet; aplicativo Cinemark instalado em smartphone.                                                                                                                                                                              |
+| Episódios  | 1. Usuário acessa o menu "Mais" e clica em "Reservar Sala".</br>2. Escolhe data, horário e quantidade de pessoas.</br>3. Seleciona uma sala disponível.</br>4. Preenche os dados da reserva.</br>5. Confirma e realiza o pagamento. |
+| Restrições | Reserva limitada a salas disponíveis; número mínimo e máximo de pessoas deve ser respeitado.                                                                                                                                        |
+| Exceções   | Sem salas disponíveis: sistema sugere datas e horários alternativos.</br>Falha no pagamento: sistema notifica erro e permite nova tentativa.                                                                                        |
+
+<p align="center"><br>
+Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
+
+---
+
+## 2.4 Cenário 4: Alterar preferências de idioma
+
+O quarto cenário, apresentado na Tabela 4, faz referência ao requisito não implementado [RQ33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Permitir alteração de preferências de idioma.
+
+**Tabela 4: Cenário de alterar preferências de idioma**
+
+| Item       | Descrição                                                                                                                                                                                    |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Objetivo   | Permitir que o usuário altere o idioma da interface do aplicativo para melhor compreensão e personalização da experiência.                                                                   |
+| Contexto   | Local: Menu "Mais" > Configurações > Idioma.</br>Tempo: Cerca de 1 minuto.</br>Pré-condição: Usuário autenticado.                                                                            |
+| Atores     | Usuário logado no aplicativo.                                                                                                                                                                |
+| Recursos   | Internet; aplicativo Cinemark instalado em dispositivo móvel.                                                                                                                                |
+| Episódios  | 1. Usuário acessa a aba "Mais".</br>2. Entra em "Configurações".</br>3. Escolhe "Preferências de Idioma".</br>4. Seleciona novo idioma.</br>5. Confirma alteração e vê interface atualizada. |
+| Restrições | O idioma escolhido deve estar disponível no sistema.                                                                                                                                         |
+| Exceções   | Idioma não carregado corretamente: sistema mantém idioma anterior e exibe alerta.                                                                                                            |
+
+<p align="center"><br>
+Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
+
 ---
 
 ## Referências Bibliográficas
@@ -58,6 +104,7 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 > BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. Autopublicação, 2021. Disponível em: https://leanpub.com/ihc-ux Acesso em: 18 maio 2025.
 
 ---
+
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                          | Autor(es)     | Revisor(es) |
@@ -65,3 +112,4 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 | `1.0`  | 13/05/2025 | Criação do Documento | [Davi Camilo](https://github.com/Davicamilo23) | Todos |
 | `1.1`  | 18/05/2025 | Adição da introdução, metodologia, cenários 1 e 2, e referências  | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.2`  | 18/05/2025 | Correção nas Referências Bibliográficas | [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
+| `1.3`  | 18/05/2025 | Adição dos cenários 3 (RQ59 - Reservar Sala) e 4 (RQ33 - Alterar Idioma)                         | [Euller Júlio](https://github.com/Potatoyz908)      | [Arthur Evangelista](https://github.com/arthurevg) |
