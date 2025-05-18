@@ -50,12 +50,6 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
 ## 2.3 Cenário 3: Reservar salas para eventos
 
-Perfeito! Com base nos requisitos RQ33 e RQ59, aqui estão dois cenários prontos para você adicionar na sua página de GitPages em Markdown:
-
----
-
-## 2.3 Cenário 3: Reservar salas para eventos
-
 O terceiro cenário, apresentado na Tabela 3, faz referência ao requisito não implementado [RQ59](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Reservar salas para eventos.
 
 **Tabela 3: Cenário de reservar salas para eventos**
@@ -72,8 +66,6 @@ O terceiro cenário, apresentado na Tabela 3, faz referência ao requisito não 
 
 <p align="center"><br>
 Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
-
----
 
 ## 2.4 Cenário 4: Alterar preferências de idioma
 
@@ -113,3 +105,4 @@ Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
 | `1.1`  | 18/05/2025 | Adição da introdução, metodologia, cenários 1 e 2, e referências  | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.2`  | 18/05/2025 | Correção nas Referências Bibliográficas | [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.3`  | 18/05/2025 | Adição dos cenários 3 (RQ59 - Reservar Sala) e 4 (RQ33 - Alterar Idioma)                         | [Euller Júlio](https://github.com/Potatoyz908)      | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.3.1`  | 18/05/2025 | Correção no Cenário 3 | [Euller Júlio](https://github.com/Potatoyz908)      | [Arthur Evangelista](https://github.com/arthurevg) |
