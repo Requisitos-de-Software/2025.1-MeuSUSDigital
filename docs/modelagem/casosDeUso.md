@@ -88,6 +88,8 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 | [Q04](../elicitação/questionario.md#Q04) | Fornecer comparação de preços entre cinemas | Não |
 | [Q05](../elicitação/questionario.md#Q05) | Permitir reserva de salas para eventos | Não |
 | [IS25](../elicitação/introspecção.md#IS25) | 	Permitir alteração de preferências de idioma | Não |
+| [IS18](../elicitação/introspecção.md#IS18) | 	Permitir salvar ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc). | Não |
+| [IS15](../elicitação/introspecção.md#IS15) | 	Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas. | Não |
 
 
 ## Especialização dos Casos de Uso
@@ -201,6 +203,42 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 
 <font size="3"><p style="text-align: center">Fonte: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
+### **Tabela 8: Permitir salvar ingressos na carteira digital do dispositivo.**
+| Campo                 | Descrição                                                                                                                                                                                                                      |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **UC**                | UC07                                                                                                                                                                                                                           |
+| **Descrição**         | O usuário pode salvar seus ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc).                                                                                                                            |
+| **Ator**              | Usuário                                                                                                                                                                                                                        |
+| **Pré-condições**     | Acesso à internet; login efetuado; ter comprado ao menos um ingresso no aplicativo; usuário deve possuir uma carteira digital no dispositivo.                                                                                                                                                                                               |
+| **Ação**              | O usuário acessa o seu pedido e seleciona a opção de adicionar a carteira digital.                                                                                                                                                   |
+| **Fluxo Principal**   | 1. O usuário acessa o aplicativo.<br>2. Vai ao menu "Mais".<br>3. Acessa "Pedidos".<br>4. Seleciona o pedido.<br>5. Seleciona a opção de adicionar na carteira digital do dispositivo. |
+| **Fluxo Alternativo** | O usuário opta por não adicionar o ingresso à carteira digital: o sistema cancela a operação e retorna para a tela de detalhes do pedido.                                                                                                                                                 |
+| **Fluxo de Exceção**  | O usuário não possui uma carteira digital no dispositivo: o sistema retorna à tela do pedido e exibe mensagem de erro.                                                                                                                 |
+| **Pós-condições**     | O ingresso é salvo na carteira digital e o sistema retorna à tela do pedido exibindo uma mensagem de sucesso.                                                                                                                                       |
+| **Data de Criação**   | 19/05/2025                                                                                                                                                                                                                     |
+| **Rastreabilidade**   | [IS18](../elicitação/introspecção.md#IS18)                                                                                                                        |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
+
+### **Tabela 9: Permitir que usuários avaliem filmes com escala de 1 a 5 estrelas.**
+| Campo                 | Descrição                                                                                                                                                                                                                      |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **UC**                | UC08                                                                                                                                                                                                                           |
+| **Descrição**         | O usuário pode avaliar filmes em uma escala de 1 a 5 estrelas.                                                                                                                            |
+| **Ator**              | Usuário                                                                                                                                                                                                                        |
+| **Pré-condições**     | Acesso à internet; login efetuado; existência de filmes cadastrados no sistema.                                                                                                                                                                                               |
+| **Ação**              | O usuário avalia um filme.                                                                                                                                                   |
+| **Fluxo Principal**   | 1. O usuário acessa o aplicativo.<br>2. Seleciona um filme.<br>3. Clica em um dos cinco botões em formato de estrela.<br>4. O sistema registra a avaliação. |
+| **Fluxo Alternativo** | O usuário opta por não avaliar o filme: o sistema esconde a região de avaliação.                                                                                                                                                 |
+| **Fluxo de Exceção**  | Falha no registro da avaliação: o sistema notifica a falha e pede para tentar novamente em alguns minutos.                                                                                                                 |
+| **Pós-condições**     | A avaliação do filme é apresentada ao usuário.                                                                                                                                       |
+| **Data de Criação**   | 19/05/2025                                                                                                                                                                                                                     |
+| **Rastreabilidade**   | [IS15](../elicitação/introspecção.md#IS15)                                                                                                                        |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
+
 ---
 ## Referências Bibliográficas
 
@@ -218,3 +256,4 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 | `1.1`  | 17/05/2025 | Adição da Introdução, metodologia, componentes e símbolos, Tabelas 1, 2 e 3, e referências  | [Arthur Evangelista](https://github.com/arthurevg) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.2`  | 17/05/2025 | Adição dos requisitos RQ32 (Exibir recomendações de filmes baseadas em histórico e preferências) e RQ58 (Fornecer comparação de preços entre cinemas) e suas respectivas tabelas (4 e 5) com a especialização dos casos de uso | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.3`  | 18/05/2025 | Adição das Tabelas 6 e 7 com os casos de uso para RQ59 (Reservar salas para eventos) e RQ33 (Alterar preferências de idioma); atualização da Tabela 1 com novos requisitos | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.4`  | 19/05/2025 | Adição das Tabelas 8 e 9 com os casos de uso para RQ26 (Salvar ingresso na carteira digital) e RQ39 (Avaliar filmes); atualização da Tabela 1 com novos requisitos | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
