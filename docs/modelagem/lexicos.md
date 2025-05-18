@@ -249,6 +249,28 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 - **Rastreabilidade:** [RQ29](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Sugerir cinemas com base no histórico de visitas e na localização atual
 
 
+### 15. **Salvar ingresso na carteira digital**
+
+- **Tipo**: Verbo
+- **Sinônimos**: Adicionar à carteira digital, Armazenar ingresso, Salvar no Google Wallet / Apple Wallet
+- **Noção**: Ação de permitir que o usuário adicione o ingresso de cinema à sua carteira digital do dispositivo (como Google Wallet ou Apple Wallet), facilitando o acesso ao ingresso durante a entrada no cinema.
+- **Impacto**: Facilita o armazenamento e a acessibilidade do ingresso, proporcionando uma experiência de usuário mais prática. Requer integração com serviços de carteira digital no sistema..
+- **Rastreabilidade**: [RQ26](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Exibir recomendações de filmes baseadas em histórico e preferências.
+
+<p align="center"><br>
+Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 2025.</p>
+
+### 16. **Avaliar filme**
+
+- **Tipo**: Verbo
+- **Sinônimos**: Classificar filme, Atribuir nota, Avaliar filme com estrelas
+- **Noção**: Ação de atribuir uma nota de 1 a 5 estrelas a um filme após assisti-lo, permitindo que os usuários compartilhem sua opinião sobre o filme com outros usuários.
+- **Impacto**: Afeta a visualização das recomendações e as estatísticas de avaliação, promovendo a melhoria do sistema de sugestões de filmes baseados em avaliações de usuários.
+- **Rastreabilidade**: [RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Exibir recomendações de filmes baseadas em histórico e preferências.
+
+<p align="center"><br>
+Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 2025.</p>
+
 ---
 
 ## Referências Bibliográficas
@@ -273,4 +295,4 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 | `1.5`  | 18/05/2025 | Adição dos léxicos 11 e 12 (referentes ao RQ60), e 13 e 14 (referentes ao RQ67) | [Artur de Camargos](https://github.com/ArturDCR) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.6`  | 18/05/2025 | Correção dos léxicos dos requisitos RQ59 e RQ33 | [Euller Júlio](https://github.com/Potatoyz908) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.7`  | 18/05/2025 | Adição dos léxicos 15, 16, 17, 18, 19 e 20 (referentes ao RQ29 e RQ30) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Euller Júlio](https://github.com/Potatoyz908)
-
+| `1.7`  | 18/05/2025 | Adição dos léxicos 15 (referente ao RQ26), e 16 (referentes ao RQ39) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR)  |
