@@ -51,6 +51,8 @@ Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
 * **Impacto**: Ao realizar o filtro, o sistema deve consultar os dados cadastrados de filmes, aplicar os critérios definidos e exibir apenas os resultados compatíveis. Isso influencia a navegação e a personalização da experiência do usuário.
 * **Rastreabilidade**: [RQ23](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Filtrar filmes por categoria e exibir avaliações de público e plataformas externas.
 
+<p align="center"><br>
+Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 ---
 
 ### 4. **Avaliações de Filmes**
@@ -61,6 +63,8 @@ Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
 * **Impacto**: Essas avaliações são exibidas junto aos detalhes dos filmes, impactando a decisão do usuário sobre assistir ou não. O sistema deve buscar e apresentar essas informações de forma clara e atualizada.
 * **Rastreabilidade**: [RQ23](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Filtrar filmes por categoria e exibir avaliações de público e plataformas externas.
 
+<p align="center"><br>
+Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 ---
 
 ### 5. **Assistir Trailer**
@@ -71,6 +75,8 @@ Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
 * **Impacto**: Ao assistir ao trailer, o sistema deve reproduzir o conteúdo audiovisual sem necessidade de redirecionamento externo. Isso melhora a experiência do usuário e pode influenciar o interesse em assistir ao filme.
 * **Rastreabilidade**: [RQ24](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Exibir trailers dentro do app.
 
+<p align="center"><br>
+Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 ---
 
 ### 6. **Trailer**
@@ -81,6 +87,8 @@ Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
 * **Impacto**: Os trailers devem estar associados aos filmes e disponíveis para reprodução dentro do app. Devem estar integrados a um player funcional e acessível.
 * **Rastreabilidade**: [RQ24](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Exibir trailers dentro do app.
 
+<p align="center"><br>
+Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 ---
 
 ### 7. **Exibir Recomendações de Filmes**
