@@ -24,6 +24,9 @@ A estrutura de cada termo léxico é composta por:
 * **Impacto**: Ao reservar uma sala, o sistema deve verificar disponibilidade, coletar informações do evento, registrar a reserva e gerar confirmação. Afeta diretamente o módulo de reservas, a agenda de salas e o fluxo de pagamento.
 * **Rastreabilidade**: [RQ59](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Fornecer reservas de salas para eventos.
 
+<p align="center"><br>
+Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
+
 ---
 
 ### 2. **Preferência de Idioma**
@@ -33,6 +36,10 @@ A estrutura de cada termo léxico é composta por:
 * **Noção**: Representa a configuração escolhida pelo usuário para a linguagem da interface do aplicativo. Pode incluir opções como português, inglês, espanhol, etc.
 * **Impacto**: Ao modificar essa configuração, a interface deve ser imediatamente ajustada para o idioma escolhido. Afeta a experiência do usuário e a apresentação de todos os textos exibidos no sistema.
 * **Rastreabilidade**: [RQ33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Permitir alteração de preferências de idioma.
+
+
+<p align="center"><br>
+Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
 
 ---
 
@@ -192,3 +199,5 @@ Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
 | `1.3`  | 18/05/2025 | Adição dos léxicos 3, 4, 5 e 6 (RQ23 e RQ24) | [Arthur Evangelista](https://github.com/arthurevg) | [Euller Júlio](https://github.com/Potatoyz908) |
 | `1.4`  | 18/05/2025 | Adição dos léxicos 7 e 8 (referentes ao RQ32), e 9 e 10 (referentes ao RQ58) | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.5`  | 18/05/2025 | Adição dos léxicos 11 e 12 (referentes ao RQ60), e 13 e 14 (referentes ao RQ67) | [Artur de Camargos](https://github.com/ArturDCR) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
+| `1.6`  | 18/05/2025 | Correção dos léxicos dos requisitos RQ59 e RQ33 | [Euller Júlio](https://github.com/Potatoyz908) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
+
