@@ -94,6 +94,30 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 
 <font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
+### Tabela 8: Detalhamento do RQ45
+
+| ID                                                                                                | Descrição                                                                                   | Categoria Detalhada                 | Métrica                                                                         |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------- |
+| [RQ45](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | A interface deve apresentar contraste visual de acordo com os critérios da norma WCAG A/AA. | Usabilidade – Acessibilidade Visual | Verificação de contraste mínimo de 4.5:1 para textos normais, segundo WCAG 2.1. |
+
+<font size="3"><p style="text-align: center">Fonte: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
+
+### Tabela 9: Detalhamento do RQ49
+
+| ID                                                                                                | Descrição                                                                                                                  | Categoria Detalhada                | Métrica                                                                   |
+| ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------- |
+| [RQ49](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | O sistema deve permitir autenticação por biometria (impressão digital ou reconhecimento facial) ou PIN em ações sensíveis. | Segurança – Autenticação de Acesso | Percentual de funcionalidades críticas que exigem autenticação adicional. |
+
+<font size="3"><p style="text-align: center">Fonte: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
+
+### Tabela 10: Detalhamento do RQ66
+
+| ID                                                                                                | Descrição                                                                                    | Categoria Detalhada           | Métrica                                                                                              |
+| ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [RQ66](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | O sistema deve permitir o acesso ao ingresso mesmo sem conexão à internet, durante a sessão. | Usabilidade – Suporte Offline | Acesso local ao ingresso digital armazenado em cache ou memória do app (sem necessidade de conexão). |
+
+<font size="3"><p style="text-align: center">Fonte: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
+
 ---
 
 ## 4. Referências Bibliográficas
@@ -116,3 +140,5 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 | `1.0`  | 13/05/2025 | Criação do Documento | [Davi Camilo](https://github.com/Davicamilo23) | Todos |
 | `1.1`  | 17/05/2025 | Adição de introdução, metodologia, tabelas 1, 2, 3 e 4, e referências | [Arthur Evangelista](https://github.com/arthurevg) | Todos |
 | `1.2`  | 17/05/2025 | Adição do detalhamento dos requisitos RQ46, R47 e RQ48 com suas respectivas tabelas (5, 6 e 7) | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.3`  | 17/05/2025 | Adição das tabelas 8, 9 e 10 com os requisitos RQ45 (contraste), RQ49 (biometria) e RQ66 (offline) | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
+
