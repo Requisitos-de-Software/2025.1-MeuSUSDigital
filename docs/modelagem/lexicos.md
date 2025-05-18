@@ -126,6 +126,50 @@ Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 <p align="center"><br>
 Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 
+### 11. **Fornecer um Hub para crítica de filmes**
+
+- **Tipo**: Objeto  
+- **Sinônimos**: Central de Críticas, Seção de Avaliações, Espaço de Opiniões
+- **Noção**: Área centralizada no aplicativo Cinemark onde usuários podem ler, escrever e interagir com críticas e avaliações de filmes em cartaz ou futuros lançamentos. 
+- **Impacto**: Permite que usuários compartilhem opiniões, influenciem decisões de outros espectadores e engajem com a comunidade.  
+- **Rastreabilidade**: [RQ60](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Fornecer um Hub para crítica de filmes.
+
+<p align="center"><br>
+Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
+
+### 12. **Fornecer um Hub para crítica de filmes**
+
+- **Tipo**: Verbo  
+- **Sinônimos**: Disponibilizar espaço para críticas, Oferecer seção de avaliações
+- **Noção**: Ação de implementar e manter uma área dedicada no aplicativo para que críticas de filmes sejam centralizadas e acessíveis.
+- **Impacto**: Melhora a experiência do usuário ao agregar informações relevantes e promover interação social.
+- **Rastreabilidade**: [RQ60](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Fornecer um Hub para crítica de filmes.
+
+<p align="center"><br>
+Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
+
+### 13. **Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial**
+
+- **Tipo**: Objeto  
+- **Sinônimos**: Compra de ingressos, Seção de ingressos, Botão de ingressos
+- **Noção**: Funcionalidade ou elemento de interface que permite ao usuário visualizar, selecionar e comprar ingressos para sessões de cinema de forma rápida e intuitiva.
+- **Impacto**: Reduz atritos na jornada do usuário, aumentando conversões de vendas e satisfação.
+- **Rastreabilidade**: [RQ67](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.
+
+<p align="center"><br>
+Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
+
+### 14. **Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial**
+
+- **Tipo**: Verbo  
+- **Sinônimos**: Simplificar compra de ingressos, Otimizar visibilidade de ingressos
+- **Noção**: Ação de garantir que a interface do aplicativo priorize e torne óbvio o caminho para comprar ingressos (ex.: botão fixo, atalho no menu).
+- **Impacto**: Acelera o processo de compra e reduz a taxa de abandono de carrinho.
+- **Rastreabilidade**: [RQ67](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.
+
+<p align="center"><br>
+Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
+
 ---
 
 ## Referências Bibliográficas
@@ -147,3 +191,4 @@ Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 | `1.2`  | 18/05/2025 | Adição dos léxicos dos requisitos RQ59 e RQ33 | [Euller Júlio](https://github.com/Potatoyz908) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.3`  | 18/05/2025 | Adição dos léxicos 3, 4, 5 e 6 (RQ23 e RQ24) | [Arthur Evangelista](https://github.com/arthurevg) | [Euller Júlio](https://github.com/Potatoyz908) |
 | `1.4`  | 18/05/2025 | Adição dos léxicos 7 e 8 (referentes ao RQ32), e 9 e 10 (referentes ao RQ58) | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
+| `1.5`  | 18/05/2025 | Adição dos léxicos 11 e 12 (referentes ao RQ60), e 13 e 14 (referentes ao RQ67) | [Artur de Camargos](https://github.com/ArturDCR) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
