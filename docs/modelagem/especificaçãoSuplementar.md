@@ -19,28 +19,28 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 
 ### Tabela 1: Visão Geral dos RNFs
 
-| ID   | Descrição Resumida                                       | Categoria       |
-| ---- | -------------------------------------------------------- | --------------- |
-| [RQ40](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Tempo de resposta ≤ 3 s em telas críticas                | Desempenho      |
-| [RQ41](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Disponibilidade ≥ 99,5% para funções críticas            | Confiabilidade  |
-| [RQ42](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Interface responsiva para smartphones e tablets          | Usabilidade     |
-| [RQ43](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Navegação intuitiva                                      | Usabilidade     |
-| [RQ44](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Conformidade com WCAG A/AA                               | Usabilidade     |
-| [RQ45](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Tempo máximo de inicialização do app: 2 s                | Desempenho      |
-| [RQ46](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Atualização dinâmica do valor total em tempo real        | Desempenho      |
-| [RQ47](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Criptografia de dados sensíveis em trânsito e repouso    | Confiabilidade  |
-| [RQ48](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Autenticação multifator para operações críticas          | Confiabilidade  |
-| [RQ49](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Customização de notificações                             | Usabilidade     |
-| [RQ50](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Limite de 20 itens por pedido no Snack Bar               | Suportabilidade |
-| [RQ51](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Persistência de sessão em caso de interrupção inesperada | Suportabilidade |
-| [RQ52](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Suporte offline para exibição de ingressos               | Usabilidade     |
-| [RQ53](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Uso de bibliotecas open‑source licenciadas               | Suportabilidade |
-| [RQ54](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Log de auditoria para rastreabilidade de ações           | Confiabilidade  |
-| [RQ55](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Atualização automática de dependências de segurança      | Suportabilidade |
-| [RQ56](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Monitoramento de performance em tempo real               | Desempenho      |
-| [RQ57](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Backup diário de banco de dados                          | Confiabilidade  |
-| [RQ63](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Uso máximo de 150 MB de memória em operação normal       | Suportabilidade |
-| [RQ66](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Acesso offline ao ingresso na hora da sessão             | Usabilidade     |
+| ID                                                                                                          | Descrição Resumida                                                                                                                                   | Categoria      |
+| ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| [RQ40](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Tempo de resposta ≤ 3 s em telas críticas (seleção de assentos, pagamento).                            | Desempenho     |
+| [RQ41](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Disponibilidade ≥ 99,5 % para funções críticas.                                       | Confiabilidade |
+| [RQ42](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Sistema responsivo e adaptável a diferentes tamanhos de tela (smartphone e tablet).                    | Usabilidade    |
+| [RQ43](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Interface intuitiva, com navegação fácil e boa usabilidade.                                             | Usabilidade    |
+| [RQ44](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Interface acessível para pessoas com deficiência visual (leitores de tela) e baixa visão.              | Usabilidade    |
+| [RQ45](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Contraste de interface conforme WCAG A/AA.                                              | Usabilidade    |
+| [RQ46](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Garantir legenda clara para cores e ícones no mapa de assentos.                                         | Usabilidade    |
+| [RQ47](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Atualizar automaticamente o valor total conforme seleção de ingressos e produtos.                | Desempenho     |
+| [RQ48](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Proteger dados de pagamento e histórico do usuário com criptografia.                                   | Segurança      |
+| [RQ49](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Autenticação por biometria ou PIN para operações sensíveis.                                             | Segurança      |
+| [RQ50](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Notificações push customizáveis pelo usuário.                                                       | Funcionalidade |
+| [RQ51](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Exibir mapa de assentos com indicação gráfica clara de ocupação e disponibilidade.                     | Usabilidade    |
+| [RQ52](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Limitar quantidade máxima de 20 unidades por item no Snack Bar.                                        | Funcionalidade |
+| [RQ53](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Manter informações da sessão (filme, data, hora e sala) visíveis em todas as etapas do fluxo de compra.| Usabilidade    |
+| [RQ54](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Ocultar parcialmente o e‑mail recuperado para segurança (exibir com asteriscos).                      | Segurança      |
+| [RQ55](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Validar e‑mail e senha antes de criação ou redefinição de conta.                                       | Confiabilidade |
+| [RQ56](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Remover automaticamente promoções expiradas da interface.                                              | Confiabilidade |
+| [RQ57](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Validar dados pessoais no perfil antes de salvar.                                                      | Confiabilidade |
+| [RQ63](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | O aplicativo deve ser leve e usar pouca memória do dispositivo.                                          | Desempenho     |
+| [RQ66](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Permitir acesso ao ingresso offline, sem depender de conexão à internet na hora da sessão.             | Confiabilidade |
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
 
@@ -141,4 +141,4 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 | `1.1`  | 17/05/2025 | Adição de introdução, metodologia, tabelas 1, 2, 3 e 4, e referências | [Arthur Evangelista](https://github.com/arthurevg) | Todos |
 | `1.2`  | 17/05/2025 | Adição do detalhamento dos requisitos RQ46, R47 e RQ48 com suas respectivas tabelas (5, 6 e 7) | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.3`  | 17/05/2025 | Adição das tabelas 8, 9 e 10 com os requisitos RQ45 (contraste), RQ49 (biometria) e RQ66 (offline) | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
-
+| `1.31`  | 17/05/2025 | Correções na tabela 1 |  [Arthur Evangelista](https://github.com/arthurevg) | [Euller Júlio](https://github.com/Potatoyz908)|
