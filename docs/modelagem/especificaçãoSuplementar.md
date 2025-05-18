@@ -118,6 +118,30 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 
 <font size="3"><p style="text-align: center">Fonte: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
+### Tabela 11: Detalhamento do RQ50
+
+| ID                                                                                                | Descrição                                                                                    | Categoria Detalhada           | Métrica                                                                                              |
+| ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [RQ50](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | O sistema deve permitir que o usuário personalize as notificações push, incluindo o tipo de evento, o horário de envio e o conteúdo da notificação. | Funcionalidade – Notificações | Percentual de usuários que personalizam suas notificações e tempo de resposta para aplicar as mudanças. |
+
+<font size="3"><p style="text-align: center">Fonte: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
+
+### Tabela 12: Detalhamento do RQ51
+
+| ID                                                                                                | Descrição                                                                                    | Categoria Detalhada           | Métrica                                                                                              |
+| ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [RQ51](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | O sistema deve exibir um mapa gráfico de assentos, indicando claramente os assentos disponíveis e ocupados, com a possibilidade de filtrar por tipo de assento (normal, VIP, etc.). | Usabilidade – Interface Gráfica | Percentual de usuários que conseguem identificar os assentos disponíveis com sucesso em até 3 segundos. |
+
+<font size="3"><p style="text-align: center">Fonte: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
+
+### Tabela 13: Detalhamento do RQ52
+
+| ID                                                                                                | Descrição                                                                                    | Categoria Detalhada           | Métrica                                                                                              |
+| ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [RQ52](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | O sistema deve limitar a quantidade máxima de 20 unidades por item no Snack Bar, garantindo que o usuário não possa adicionar mais unidades de um item ao carrinho do que o permitido. | Funcionalidade – Limitação de Quantidade | Percentual de tentativas de adicionar mais de 20 unidades que foram bloqueadas corretamente pelo sistema. |
+
+<font size="3"><p style="text-align: center">Fonte: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
+
 ---
 
 ## 4. Referências Bibliográficas
@@ -130,6 +154,8 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 
 > **SERRANO**, Milene; **SERRANO**, Maurício. *Requisitos – Aula 13*. Universidade de Brasília, Campus Gama (UnB Gama). Material de aula. Disponível em <https://aprender3.unb.br/pluginfile.php/3096129/mod_resource/content/2/SiglaProjeto_EspecificacaoSuplementar.pdf>. Acesso em 17 de maio de 2025.
 
+> **WIEGERS, Karl; BEATTY, Joy.** Software Requirements. 3. ed. Redmond: Microsoft Press, 2013.
+
 
 ---
 
@@ -139,6 +165,7 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 |--------|------------|------------------------------------|---------------|-------------|
 | `1.0`  | 13/05/2025 | Criação do Documento | [Davi Camilo](https://github.com/Davicamilo23) | Todos |
 | `1.1`  | 17/05/2025 | Adição de introdução, metodologia, tabelas 1, 2, 3 e 4, e referências | [Arthur Evangelista](https://github.com/arthurevg) | Todos |
-| `1.2`  | 17/05/2025 | Adição do detalhamento dos requisitos RQ46, R47 e RQ48 com suas respectivas tabelas (5, 6 e 7) | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.2`  | 17/05/2025 | Adição do detalhamento dos requisitos RQ46, RQ47 e RQ48 com suas respectivas tabelas (5, 6 e 7) | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.3`  | 17/05/2025 | Adição das tabelas 8, 9 e 10 com os requisitos RQ45 (contraste), RQ49 (biometria) e RQ66 (offline) | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
-| `1.31`  | 17/05/2025 | Correções na tabela 1 |  [Arthur Evangelista](https://github.com/arthurevg) | [Euller Júlio](https://github.com/Potatoyz908)|
+| `1.3.1`  | 17/05/2025 | Correções na tabela 1 |  [Arthur Evangelista](https://github.com/arthurevg) | [Euller Júlio](https://github.com/Potatoyz908)|
+| `1.4`  | 18/05/2025 | Adição do detalhamento dos requisitos RQ50, RQ51 e RQ52 com suas respectivas tabelas (11, 12 e 13) |  [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR)|
