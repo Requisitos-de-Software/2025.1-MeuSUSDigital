@@ -41,9 +41,9 @@ O segundo cenário, apresentado na Tabela 2, faz referência ao requisito não-i
 | Contexto  | Local: Página de detalhes do filme.</br>Tempo: Aproximadamente 30 s.</br>Pré-condição: Trailer disponível para o filme.                   |
 | Atores    | Usuário do aplicativo Cinemark Digital.                                         |
 | Recursos  | Internet; Dispositivo móvel com o aplicativo Cinemark Digital instalado.               |
-| Episódios | 1. Usuário acessa detalhes do filme.</br>2. Aplicativo exibe botão "Assistir Trailer".</br>3. Usuário toca e reproduz trailer no player incorporado.</br>4. Usuário pode pausar, avançar ou fechar o trailer. | 
+| Episódios | 1. Usuário acessa detalhes do filme.</br>2. Aplicativo exibe botão "Assistir Trailer".</br>3. Usuário toca e reproduz trailer no player incorporado.</br>4. Usuário pode pausar, avançar ou fechar o trailer. |
 | Restrições| Trailer deve reproduzir em alta definição compatível.</br>Player deve suportar controles básicos.               |
-| Exceções  | Erro de carregamento: exibe "Trailer indisponível no momento".</br>Falha de rede: permite recarregar. |   
+| Exceções  | Erro de carregamento: exibe "Trailer indisponível no momento".</br>Falha de rede: permite recarregar. |
 
 <p align="center"><br>
 Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
@@ -162,6 +162,44 @@ O oitavo cenário, apresentado na Tabela 8, faz referência ao requisito não im
 <p align="center"><br>
 Autor: <a href="https://github.com/ArturDCR">Artur De Camargos</a>, 2025.</p>
 
+## 2.9 Cenário 9: Sugerir cinemas para o usuário
+
+O 9º cenário, apresentado na Tabela 9, faz referência ao requisito não implementado [RQ29](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Sugerir cinemas com base no histórico de visitas e na localização atual.
+
+**Tabela 9: Cenário de sugerir cinemas com base no histórico de visitas e na localização atual**
+
+| Item       | Descrição                                                                                                                                                                                    |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Objetivo   | Sugerir ao usuário cinemas próximos com base em seu histórico de visitas e localização atual                                                              |
+| Contexto   | Local: Tela inicial do aplicativo após o login <br>Tempo: Após a abertura do app (até 10 segundos) <br>Pré-condição: Localização ativada no dispositivo e histórico de visitas registrado no perfil do usuário                                                                     |
+| Atores     | Usuário logado no aplicativo.                                                                                                                                                                |
+| Recursos   | Internet; aplicativo Cinemark instalado em dispositivo móvel; Histórico de visitas aos cinemas; GPS do dispositivo ativado; Banco de dados de cinemas ativos na cidade;                                                                                                                                |
+| Episódios  | 1. Usuário abre o aplicativo<br>2. O sistema obtém a localização atual do usuário.<br>3. O sistema recupera o histórico de cinemas visitados anteriormente.</br>4. O sistema consulta cinemas próximos compatíveis com os estilos de visita anteriores.</br>5. O sistema ordena os resultados por proximidade e afinidade.</br>6. O sistema apresenta a lista personalizada ao usuário. |
+| Restrições | Usuário deve autorizar previamente o uso da localização atual.                                                                                                                                         |
+| Exceções   | Usuário sem histórico de visitas: O sistema exibe sugestões baseadas apenas na proximidade. <br>Sem localização atual: O sistema exibe uma mensagem sugerindo que o usuário ative o GPS. |
+
+<p align="center"><br>
+Autor: <a href="https://github.com/Davicamilo23">Gabriel Castelo</a>, 2025.</p>
+
+## 2.91 Cenário 10: Salvar cinemas como favoritos
+
+O 10º cenário, apresentado na Tabela 10, faz referência ao requisito não implementado [RQ30](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Permitir que o usuário salve cinemas como favoritos.
+
+**Tabela 10: Cenário de salvar cinemas como favoritos**
+
+| Item       | Descrição                                                                                                                                                                                    |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Objetivo   | Permitir que o usuário marque cinemas específicos como favoritos para acessá-los rapidamente no futuro.                                                            |
+| Contexto   | Usuário visualiza detalhes ou listas de cinemas no aplicativo.                                                                   |
+| Atores     | Usuário logado no aplicativo.                                                                                                                                                                |
+| Recursos   | Internet; aplicativo Cinemark instalado em dispositivo móvel; Interface de cinemas; lista de cinemas favoritos do usuário; Banco de dados de cinemas ativos na cidade;                                                                                                                                |
+| Episódios  | 1. O usuário navega pela lista ou detalhes de cinemas.<br>2. O usuário clica no botão ou ícone "Favoritar" próximo ao cinema desejado..<br>3. O sistema adiciona o cinema selecionado à lista de favoritos do usuário.</br>4. O usuário recebe uma confirmação visual de que o cinema foi salvo.</br>5. O usuário acessa posteriormente a lista de cinemas favoritos diretamente na interface principal do aplicativo. |
+| Restrições | O usuário deve estar logado no sistema                                                                                                                                         |
+| Exceções   | Se o cinema já estiver na lista de favoritos, o sistema informa que o cinema já foi adicionado anteriormente. |
+
+<p align="center"><br>
+Autor: <a href="https://github.com/Davicamilo23">Gabriel Castelo</a>, 2025.</p>
+
 ---
 
 ## Referências Bibliográficas
@@ -184,3 +222,4 @@ Autor: <a href="https://github.com/ArturDCR">Artur De Camargos</a>, 2025.</p>
 | `1.3.1`  | 18/05/2025 | Correção no Cenário 3 | [Euller Júlio](https://github.com/Potatoyz908)      | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.4`  | 18/05/2025 | Adição dos cenários 5 (RQ32 - Exibir recomendações de filmes baseadas em histórico e preferências) e 6 (RQ58 - Fornecer comparação de preços entre cinemas) | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
 | `1.5`  | 18/05/2025 | Adição dos cenários 7 (RQ60 - Cenário para Fornecer um Hub para crítica de filmes.) e 8 (RQ67- Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.) | [Artur de Camargos](https://github.com/ArturDCR) | [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) |
+| `1.6`  | 18/05/2025 | Adição do cenário 9 (RQ29 - Sugerir cinemas com base no histórico de visitas e na localização atual) e 10 (RQ30 - Salvar cinemas como favoritos) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Arthur Evangelista](https://github.com/arthurevg) |
