@@ -248,6 +248,8 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 - **Impacto:** Afeta o módulo de recomendação, a interface de exibição de sugestões e o uso de localização do dispositivo.
 - **Rastreabilidade:** [RQ29](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Sugerir cinemas com base no histórico de visitas e na localização atual
 
+<p align="center"><br>
+Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
 
 ### 21. **Salvar ingresso na carteira digital**
 
