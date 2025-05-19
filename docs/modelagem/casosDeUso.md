@@ -75,6 +75,7 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
 ## Diagrama de Casos de Uso
 A Figura 1 demonstra o Diagrama de casos de uso, com ênfase nas funcionalidades não implementadas
+
 <p align="center"><br>
 Figura 1: Diagrama de casos de uso do aplicativo CInemark</p>
 
@@ -195,6 +196,7 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 <font size="3"><p style="text-align: center">Fonte: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
 ### **Tabela 7: Alterar preferências de idioma**
+
 | Campo                 | Descrição                                                                                                                                                                                                                      |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **UC**                | UC06                                                                                                                                                                                                                           |
@@ -213,6 +215,7 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 <font size="3"><p style="text-align: center">Fonte: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
 ### **Tabela 8: Permitir salvar ingressos na carteira digital do dispositivo.**
+
 | Campo                 | Descrição                                                                                                                                                                                                                      |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **UC**                | UC07                                                                                                                                                                                                                           |
@@ -248,7 +251,45 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 
 <font size="3"><p style="text-align: center">Fonte: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
 
----
+### Tabela 10: Sugerir cinemas personalizados
+
+| Campo                 | Descrição                                                                                                                                                                                                                                      |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **UC**                | UC09 – Sugerir Cinemas Personalizados                                                                                                                                                                                                          |
+| **Descrição**         | O sistema sugere automaticamente uma lista de cinemas com base no histórico de visitas e na localização atual do usuário.                                                                                                                      |
+| **Ator**              | Usuário                                                                                                                                                                                               |
+| **Pré-condições**     | O usuário deve estar logado, o histórico de visitas deve estar registrado e a localização ativada no dispositivo.                                                                                                                              |
+| **Ação**              | O usuário abre o app e acessa a área de sugestões de cinema.                                                                                                                                                                                   |
+| **Fluxo Principal**   | 1. O usuário abre o aplicativo;<br>2. O sistema identifica a localização atual;<br>3. O sistema acessa o histórico de visitas;<br>4. O sistema cruza os dados e gera sugestões personalizadas;<br>5. O usuário visualiza os cinemas sugeridos. |
+| **Fluxo Alternativo** | Se não houver histórico suficiente, o sistema utiliza apenas a localização para sugerir cinemas bem avaliados próximos.                                                                                                                    |
+| **Fluxo de Exceção**  | Se a localização não estiver ativada, o sistema exibe uma mensagem solicitando permissão de acesso.                                                                                                                                        |
+| **Pós-condições**     | O sistema exibe uma lista de cinemas sugeridos e registra o comportamento de navegação do usuário para futuras sugestões.                                                                                                                      |
+| **Data de Criação**   | 18/05/2025                                                                                                                                                                                                                                     |
+| **Rastreabilidade**   | [IS21](../elicitação/introspecção.md#IS21)                                                                                                                                                                |
+
+<p align="center"><br>
+Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
+
+### **Tabela 11: Salvar cinema como favorito**
+
+| Campo                 | Descrição                                                                                                                                                                                                                                                      |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **UC**                | UC10 – Salvar Cinema como Favorito                                                                                                                                                                                                                             |
+| **Descrição**         | Permite que o usuário adicione cinemas à sua lista de favoritos para facilitar o acesso futuro.                                                                                                                                                                |
+| **Ator**              | Usuário                                                                                                                                                                                               |
+| **Pré-condições**     | O usuário deve estar autenticado e o cinema deve estar disponível na base de dados.                                                                                                                                                                            |
+| **Ação**              | O usuário acessa a página de um cinema e clica na opção de favoritar.                                                                                                                                                                                          |
+| **Fluxo Principal**   | 1. O usuário acessa a página de detalhes de um cinema;<br>2. O usuário clica no ícone de "favoritar";<br>3. O sistema verifica se o cinema já está salvo;<br>4. O sistema adiciona o cinema à lista de favoritos;<br>5. O sistema confirma visualmente a ação. |
+| **Fluxo Alternativo** | Se o cinema já estiver favoritado, o sistema oferece a opção de "remover dos favoritos".                                                                                                                                                                   |
+| **Fluxo de Exceção**  | Se o usuário não estiver logado, o sistema redireciona para a tela de login.                                                                                                                                                                               |
+| **Pós-condições**     | O cinema é salvo na lista pessoal de favoritos do usuário e poderá ser acessado rapidamente no futuro.                                                                                                                                                         |
+| **Data de Criação**   | 18/05/2025                                                                                                                                                                                                                                                     |
+| **Rastreabilidade** |[IS22](../elicitação/introspecção.md#IS22)                                                                                                                                                                                                     |
+<p align="center"><br>
+Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
+
+***
+
 ## Referências Bibliográficas
 
 > LUCID SOFTWARE PORTUGUÊS. Tutorial de Caso de Uso UML [vídeo]. YouTube, 2018. Disponível em: https://www.youtube.com/watch?v=ab6eDdwS3rA. Acesso em: 17 maio 2025.
@@ -266,3 +307,4 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 | `1.2`  | 17/05/2025 | Adição dos requisitos RQ32 (Exibir recomendações de filmes baseadas em histórico e preferências) e RQ58 (Fornecer comparação de preços entre cinemas) e suas respectivas tabelas (4 e 5) com a especialização dos casos de uso | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.3`  | 18/05/2025 | Adição das Tabelas 6 e 7 com os casos de uso para RQ59 (Reservar salas para eventos) e RQ33 (Alterar preferências de idioma); atualização da Tabela 1 com novos requisitos | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.4`  | 18/05/2025 | Adição das Tabelas 8 e 9 com os casos de uso para RQ26 (Salvar ingresso na carteira digital) e RQ39 (Avaliar filmes); atualização da Tabela 1 com novos requisitos | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
+| `1.5`  | 19/05/2025 | Adição da Tabela 10 com o caso de uso para RQ29 (Sugerir cinemas personalizados) e da Tabela 11 com o caso de uso para RQ30 (Salvar cinema como favorito)| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)
