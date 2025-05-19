@@ -166,6 +166,24 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 
 <font size="3"><p style="text-align: center">Fonte: [Artur de Camargos](https://github.com/ArturDCR), 2025.</p></font>
 
+### Tabela 17: Detalhamento do RQ43
+
+| ID                                                                                                | Descrição                                                                                                          | Categoria Detalhada                    | Métrica                                                                                  |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [RQ43](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | A interface do sistema deve ser intuitiva, com navegação fácil e boa usabilidade para todos os perfis de usuário.  | Usabilidade – Facilidade de Navegação  | Número médio de cliques para realizar tarefas principais (esperado: ≤ 3 cliques).        |
+
+<p align="center"><br>
+Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
+
+### Tabela 18: Detalhamento do RQ54
+
+| ID                                                                                                | Descrição                                                                                                          | Categoria Detalhada                    | Métrica                                                                                  |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [RQ54](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | O sistema deve ocultar parcialmente o e-mail recuperado, exibindo parte do endereço com asteriscos para segurança. | Segurança – Proteção de Dados Pessoais | Padrão de mascaramento aplicado corretamente (ex.: j\*\*\*@g\*\*\*.com); 100% dos casos. |
+
+<p align="center"><br>
+Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
+
 ---
 
 ## 4. Referências Bibliográficas
@@ -194,3 +212,4 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 | `1.3.1`  | 17/05/2025 | Correções na tabela 1 |  [Arthur Evangelista](https://github.com/arthurevg) | [Euller Júlio](https://github.com/Potatoyz908)|
 | `1.4`  | 18/05/2025 | Adição do detalhamento dos requisitos RQ50, RQ51 e RQ52 com suas respectivas tabelas (11, 12 e 13) |  [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR)|
 | `1.5`  | 18/05/2025 | Adição do detalhamento dos requisitos RQ44, RQ53 e RQ63 com suas respectivas tabelas (14, 15 e 16) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
+| `1.6`  | 18/05/2025 | Adição do detalhamento dos requisitos RQ43 e RQ54 com suas respectivas tabelas (17 e 18) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Euller Júlio](https://github.com/Potatoyz908)|
