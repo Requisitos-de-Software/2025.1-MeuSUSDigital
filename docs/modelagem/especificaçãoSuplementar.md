@@ -76,7 +76,7 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------- |
 | [RQ46](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | O sistema deve atualizar dinamicamente o valor total conforme a seleção de ingressos e produtos, em tempo real. | Usabilidade – Feedback em Tempo Real | Tempo entre a seleção e a atualização do valor exibido (esperado: < 1 segundo). |
 
-<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
 ### Tabela 6: Detalhamento do RQ47
 
@@ -84,7 +84,7 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------ | --------------------------------------------------------------------------- |
 | [RQ47](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Os dados sensíveis (pagamento e histórico do usuário) devem ser criptografados em trânsito e em repouso. | Segurança – Criptografia | Verificação de uso de protocolos HTTPS e criptografia AES nos dados salvos. |
 
-<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
 ### Tabela 7: Detalhamento do RQ48
 
@@ -92,7 +92,7 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------ | ----------------------------------------------------------------------- |
 | [RQ48](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | O sistema deve exigir autenticação multifator para realizar operações críticas, como alteração de dados e cancelamentos. | Segurança – Autenticação | Percentual de operações críticas protegidas por autenticação adicional. |
 
-<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
 ### Tabela 8: Detalhamento do RQ45
 
@@ -100,7 +100,7 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------- |
 | [RQ45](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | A interface deve apresentar contraste visual de acordo com os critérios da norma WCAG A/AA. | Usabilidade – Acessibilidade Visual | Verificação de contraste mínimo de 4.5:1 para textos normais, segundo WCAG 2.1. |
 
-<font size="3"><p style="text-align: center">Fonte: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
 ### Tabela 9: Detalhamento do RQ49
 
@@ -108,7 +108,7 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------- |
 | [RQ49](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | O sistema deve permitir autenticação por biometria (impressão digital ou reconhecimento facial) ou PIN em ações sensíveis. | Segurança – Autenticação de Acesso | Percentual de funcionalidades críticas que exigem autenticação adicional. |
 
-<font size="3"><p style="text-align: center">Fonte: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
 ### Tabela 10: Detalhamento do RQ66
 
@@ -116,7 +116,7 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
 | [RQ66](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | O sistema deve permitir o acesso ao ingresso mesmo sem conexão à internet, durante a sessão. | Usabilidade – Suporte Offline | Acesso local ao ingresso digital armazenado em cache ou memória do app (sem necessidade de conexão). |
 
-<font size="3"><p style="text-align: center">Fonte: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
 ### Tabela 11: Detalhamento do RQ50
 
@@ -124,7 +124,7 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
 | [RQ50](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | O sistema deve permitir que o usuário personalize as notificações push, incluindo o tipo de evento, o horário de envio e o conteúdo da notificação. | Funcionalidade – Notificações | Percentual de usuários que personalizam suas notificações e tempo de resposta para aplicar as mudanças. |
 
-<font size="3"><p style="text-align: center">Fonte: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
 
 ### Tabela 12: Detalhamento do RQ51
 
@@ -132,7 +132,7 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
 | [RQ51](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | O sistema deve exibir um mapa gráfico de assentos, indicando claramente os assentos disponíveis e ocupados, com a possibilidade de filtrar por tipo de assento (normal, VIP, etc.). | Usabilidade – Interface Gráfica | Percentual de usuários que conseguem identificar os assentos disponíveis com sucesso em até 3 segundos. |
 
-<font size="3"><p style="text-align: center">Fonte: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
 
 ### Tabela 13: Detalhamento do RQ52
 
@@ -140,7 +140,7 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
 | [RQ52](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | O sistema deve limitar a quantidade máxima de 20 unidades por item no Snack Bar, garantindo que o usuário não possa adicionar mais unidades de um item ao carrinho do que o permitido. | Funcionalidade – Limitação de Quantidade | Percentual de tentativas de adicionar mais de 20 unidades que foram bloqueadas corretamente pelo sistema. |
 
-<font size="3"><p style="text-align: center">Fonte: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
 
 ### Tabela 14: Detalhamento do RQ44
 
@@ -148,7 +148,7 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
 | [RQ44](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | Interface acessível para pessoas com deficiência visual (leitores de tela) e baixa visão. | Usabilidade (Acessibilidade) | Conformidade com WCAG 2.1 (nível AA). Testes com leitores de tela (TalkBack e VoiceOver) alcançam 95% de funcionalidade acessível. |
 
-<font size="3"><p style="text-align: center">Fonte: [Artur de Camargos](https://github.com/ArturDCR), 2025.</p></font>
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos](https://github.com/ArturDCR), 2025.</p></font>
 
 ### Tabela 15: Detalhamento do RQ53
 
@@ -156,7 +156,7 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
 | [RQ53](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | Manter informações da sessão (filme, data, hora e sala) visíveis em todas as etapas do fluxo de compra. | Usabilidade (Consistência de Interface) | 100% dos usuários identificam as informações da sessão sem recarregar a tela. Layout persiste em cabeçalho fixo ou barra lateral durante o fluxo. |
 
-<font size="3"><p style="text-align: center">Fonte: [Artur de Camargos](https://github.com/ArturDCR), 2025.</p></font>
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos](https://github.com/ArturDCR), 2025.</p></font>
 
 ### Tabela 16: Detalhamento do RQ63
 
@@ -164,7 +164,7 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
 | [RQ63](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | O aplicativo deve ser leve e usar pouca memória do dispositivo. | Desempenho (Eficiência de Recursos) | Consumo de memória não excede 150 MB em uso contínuo. Compatibilidade com dispositivos Android (API 24+) e iOS (versão 12+). |
 
-<font size="3"><p style="text-align: center">Fonte: [Artur de Camargos](https://github.com/ArturDCR), 2025.</p></font>
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos](https://github.com/ArturDCR), 2025.</p></font>
 
 ### Tabela 17: Detalhamento do RQ43
 
@@ -213,3 +213,4 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 | `1.4`  | 18/05/2025 | Adição do detalhamento dos requisitos RQ50, RQ51 e RQ52 com suas respectivas tabelas (11, 12 e 13) |  [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR)|
 | `1.5`  | 18/05/2025 | Adição do detalhamento dos requisitos RQ44, RQ53 e RQ63 com suas respectivas tabelas (14, 15 e 16) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
 | `1.6`  | 18/05/2025 | Adição do detalhamento dos requisitos RQ43 e RQ54 com suas respectivas tabelas (17 e 18) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Euller Júlio](https://github.com/Potatoyz908)|
+| `1.7`  | 18/05/2025 | Padroniza autoria das tabelas como "Autor:"| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
