@@ -53,6 +53,7 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
 ### Relacionamentos
 
+* **Associação:** conecta atores a casos de uso, indicando participação direta do ator na execução do caso. É representada por uma linha simples ligando o ícone do ator à elipse do caso de uso.
 
  - **Associação:** conecta atores a casos de uso, indicando participação direta do ator na execução do caso. É representada por uma linha simples ligando o ícone do ator à elipse do caso de uso.
 
@@ -309,8 +310,8 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 <p align="center"><br>
 Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
 
-
 ### **Tabela 13: Fornecer um Hub para crítica de filmes.**
+
 | Campo                 | Descrição                                                                                                                                                                                                                      |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **UC**                | UC11                                                                                                                                                                                                                           |
@@ -326,10 +327,10 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 | **Data de Criação**   | 18/05/2025                                                                                                                                                                                                                     |
 | **Rastreabilidade**   | [Q06](../elicitação/questionario.md#Q06)                                                                                                                        |
 
-
 <font size="3"><p style="text-align: center">Fonte: [Artur de Camargos](https://github.com/ArturDCR), 2025.</p></font>
 
 ### **Tabela 14: Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.**
+
 | Campo                 | Descrição                                                                                                                                                                                                                      |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **UC**                | UC12                                                                                                                                                                                                                           |
@@ -364,6 +365,6 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 | `1.2`  | 17/05/2025 | Adição dos requisitos RQ32 (Exibir recomendações de filmes baseadas em histórico e preferências) e RQ58 (Fornecer comparação de preços entre cinemas) e suas respectivas tabelas (4 e 5) com a especialização dos casos de uso | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.3`  | 18/05/2025 | Adição das Tabelas 6 e 7 com os casos de uso para RQ59 (Reservar salas para eventos) e RQ33 (Alterar preferências de idioma); atualização da Tabela 1 com novos requisitos | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.4`  | 18/05/2025 | Adição das Tabelas 8 e 9 com os casos de uso para RQ26 (Salvar ingresso na carteira digital) e RQ39 (Avaliar filmes); atualização da Tabela 1 com novos requisitos | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
-| `1.5`  | 19/05/2025 | Adição da Tabela 10 com o caso de uso para RQ29 (Sugerir cinemas personalizados) e da Tabela 11 com o caso de uso para RQ30 (Salvar cinema como favorito)| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
-| `1.6`  | 19/05/2025 | Adição de uma tabela com o modelo da especificação dos casos de uso.| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
+| `1.5`  | 18/05/2025 | Adição da Tabela 10 com o caso de uso para RQ29 (Sugerir cinemas personalizados) e da Tabela 11 com o caso de uso para RQ30 (Salvar cinema como favorito)| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
+| `1.6`  | 18/05/2025 | Adição de uma tabela com o modelo da especificação dos casos de uso.| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
 | `1.5`  | 18/05/2025 | Adição das Tabelas 13 e 14 com os casos de uso para RQ60 (Fornecer um Hub para crítica de filmes.) e RQ67 (Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.); atualização da Tabela 1 com novos requisitos | [Artur de Camargos](https://github.com/ArturDCR) | [Davi Camilo](https://github.com/Davicamilo23) |
