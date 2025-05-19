@@ -309,6 +309,42 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 <p align="center"><br>
 Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
 
+
+### **Tabela 13: Fornecer um Hub para crítica de filmes.**
+| Campo                 | Descrição                                                                                                                                                                                                                      |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **UC**                | UC11                                                                                                                                                                                                                           |
+| **Descrição**         | Fornecer um Hub para crítica de filmes.                                                                                                                            |
+| **Ator**              | Usuário do aplicativo Cinemark                                                                                                                                                                                                                        |
+| **Pré-condições**     | 1. Aplicativo instalado e aberto.<br> 2. Hub de críticas implementado.                                                                                                                                                                                               |
+| **Ação**              | Interagir com críticas de filmes (ler, escrever, avaliar).                                                                                                                                                   |
+| **Fluxo Principal**   | 1. Usuário navega para "Filmes".<br> 2. Seleciona um filme.<br> 3. Sistema exibe opção "Críticas".<br> 4. Usuário acessa o Hub. |
+| **Fluxo Alternativo** | 1. Usuário abre menu.<br> 2. Seleciona "Hub de Críticas".<br> 3. Sistema lista filmes.                                                                                                                                                 |
+| **Fluxo de Exceção**  | 1. Nenhuma crítica disponível<br> 2. Falha ao publicar:
+                                                                                                                |
+| **Pós-condições**     | Usuário visualiza/publica crítica ou recebe feedback.                                                                                                                                      |
+| **Data de Criação**   | 18/05/2025                                                                                                                                                                                                                     |
+| **Rastreabilidade**   | [Q06](../elicitação/questionario.md#Q06)                                                                                                                        |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Artur de Camargos](https://github.com/ArturDCR), 2025.</p></font>
+
+### **Tabela 14: Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.**
+| Campo                 | Descrição                                                                                                                                                                                                                      |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **UC**                | UC12                                                                                                                                                                                                                           |
+| **Descrição**         | Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.                                                                                                                            |
+| **Ator**              | Usuário do aplicativo Cinemark                                                                                                                                                                                                                        |
+| **Pré-condições**     | 1. Aplicativo instalado e aberto.<br> 2. Usuário autenticado (se necessário).                                                                                                                                                                                               |
+| **Ação**              | Acessar ingressos rapidamente via botão destacado ou atalho.                                                                                                                                                   |
+| **Fluxo Principal**   | 1. Usuário abre o app.<br> 2. Sistema exibe botão "Ingressos" no menu inicial.<br> 3. Usuário clica no botão.<br> 4. Sistema redireciona para seleção de sessões. |
+| **Fluxo Alternativo** | 1. Usuário abre menu.<br> 2. Seleciona "Ingressos".<br> 3. Sistema redireciona.                                                                                                                                                 |
+| **Fluxo de Exceção**  | Sistema exibe mensagem de erro.
+                                                                                                                |
+| **Pós-condições**     | Usuário acessa a tela de ingressos ou recebe feedback de erro                                                                                                                                      |
+| **Data de Criação**   | 18/05/2025                                                                                                                                                                                                                     |
+| **Rastreabilidade**   | [IS27](../elicitação/introspecção.md#IS27)   
+
 ***
 
 ## Referências Bibliográficas
@@ -330,3 +366,4 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 | `1.4`  | 18/05/2025 | Adição das Tabelas 8 e 9 com os casos de uso para RQ26 (Salvar ingresso na carteira digital) e RQ39 (Avaliar filmes); atualização da Tabela 1 com novos requisitos | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
 | `1.5`  | 19/05/2025 | Adição da Tabela 10 com o caso de uso para RQ29 (Sugerir cinemas personalizados) e da Tabela 11 com o caso de uso para RQ30 (Salvar cinema como favorito)| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
 | `1.6`  | 19/05/2025 | Adição de uma tabela com o modelo da especificação dos casos de uso.| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
+| `1.5`  | 18/05/2025 | Adição das Tabelas 13 e 14 com os casos de uso para RQ60 (Fornecer um Hub para crítica de filmes.) e RQ67 (Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.); atualização da Tabela 1 com novos requisitos | [Artur de Camargos](https://github.com/ArturDCR) | [Davi Camilo](https://github.com/Davicamilo23) |
