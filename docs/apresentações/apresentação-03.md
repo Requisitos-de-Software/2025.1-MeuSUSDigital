@@ -8,7 +8,7 @@ Nesta página se encontra a apresentação da entrega 3 do nosso grupo. O objeti
 - Use Case
 - Especificação Suplementar.
 
-A apresentação foi gravada no dia 18/05/2025, com todos os membros presentes.
+A apresentação foi gravada no dia 18/05/2025, com os membros [Arthur Evangelista de Oliveira](https://github.com/arthurevg), [Artur de Camargos Rodrigues](https://github.com/ArturDCR), [Davi Camilo Menezes](https://github.com/Davicamilo23), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31) e [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) presentes.
 
 ---
 
