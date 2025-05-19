@@ -8,7 +8,7 @@ Abaixo se encontra a inspeção da entrega do grupo. A inspeção foi realizada 
 
 ## 🔗 Link da reunião
 
-[Assista ao vídeo no YouTube]()
+[Assista ao vídeo no YouTube](https://youtu.be/AGRf1GQ0q0s)
 
 ---
 
@@ -133,3 +133,4 @@ Abaixo se encontra a inspeção da entrega do grupo. A inspeção foi realizada 
 | `1.0` | 18/05/2025 | Criação do Documento com todas as listas de inspeção da Entrega 3 | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.1` | 18/05/2025 | Adição da lista 3(léxicos) | [Arthur Evangelista](https://github.com/arthurevg) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.2` | 18/05/2025 | Adição da inspeção realizada pelo grupo (conformidade ou não) | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.2.1` | 18/05/2025 | Adição do link da gravação | [Davi Camilo](https://github.com/Davicamilo23) | [Tiago Antunes](https://github.com/TiagoBalieiro) |

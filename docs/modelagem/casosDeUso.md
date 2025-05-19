@@ -112,12 +112,12 @@ Para a especificação dos casos de uso, foram utilizados os requisitos elicitad
 
 | Campo               | Descrição                                                                                             |
 | ------------------- | ----------------------------------------------------------------------------------------------------- |
-| **UC**              | Rastreabilidad e do caso de uso: UCXX                                                                                                 |
+| **UC**              | Rastreabilidade do caso de uso: UCXX                                                                                                 |
 | **Descrição**       | Descrição do caso de uso|
 | **Ator**            | Atores participantes                                                                                              |
 | **Pré-condições**   | Condições necessárias para a realização das tarefas do caso de uso                     |
 | **Ação**            | Ação realizada pelos atores      |
-| **Fluxo Principal** | Fluxo seguido pelos atores e sistema.|
+| **Fluxo Principal** | Fluxo seguido pelos atores e sistema |
 | **Fluxo Alternativo** |Fluxo alternativo ao fluxo principal |
 | **Fluxo de Exceção**| Fluxo que ocorre quando uma exceção acontece no sistema|
 | **Pós-condições**   | Comportamento do sistema após a execução do fluxo principal                         |

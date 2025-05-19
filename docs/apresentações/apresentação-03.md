@@ -14,11 +14,11 @@ A apresentação foi gravada no dia 18/05/2025, com todos os membros presentes.
 
 ## 🎥 Link da gravação
 
-<p style="text-align: center"><a href="" target="blanket">Clique aqui</a></p>
+<p style="text-align: center"><a href="https://youtu.be/XB_QQY7DjwE" target="blanket">Clique aqui</a></p>
 
 <p style="text-align: center">
   <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/"
+          src="https://www.youtube.com/embed/XB_QQY7DjwE"
           title="YouTube video player"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -33,3 +33,4 @@ A apresentação foi gravada no dia 18/05/2025, com todos os membros presentes.
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  |  18/05/2025   |  Criação do Documento com todas as informações da apresentação 3 | [Davi Camilo](https://github.com/Davicamilo23) | [Pedro Everton](https://github.com/pedroeverton217) |
+| `1.0.1` | 18/05/2025 | Adição do link da gravação | [Davi Camilo](https://github.com/Davicamilo23) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
