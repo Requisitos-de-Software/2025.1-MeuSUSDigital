@@ -105,9 +105,29 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
 ## Especialização dos Casos de Uso
 
+Para a especificação dos casos de uso, foram utilizados os requisitos elicitados, priorizando os não implementados. Cada caso de uso foi detalhado com informações como descrição, ator, pré-condições, ações, fluxos principal e alternativo, fluxos de exceção, pós-condições, data de criação e rastreabilidade. O modelo pode ser visualizado na Tabela 2.
+
+### **Tabela 2: Modelo de tabela para Especificação de Caso de Uso**
+
+| Campo               | Descrição                                                                                             |
+| ------------------- | ----------------------------------------------------------------------------------------------------- |
+| **UC**              | Rastreabilidad e do caso de uso: UCXX                                                                                                 |
+| **Descrição**       | Descrição do caso de uso|
+| **Ator**            | Atores participantes                                                                                              |
+| **Pré-condições**   | Condições necessárias para a realização das tarefas do caso de uso                     |
+| **Ação**            | Ação realizada pelos atores      |
+| **Fluxo Principal** | Fluxo seguido pelos atores e sistema.|
+| **Fluxo Alternativo** |Fluxo alternativo ao fluxo principal |
+| **Fluxo de Exceção**| Fluxo que ocorre quando uma exceção acontece no sistema|
+| **Pós-condições**   | Comportamento do sistema após a execução do fluxo principal                         |
+| **Data de Criação** | Data da criação da especificação                                                                                      |
+| **Rastreabilidade** | Id do requisito associado ao caso de uso                                                                                      |
+
+<font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+
 As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 
-### **Tabela 2: Filtrar Filmes por Categoria e Exibir Avaliações**
+### **Tabela 3: Filtrar Filmes por Categoria e Exibir Avaliações**
 
 | Campo               | Descrição                                                                                             |
 | ------------------- | ----------------------------------------------------------------------------------------------------- |
@@ -117,15 +137,15 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 | **Pré-condições**   | Acesso à internet; existência de filmes com categorias e avaliações cadastradas.                      |
 | **Ação**            | O usuário selecionou categorias de filmes e solicitou exibição das avaliações correspondentes.        |
 | **Fluxo Principal** | 1. O usuário acessa o aplicativo.  </br>2. Seleciona a opção "Filtrar por Categoria". </br>3. O sistema apresenta as categorias disponíveis. </br>4. O usuário escolhe uma ou mais categorias. </br>5. O sistema lista filmes filtrados e exibe avaliações de público e de plataformas externas.|
-   | **Fluxo Alternativo** | Usuário não escolhe categoria: o sistema exibe todos os filmes com suas avaliações correspondentes. |
-   | **Fluxo de Exceção**| Falha ao obter avaliações externas: o sistema exibe apenas as avaliações internas e notifica o usuário. |
-   | **Pós-condições**   | A lista de filmes filtrados e suas avaliações são apresentadas ao usuário.                         |
-   | **Data de Criação** | 17/05/2025                                                                                        |
-   | **Rastreabilidade** | [IS15](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS15)|
+| **Fluxo Alternativo** | Usuário não escolhe categoria: o sistema exibe todos os filmes com suas avaliações correspondentes. |
+| **Fluxo de Exceção**| Falha ao obter avaliações externas: o sistema exibe apenas as avaliações internas e notifica o usuário. |
+| **Pós-condições**   | A lista de filmes filtrados e suas avaliações são apresentadas ao usuário.                         |
+| **Data de Criação** | 17/05/2025                                                                                        |
+| **Rastreabilidade** | [IS15](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS15)|
 
-   <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
 
-### **Tabela 3: Exibir Trailers dentro do App**
+### **Tabela 4: Exibir Trailers dentro do App**
 
 | Campo               | Descrição                                                                    |
 | ------------------- | ---------------------------------------------------------------------------- |
@@ -138,12 +158,12 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 | **Fluxo Alternativo** | Usuário interrompe a reprodução antes do fim: o sistema para o vídeo e retorna à tela de detalhes. |
 | **Fluxo de Exceção**| Falha de conexão ou erro no carregamento: o sistema exibe mensagem de erro e sugere tentar novamente. |
 | **Pós-condições**   | O trailer foi reproduzido com sucesso ou tratou o erro conforme o fluxo de exceção.          |
-| **Data de Criação** | 17/05/2025                                                           | 
-|**Rastreabilidade** | [IS16](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS16)                           
+| **Data de Criação** | 17/05/2025                                                           |
+|**Rastreabilidade** | [IS16](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS16)
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
 
-### **Tabela 4: Exibir recomendações de filmes baseadas em histórico e preferências**
+### **Tabela 5: Exibir recomendações de filmes baseadas em histórico e preferências**
 
 | Campo                 | Descrição                                                                                                                                                                                                                                     |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -161,7 +181,7 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 
 <font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
-### **Tabela 5: Fornecer comparação de preços entre cinemas**
+### **Tabela 6: Fornecer comparação de preços entre cinemas**
 
 | Campo                 | Descrição                                                                                                                                                                                                                                                  |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -179,7 +199,8 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 
 <font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
-### **Tabela 6: Reservar salas para eventos**
+### **Tabela 7: Reservar salas para eventos**
+
 | Campo                 | Descrição                                                                                                                                                                                                                                                                                                         |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **UC**                | UC05                                                                                                                                                                                                                                                                                                              |
@@ -196,7 +217,7 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 
 <font size="3"><p style="text-align: center">Fonte: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
-### **Tabela 7: Alterar preferências de idioma**
+### **Tabela 8: Alterar preferências de idioma**
 
 | Campo                 | Descrição                                                                                                                                                                                                                      |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -212,10 +233,9 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 | **Data de Criação**   | 18/05/2025                                                                                                                                                                                                                     |
 | **Rastreabilidade**   | [IS25](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS25)                                                                                                                         |
 
-
 <font size="3"><p style="text-align: center">Fonte: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
-### **Tabela 8: Permitir salvar ingressos na carteira digital do dispositivo.**
+### **Tabela 9: Permitir salvar ingressos na carteira digital do dispositivo.**
 
 | Campo                 | Descrição                                                                                                                                                                                                                      |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -231,10 +251,10 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 | **Data de Criação**   | 19/05/2025                                                                                                                                                                                                                     |
 | **Rastreabilidade**   | [IS18](../elicitação/introspecção.md#IS18)                                                                                                                        |
 
-
 <font size="3"><p style="text-align: center">Fonte: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
 
-### **Tabela 9: Permitir que usuários avaliem filmes com escala de 1 a 5 estrelas.**
+### **Tabela 10: Permitir que usuários avaliem filmes com escala de 1 a 5 estrelas.**
+
 | Campo                 | Descrição                                                                                                                                                                                                                      |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **UC**                | UC08                                                                                                                                                                                                                           |
@@ -249,10 +269,9 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 | **Data de Criação**   | 19/05/2025                                                                                                                                                                                                                     |
 | **Rastreabilidade**   | [IS15](../elicitação/introspecção.md#IS15)                                                                                                                        |
 
-
 <font size="3"><p style="text-align: center">Fonte: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
 
-### Tabela 10: Sugerir cinemas personalizados
+### **Tabela 11: Sugerir cinemas personalizados**
 
 | Campo                 | Descrição                                                                                                                                                                                                                                      |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -271,7 +290,7 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 <p align="center"><br>
 Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
 
-### **Tabela 11: Salvar cinema como favorito**
+### **Tabela 12: Salvar cinema como favorito**
 
 | Campo                 | Descrição                                                                                                                                                                                                                                                      |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -286,6 +305,7 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 | **Pós-condições**     | O cinema é salvo na lista pessoal de favoritos do usuário e poderá ser acessado rapidamente no futuro.                                                                                                                                                         |
 | **Data de Criação**   | 18/05/2025                                                                                                                                                                                                                                                     |
 | **Rastreabilidade** |[IS22](../elicitação/introspecção.md#IS22)                                                                                                                                                                                                     |
+
 <p align="center"><br>
 Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
 
@@ -293,11 +313,11 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 
 ## Referências Bibliográficas
 
-> LUCID SOFTWARE PORTUGUÊS. Tutorial de Caso de Uso UML [vídeo]. YouTube, 2018. Disponível em: https://www.youtube.com/watch?v=ab6eDdwS3rA. Acesso em: 17 maio 2025.
+> LUCID SOFTWARE PORTUGUÊS. Tutorial de Caso de Uso UML \[vídeo]. YouTube, 2018. Disponível em: https://www.youtube.com/watch?v=ab6eDdwS3rA. Acesso em: 17 maio 2025.
 
-> LUCIDCHART. Use Case Diagrams in Lucidchart [software]. Disponível em: https://www.lucidchart.com/pages/uml-use-case-diagram. Acesso em: 17 maio 2025.
+> LUCIDCHART. Use Case Diagrams in Lucidchart \[software]. Disponível em: https://www.lucidchart.com/pages/uml-use-case-diagram. Acesso em: 17 maio 2025.
 
----
+***
 
 ## Histórico de Versão
 
@@ -308,4 +328,5 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 | `1.2`  | 17/05/2025 | Adição dos requisitos RQ32 (Exibir recomendações de filmes baseadas em histórico e preferências) e RQ58 (Fornecer comparação de preços entre cinemas) e suas respectivas tabelas (4 e 5) com a especialização dos casos de uso | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.3`  | 18/05/2025 | Adição das Tabelas 6 e 7 com os casos de uso para RQ59 (Reservar salas para eventos) e RQ33 (Alterar preferências de idioma); atualização da Tabela 1 com novos requisitos | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.4`  | 18/05/2025 | Adição das Tabelas 8 e 9 com os casos de uso para RQ26 (Salvar ingresso na carteira digital) e RQ39 (Avaliar filmes); atualização da Tabela 1 com novos requisitos | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
-| `1.5`  | 19/05/2025 | Adição da Tabela 10 com o caso de uso para RQ29 (Sugerir cinemas personalizados) e da Tabela 11 com o caso de uso para RQ30 (Salvar cinema como favorito)| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)
+| `1.5`  | 19/05/2025 | Adição da Tabela 10 com o caso de uso para RQ29 (Sugerir cinemas personalizados) e da Tabela 11 com o caso de uso para RQ30 (Salvar cinema como favorito)| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
+| `1.6`  | 19/05/2025 | Adição de uma tabela com o modelo da especificação dos casos de uso.| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
