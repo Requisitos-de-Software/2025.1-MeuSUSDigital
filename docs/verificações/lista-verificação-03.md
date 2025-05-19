@@ -55,8 +55,28 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 ### Tabela 3: Lista de Verificação — Léxicos
 
-| Item | Autor | Referência |
-|------|-------|------------|
+
+
+| Item                                                                                                       | Autor | Referência |
+|------------------------------------------------------------------------------------------------------------------------|-------|------------|
+|**1.** O léxico apresenta noção (definição do termo)?                                                                        | [Arthur Evangelista](https://github.com/arthurevg)      | SERRANO, Milene; SERRANO, Maurício. *Aula 10 – Requisitos de Software*, 2025. |
+|**2.** O léxico apresenta impacto (efeito ou uso do termo no sistema)?                                                       | [Arthur Evangelista](https://github.com/arthurevg)| SERRANO, Milene; SERRANO, Maurício. *Aula 10 – Requisitos de Software*, 2025. |
+|**3.** A noção está descrita com linguagem de dicionário, explicando o significado do termo (denotação)?                     |[Arthur Evangelista](https://github.com/arthurevg)| SERRANO, Milene; SERRANO, Maurício. *Aula 10 – Requisitos de Software*, 2025. |
+|**4.** O impacto descreve o efeito do símbolo na aplicação ou o efeito da aplicação sobre o símbolo (conotação)?             |[Arthur Evangelista](https://github.com/arthurevg) | SERRANO, Milene; SERRANO, Maurício. *Aula 10 – Requisitos de Software*, 2025. |
+| **5.** O léxico indica o tipo do termo (sujeito, verbo, objeto ou estado)?                                                   |    [Arthur Evangelista](https://github.com/arthurevg) | SERRANO, Milene; SERRANO, Maurício. *Aula 10 – Requisitos de Software*, 2025. |
+| **6.** Há sinônimos listados para o termo?                                                                                   | [Arthur Evangelista](https://github.com/arthurevg)  | SERRANO, Milene; SERRANO, Maurício. *Aula 10 – Requisitos de Software*, 2025. |
+| O termo possui uma ou mais noções (significados)?                                                                     | [Arthur Evangelista](https://github.com/arthurevg)  | SERRANO, Milene; SERRANO, Maurício. *Aula 10 – Requisitos de Software*, 2025. |
+|**7.** O termo possui um ou mais impactos?                                                                                   |  [Arthur Evangelista](https://github.com/arthurevg) | SERRANO, Milene; SERRANO, Maurício. *Aula 10 – Requisitos de Software*, 2025. |
+|**8.** O léxico contém hiperlinks para termos relacionados?                                                                  |[Arthur Evangelista](https://github.com/arthurevg) | SERRANO, Milene; SERRANO, Maurício. *Aula 10 – Requisitos de Software*, 2025. |
+| **9.**Para o tipo sujeito: está indicado quem é o sujeito e quais ações executa?                                            |[Arthur Evangelista](https://github.com/arthurevg) | SERRANO, Milene; SERRANO, Maurício. *Aula 10 – Requisitos de Software*, 2025. |
+|**10.** Para o tipo verbo: estão descritos o agente da ação, o momento em que ocorre, procedimentos e reflexos no ambiente?   | [Arthur Evangelista](https://github.com/arthurevg)| SERRANO, Milene; SERRANO, Maurício. *Aula 10 – Requisitos de Software*, 2025. |
+| **11.** Para o tipo objeto: foram indicadas as ações aplicáveis ao objeto e relações com outros objetos?                      |[Arthur Evangelista](https://github.com/arthurevg)| SERRANO, Milene; SERRANO, Maurício. *Aula 10 – Requisitos de Software*, 2025. |
+| **12.** Para o tipo estado: o estado está definido com significado, ações que levam a ele e ações que podem decorrer dele?    | [Arthur Evangelista](https://github.com/arthurevg)| SERRANO, Milene; SERRANO, Maurício. *Aula 10 – Requisitos de Software*, 2025. |
+| **13.** Cada entrada no léxico pertence a um e somente um tipo?                                                               |[Arthur Evangelista](https://github.com/arthurevg)| SERRANO, Milene; SERRANO, Maurício. *Aula 10 – Requisitos de Software*, 2025. |
+| **14.** As ocorrências do símbolo no sistema foram descritas, quando possível?                                                |     [Arthur Evangelista](https://github.com/arthurevg)| SERRANO, Milene; SERRANO, Maurício. *Aula 10 – Requisitos de Software*, 2025. |
+
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
+---
 
 ---
 
@@ -111,3 +131,4 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
 | `1.0` | 18/05/2025 | Criação do Documento com todas as listas de verificação da Entrega 3 | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.1` | 18/05/2025 | Adição da lista 3(léxicos) | [Arthur Evangelista](https://github.com/arthurevg) | [Davi Camilo](https://github.com/Davicamilo23) |
