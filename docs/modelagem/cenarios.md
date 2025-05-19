@@ -181,7 +181,7 @@ O 9º cenário, apresentado na Tabela 9, faz referência ao requisito não imple
 <p align="center"><br>
 Autor: <a href="https://github.com/Davicamilo23">Gabriel Castelo</a>, 2025.</p>
 
-## 2.91 Cenário 10: Salvar cinemas como favoritos
+## 2.10 Cenário 10: Salvar cinemas como favoritos
 
 O 10º cenário, apresentado na Tabela 10, faz referência ao requisito não implementado [RQ30](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Permitir que o usuário salve cinemas como favoritos.
 
@@ -200,7 +200,7 @@ O 10º cenário, apresentado na Tabela 10, faz referência ao requisito não imp
 <p align="center"><br>
 Autor: <a href="https://github.com/Davicamilo23">Gabriel Castelo</a>, 2025.</p>
 
-## 2.9 Cenário 11: Permitir salvar ingressos na carteira digital do dispositivo
+## 2.11 Cenário 11: Permitir salvar ingressos na carteira digital do dispositivo
 
 O décimo primeiro cenário, apresentado na Tabela 11, faz referência ao requisito [RQ26](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Permitir salvar ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc).
 
@@ -219,7 +219,7 @@ O décimo primeiro cenário, apresentado na Tabela 11, faz referência ao requis
 <p align="center"><br>
 Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 2025.</p>
 
-## 2.10 Cenário 12: Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas
+## 2.12 Cenário 12: Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas
 
 O décimo segundo cenário, apresentado na Tabela 12, faz referência ao requisito [RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas.
 
