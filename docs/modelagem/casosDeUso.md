@@ -249,7 +249,7 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 | **Fluxo Alternativo** | O usuário opta por não adicionar o ingresso à carteira digital: o sistema cancela a operação e retorna para a tela de detalhes do pedido.                                                                                                                                                 |
 | **Fluxo de Exceção**  | O usuário não possui uma carteira digital no dispositivo: o sistema retorna à tela do pedido e exibe mensagem de erro.                                                                                                                 |
 | **Pós-condições**     | O ingresso é salvo na carteira digital e o sistema retorna à tela do pedido exibindo uma mensagem de sucesso.                                                                                                                                       |
-| **Data de Criação**   | 19/05/2025                                                                                                                                                                                                                     |
+| **Data de Criação**   | 18/05/2025                                                                                                                                                                                                                     |
 | **Rastreabilidade**   | [IS18](../elicitação/introspecção.md#IS18)                                                                                                                        |
 
 <font size="3"><p style="text-align: center">Fonte: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
@@ -267,7 +267,7 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 | **Fluxo Alternativo** | O usuário opta por não avaliar o filme: o sistema esconde a região de avaliação.                                                                                                                                                 |
 | **Fluxo de Exceção**  | Falha no registro da avaliação: o sistema notifica a falha e pede para tentar novamente em alguns minutos.                                                                                                                 |
 | **Pós-condições**     | A avaliação do filme é apresentada ao usuário.                                                                                                                                       |
-| **Data de Criação**   | 19/05/2025                                                                                                                                                                                                                     |
+| **Data de Criação**   | 18/05/2025                                                                                                                                                                                                                     |
 | **Rastreabilidade**   | [IS15](../elicitação/introspecção.md#IS15)                                                                                                                        |
 
 <font size="3"><p style="text-align: center">Fonte: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
