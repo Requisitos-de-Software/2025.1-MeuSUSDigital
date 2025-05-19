@@ -42,7 +42,6 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
   Cada caso de uso corresponde a uma ação ou serviço que o sistema oferece ao ator. Representado por elipses horizontais, seu nome deve empregar verbos no infinitivo, como “Filtrar filmes” ou “Assistir trailer”.
 
-
 <p align="center">Figura 3: Casos de uso representados por elipses.</p>
 
 <p align="center">
@@ -74,6 +73,7 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
 ## Diagrama de Casos de Uso
+
 A Figura 1 demonstra o Diagrama de casos de uso, com ênfase nas funcionalidades não implementadas
 
 <p align="center"><br>
@@ -100,7 +100,8 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 | [IS25](../elicitação/introspecção.md#IS25) | 	Permitir alteração de preferências de idioma | Não |
 | [IS18](../elicitação/introspecção.md#IS18) | 	Permitir salvar ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc). | Não |
 | [IS15](../elicitação/introspecção.md#IS15) | 	Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas. | Não |
-
+| [IS21](../elicitação/introspecção.md#IS21) | Sugerir cinemas personalizados com base no histórico de visitas e localização atual do usuário. | Não |
+| [IS22](../elicitação/introspecção.md#IS22) | Permitir que o usuário salve cinemas como favoritos para facilitar acessos futuros. | Não |
 
 ## Especialização dos Casos de Uso
 
