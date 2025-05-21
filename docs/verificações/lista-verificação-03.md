@@ -48,8 +48,9 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 | **6.** O estado do sistema ao final do cenário está bem definido, indicando o resultado da interação para o usuário e o sistema? | [Euller Júlio](https://github.com/Potatoyz908) | SOMMERVILLE, Ian. Engenharia de Software. 10. ed. São Paulo: Pearson, 2019. Capítulo 4.3.2 Histórias e cenários, p. 102-103. |
 | **7.** As descrições são compreensíveis para stakeholders não técnicos, facilitando discussões e validações com todos os envolvidos? | [Euller Júlio](https://github.com/Potatoyz908) | SOMMERVILLE, Ian. Engenharia de Software. 10. ed. São Paulo: Pearson, 2019. Capítulo 4.3.2 Histórias e cenários, p. 102-103. |
 | **8.** Foram considerados os meios que os usuários usam para acessar o sistema (como dispositivos móveis, computadores, etc)? | [Euller Júlio](https://github.com/Potatoyz908) | SOMMERVILLE, Ian. Engenharia de Software. 10. ed. São Paulo: Pearson, 2019. Capítulo 4.3.2 Histórias e cenários, p. 102-103. |
+| **9.** O cenário descreve as interações do usuário e do sistema considerando todas as condições possíveis, incluindo exceções? | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | SOMMERVILLE, Ian. Engenharia de Software. 10. ed. São Paulo: Pearson, 2019. Capítulo 4.3.2 Histórias e cenários, p. 102-103. |
 
-<font size="3"><p style="text-align: center">Autores: [Davi Camilo](https://github.com/Davicamilo23) e [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
+<font size="3"><p style="text-align: center">Autores: [Davi Camilo](https://github.com/Davicamilo23),[Euller Júlio](https://github.com/Potatoyz908) e [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
 
 ---
 
@@ -73,8 +74,10 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 | **13.** Para o tipo estado: o estado está definido com significado, ações que levam a ele e ações que podem decorrer dele?    | [Arthur Evangelista](https://github.com/arthurevg)| SERRANO, Milene; SERRANO, Maurício. *Aula 10 – Requisitos de Software*, 2025. <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/modelagem/lex4.png" alt="Referência do item" width="100px">|
 | **14.** Cada entrada no léxico pertence a um e somente um tipo?                                                               |[Arthur Evangelista](https://github.com/arthurevg)| SERRANO, Milene; SERRANO, Maurício. *Aula 10 – Requisitos de Software*, 2025. <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/modelagem/lex4.png" alt="Referência do item" width="100px">|
 | **15.** As ocorrências do símbolo no sistema foram descritas, quando possível?                                                |     [Arthur Evangelista](https://github.com/arthurevg)| SERRANO, Milene; SERRANO, Maurício. *Aula 10 – Requisitos de Software*, 2025. <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/modelagem/lex3.png" alt="Referência do item" width="100px">|
+| **16.** É possível identificar o sujeito por sua noção?                                               |     [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)| SERRANO, Milene; SERRANO, Maurício. *Aula 10 – Requisitos de Software*, 2025. <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/modelagem/lex4.png" alt="Referência do item" width="100px">|
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
+<font size="3"><p style="text-align: center">Autores: [Arthur Evangelista](https://github.com/arthurevg) e [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
+
 ---
 
 ### Tabela 4: Lista de Verificação — Casos de Uso
@@ -104,8 +107,9 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 | **3.** A confiabilidade (Reliability) do sistema é descrita, incluindo disponibilidade, tolerância a falhas e frequência de erros? | [Euller Júlio](https://github.com/Potatoyz908) | Sales, A. B. Requisitos-Aula011.pdf, slide 29 |
 | **4.** A seção de desempenho (Performance) inclui throughput e requisitos de escalabilidade? | [Euller Júlio](https://github.com/Potatoyz908) | Sales, A. B. Requisitos-Aula011.pdf, slide 29 |
 | **5.** Há requisitos sobre suportabilidade (Supportability): manutenibilidade, adaptabilidade, portabilidade e extensibilidade? | [Euller Júlio](https://github.com/Potatoyz908) | Sales, A. B. Requisitos-Aula011.pdf, slide 29 |
+| **6.** O documento apresenta requisitos não funcionais claros e métricas mensuráveis para desempenho, confiabilidade e usabilidade? | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | Sales, A. B. Requisitos-Aula011.pdf, slide 29 |
 
-<font size="3"><p style="text-align: center">Autores: [Davi Camilo](https://github.com/Davicamilo23) e [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
+<font size="3"><p style="text-align: center">Autores: [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908) e [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
 
 ---
 
@@ -130,3 +134,4 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 | `1.0` | 18/05/2025 | Criação do Documento com todas as listas de verificação da Entrega 3 | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.1` | 18/05/2025 | Adição da lista 3(léxicos) | [Arthur Evangelista](https://github.com/arthurevg) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.11` | 18/05/2025 | Adição das referencias com imagem na lista 3 | [Arthur Evangelista](https://github.com/arthurevg) | [Davi Camilo](https://github.com/Davicamilo23) |
+| `1.2` | 20/05/2025 | Adição de itens nas listas 2, 3 e 5 | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Davi Camilo](https://github.com/Davicamilo23) |
