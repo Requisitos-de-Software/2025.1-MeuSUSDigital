@@ -4,6 +4,15 @@
 
 O método de Léxicos é utilizado na engenharia de requisitos para descrever, em linguagem natural estruturada, os termos e conceitos relevantes do domínio do sistema. Cada entrada léxica é classificada como **verbo**, **objeto** ou **estado**, com seus respectivos sinônimos, noções e impactos, promovendo uma compreensão comum entre todos os stakeholders.
 
+As definições para cada tipo de termo léxico são:
+
+* **Verbo**: descreve ações, processos ou operações realizadas no sistema, indicando comportamentos ou funcionalidades executadas pelos atores ou pelo próprio sistema.
+
+* **Objeto**: representa entidades ou elementos do domínio do sistema, como pessoas, equipamentos, documentos, ou quaisquer coisas tangíveis ou conceituais relevantes para a solução.
+
+* **Estado**: define condições, situações ou propriedades específicas em que um objeto ou sistema pode estar, indicando diferentes fases, modos ou contextos de operação.
+
+
 A estrutura de cada termo léxico é composta por:
 
 * **Tipo**: (Verbo, Objeto ou Estado)
@@ -296,3 +305,4 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 | `1.7`  | 18/05/2025 | Adição dos léxicos 15, 16, 17, 18, 19 e 20 (referentes ao RQ29 e RQ30) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Euller Júlio](https://github.com/Potatoyz908)
 | `1.8`  | 18/05/2025 | Adição dos léxicos 21 (referente ao RQ26), e 22 (referentes ao RQ39) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR)  |
 | `1.9`  | 19/05/2025 | Adição do léxico 23 | [Arthur Evangelista](https://github.com/arthurevg) | [Euller Júlio](https://github.com/Potatoyz908) |
+| `1.10`  | 22/05/2025 | Ajuste no texto de introdução para torná-lo mais claro e objetivo | [Euller Júlio](https://github.com/Potatoyz908) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
