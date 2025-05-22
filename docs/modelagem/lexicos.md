@@ -259,6 +259,17 @@ Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 20
 <p align="center"><br>
 Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 2025.</p>
 
+### 23. **Usuário**
+
+* **Tipo**: Sujeito  
+* **Sinônimos**: Pessoa usuária, cliente, utilizador  
+* **Noção**: Indivíduo que acessa e interage com o sistema para utilizar suas funcionalidades, como realizar login, efetuar reservas, consultar sessões ou alterar configurações.  
+* **Impacto**: O usuário é o principal ator do sistema. Suas interações disparam fluxos de uso essenciais, como autenticação e execução de funcionalidades críticas. A experiência do usuário deve ser priorizada no design e implementação das interfaces.  
+* **Rastreabilidade**: O termo está presente nos seguintes requisitos: [RQ04](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ12](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ28](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ30](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ37](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ38](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ48](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ50](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ62](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ64](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) e [RQ65](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1)
+
+<p align="center"><br>
+Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
+
 ---
 
 ## Referências Bibliográficas
@@ -284,3 +295,4 @@ Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 20
 | `1.6`  | 18/05/2025 | Correção dos léxicos dos requisitos RQ59 e RQ33 | [Euller Júlio](https://github.com/Potatoyz908) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.7`  | 18/05/2025 | Adição dos léxicos 15, 16, 17, 18, 19 e 20 (referentes ao RQ29 e RQ30) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Euller Júlio](https://github.com/Potatoyz908)
 | `1.8`  | 18/05/2025 | Adição dos léxicos 21 (referente ao RQ26), e 22 (referentes ao RQ39) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR)  |
+| `1.9`  | 19/05/2025 | Adição do léxico 23 | [Arthur Evangelista](https://github.com/arthurevg) | [Euller Júlio](https://github.com/Potatoyz908) |
