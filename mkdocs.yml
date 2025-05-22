@@ -34,6 +34,11 @@ nav:
     - Especificação Suplementar: modelagem/especificaçãoSuplementar.md
     - Cenários: modelagem/cenarios.md
     - Léxicos: modelagem/lexicos.md
+  
+  - Modelagem Ágil:
+    - NFR Framework: modelagem/nfrFramework.md
+    - Backlog: modelagem/backlog.md
+    - Histórias de Usuário: historias.md
 
   - Apresentação:
     - Entrega 01: apresentações/apresentação-01.md
@@ -67,6 +72,8 @@ nav:
     - Reunião 04: atas/Ata Reunião 04.md
     - Reunião 05: atas/Ata Reunião 05.md
     - Reunião 06: atas/Ata Reunião 06.md
+    - Reunião 07: atas/Ata Reunião 07.md
+    - Reunião 08: atas/Ata Reunião 08.md
 
 theme:
   name: material
