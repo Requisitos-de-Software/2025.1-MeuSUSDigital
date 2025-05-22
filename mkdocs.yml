@@ -38,7 +38,7 @@ nav:
   - Modelagem Ágil:
     - NFR Framework: modelagem/nfrFramework.md
     - Backlog: modelagem/backlog.md
-    - Histórias de Usuário: historias.md
+    - Histórias de Usuário: modelagem/historias.md
 
   - Apresentação:
     - Entrega 01: apresentações/apresentação-01.md
