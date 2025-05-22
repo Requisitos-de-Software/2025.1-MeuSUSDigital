@@ -1,0 +1,3166 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../personas/">
+      
+      
+        <link rel="next" href="../introspec%C3%A7%C3%A3o/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.14">
+    
+    
+      
+        <title>Análise de Interface de Usuário - Cinemark</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.342714a4.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#analise-de-interface-de-usuario" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Cinemark" class="md-header__button md-logo" aria-label="Cinemark" data-md-component="logo">
+      
+  <img src="../../img/logo_cinemark.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Cinemark
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Análise de Interface de Usuário
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m14.3 16-.7-2h-3.2l-.7 2H7.8L11 7h2l3.2 9zM20 8.69V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12zm-9.15 3.96h2.3L12 9z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to system preference"  type="radio" name="__palette" id="__palette_2">
+    
+      <label class="md-header__button md-icon" title="Switch to system preference" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 2c-1.82 0-3.53.5-5 1.35C8 5.08 10 8.3 10 12s-2 6.92-5 8.65C6.47 21.5 8.18 22 10 22a10 10 0 0 0 10-10A10 10 0 0 0 10 2"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Requisitos-de-Software/2025.1-Cinemark" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../planejamento/aplicativo/" class="md-tabs__link">
+          
+  
+  
+  Planejamento
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../planejamento/richpicture/" class="md-tabs__link">
+          
+  
+  
+  Pré-rastreabilidade
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../perfilusuario/" class="md-tabs__link">
+          
+  
+  
+  Elicitação
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../modelagem/casosDeUso/" class="md-tabs__link">
+          
+  
+  
+  Modelagem
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../modelagem/nfrFramework/" class="md-tabs__link">
+          
+  
+  
+  Modelagem Ágil
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../apresenta%C3%A7%C3%B5es/apresenta%C3%A7%C3%A3o-01/" class="md-tabs__link">
+          
+  
+  
+  Apresentação
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-01/" class="md-tabs__link">
+          
+  
+  
+  Verificação
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../inspe%C3%A7%C3%B5es/inspe%C3%A7%C3%A3o-01/" class="md-tabs__link">
+          
+  
+  
+  Inspeção
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../atas/Ata%20Reuni%C3%A3o%2001/" class="md-tabs__link">
+          
+  
+  
+  Atas
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Cinemark" class="md-nav__button md-logo" aria-label="Cinemark" data-md-component="logo">
+      
+  <img src="../../img/logo_cinemark.png" alt="logo">
+
+    </a>
+    Cinemark
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Requisitos-de-Software/2025.1-Cinemark" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Planejamento
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Planejamento
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/aplicativo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Aplicativo Escolhido
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Cronograma
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/ferramentas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ferramentas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/heatmap/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Heatmap
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/metodologia/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Metodologia
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Pré-rastreabilidade
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Pré-rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/richpicture/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Rich Picture
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    Elicitação
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Elicitação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../perfilusuario/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Perfil de Usuário
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../personas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Personas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_3" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_4_3" id="__nav_4_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Técnicas de Elicitação
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4_3">
+            <span class="md-nav__icon md-icon"></span>
+            Técnicas de Elicitação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Análise de Interface de Usuário
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Análise de Interface de Usuário
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introdução
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Metodologia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cronograma" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cronograma
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#demonstracao-visual" class="md-nav__link">
+    <span class="md-ellipsis">
+      Demonstração Visual
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tabela-2-analise-de-telas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tabela 2 - Análise de Telas
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#requisitos-elicitados" class="md-nav__link">
+    <span class="md-ellipsis">
+      Requisitos Elicitados
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#legenda-das-tabelas-3-e-4" class="md-nav__link">
+    <span class="md-ellipsis">
+      Legenda das Tabelas 3 e 4
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tabela-3-requisitos-funcionais" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tabela 3 - Requisitos Funcionais
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tabela-4-requisitos-nao-funcionais" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tabela 4 - Requisitos Não Funcionais
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conclusao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Conclusão
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Bibliografia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Histórico de Versão
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../introspec%C3%A7%C3%A3o/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introspecção
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../questionario/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Questionário
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../storytelling/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Storytelling
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../requisitosElicitados/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Requisitos Elicitados
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_5" id="__nav_4_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Técnicas de Priorização
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_5">
+            <span class="md-nav__icon md-icon"></span>
+            Técnicas de Priorização
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../prioriza%C3%A7%C3%A3o/100%24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    100$
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../prioriza%C3%A7%C3%A3o/kanomodel/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Kano Model
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../prioriza%C3%A7%C3%A3o/moscow/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    MoSCoW
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../prioriza%C3%A7%C3%A3o/threelevelscale/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Three Level Scale
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Modelagem
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Modelagem
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/casosDeUso/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Casos de Uso
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/especifica%C3%A7%C3%A3oSuplementar/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Especificação Suplementar
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/cenarios/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Cenários
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/lexicos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Léxicos
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Modelagem Ágil
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Modelagem Ágil
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/nfrFramework/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    NFR Framework
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/backlog/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Backlog
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/historias/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Histórias de Usuário
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Apresentação
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Apresentação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresenta%C3%A7%C3%B5es/apresenta%C3%A7%C3%A3o-01/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 01
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresenta%C3%A7%C3%B5es/apresenta%C3%A7%C3%A3o-02/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 02
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresenta%C3%A7%C3%B5es/apresenta%C3%A7%C3%A3o-03/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 03
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Verificação
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            Verificação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_8_1" id="__nav_8_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Grupo
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_8_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8_1">
+            <span class="md-nav__icon md-icon"></span>
+            Grupo
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-01/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 01
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 02
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-03/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 03
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_8_2" id="__nav_8_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Grupo+1
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_8_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8_2">
+            <span class="md-nav__icon md-icon"></span>
+            Grupo+1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-01%2B1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 01
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02%2B1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 02
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-03%2B1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 03
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Inspeção
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            Inspeção
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_9_1" id="__nav_9_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Grupo
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_1">
+            <span class="md-nav__icon md-icon"></span>
+            Grupo
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../inspe%C3%A7%C3%B5es/inspe%C3%A7%C3%A3o-01/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 01
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../inspe%C3%A7%C3%B5es/inspe%C3%A7%C3%A3o-02/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 02
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../inspe%C3%A7%C3%B5es/inspe%C3%A7%C3%A3o-03/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 03
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_9_2" id="__nav_9_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Grupo+1
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_2">
+            <span class="md-nav__icon md-icon"></span>
+            Grupo+1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../inspe%C3%A7%C3%B5es/inspe%C3%A7%C3%A3o-grupo%2B1-01/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 01
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../inspe%C3%A7%C3%B5es/inspe%C3%A7%C3%A3o-grupo%2B1-02/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 02
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../inspe%C3%A7%C3%B5es/inspe%C3%A7%C3%A3o-grupo%2B1-03/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 03
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10" >
+        
+          
+          <label class="md-nav__link" for="__nav_10" id="__nav_10_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Atas
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_10_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10">
+            <span class="md-nav__icon md-icon"></span>
+            Atas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/Ata%20Reuni%C3%A3o%2001/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Reunião 01
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/Ata%20Reuni%C3%A3o%2002/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Reunião 02
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/Ata%20Reuni%C3%A3o%2003/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Reunião 03
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/Ata%20Reuni%C3%A3o%2004/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Reunião 04
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/Ata%20Reuni%C3%A3o%2005/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Reunião 05
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/Ata%20Reuni%C3%A3o%2006/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Reunião 06
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/Ata%20Reuni%C3%A3o%2007/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Reunião 07
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/Ata%20Reuni%C3%A3o%2008/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Reunião 08
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introdução
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Metodologia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cronograma" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cronograma
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#demonstracao-visual" class="md-nav__link">
+    <span class="md-ellipsis">
+      Demonstração Visual
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tabela-2-analise-de-telas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tabela 2 - Análise de Telas
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#requisitos-elicitados" class="md-nav__link">
+    <span class="md-ellipsis">
+      Requisitos Elicitados
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#legenda-das-tabelas-3-e-4" class="md-nav__link">
+    <span class="md-ellipsis">
+      Legenda das Tabelas 3 e 4
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tabela-3-requisitos-funcionais" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tabela 3 - Requisitos Funcionais
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tabela-4-requisitos-nao-funcionais" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tabela 4 - Requisitos Não Funcionais
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conclusao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Conclusão
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Bibliografia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Histórico de Versão
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+<h1 id="analise-de-interface-de-usuario">Análise de Interface de Usuário</h1>
+<h2 id="introducao">Introdução</h2>
+<p>A análise de interface de usuário (UI) é uma técnica de elicitação de requisitos que visa entender as interações dos usuários com a interface de um sistema. Essa técnica se concentra em avaliar os elementos visuais, fluxos de navegação e comportamentos esperados para garantir que o sistema ofereça uma experiência intuitiva e eficiente. A análise de UI permite identificar requisitos funcionais e não funcionais que melhoram a usabilidade, acessibilidade e a satisfação geral do usuário.</p>
+<p>Durante o processo de análise, o engenheiro de requisitos observa a interface e as interações com ela, levando em consideração aspectos como layout, design visual, consistência, feedback ao usuário, entre outros. O objetivo é identificar pontos de melhoria na interface, compreender as expectativas dos usuários e garantir que os requisitos de usabilidade sejam atendidos.</p>
+<hr />
+<h2 id="metodologia">Metodologia</h2>
+<p>A análise de interface de usuário foi realizada de forma colaborativa, com os participantes avaliando diferentes telas do aplicativo <em>Cinemark</em>. Para cada tela, foram observados elementos como a disposição dos botões, navegação, feedback visual e interação do usuário com as funcionalidades disponíveis. Os participantes também avaliaram a consistência do design, a facilidade de uso e a acessibilidade do sistema.</p>
+<p>A análise foi conduzida de forma qualitativa, sem a utilização de protótipos ou testes com usuários reais. O foco foi identificar pontos de melhoria na interface que poderiam otimizar a experiência do usuário e atender melhor às suas necessidades e expectativas.</p>
+<hr />
+<h2 id="cronograma">Cronograma</h2>
+<p>A tabela 1 apresenta o cronograma da elicitação e as funções dos membros responsáveis pela técnica.</p>
+<p><font size="3"><p style="text-align: center">Tabela 1: Cronograma da Análise de Interface de Usuário.</p></font></p>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Data</th>
+<th>Função</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/arthurevg">Arthur Evangelista de Oliveira</a></td>
+<td>03/05/2025</td>
+<td>Analista de requisitos</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Potatoyz908">Euller Júlio da Silva</a></td>
+<td>03/05/2025</td>
+<td>Analista de requisitos</td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p></font></p>
+<hr />
+<h2 id="demonstracao-visual">Demonstração Visual</h2>
+<p>A seguir, apresentamos um vídeo demonstrando as principais telas analisadas na técnica de Análise de Interface de Usuário. A gravação tem como objetivo ilustrar visualmente os elementos de interação, fluxos de navegação e características observadas durante a avaliação.</p>
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/zF4ibDKKBdE" frameborder="0" allowfullscreen></iframe>
+</div>
+<div style="text-align: center;">
+Gravado por <a href="https://github.com/Potatoyz908" target="_blank">Euller Júlio</a>.
+</div>
+
+<blockquote>
+<p>O vídeo apresenta exemplos reais das interações observadas no app Cinemark, como tela inicial, seleção de sessões, escolha de assentos, navegação pelo catálogo de filmes, uso do Snack Bar, login, pagamento, carrinho e configurações de perfil.</p>
+</blockquote>
+<hr />
+<h2 id="tabela-2-analise-de-telas">Tabela 2 - Análise de Telas</h2>
+<table>
+<thead>
+<tr>
+<th>Tela</th>
+<th>Responsável</th>
+<th>Funcionalidades</th>
+<th>Elementos de Interação</th>
+<th>Observações / Regras de Negócio</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tela inicial (home)</td>
+<td><a href="https://github.com/arthurevg">Arthur Evangelista de Oliveira</a></td>
+<td>Exibir filmes em cartaz, novidades, ofertas, parcerias; acessar notificações, pedidos e carrinho; alterar localização.</td>
+<td>Carrossel de filmes, ofertas, promoções e anúncios, botões de navegação inferior (Home, Filmes, Cinemas, Snack Bar, Club, Mais), ícones de localização, notificações, carrinho e pedidos.</td>
+<td>O botão de pedidos é pequeno e sobreposto a anúncios; idealmente deveria estar em aba separada.</td>
+</tr>
+<tr>
+<td>Login</td>
+<td><a href="https://github.com/arthurevg">Arthur Evangelista de Oliveira</a></td>
+<td>Autenticar usuário.</td>
+<td>Campos de e-mail/senha, botão de login, link para cadastro e recuperação de senha.</td>
+<td>Exige e-mail válido e senha correta.</td>
+</tr>
+<tr>
+<td>Catálogo de filmes</td>
+<td><a href="https://github.com/arthurevg">Arthur Evangelista de Oliveira</a></td>
+<td>Buscar filmes pelo nome; listar filmes em cartaz, em pré-venda e futuros lançamentos.</td>
+<td>Botão de busca; Lista de filmes com imagem, botão de seleção, filtros (cartaz, pré-venda, em breve).</td>
+<td>Filmes em cartaz ou pré-venda direcionam para fluxo de compra; futuros lançamentos mostram apenas informações.</td>
+</tr>
+<tr>
+<td>Seleção de poltronas</td>
+<td><a href="https://github.com/arthurevg">Arthur Evangelista de Oliveira</a></td>
+<td>Permitir ao usuário escolher os assentos desejados na sala selecionada.</td>
+<td>Mapa visual da sala de cinema com representação fiel da disposição dos assentos; Cores/ícones diferenciando assentos: Disponíveis, ocupados, selecionados, especiais (ex: cadeirantes); Legenda com explicação das cores; Informações da sessão (filme, local, sala, data e horário) no topo da tela.</td>
+<td>Deve ser possível selecionar mais de um assento por vez; O layout da sala muda conforme a planta de sala; Não deve permitir continuar sem selecionar ao menos um assento;</td>
+</tr>
+<tr>
+<td>Seleção de Ingressos</td>
+<td><a href="https://github.com/arthurevg">Arthur Evangelista de Oliveira</a></td>
+<td>Permitir ao usuário definir o tipo de ingresso (inteira, meia, parceria, voucher etc.) para cada assento selecionado.</td>
+<td>Lista de ingressos com opções de categoria (inteira, meia-entrada, convênio, voucher); Campo de seleção de tipo de ingresso por assento; Preço de cada tipo de ingresso ao lado da opção; Informações da sessão (filme, data, hora, sala, cinema) visíveis na tela; Botão de continuar (prossegue para o Snack Bar);</td>
+<td>Os preços variam conforme o tipo de ingresso e convênios disponíveis; Não é possível continuar sem definir o tipo para todos os assentos selecionados;</td>
+</tr>
+<tr>
+<td>Snack Bar</td>
+<td><a href="https://github.com/arthurevg">Arthur Evangelista de Oliveira</a></td>
+<td>Permitir que o usuário adicione produtos alimentícios (pipoca, refrigerante, combos etc.) à sua compra antes do pagamento.</td>
+<td>Lista de produtos divididos por categorias: Pipocas, Bebidas, Doces, Combos; Imagem de cada item com nome, descrição (opcional), preço e botão de adicionar/remover quantidade;</td>
+<td>O usuário pode seguir sem adicionar nenhum item (opção "Pular"); Combos podem ter descontos em relação à compra dos itens separadamente; Quantidade máxima por item pode ser limitada.</td>
+</tr>
+<tr>
+<td>Meus ingressos</td>
+<td><a href="https://github.com/arthurevg">Arthur Evangelista de Oliveira</a></td>
+<td>Acessar ingressos comprados.</td>
+<td>Lista de ingressos, botão para exibição das informações do ingresso</td>
+<td>Disponível somente após confirmação do pagamento.</td>
+</tr>
+<tr>
+<td>Pagamento</td>
+<td><a href="https://github.com/Potatoyz908">Euller Júlio da Silva</a></td>
+<td>Finalizar a compra dos ingressos e produtos selecionados, informando valor total, método de pagamento e confirmação.</td>
+<td>Resumo da compra (ingressos, snack bar, sessão); Campo para aplicar cupom de desconto; Valor total da compra atualizado com ou sem cupom; Botões de método de pagamento: Cartão de crédito, cartão de débito e pix; Campos de preenchimento de dados do cartão (caso necessário); Botão “Confirmar pagamento”;</td>
+<td>Ao concluir o pagamento, os ingressos são salvos automaticamente na tela “Meus pedidos”; Pagamentos por Pix devem gerar QR Code e chave copia e cola chave Pix.</td>
+</tr>
+<tr>
+<td>Cadastro / criar conta</td>
+<td><a href="https://github.com/Potatoyz908">Euller Júlio da Silva</a></td>
+<td>Permitir criação de conta com dados pessoais e confirmação por e-mail.</td>
+<td>Campos: nome, como gostaria de ser chamado, data de nascimento, e-mail, telefone, CPF (opção de usar para nota fiscal), cidade, senha; botão "Cadastrar".</td>
+<td>Após clicar em "Cadastrar", envia código de confirmação para o e-mail; após confirmação, sugere ativar biometria com opção de fazer depois.</td>
+</tr>
+<tr>
+<td>Recuperar email/senha</td>
+<td><a href="https://github.com/Potatoyz908">Euller Júlio da Silva</a></td>
+<td>Permitir recuperar e-mail pelo CPF ou redefinir senha.</td>
+<td>Opções na tela de login: "Recuperar meu e-mail" e "Esqueci minha senha"; campo CPF (para recuperar e-mail); botões "Ok" e "Caso tenha esquecido sua senha, clique aqui"; campo e-mail (para redefinir senha); envio de código para confirmação.</td>
+<td>Para recuperar e-mail, exibe e-mail mascarado e retorna para a tela de login; para redefinir senha, solicita e-mail e envia código de verificação para permitir definir nova senha.</td>
+</tr>
+<tr>
+<td>Seleção de sessão e horário</td>
+<td><a href="https://github.com/Potatoyz908">Euller Júlio da Silva</a></td>
+<td>Permitir ao usuário escolher uma sessão específica de um filme selecionado.</td>
+<td>Lista de sessões com: Horário da sessão; Tipo de sala (Ex: XD, IMAX); Idioma (dublado ou legendado); Tipo de exibição (2D ou 3D); Nome do cinema;</td>
+<td>Deve exibir as sessões apenas do cinema definido pela localização do usuário; O redirecionamento após a escolha da sessão deve passar automaticamente os dados da sessão para a tela seguinte.</td>
+</tr>
+<tr>
+<td>Carrinho</td>
+<td><a href="https://github.com/Potatoyz908">Euller Júlio da Silva</a></td>
+<td>Exibir resumo da compra, permitir aplicar cupom de desconto, prosseguir para pagamento.</td>
+<td>Lista de itens (ingressos, produtos do Snack Bar); botão "Adicionar cupom de desconto"; botão "Prosseguir para pagamento"; subtotal e total atualizados automaticamente</td>
+<td>Deve atualizar o valor total conforme itens e cupons aplicados; permite remoção de itens do carrinho; não permite prosseguir se o carrinho estiver vazio.</td>
+</tr>
+<tr>
+<td>Perfil / Configurações</td>
+<td><a href="https://github.com/Potatoyz908">Euller Júlio da Silva</a></td>
+<td>Permitir acesso a configurações e personalização da conta.</td>
+<td>Menu “Mais” com as opções: Pedidos, Notificações, Meus dados, Senha e biometria, Pagamento, Promoções, Termos e Condições, Atendimento, Sobre o app, Avaliar na Google Play</td>
+<td>Cada opção leva a uma tela específica; permite editar dados pessoais, alterar senha, ativar/desativar biometria e gerenciar métodos de pagamento; acesso a suporte e informações legais.</td>
+</tr>
+<tr>
+<td>Notificações / promoções</td>
+<td><a href="https://github.com/Potatoyz908">Euller Júlio da Silva</a></td>
+<td>Exibir notificações recentes e promoções disponíveis.</td>
+<td>Lista de notificações e promoções com título, descrição e, em alguns casos, imagem; botão ou link “Ver mais”</td>
+<td>Promoções possuem validade e podem desaparecer após expirar; algumas notificações direcionam para páginas específicas (como filmes ou eventos).</td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/arthurevg">Arthur Evangelista de Oliveira</a> e <a href="https://github.com/Potatoyz908">Euller Júlio da Silva</a>, 2025.</p></font></p>
+<hr />
+<h2 id="requisitos-elicitados">Requisitos Elicitados</h2>
+<p>Os requisitos elicitados a partir da análise de interfaces de usuário foram organizados de forma estruturada para facilitar a visualização do comportamento esperado do sistema. As tabelas 3 e 4 apresentam os Requisitos Funcionais (RF) e os não funcionais (RNF) identificados, agrupados por tela, com suas respectivas funcionalidades, elementos de interação e regras de negócio observadas durante a atividade de avaliação.</p>
+<hr />
+<h2 id="legenda-das-tabelas-3-e-4">Legenda das Tabelas 3 e 4</h2>
+<ul>
+<li><em>RF</em>: Requisito Funcional  </li>
+<li><em>RNF</em>: Requisito Não Funcional  </li>
+<li><em>AIx</em>: Requisito elicitado por Análise de Interface</li>
+</ul>
+<h2 id="tabela-3-requisitos-funcionais">Tabela 3 - Requisitos Funcionais</h2>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Descrição</th>
+<th>ID</th>
+<th>Implementado</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RF</td>
+<td>O sistema deve exibir filmes em cartaz, novidades, ofertas e parcerias na tela inicial.</td>
+<td><a id="AI01"></a>AI01</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RF</td>
+<td>O sistema deve permitir alterar manualmente a localização do usuário.</td>
+<td><a id="AI02"></a>AI02</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RF</td>
+<td>O sistema deve permitir navegação por abas: Home, Filmes, Cinemas, Snack Bar, Club e Mais.</td>
+<td><a id="AI03"></a>AI03</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RF</td>
+<td>O sistema deve autenticar o usuário por e-mail e senha.</td>
+<td><a id="AI04"></a>AI04</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RF</td>
+<td>O sistema deve permitir busca de filmes por nome.</td>
+<td><a id="AI05"></a>AI05</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RF</td>
+<td>O sistema deve listar filmes em cartaz, pré-venda e futuros lançamentos.</td>
+<td><a id="AI06"></a>AI06</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RF</td>
+<td>O sistema deve exibir informações dos filmes (nome, gênero, duração, sinopse, direção, elenco, distribuidor e origem).</td>
+<td><a id="AI07"></a>AI07</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RF</td>
+<td>O sistema deve permitir ao usuário escolher uma sessão específica (data, horário, sala, tipo de exibição e idioma).</td>
+<td><a id="AI08"></a>AI08</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RF</td>
+<td>O sistema deve exibir um mapa visual da sala com opções de assentos diferenciadas (disponíveis, ocupados, selecionados e especiais).</td>
+<td><a id="AI09"></a>AI09</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RF</td>
+<td>O sistema deve obrigar a seleção de ao menos um assento antes de prosseguir.</td>
+<td><a id="AI10"></a>AI10</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RF</td>
+<td>O sistema deve permitir definir o tipo de ingresso para cada assento (inteira, meia, convênio, voucher).</td>
+<td><a id="AI11"></a>AI11</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RF</td>
+<td>O sistema deve permitir adicionar produtos do Snack Bar à compra.</td>
+<td><a id="AI12"></a>AI12</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RF</td>
+<td>O sistema deve exibir resumo da compra e permitir aplicação de cupom de desconto.</td>
+<td><a id="AI13"></a>AI13</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RF</td>
+<td>O sistema deve oferecer métodos de pagamento: cartão de crédito, débito e Pix.</td>
+<td><a id="AI14"></a>AI14</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RF</td>
+<td>O sistema deve gerar QR Code e chave Pix para pagamentos via Pix.</td>
+<td><a id="AI15"></a>AI15</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RF</td>
+<td>O sistema deve salvar automaticamente os ingressos na seção "Meus Ingressos" após confirmação do pagamento.</td>
+<td><a id="AI16"></a>AI16</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RF</td>
+<td>O sistema deve permitir criação de conta com nome, e-mail e senha.</td>
+<td><a id="AI17"></a>AI17</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RF</td>
+<td>O sistema deve enviar link de recuperação de senha para e-mail cadastrado.</td>
+<td><a id="AI18"></a>AI18</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RF</td>
+<td>O sistema deve permitir recuperar e-mail do usuário através do CPF.</td>
+<td><a id="AI19"></a>AI19</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RF</td>
+<td>O sistema deve permitir redefinir senha com envio de código de verificação por e-mail.</td>
+<td><a id="AI20"></a>AI20</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RF</td>
+<td>O sistema deve exibir o resumo da compra no carrinho e permitir aplicar cupom de desconto.</td>
+<td><a id="AI29"></a>AI29</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RF</td>
+<td>O sistema deve impedir o avanço para pagamento com carrinho vazio.</td>
+<td><a id="AI30"></a>AI30</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RF</td>
+<td>O sistema deve permitir editar dados pessoais, alterar senha e gerenciar métodos de pagamento no perfil/configurações.</td>
+<td><a id="AI31"></a>AI31</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RF</td>
+<td>O sistema deve exibir notificações e promoções com título, descrição e validade.</td>
+<td><a id="AI32"></a>AI32</td>
+<td>Sim</td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/arthurevg">Arthur Evangelista de Oliveira</a> e <a href="https://github.com/Potatoyz908">Euller Júlio da Silva</a>, 2025.</p></font></p>
+<h2 id="tabela-4-requisitos-nao-funcionais">Tabela 4 - Requisitos Não Funcionais</h2>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Descrição</th>
+<th>ID</th>
+<th>Implementado</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RNF</td>
+<td>O sistema deve garantir que o botão de pedidos não fique sobreposto a anúncios na tela inicial.</td>
+<td><a id="AI21"></a>AI21</td>
+<td>Não</td>
+</tr>
+<tr>
+<td>RNF</td>
+<td>O sistema deve apresentar legenda clara para as cores e ícones do mapa de assentos.</td>
+<td><a id="AI22"></a>AI22</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RNF</td>
+<td>O sistema deve atualizar automaticamente o valor total conforme seleção de ingressos e produtos.</td>
+<td><a id="AI23"></a>AI23</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RNF</td>
+<td>O sistema deve ser responsivo e ajustar-se a diferentes tamanhos de tela (smartphone e tablet).</td>
+<td><a id="AI24"></a>AI24</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RNF</td>
+<td>O sistema deve assegurar contraste adequado de texto e ícones para acessibilidade (WCAG A/AA).</td>
+<td><a id="AI25"></a>AI25</td>
+<td>Não</td>
+</tr>
+<tr>
+<td>RNF</td>
+<td>O sistema deve permitir no máximo 20 unidades por item no Snack Bar.</td>
+<td><a id="AI26"></a>AI26</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RNF</td>
+<td>O sistema deve manter informações da sessão (filme, data, hora e sala) visíveis em todas as etapas do fluxo de compra.</td>
+<td><a id="AI27"></a>AI27</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RNF</td>
+<td>O sistema deve garantir uptime de 99,5% para funções críticas (compra e pagamento).</td>
+<td><a id="AI28"></a>AI28</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RNF</td>
+<td>O sistema deve ocultar parcialmente o e-mail recuperado para segurança (exibir com asteriscos).</td>
+<td><a id="AI33"></a>AI33</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RNF</td>
+<td>O sistema deve validar e-mails e senhas antes de permitir a redefinição ou criação de conta.</td>
+<td><a id="AI34"></a>AI34</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RNF</td>
+<td>O sistema deve garantir que promoções expiradas sejam removidas automaticamente da tela de notificações.</td>
+<td><a id="AI35"></a>AI35</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>RNF</td>
+<td>O sistema deve garantir que dados pessoais editados no perfil sejam validados antes de serem salvos.</td>
+<td><a id="AI36"></a>AI36</td>
+<td>Sim</td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/arthurevg">Arthur Evangelista de Oliveira</a> e <a href="https://github.com/Potatoyz908">Euller Júlio da Silva</a>, 2025.</p></font></p>
+<hr />
+<h2 id="conclusao">Conclusão</h2>
+<p>A análise da interface do próprio aplicativo Cinemark forneceu informações valiosas sobre padrões de design e funcionalidades existentes. Essa avaliação auxiliou na identificação de elementos que poderiam ser aprimorados no aplicativo, visando uma melhor experiência do usuário. As informações coletadas contribuíram diretamente para a definição de requisitos específicos, detalhados na seção de <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/">Requisitos Elicitados</a>.</p>
+<hr />
+<h2 id="bibliografia">Bibliografia</h2>
+<blockquote>
+<ol>
+<li>Cinemark Brasil. Disponível em: <a href="https://www.cinemark.com.br">https://www.cinemark.com.br</a>. Acesso em: 3 maio 2025.</li>
+<li>WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013.</li>
+</ol>
+</blockquote>
+<hr />
+<h2 id="historico-de-versao">Histórico de Versão</h2>
+<table>
+<thead>
+<tr>
+<th>Versão</th>
+<th>Data</th>
+<th>Descrição</th>
+<th>Autor(es)</th>
+<th>Revisor(es)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>1.0</code></td>
+<td>03/05/2025</td>
+<td>Criação da página 'Análise de UI', contendo introdução, metodologia, análise e os requisitos elicitados</td>
+<td><a href="https://github.com/arthurevg">Arthur Evangelista</a> e <a href="https://github.com/Potatoyz908">Euller Júlio</a></td>
+<td><a href="https://github.com/Davicamilo23">Davi Camilo</a> e <a href="https://github.com/TiagoBalieiro">Tiago Antunes</a></td>
+</tr>
+<tr>
+<td><code>1.1</code></td>
+<td>04/05/2025</td>
+<td>Ajuste na formatação</td>
+<td><a href="https://github.com/Davicamilo23">Davi Camilo</a></td>
+<td><a href="https://github.com/Potatoyz908">Euller Júlio</a></td>
+</tr>
+<tr>
+<td><code>1.2</code></td>
+<td>12/05/2025</td>
+<td>Adição da conclusão</td>
+<td><a href="https://github.com/arthurevg">Arthur Evangelista</a></td>
+<td><a href="https://github.com/Potatoyz908">Euller Júlio</a></td>
+</tr>
+<tr>
+<td><code>1.3</code></td>
+<td>12/05/2025</td>
+<td>Adição da seção "Demonstração Visual" com vídeo no YouTube sobre as interações analisadas</td>
+<td><a href="https://github.com/Potatoyz908">Euller Júlio</a></td>
+<td><a href="https://github.com/arthurevg">Arthur Evangelista</a></td>
+</tr>
+<tr>
+<td><code>1.4</code></td>
+<td>12/05/2025</td>
+<td>Adição do cronograma da técnica</td>
+<td><a href="https://github.com/Davicamilo23">Davi Camilo</a></td>
+<td><a href="https://github.com/tiagobalieiro">Tiago Antunes</a></td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.path", "navigation.top"], "search": "../../assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.13a4f30d.min.js"></script>
+      
+    
+  </body>
+</html>
