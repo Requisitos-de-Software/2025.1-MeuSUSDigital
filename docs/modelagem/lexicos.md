@@ -27,8 +27,6 @@ A estrutura de cada termo léxico é composta por:
 <p align="center"><br>
 Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
 
----
-
 ### 2. **Preferência de Idioma**
 
 * **Tipo**: Objeto
@@ -41,8 +39,6 @@ Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
 <p align="center"><br>
 Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
 
----
-
 ### 3. **Filtrar Filmes**
 
 * **Tipo**: Verbo
@@ -53,7 +49,6 @@ Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
 
 <p align="center"><br>
 Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
----
 
 ### 4. **Avaliações de Filmes**
 
@@ -65,7 +60,6 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
 <p align="center"><br>
 Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
----
 
 ### 5. **Assistir Trailer**
 
@@ -77,7 +71,6 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
 <p align="center"><br>
 Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
----
 
 ### 6. **Trailer**
 
@@ -89,7 +82,6 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
 <p align="center"><br>
 Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
----
 
 ### 7. **Exibir Recomendações de Filmes**
 
@@ -102,8 +94,6 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 <p align="center"><br>
 Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 
----
-
 ### 8. **Recomendações de Filmes**
 
 - **Tipo**: Objeto
@@ -115,8 +105,6 @@ Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 <p align="center"><br>
 Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 
----
-
 ### 9. **Comparar Preços de Ingressos**
 
 - **Tipo**: Verbo
@@ -127,8 +115,6 @@ Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 
 <p align="center"><br>
 Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
-
----
 
 ### 10. **Tabela Comparativa de Preços**
 
