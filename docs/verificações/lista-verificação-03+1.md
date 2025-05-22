@@ -92,8 +92,9 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 | **7.** Os casos de uso estão sendo representados por um formato oval? | [Davi Camilo](https://github.com/Davicamilo23) | LUCID SOFTWARE BRASIL. Tutorial de Caso de Uso UML. YouTube, 25 de abr. de 2019. Minuto 04:10. Disponível em: https://www.youtube.com/watch?v=ab6eDdwS3rA. Acesso em: 14 maio 2025. |
 | **8.** Os casos de uso estão posicionados dentro do retângulo? | [Davi Camilo](https://github.com/Davicamilo23) | LUCID SOFTWARE BRASIL. Tutorial de Caso de Uso UML. YouTube, 25 de abr. de 2019. Minuto 04:16. Disponível em: https://www.youtube.com/watch?v=ab6eDdwS3rA. Acesso em: 14 maio 2025. |
 | **9.** A descrição de cada caso de uso começa com um verbo? | [Davi Camilo](https://github.com/Davicamilo23) | LUCID SOFTWARE BRASIL. Tutorial de Caso de Uso UML. YouTube, 25 de abr. de 2019. Minuto 04:50. Disponível em: https://www.youtube.com/watch?v=ab6eDdwS3rA. Acesso em: 14 maio 2025. |
+| **10.** Os relacionamentos de associação possuem linhas sólidas? |  [Gabriel Castelo](https://github.com/GabrielCastelo-31) | LUCID SOFTWARE BRASIL. Tutorial de Caso de Uso UML. YouTube, 25 de abr. de 2019. Minuto 05:20. Disponível em: https://www.youtube.com/watch?v=ab6eDdwS3rA. Acesso em: 14 maio 2025. |
 
-<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23) e  [Gabriel Castelo](https://github.com/GabrielCastelo-31), 2025.</p></font>
 
 ---
 
@@ -134,3 +135,4 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 | `1.1` | 18/05/2025 | Adição da lista 3(léxicos) | [Arthur Evangelista](https://github.com/arthurevg) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.11` | 18/05/2025 | Adição das referencias com imagem na lista 3 | [Arthur Evangelista](https://github.com/arthurevg) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.2` | 20/05/2025 | Adição de itens nas listas 2, 3 e 5 | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Davi Camilo](https://github.com/Davicamilo23) |
+| `1.3` | 22/05/2025 | Adição de item na lista 4 | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Arthur Evangelista](https://github.com/arthurevg) |
