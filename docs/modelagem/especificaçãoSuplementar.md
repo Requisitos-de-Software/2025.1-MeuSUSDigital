@@ -46,6 +46,29 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 
  ---
 
+## 4. Funcionalidade
+
+### Tabela 2: Detalhamento do RQ50
+
+| ID                                                                                                | Descrição                                                                                    | Categoria Detalhada           | Métrica                                                                                              |
+| ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [RQ50](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | O sistema deve permitir que o usuário personalize as notificações push, incluindo o tipo de evento, o horário de envio e o conteúdo da notificação. | Funcionalidade – Notificações | Percentual de usuários que personalizam suas notificações e tempo de resposta para aplicar as mudanças. |
+
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
+
+
+### Tabela 3: Detalhamento do RQ52
+
+| ID                                                                                                | Descrição                                                                                    | Categoria Detalhada           | Métrica                                                                                              |
+| ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [RQ52](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | O sistema deve limitar a quantidade máxima de 20 unidades por item no Snack Bar, garantindo que o usuário não possa adicionar mais unidades de um item ao carrinho do que o permitido. | Funcionalidade – Limitação de Quantidade | Percentual de tentativas de adicionar mais de 20 unidades que foram bloqueadas corretamente pelo sistema. |
+
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
+
+## 5. Usabilidade
+## 6. Confiabilidade
+## 7. Desempenho
+
 ### Tabela 2: Detalhamento do RQ40
 
 | ID   | Descrição                                                                                               | Categoria Detalhada            | Métrica                                                        |
@@ -53,6 +76,11 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 | [RQ40](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | O sistema deve responder às interações nas telas críticas (seleção de assentos e pagamento) em até 3 s. | Desempenho – Tempo de Resposta | Tempo médio de resposta medido em ambiente de testes de carga. |
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
+
+## 8. Segurança
+## 9. Suportabilidade
+
+
 
 ### Tabela 3: Detalhamento do RQ41
 
@@ -118,13 +146,6 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 
 <font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
-### Tabela 11: Detalhamento do RQ50
-
-| ID                                                                                                | Descrição                                                                                    | Categoria Detalhada           | Métrica                                                                                              |
-| ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [RQ50](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | O sistema deve permitir que o usuário personalize as notificações push, incluindo o tipo de evento, o horário de envio e o conteúdo da notificação. | Funcionalidade – Notificações | Percentual de usuários que personalizam suas notificações e tempo de resposta para aplicar as mudanças. |
-
-<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
 
 ### Tabela 12: Detalhamento do RQ51
 
@@ -134,13 +155,6 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
 
-### Tabela 13: Detalhamento do RQ52
-
-| ID                                                                                                | Descrição                                                                                    | Categoria Detalhada           | Métrica                                                                                              |
-| ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [RQ52](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | O sistema deve limitar a quantidade máxima de 20 unidades por item no Snack Bar, garantindo que o usuário não possa adicionar mais unidades de um item ao carrinho do que o permitido. | Funcionalidade – Limitação de Quantidade | Percentual de tentativas de adicionar mais de 20 unidades que foram bloqueadas corretamente pelo sistema. |
-
-<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
 
 ### Tabela 14: Detalhamento do RQ44
 
